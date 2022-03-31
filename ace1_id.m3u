@@ -79,3 +79,7 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=b5c017e94b72013902c02f6d145c77f753bc3
 http://127.0.0.1:6878/ace/manifest.m3u8?id=5c4f1e8c505ef96610a1aa114795cf69d57f865d
 #EXTINF:-1 tvg-id="#0 de Movistar" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/acestream.png" group-title="acestream",#0 de Movistar 
 http://127.0.0.1:6878/ace/manifest.m3u8?id=4d2e5cad27f18385fd492a798b1bcf27e0f1a5e0
+#EXTINF:-1 tvg-id="spiderman 1080" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/acestream.png" group-title="acestream",spiderman 1080 
+http://127.0.0.1:6878/ace/manifest.m3u8?id=6dff7ffba4e22e6787f6e3c91f9b1781047c688b
+EXTINF:-1 tvg-id="spiderman 4k" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/acestream.png" group-title="acestream",spiderman 4k 
+http://127.0.0.1:6878/ace/manifest.m3u8?id=383c3d16ec6553538f0561f050aaaa9fdcc3b739
