@@ -8,7 +8,7 @@
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-status-bar-style" content="black">
     <meta name="mobile-web-app-capable" content="yes">
-    <meta name="csrf-token" content="bDwFNN31-E6rkORqHTca_GthLfnpV-AvLUOQ">
+    <meta name="csrf-token" content="prfzMPtF-n5MIxl5Rsrd4YH20-6CT9s2PR-4">
     
     
     <meta name="description" content="[![](https://i.imgur.com/5JkPy4Y.png &#34;Reddit&#34;)](https://www.reddit.com/user/No_Land656)  #### [![](h">
@@ -20,7 +20,7 @@
     <meta name="signin" content="false">
 
     
-<script nonce="6547694f-4386-4522-9502-b61783b21275">
+<script nonce="9a23772e-953a-4907-a3fe-614e0fc5d8f4">
   window.domain = 'hackmd.io'
   window.urlpath = ''
   window.debug = false
@@ -117,11 +117,11 @@
   
 
   
-  window.USER_PROFILE = {"name":"Guest Valdez"}
+  window.USER_PROFILE = {"name":"Guest Davidson"}
   
 
   
-  window.VERSION_TIME = '1699692285858'
+  window.VERSION_TIME = '1699779541370'
   
 
   
@@ -176,7 +176,7 @@
 
     
 <!-- Google Tag Manager -->
-<script nonce="6547694f-4386-4522-9502-b61783b21275">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+<script nonce="9a23772e-953a-4907-a3fe-614e0fc5d8f4">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
@@ -230,7 +230,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       visibility: hidden;
   }
 </style>
-<script nonce="6547694f-4386-4522-9502-b61783b21275" src="https://www.google.com/recaptcha/enterprise.js?render=6LdtkK4ZAAAAAG1B4iENhmQTce1xNTyHu0GjgnXi&hl=dev"></script>
+<script nonce="9a23772e-953a-4907-a3fe-614e0fc5d8f4" src="https://www.google.com/recaptcha/enterprise.js?render=6LdtkK4ZAAAAAG1B4iENhmQTce1xNTyHu0GjgnXi&hl=dev"></script>
 
 
     <script src="https://tally.so/widgets/embed.js"></script>
@@ -268,7 +268,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                     <div class="flex">
                                         <div>
                                             <span class="ui-status-lastchange"></span>
-                                            <span class="ui-lastchange" data-createtime="1696777113303" data-updatetime="1699692285858"></span>
+                                            <span class="ui-lastchange" data-createtime="1696777113303" data-updatetime="1699779541370"></span>
                                         </div>
 
                                         
@@ -303,7 +303,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                 <a class="ui-signin community-button hidden-xs" href="#">
                                     <span class="text">
                                         <i class="fa fa-fw fa-heart-o"></i>
-                                        <span class="count">21</span>
+                                        <span class="count">22</span>
                                     </span>
                                 </a>
 
@@ -339,11 +339,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 #### [![](https://i.imgur.com/MV4rD8j.png &#34;u/No_Land656&#34;)](https://www.reddit.com/user/No_Land656)[![](https://i.imgur.com/v9KoQjv.png &#34;@El_Plan_Deporte&#34;)](https://twitter.com/El_Plan_Deporte)[![](https://i.imgur.com/aEiVGvM.png &#34;El Plan Deportes&#34;)](https://www.tiktok.com/@elplandeportes?is_from_webapp=1&amp;sender_device=pc)[![](https://i.imgur.com/S53HPA4.png &#34;elplandeportes&#34;)](https://www.instagram.com/elplandeportes)[![](https://hackmd.io/_uploads/Bksar0NL2.png)](https://www.patreon.com/ELPLANDEPORTES)[![](https://hackmd.io/_uploads/Hyii9QjDn.png)](https://www.facebook.com/profile.php?id=100093955774706)[![](https://hackmd.io/_uploads/S13MAsnan.png)](https://discord.gg/mqRm6FVK)
 
 ---
-![image](https://hackmd.io/_uploads/Hyc_Cnh7T.png)
-![image](https://hackmd.io/_uploads/H1fjA2hXp.png)
-![image](https://hackmd.io/_uploads/S1QpA23ma.png)
-![image](https://hackmd.io/_uploads/S1-k16h7T.png)
-![image](https://hackmd.io/_uploads/HySbkp2Q6.png)
+![image](https://hackmd.io/_uploads/Bygc7z0ma.png)
+![image](https://hackmd.io/_uploads/S1fimf07T.png)
+![image](https://hackmd.io/_uploads/HJn0Xz0mT.png)
+
 
 
 ---
@@ -672,7 +671,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     <a class="ui-signin community-button" href="#">
                         <span>
                             <i class="fa fa-fw fa-heart-o"></i>
-                            <span class="count">21</span>
+                            <span class="count">22</span>
                         </span>
                     </a>
 
@@ -680,9 +679,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                         class="community-button ui-viewcount"
                         data-toggle="tooltip"
                         data-placement="top"
-                        title="65320 views">
+                        title="87659 views">
                         <i class="fa fa-eye"></i>
-                        <span class="count">65320</span>
+                        <span class="count">87659</span>
                     </span>
 
                     <a class="ui-signin community-button" href="#">
@@ -787,7 +786,7 @@ DAZN 4 1080p:arrow_forward:
 
     <div class="ui-community unselectable hidden-print hidden-xs" style="display: none;">
         
-            <a class="ui-signin community-button" href="#" title="Like" data-toggle="tooltip" data-placement="right" data-offset="0,5"><span><i class="fa fa-fw fa-heart-o"></i><span class="count hmd-ml-2">21</span></span></a>
+            <a class="ui-signin community-button" href="#" title="Like" data-toggle="tooltip" data-placement="right" data-offset="0,5"><span><i class="fa fa-fw fa-heart-o"></i><span class="count hmd-ml-2">22</span></span></a>
             <a class="ui-signin community-button" href="#" title="Bookmark" data-toggle="tooltip" data-placement="right" data-offset="0,5"><span><i class="fa fa-fw fa-bookmark-o"></i></span></a>
             <a class="ui-signin community-button" href="#" title="Subscribe" data-toggle="tooltip" data-placement="right" data-offset="0,5"><span ><i class="fa fa-fw fa-bell-o"></i></span></a>
         
@@ -833,7 +832,7 @@ DAZN 4 1080p:arrow_forward:
 <h3>Sign in</h3>
 
 <form data-toggle="validator" role="form" class="form-horizontal" method="post" enctype="application/x-www-form-urlencoded" id="signin-form">
-    <div class="hmd-dn"><input type="hidden" name="_csrf" value="bDwFNN31-E6rkORqHTca_GthLfnpV-AvLUOQ"></div>
+    <div class="hmd-dn"><input type="hidden" name="_csrf" value="prfzMPtF-n5MIxl5Rsrd4YH20-6CT9s2PR-4"></div>
     <div class="hmd-dn"><input type="hidden" name="create_team" value="false"></div>
     <div class="hmd-dn"><input type="hidden" name="create_paid_team" value="false"></div>
     <div class="form-group  ">
@@ -906,8 +905,8 @@ DAZN 4 1080p:arrow_forward:
 
 
 
-<script id="gsi-client" src="https://accounts.google.com/gsi/client" async defer nonce="6547694f-4386-4522-9502-b61783b21275"></script>
-<script nonce="6547694f-4386-4522-9502-b61783b21275">
+<script id="gsi-client" src="https://accounts.google.com/gsi/client" async defer nonce="9a23772e-953a-4907-a3fe-614e0fc5d8f4"></script>
+<script nonce="9a23772e-953a-4907-a3fe-614e0fc5d8f4">
     function handleCredentialResponse(response) {
         const form = document.getElementById('sign-in-with-google-form')
         form.children.credential.value = response.credential
@@ -985,7 +984,7 @@ DAZN 4 1080p:arrow_forward:
 
 
             
-<script nonce="6547694f-4386-4522-9502-b61783b21275">
+<script nonce="9a23772e-953a-4907-a3fe-614e0fc5d8f4">
 function onRecaptchaLoad () {
     grecaptcha.enterprise.render('recaptcha-widget', {
         'sitekey' : '6LenMnsmAAAAAF-t82ME2ca_ISjs1UH0s6cmlD8I',
@@ -1008,12 +1007,12 @@ function onRecaptchaLoad () {
 <!-- recaptcha script for static page -->
 
     
-        <script nonce="6547694f-4386-4522-9502-b61783b21275" async>
+        <script nonce="9a23772e-953a-4907-a3fe-614e0fc5d8f4" async>
         function loadRecaptchaScript () {
             function createRecaptchaScriptTag () {
                 const recaptchaScript = document.createElement('script')
                 recaptchaScript.src = `https://www.google.com/recaptcha/enterprise.js?onload=onRecaptchaLoad&render=explicit&hl=dev`
-                recaptchaScript.nonce = `6547694f-4386-4522-9502-b61783b21275`
+                recaptchaScript.nonce = `9a23772e-953a-4907-a3fe-614e0fc5d8f4`
                 recaptchaScript.defer = true
                 recaptchaScript.async = true
                 return recaptchaScript
@@ -1043,7 +1042,7 @@ function onRecaptchaLoad () {
 
     
     <script src="https://www.googletagmanager.com/gtag/js?id=UA-60728495-1"></script>
-    <script nonce="6547694f-4386-4522-9502-b61783b21275">
+    <script nonce="9a23772e-953a-4907-a3fe-614e0fc5d8f4">
         window.dataLayer = window.dataLayer || [];
         function gtag(){dataLayer.push(arguments);}
         gtag('js', new Date());
@@ -1055,7 +1054,7 @@ function onRecaptchaLoad () {
 
     
 <script src="https://browser.sentry-cdn.com/5.15.5/bundle.min.js" crossorigin="anonymous"></script>
-<script nonce="6547694f-4386-4522-9502-b61783b21275">Sentry.init({ dsn: 'https://73410f1915d84abc8b2dd1f1aabd1c82@sentry.hackmd.dev/4', environment: 'production', integrations: function (intrus) { return intrus.filter(function (itr) { return itr.name !== 'TryCatch' }) } });</script>
+<script nonce="9a23772e-953a-4907-a3fe-614e0fc5d8f4">Sentry.init({ dsn: 'https://73410f1915d84abc8b2dd1f1aabd1c82@sentry.hackmd.dev/4', environment: 'production', integrations: function (intrus) { return intrus.filter(function (itr) { return itr.name !== 'TryCatch' }) } });</script>
 
 
     
