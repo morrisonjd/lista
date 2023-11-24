@@ -8,7 +8,7 @@
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-status-bar-style" content="black">
     <meta name="mobile-web-app-capable" content="yes">
-    <meta name="csrf-token" content="u9fc6xcQ-DKbSOaahk0mya7jPqeBeEQrU5L0">
+    <meta name="csrf-token" content="nWsD49Aw-00Izccrff3jlsbWGoTYguwVMTbo">
     
     
     <meta name="description" content="[![](https://i.imgur.com/5JkPy4Y.png &#34;Reddit&#34;)](https://www.reddit.com/user/No_Land656)  #### [![](h">
@@ -20,7 +20,7 @@
     <meta name="signin" content="false">
 
     
-<script nonce="a848aaee-e820-4079-8f2b-aabdc7966e25">
+<script nonce="610376d8-223b-4efd-b74e-9efeaff8e588">
   window.domain = 'hackmd.io'
   window.urlpath = ''
   window.debug = false
@@ -117,11 +117,11 @@
   
 
   
-  window.USER_PROFILE = {"name":"Guest Schneider"}
+  window.USER_PROFILE = {"name":"Guest Quinn"}
   
 
   
-  window.VERSION_TIME = '1700212376587'
+  window.VERSION_TIME = '1700821626231'
   
 
   
@@ -176,7 +176,7 @@
 
     
 <!-- Google Tag Manager -->
-<script nonce="a848aaee-e820-4079-8f2b-aabdc7966e25">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+<script nonce="610376d8-223b-4efd-b74e-9efeaff8e588">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
@@ -215,7 +215,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <meta property="og:description" content="[![](https://i.imgur.com/5JkPy4Y.png &#34;Reddit&#34;)](https://www.reddit.com/user/No_Land656)  #### [![](h" />
 
 
-     <link href="https://assets.hackmd.io/build/font-vendor.85aea95458609ff85035.css" rel="stylesheet"><link href="https://assets.hackmd.io/build/common-vendor.8badda337754ab1de336.css" rel="stylesheet"><link href="https://assets.hackmd.io/build/pretty-vendor.db0e7b64c54d0a77290f.css" rel="stylesheet"><link href="https://assets.hackmd.io/build/pretty.bd374516615d5e8cc011.css" rel="stylesheet">
+     <link href="https://assets.hackmd.io/build/font-vendor.85aea95458609ff85035.css" rel="stylesheet"><link href="https://assets.hackmd.io/build/common-vendor.8badda337754ab1de336.css" rel="stylesheet"><link href="https://assets.hackmd.io/build/pretty-vendor.db0e7b64c54d0a77290f.css" rel="stylesheet"><link href="https://assets.hackmd.io/build/pretty.13811a6682e07e7ee220.css" rel="stylesheet">
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
 <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
 <!--[if lt IE 9]>
@@ -230,7 +230,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       visibility: hidden;
   }
 </style>
-<script nonce="a848aaee-e820-4079-8f2b-aabdc7966e25" src="https://www.google.com/recaptcha/enterprise.js?render=6LdtkK4ZAAAAAG1B4iENhmQTce1xNTyHu0GjgnXi&hl=dev"></script>
+<script nonce="610376d8-223b-4efd-b74e-9efeaff8e588" src="https://www.google.com/recaptcha/enterprise.js?render=6LdtkK4ZAAAAAG1B4iENhmQTce1xNTyHu0GjgnXi&hl=dev"></script>
 
 
     <script src="https://tally.so/widgets/embed.js"></script>
@@ -268,7 +268,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                     <div class="flex">
                                         <div>
                                             <span class="ui-status-lastchange"></span>
-                                            <span class="ui-lastchange" data-createtime="1696777113303" data-updatetime="1700212376587"></span>
+                                            <span class="ui-lastchange" data-createtime="1696777113303" data-updatetime="1700821626231"></span>
                                         </div>
 
                                         
@@ -303,7 +303,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                 <a class="ui-signin community-button hidden-xs" href="#">
                                     <span class="text">
                                         <i class="fa fa-fw fa-heart-o"></i>
-                                        <span class="count">23</span>
+                                        <span class="count">26</span>
                                     </span>
                                 </a>
 
@@ -339,12 +339,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 #### [![](https://i.imgur.com/MV4rD8j.png &#34;u/No_Land656&#34;)](https://www.reddit.com/user/No_Land656)[![](https://i.imgur.com/v9KoQjv.png &#34;@El_Plan_Deporte&#34;)](https://twitter.com/El_Plan_Deporte)[![](https://i.imgur.com/aEiVGvM.png &#34;El Plan Deportes&#34;)](https://www.tiktok.com/@elplandeportes?is_from_webapp=1&amp;sender_device=pc)[![](https://i.imgur.com/S53HPA4.png &#34;elplandeportes&#34;)](https://www.instagram.com/elplandeportes)[![](https://hackmd.io/_uploads/Bksar0NL2.png)](https://www.patreon.com/ELPLANDEPORTES)[![](https://hackmd.io/_uploads/Hyii9QjDn.png)](https://www.facebook.com/profile.php?id=100093955774706)[![](https://hackmd.io/_uploads/S13MAsnan.png)](https://discord.gg/mqRm6FVK)
 
 ---
-![image](https://hackmd.io/_uploads/ByP4AoVEa.png)
-![image](https://hackmd.io/_uploads/B1ivAiVE6.png)
-![image](https://hackmd.io/_uploads/Hkxs0sVN6.png)
+![image](https://hackmd.io/_uploads/Bk815gAEp.png)
+![image](https://hackmd.io/_uploads/SJxc-cl0Vp.png)
+![image](https://hackmd.io/_uploads/SJ6L5x0Va.png)
+![image](https://hackmd.io/_uploads/HkxO9gAV6.png)
+![image](https://hackmd.io/_uploads/SJ-KceC4T.png)
 
-![image](https://hackmd.io/_uploads/SyHgCiEEp.png)
-![image](https://hackmd.io/_uploads/rJXfRoENT.png)
+
 
 ---
 
@@ -672,7 +673,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     <a class="ui-signin community-button" href="#">
                         <span>
                             <i class="fa fa-fw fa-heart-o"></i>
-                            <span class="count">23</span>
+                            <span class="count">26</span>
                         </span>
                     </a>
 
@@ -680,9 +681,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                         class="community-button ui-viewcount"
                         data-toggle="tooltip"
                         data-placement="top"
-                        title="123385 views">
+                        title="48666 views">
                         <i class="fa fa-eye"></i>
-                        <span class="count">123385</span>
+                        <span class="count">48666</span>
                     </span>
 
                     <a class="ui-signin community-button" href="#">
@@ -787,7 +788,7 @@ DAZN 4 1080p:arrow_forward:
 
     <div class="ui-community unselectable hidden-print hidden-xs" style="display: none;">
         
-            <a class="ui-signin community-button" href="#" title="Like" data-toggle="tooltip" data-placement="right" data-offset="0,5"><span><i class="fa fa-fw fa-heart-o"></i><span class="count hmd-ml-2">23</span></span></a>
+            <a class="ui-signin community-button" href="#" title="Like" data-toggle="tooltip" data-placement="right" data-offset="0,5"><span><i class="fa fa-fw fa-heart-o"></i><span class="count hmd-ml-2">26</span></span></a>
             <a class="ui-signin community-button" href="#" title="Bookmark" data-toggle="tooltip" data-placement="right" data-offset="0,5"><span><i class="fa fa-fw fa-bookmark-o"></i></span></a>
             <a class="ui-signin community-button" href="#" title="Subscribe" data-toggle="tooltip" data-placement="right" data-offset="0,5"><span ><i class="fa fa-fw fa-bell-o"></i></span></a>
         
@@ -833,7 +834,7 @@ DAZN 4 1080p:arrow_forward:
 <h3>Sign in</h3>
 
 <form data-toggle="validator" role="form" class="form-horizontal" method="post" enctype="application/x-www-form-urlencoded" id="signin-form">
-    <div class="hmd-dn"><input type="hidden" name="_csrf" value="u9fc6xcQ-DKbSOaahk0mya7jPqeBeEQrU5L0"></div>
+    <div class="hmd-dn"><input type="hidden" name="_csrf" value="nWsD49Aw-00Izccrff3jlsbWGoTYguwVMTbo"></div>
     <div class="hmd-dn"><input type="hidden" name="create_team" value="false"></div>
     <div class="hmd-dn"><input type="hidden" name="create_paid_team" value="false"></div>
     <div class="form-group  ">
@@ -905,8 +906,8 @@ DAZN 4 1080p:arrow_forward:
 
 
 
-<script id="gsi-client" src="https://accounts.google.com/gsi/client" async defer nonce="a848aaee-e820-4079-8f2b-aabdc7966e25"></script>
-<script nonce="a848aaee-e820-4079-8f2b-aabdc7966e25">
+<script id="gsi-client" src="https://accounts.google.com/gsi/client" async defer nonce="610376d8-223b-4efd-b74e-9efeaff8e588"></script>
+<script nonce="610376d8-223b-4efd-b74e-9efeaff8e588">
     function handleCredentialResponse(response) {
         const form = document.getElementById('sign-in-with-google-form')
         form.children.credential.value = response.credential
@@ -984,7 +985,7 @@ DAZN 4 1080p:arrow_forward:
 
 
             
-<script nonce="a848aaee-e820-4079-8f2b-aabdc7966e25">
+<script nonce="610376d8-223b-4efd-b74e-9efeaff8e588">
   (function () {
     function onSubmit (e) {
       const submitButton = e.target
@@ -1011,7 +1012,7 @@ DAZN 4 1080p:arrow_forward:
 
     
     <script src="https://www.googletagmanager.com/gtag/js?id=UA-60728495-1"></script>
-    <script nonce="a848aaee-e820-4079-8f2b-aabdc7966e25">
+    <script nonce="610376d8-223b-4efd-b74e-9efeaff8e588">
         window.dataLayer = window.dataLayer || [];
         function gtag(){dataLayer.push(arguments);}
         gtag('js', new Date());
@@ -1023,7 +1024,7 @@ DAZN 4 1080p:arrow_forward:
 
     
 <script src="https://browser.sentry-cdn.com/5.15.5/bundle.min.js" crossorigin="anonymous"></script>
-<script nonce="a848aaee-e820-4079-8f2b-aabdc7966e25">Sentry.init({ dsn: 'https://73410f1915d84abc8b2dd1f1aabd1c82@sentry.hackmd.dev/4', environment: 'production', integrations: function (intrus) { return intrus.filter(function (itr) { return itr.name !== 'TryCatch' }) } });</script>
+<script nonce="610376d8-223b-4efd-b74e-9efeaff8e588">Sentry.init({ dsn: 'https://73410f1915d84abc8b2dd1f1aabd1c82@sentry.hackmd.dev/4', environment: 'production', integrations: function (intrus) { return intrus.filter(function (itr) { return itr.name !== 'TryCatch' }) } });</script>
 
 
     
@@ -1035,7 +1036,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
     <script src="https://hackmd.io/api/i18n.js"></script>
-     <script src="https://assets.hackmd.io/build/font-vendor.1b4c8aac415c85d7f33b.js" defer="defer"></script><script src="https://assets.hackmd.io/build/common-vendor.9ad4eb1bd27d1eb68036.js" defer="defer"></script><script src="https://assets.hackmd.io/build/pretty-vendor.2b450ea2d26e71e885e9.js" defer="defer"></script><script src="https://assets.hackmd.io/build/pretty-common.2b8882ae1018fd5f19be.js" defer="defer"></script><script src="https://assets.hackmd.io/build/pretty.42c25ffc6d918c0ba099.js" defer="defer"></script>
+     <script src="https://assets.hackmd.io/build/font-vendor.1b4c8aac415c85d7f33b.js" defer="defer"></script><script src="https://assets.hackmd.io/build/common-vendor.9ad4eb1bd27d1eb68036.js" defer="defer"></script><script src="https://assets.hackmd.io/build/pretty-vendor.2b450ea2d26e71e885e9.js" defer="defer"></script><script src="https://assets.hackmd.io/build/pretty-common.2b8882ae1018fd5f19be.js" defer="defer"></script><script src="https://assets.hackmd.io/build/pretty.84c8c86d2338e28615fb.js" defer="defer"></script>
 
     
 
