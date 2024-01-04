@@ -119,13 +119,13 @@ plugin://script.module.horus?action=play&id=06b367c22394a1358c9cefa0cb5d0b64b9b2
 plugin://script.module.horus?action=play&id=d81b4f2f3fde433539c097b2edc9b587ca47b087
 #EXTINF:-1 logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/color//1_0_1_75FA_408_1_C00000_0_0_0.png" group-title="ACE HORUS" tvg-id="LALIGA TV HYPERMOTION 2",LALIGA TV HYPERMOTION 2
 plugin://script.module.horus?action=play&id=2709d0ab86cb6ce7ba4d3ad188d7fa80668f2924
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Liga_F_2022_Logo.svg/640px-Liga_F_2022_Logo.svg.png" group-title="ACE HORUS" tvg-id="DAZN LaLiga Femenina 1",DAZN Liga Fem-1
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Liga_F_2022_Logo.svg/640px-Liga_F_2022_Logo.svg.png" group-title="ACE HORUS" tvg-id="DAZN LaLiga Femenina 1",DAZN LaLiga Femenina 1
 plugin://script.module.horus?action=play&id=600222a4f98df80a2c0df2d60cb5ff3df9620710
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Liga_F_2022_Logo.svg/640px-Liga_F_2022_Logo.svg.png" group-title="ACE HORUS" tvg-id="DAZN LaLiga Femenina 2",DAZN Liga Fem-2
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Liga_F_2022_Logo.svg/640px-Liga_F_2022_Logo.svg.png" group-title="ACE HORUS" tvg-id="DAZN LaLiga Femenina 2",DAZN LaLiga Femenina 2
 plugin://script.module.horus?action=play&id=d6cdd724a97fcf851e7ef641c28d6beb8663496e
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Liga_F_2022_Logo.svg/640px-Liga_F_2022_Logo.svg.png" group-title="ACE HORUS" tvg-id="DAZN LaLiga Femenina 3",DAZN Liga Fem-3
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Liga_F_2022_Logo.svg/640px-Liga_F_2022_Logo.svg.png" group-title="ACE HORUS" tvg-id="DAZN LaLiga Femenina 3",DAZN LaLiga Femenina 3
 plugin://script.module.horus?action=play&id=162942adc047d0f78eac056effbe5bbec54a5e51
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Liga_F_2022_Logo.svg/640px-Liga_F_2022_Logo.svg.png" group-title="ACE HORUS" tvg-id="DAZN LaLiga Femenina 4",DAZN Liga Fem-4
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Liga_F_2022_Logo.svg/640px-Liga_F_2022_Logo.svg.png" group-title="ACE HORUS" tvg-id="DAZN LaLiga Femenina 4",DAZN LaLiga Femenina 4
 plugin://script.module.horus?action=play&id=e454681a152a86da504e63694f17f90d0586867d
 #EXTINF:-1 logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/FEF%20TV%201%20Grupo%201.png" group-title="ACE HORUS" tvg-id="FEF TV 1 Grupo 1",FEF TV 1 Grupo 1
 plugin://script.module.horus?action=play&id=8552d0ab6ca31e07a2de46f2d7ff1c546212dc2b
