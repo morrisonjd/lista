@@ -143,6 +143,8 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=8587ed8ac36ac477e1d4176d3159a38bd154d
 http://127.0.0.1:6878/ace/manifest.m3u8?id=2448f1d084f440eed2fbe847e24f1c02f5659a78
 #EXTINF:-1 logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/color//1_0_19_7863_41A_1_C00000_0_0_0.png" tvg-id="La 1",La 1
 http://127.0.0.1:6878/ace/manifest.m3u8?id=02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
+#EXTINF:-1 logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/color//1_0_19_7863_41A_1_C00000_0_0_0.png" tvg-id="La 1",La 1
+http://127.0.0.1:6878/ace/manifest.m3u8?id=b897de3e62d7c6bee9ef1107d972f3d1075e03ff
 #EXTINF:-1 logo="https://lo1.in/sp/rmatv.png" tvg-id="Real Madrid TV",Real Madrid TV
 http://127.0.0.1:6878/ace/manifest.m3u8?id=0ec3f3786318acd8dca2588f74c3759cda76cd11
 #EXTINF:-1 logo="https://www.mundotoro.com/wp-content/uploads/2019/10/logo-mundotoro-797.png" tvg-id="MUNDOTORO TV",MUNDOTORO TV
@@ -227,13 +229,13 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=3b1608a6d9d4d4dff4ec660006ef1ec2f4e80
 http://127.0.0.1:6878/ace/manifest.m3u8?id=9aa6e0e809fd88869cb7767b513cda5c422e310b
 #EXTINF:-1 logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/MUNDOTORO%20TV.png" tvg-id="TVP Sport",TVP Sport
 http://127.0.0.1:6878/ace/manifest.m3u8?id=d6f0a6377c31f68b1c1c071e0a8f9f105a455867
-#EXTINF:-1 logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/MUNDOTORO%20TV.png" tvg-id="Eleven Sports 1 POR",Eleven Sports 1
+#EXTINF:-1 logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/MUNDOTORO%20TV.png" tvg-id="Eleven Sports 1",Eleven Sports 1
 http://127.0.0.1:6878/ace/manifest.m3u8?id=14407b00d454cb7dc0d70aa26e8bbc554f457f00
-#EXTINF:-1 logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/MUNDOTORO%20TV.png" tvg-id="Eleven Sports 2 POR",Eleven Sports 2
+#EXTINF:-1 logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/MUNDOTORO%20TV.png" tvg-id="Eleven Sports 2",Eleven Sports 2
 http://127.0.0.1:6878/ace/manifest.m3u8?id=54a4a28882d3cae1ca19de5d4b022ebea40351f9
-#EXTINF:-1 logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/MUNDOTORO%20TV.png" tvg-id="Eleven Sports 3 POR",Eleven Sports 3
+#EXTINF:-1 logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/MUNDOTORO%20TV.png" tvg-id="Eleven Sports 3",Eleven Sports 3
 http://127.0.0.1:6878/ace/manifest.m3u8?id=b146ee4b6e16c9df58e27bd02ffd6cea840ff212
-#EXTINF:-1 logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/MUNDOTORO%20TV.png" tvg-id="Eleven Sports 4 POR",Eleven Sports 4
+#EXTINF:-1 logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/MUNDOTORO%20TV.png" tvg-id="Eleven Sports 4",Eleven Sports 4
 http://127.0.0.1:6878/ace/manifest.m3u8?id=458a0ddd7d193f6d2750cd14d03a47f47a808e09
 #EXTINF:-1 logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/MUNDOTORO%20TV.png" tvg-id="Extreme Sports",Extreme Sports
 http://127.0.0.1:6878/ace/manifest.m3u8?id=73ff07648e367efebd94636047b07625f664a082
@@ -269,11 +271,11 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=8fb7f8107213a9020f298c8d0068ea86d0713
 http://127.0.0.1:6878/ace/manifest.m3u8?id=ade7437d52002e864f851c4de016923dcd6d2548
 #EXTINF:-1 logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/MUNDOTORO%20TV.png" tvg-id="Motowizja",Motowizja
 http://127.0.0.1:6878/ace/manifest.m3u8?id=8ef4e74336a0114d6def70de9d15cc4817d2f350
-#EXTINF:-1 logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/MUNDOTORO%20TV.png" tvg-id="DAZN 1 Bar",DAZN 1 Bar
+#EXTINF:-1 logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/MUNDOTORO%20TV.png" tvg-id="DAZN 1 GER",DAZN 1 GER
 http://127.0.0.1:6878/ace/manifest.m3u8?id=897e73c9d578848f596585314ecb9ae067c0e229
-#EXTINF:-1 logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/MUNDOTORO%20TV.png" tvg-id="DAZN 2 Bar",DAZN 2 Bar
+#EXTINF:-1 logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/MUNDOTORO%20TV.png" tvg-id="DAZN 2 GER",DAZN 2 GER
 http://127.0.0.1:6878/ace/manifest.m3u8?id=12ea555d431dbe51fc8e4ca745aec09fe22a4865
-#EXTINF:-1 logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/MUNDOTORO%20TV.png" tvg-id="ZDF GER",ZDF
+#EXTINF:-1 logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/MUNDOTORO%20TV.png" tvg-id="ZDF GER",ZDF GER
 http://127.0.0.1:6878/ace/manifest.m3u8?id=c71fb593810ce837545e8d8b384e50a42c35a316
 #EXTINF:-1 logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/MUNDOTORO%20TV.png" tvg-id="ATV",ATV
 http://127.0.0.1:6878/ace/manifest.m3u8?id=7d50d90895f44e97039eca21ae6bc17172acc9ef
@@ -285,9 +287,9 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=f5d3ea421c4c067b5c90161a8ae4d93482fb9
 http://127.0.0.1:6878/ace/manifest.m3u8?id=41ac7892b8fde95d5110d83d7324044145c7f86a
 #EXTINF:-1 logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/MUNDOTORO%20TV.png" tvg-id="ORF SPORT+",ORF SPORT+
 http://127.0.0.1:6878/ace/manifest.m3u8?id=0dfa37340ca0300a41f7a78bd3a0f024c3296974
-#EXTINF:-1 logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/MUNDOTORO%20TV.png" tvg-id="Sky Sport F1 GER",SkySport F1
+#EXTINF:-1 logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/MUNDOTORO%20TV.png" tvg-id="Sky Sport F1 GER",Sky Sport F1 GER
 http://127.0.0.1:6878/ace/manifest.m3u8?id=b04372b9543d763bd2dbd2a1842d9723fd080076
-#EXTINF:-1 logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/MUNDOTORO%20TV.png" tvg-id="SPORTDIGITAL FUSSBALL GER",Sport Digital
+#EXTINF:-1 logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/MUNDOTORO%20TV.png" tvg-id="SPORTDIGITAL FUSSBALL GER",SPORTDIGITAL FUSSBALL GER
 http://127.0.0.1:6878/ace/manifest.m3u8?id=5e94200ae8b1d95cb559fb150e5993d92e15d4e7
 #EXTINF:-1 logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/MUNDOTORO%20TV.png" tvg-id="Sport1+",Sport1+
 http://127.0.0.1:6878/ace/manifest.m3u8?id=e61b6538df35e5016635dfa2b3073f5b82ee4c2b
@@ -317,27 +319,27 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=86495fe134ff065d5217497babe6be33f81d3
 http://127.0.0.1:6878/ace/manifest.m3u8?id=6058a4c0f2569bd81c687aa7dfb48b8a9569fb29
 #EXTINF:-1 logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/MUNDOTORO%20TV.png" tvg-id="Magenta Sport 11",Magenta Sport 11
 http://127.0.0.1:6878/ace/manifest.m3u8?id=c21316ad4b7f44eaf6fcfb2c245c46de8b746cc6
-#EXTINF:-1 logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/MUNDOTORO%20TV.png" tvg-id="Eurosport 1",Eurosport 1
+#EXTINF:-1 logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/MUNDOTORO%20TV.png" tvg-id="Eurosport 1 GER",Eurosport 1
 http://127.0.0.1:6878/ace/manifest.m3u8?id=b8cad4710b1c3b2b84a82c1ece40c08517b8f766
-#EXTINF:-1 logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/MUNDOTORO%20TV.png" tvg-id="Eurosport 2",Eurosport 2
+#EXTINF:-1 logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/MUNDOTORO%20TV.png" tvg-id="Eurosport 1 GER",Eurosport 2
 http://127.0.0.1:6878/ace/manifest.m3u8?id=ac675c82d6dfd4a201532c18b42e48dacb7c32c6
-#EXTINF:-1 logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/MUNDOTORO%20TV.png" tvg-id="Eurosport360 1",Eurosport360 1
+#EXTINF:-1 logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/MUNDOTORO%20TV.png" tvg-id="EUROSPORT 360 1",Eurosport 360 1
 http://127.0.0.1:6878/ace/manifest.m3u8?id=22df9a5fae8cae52fec925c2bb44b74f96a4200c
-#EXTINF:-1 logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/MUNDOTORO%20TV.png" tvg-id="Eurosport360 2",Eurosport360 2
+#EXTINF:-1 logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/MUNDOTORO%20TV.png" tvg-id="Eurosport 360 2",Eurosport 360 2
 http://127.0.0.1:6878/ace/manifest.m3u8?id=57f95543ac41656d473b1a27123fc413388a728c
-#EXTINF:-1 logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/MUNDOTORO%20TV.png" tvg-id="Eurosport360 3",Eurosport360 3
+#EXTINF:-1 logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/MUNDOTORO%20TV.png" tvg-id="Eurosport 360 3",Eurosport 360 3
 http://127.0.0.1:6878/ace/manifest.m3u8?id=7adbca42657ace1fe228142d351d0896974bbe0c
-#EXTINF:-1 logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/MUNDOTORO%20TV.png" tvg-id="Eurosport360 4",Eurosport360 4
+#EXTINF:-1 logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/MUNDOTORO%20TV.png" tvg-id="Eurosport 360 4",Eurosport 360 4
 http://127.0.0.1:6878/ace/manifest.m3u8?id=1b6b6c0ddc0534236b3bae78f41d2bc27cd11f64
-#EXTINF:-1 logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/MUNDOTORO%20TV.png" tvg-id="Eurosport360 5",Eurosport360 5
+#EXTINF:-1 logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/MUNDOTORO%20TV.png" tvg-id="Eurosport 360 5",Eurosport 360 5
 http://127.0.0.1:6878/ace/manifest.m3u8?id=148921c4dda96df445e253d6f26c4d092bf85809
-#EXTINF:-1 logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/MUNDOTORO%20TV.png" tvg-id="Eurosport360 6",Eurosport360 6
+#EXTINF:-1 logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/MUNDOTORO%20TV.png" tvg-id="Eurosport 360 6",Eurosport 360 6
 http://127.0.0.1:6878/ace/manifest.m3u8?id=005ac522315699bd93bbf743329eb2f3c347dc3f
-#EXTINF:-1 logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/MUNDOTORO%20TV.png" tvg-id="Eurosport360 7",Eurosport360 7
+#EXTINF:-1 logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/MUNDOTORO%20TV.png" tvg-id="Eurosport 360 7",Eurosport 360 7
 http://127.0.0.1:6878/ace/manifest.m3u8?id=b18657f64507cc859cd7edef1aef90feb053e791
-#EXTINF:-1 logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/MUNDOTORO%20TV.png" tvg-id="Eurosport360 8",Eurosport360 8
+#EXTINF:-1 logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/MUNDOTORO%20TV.png" tvg-id="Eurosport 360 8",Eurosport 360 8
 http://127.0.0.1:6878/ace/manifest.m3u8?id=8f4f572005ca2557743474087aa622693ba9b5fe
-#EXTINF:-1 logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/MUNDOTORO%20TV.png" tvg-id="Eurosport360 9",Eurosport360 9
+#EXTINF:-1 logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/MUNDOTORO%20TV.png" tvg-id="Eurosport 360 9",Eurosport 360 9
 http://127.0.0.1:6878/ace/manifest.m3u8?id=7993cecc31917793e2bfa2fe98faa9fe1ab62d47
 #EXTINF:-1 logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/MUNDOTORO%20TV.png" tvg-id="BBC ONE",BBC ONE
 http://127.0.0.1:6878/ace/manifest.m3u8?id=243eaccd38b9a0c43b800b6c7a30b1ad2cadc1f1
@@ -437,31 +439,31 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=e40b29774fdfd953751a71f5695f647726623
 http://127.0.0.1:6878/ace/manifest.m3u8?id=b97f5975dbd067655432512d4693b417bc85a714
 #EXTINF:-1 logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/MUNDOTORO%20TV.png" tvg-id="ESPN EXTRA",ESPN EXTRA
 http://127.0.0.1:6878/ace/manifest.m3u8?id=9c3feb380cd9bcf9dcb7a9454ca8eb7962201612
-#EXTINF:-1 logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/MUNDOTORO%20TV.png" tvg-id="Eleven Sports 1 POR",Eleven Sports 1
+#EXTINF:-1 logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/MUNDOTORO%20TV.png" tvg-id="Eleven Sports 1 POR",Eleven Sports 1 POR
 http://127.0.0.1:6878/ace/manifest.m3u8?id=36cad67fed5a739757a9db844a551aa845a8d51b
-#EXTINF:-1 logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/MUNDOTORO%20TV.png" tvg-id="Eleven Sports 2 POR",Eleven Sports 2
+#EXTINF:-1 logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/MUNDOTORO%20TV.png" tvg-id="Eleven Sports 2 POR",Eleven Sports 2 POR
 http://127.0.0.1:6878/ace/manifest.m3u8?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
-#EXTINF:-1 logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/MUNDOTORO%20TV.png" tvg-id="Eleven Sports 3 POR",Eleven Sports 3
+#EXTINF:-1 logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/MUNDOTORO%20TV.png" tvg-id="Eleven Sports 3 POR",Eleven Sports 3 POR
 http://127.0.0.1:6878/ace/manifest.m3u8?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
-#EXTINF:-1 logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/MUNDOTORO%20TV.png" tvg-id="Eleven Sports 4 POR",Eleven Sports 4
+#EXTINF:-1 logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/MUNDOTORO%20TV.png" tvg-id="Eleven Sports 4 POR",Eleven Sports 4 POR
 http://127.0.0.1:6878/ace/manifest.m3u8?id=0f32c0131a2d9444996410801f4e18b04384db98
-#EXTINF:-1 logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/MUNDOTORO%20TV.png" tvg-id="Eleven Sports 5 POR",Eleven Sports 5
+#EXTINF:-1 logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/MUNDOTORO%20TV.png" tvg-id="Eleven Sports 5 POR",Eleven Sports 5 POR
 http://127.0.0.1:6878/ace/manifest.m3u8?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
-#EXTINF:-1 logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/MUNDOTORO%20TV.png" tvg-id="Eleven Sports 6 POR",Eleven Sports 6
+#EXTINF:-1 logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/MUNDOTORO%20TV.png" tvg-id="Eleven Sports 6 POR",Eleven Sports 6 POR
 http://127.0.0.1:6878/ace/manifest.m3u8?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
-#EXTINF:-1 logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/MUNDOTORO%20TV.png" tvg-id="Sport Tv 1",Sport Tv 1
+#EXTINF:-1 logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/MUNDOTORO%20TV.png" tvg-id="Sport TV1 POR",Sport TV1 POR
 http://127.0.0.1:6878/ace/manifest.m3u8?id=c95422bc904378be0b035eba721d5e6a004f7d79
-#EXTINF:-1 logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/MUNDOTORO%20TV.png" tvg-id="Sport Tv 2",Sport Tv 2
+#EXTINF:-1 logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/MUNDOTORO%20TV.png" tvg-id="Sport TV2 POR",Sport TV2 POR
 http://127.0.0.1:6878/ace/manifest.m3u8?id=a1bd609a2d64d1ee4b81af32464b36848fe36541
-#EXTINF:-1 logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/MUNDOTORO%20TV.png" tvg-id="Sport Tv 3",Sport Tv 3
+#EXTINF:-1 logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/MUNDOTORO%20TV.png" tvg-id="Sport TV3 POR",Sport TV3 POR
 http://127.0.0.1:6878/ace/manifest.m3u8?id=6c526d4cc3ca77cfbc10c548aa0d49944e56f3ff
-#EXTINF:-1 logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/MUNDOTORO%20TV.png" tvg-id="Sport Tv 4",Sport Tv 4
+#EXTINF:-1 logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/MUNDOTORO%20TV.png" tvg-id="Sport TV4 POR",Sport TV4 POR
 http://127.0.0.1:6878/ace/manifest.m3u8?id=a600f739438c1b47725617d7a4cc05a04a890e10
-#EXTINF:-1 logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/MUNDOTORO%20TV.png" tvg-id="BEIN SPORTS 1 FRA",beIN Sports 1
+#EXTINF:-1 logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/MUNDOTORO%20TV.png" tvg-id="BEIN SPORTS 1 FRA",BEIN SPORTS 1 FRA
 http://127.0.0.1:6878/ace/manifest.m3u8?id=bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
-#EXTINF:-1 logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/MUNDOTORO%20TV.png" tvg-id="beIN Sports 2 FRA",beIN Sports 2
+#EXTINF:-1 logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/MUNDOTORO%20TV.png" tvg-id="BEIN SPORTS 2 FRA",BEIN SPORTS 2 FRA
 http://127.0.0.1:6878/ace/manifest.m3u8?id=edb507e38394d614c9ff55805c9d354ae13210bc
-#EXTINF:-1 logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/MUNDOTORO%20TV.png" tvg-id="beIN Sports 3 FRA",beIN Sports 3
+#EXTINF:-1 logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/MUNDOTORO%20TV.png" tvg-id="BEIN SPORTS 3 FRA",BEIN SPORTS 3 FRA
 http://127.0.0.1:6878/ace/manifest.m3u8?id=731bd3336ec0986ff9100efe40dbaf1473a22cf8
 #EXTINF:-1 logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/MUNDOTORO%20TV.png" tvg-id="Digi Sport 1",Digi Sport 1
 http://127.0.0.1:6878/ace/manifest.m3u8?id=51cee9d0b29dbd9104e9a3971fd2569419eab159
@@ -489,11 +491,11 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=035e34b791335962ca817f42fd14300382af3
 http://127.0.0.1:6878/ace/manifest.m3u8?id=8c6a3a49e43b6d05ac93b83fe4a41660caffae01
 #EXTINF:-1 logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/MUNDOTORO%20TV.png" tvg-id="beIN Sports HABER",beIN Sports HABER
 http://127.0.0.1:6878/ace/manifest.m3u8?id=47c1b3a68d03bd190fed521d144ad08fa0f195f3
-#EXTINF:-1 logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/MUNDOTORO%20TV.png" tvg-id="BEIN SPORTS 1 FRA",beIN Sports 1
+#EXTINF:-1 logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/MUNDOTORO%20TV.png" tvg-id="BEIN SPORTS 1",beIN Sports 1
 http://127.0.0.1:6878/ace/manifest.m3u8?id=118416583faa3fb4f03800173429b6b844b43a52
-#EXTINF:-1 logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/MUNDOTORO%20TV.png" tvg-id="beIN Sports 2 FRA",beIN Sports 2
+#EXTINF:-1 logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/MUNDOTORO%20TV.png" tvg-id="beIN Sports 2",beIN Sports 2
 http://127.0.0.1:6878/ace/manifest.m3u8?id=48bee10b883f17c7186d60f1e8022dca0ba41a05
-#EXTINF:-1 logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/MUNDOTORO%20TV.png" tvg-id="beIN Sports 3 FRA",beIN Sports 3
+#EXTINF:-1 logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/MUNDOTORO%20TV.png" tvg-id="beIN Sports 3",beIN Sports 3
 http://127.0.0.1:6878/ace/manifest.m3u8?id=ed81c333815247536edfcdb2755147e8c4144d62
-#EXTINF:-1 logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/MUNDOTORO%20TV.png" tvg-id="beIN Sports 4 FRA",beIN Sports 4
+#EXTINF:-1 logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/MUNDOTORO%20TV.png" tvg-id="beIN Sports 4",beIN Sports 4
 http://127.0.0.1:6878/ace/manifest.m3u8?id=7683cd0cbacf55fa8b39c363219ffba1bc47cf9d
