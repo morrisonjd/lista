@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/color//1_0_19_7508_420_1_C00000_0_0_0.png" group-title="ACE HORUS" tvg-id="M+ Supercopa",M+ Supercopa
+#EXTINF:-1 logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/color//1_0_19_7508_420_1_C00000_0_0_0.png" group-title="ACE HORUS" tvg-id="M+ Supercopa de España",M+ Supercopa de España
 plugin://script.module.horus?action=play&id=8ba764f6a3bce6eae87ec71208fad1aa3a20528d
 #EXTINF:-1 logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/color//1_0_19_7508_420_1_C00000_0_0_0.png" group-title="ACE HORUS" tvg-id="M+ VAMOS",M+ VAMOS
 plugin://script.module.horus?action=play&id=859bb6295b8d0f224224d3063d9db7cdeca03122
