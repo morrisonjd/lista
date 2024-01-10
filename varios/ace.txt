@@ -1,3 +1,5 @@
+**Movistar SuperCopa de España**
+(acestream://8ba764f6a3bce6eae87ec71208fad1aa3a20528d)
 **DAZN LaLiga 1080p**
 (acestream://1960a9be8ae9e8c755330218eac4c5805466290a)
 (acestream://75251ba975132ec9a202806ba5bf606e87280c96)
@@ -124,6 +126,7 @@
 (acestream://e2395d28ad19423212fd3aa0e81f387db3e8bb9f)
 **LA 1 1080p**
 (acestream://02b9307c5c97c86914cc5939d6bbeb5b4ec60b47)
+(acestream://b897de3e62d7c6bee9ef1107d972f3d1075e03ff)
 **Real Madrid TV** 
 (https://www.realmadrid.com/real-madrid-tv)
 (acestream://0ec3f3786318acd8dca2588f74c3759cda76cd11)
