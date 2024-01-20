@@ -1,5 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="M+ Supercopa de España",M+ Supercopa de España
+#EXTINF:-1 tvg-id="Movistar Plus+",Movistar Plus+
+http://127.0.0.1:6878/ace/manifest.m3u8?id=5a236fbbe6e5bbfec03db548c244a7c858d675c0
+#EXTINF:-1 tvg-id="Movistar Plus+",Movistar Plus+
 http://127.0.0.1:6878/ace/manifest.m3u8?id=8ba764f6a3bce6eae87ec71208fad1aa3a20528d
 #EXTINF:-1 tvg-id="M+ Vamos",M+ Vamos
 http://127.0.0.1:6878/ace/manifest.m3u8?id=859bb6295b8d0f224224d3063d9db7cdeca03122
@@ -155,8 +157,6 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=f763ab71f6f646e6c993f37e237be97baf214
 http://127.0.0.1:6878/ace/manifest.m3u8?id=9292d3b32432efb56db4014933cbdec0a7cf2e36
 #EXTINF:-1 tvg-id="F1 TV",F1 TV
 http://127.0.0.1:6878/ace/manifest.m3u8?id=7088d4b32f4a7c0326765f13764417d038a4524d
-#EXTINF:-1 tvg-id="Movistar Plus+",Movistar Plus+
-http://127.0.0.1:6878/ace/manifest.m3u8?id=5a236fbbe6e5bbfec03db548c244a7c858d675c0
 #EXTINF:-1 tvg-id="MATCH!",MATCH!
 http://127.0.0.1:6878/ace/manifest.m3u8?id=a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
 #EXTINF:-1 tvg-id="MATCH!",MATCH!
