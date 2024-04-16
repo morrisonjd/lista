@@ -155,8 +155,8 @@ http://127.0.0.1:8000/pid/02b9307c5c97c86914cc5939d6bbeb5b4ec60b47/stream.mp4
 http://127.0.0.1:8000/pid/b897de3e62d7c6bee9ef1107d972f3d1075e03ff/stream.mp4
 #EXTINF:-1 tvg-id="Real Madrid TV",Real Madrid TV
 http://127.0.0.1:8000/pid/0ec3f3786318acd8dca2588f74c3759cda76cd11/stream.mp4
-#EXTINF:-1 tvg-id="Mundotoro TV",Mundotoro TV
-http://127.0.0.1:8000/pid/f763ab71f6f646e6c993f37e237be97baf2143ef/stream.mp4
+#EXTINF:-1 tvg-id="OneToro HD",OneToro HD
+http://127.0.0.1:8000/pid/ee38ea1806129de000bd7925a5d52554d70bb560/stream.mp4
 #EXTINF:-1 tvg-id="Tennis Channel",Tennis Channel
 http://127.0.0.1:8000/pid/9292d3b32432efb56db4014933cbdec0a7cf2e36/stream.mp4
 #EXTINF:-1 tvg-id="F1 TV",F1 TV
@@ -451,6 +451,22 @@ http://127.0.0.1:8000/pid/8ebf8cded98f3e4c2e3ea83244e7ef3481091c3b/stream.mp4
 http://127.0.0.1:8000/pid/0969a38e2b12d718f09e88e0925aed88f24a957b/stream.mp4
 #EXTINF:-1 tvg-id="UniNettuno University TV",UniNettuno University TV
 http://127.0.0.1:8000/pid/4e17bac6b2decc70fd7bd704ce7013072fefd1f0/stream.mp4
+#EXTINF:-1 tvg-id="Amazon Prime V.1 [BE]",Amazon Prime V.1 [BE]
+http://127.0.0.1:8000/pid/5323ccadb659f7d3cb5fa2e5835c5af362e144d6/stream.mp4
+#EXTINF:-1 tvg-id="Amazon Prime V.2 [BE]",Amazon Prime V.2 [BE]
+http://127.0.0.1:8000/pid/2926e34c63d83764f9c6671da53397d55041b4ea/stream.mp4
+#EXTINF:-1 tvg-id="Amazon Prime V.3 [BE]",Amazon Prime V.3 [BE]
+http://127.0.0.1:8000/pid/7b979c38e2565ea0ce4c6ec3c13f6edf05b0c08c/stream.mp4
+#EXTINF:-1 tvg-id="Amazon Prime V.4 [BE]",Amazon Prime V.4 [BE]
+http://127.0.0.1:8000/pid/77697d1e2f382196dd156ed384e84c62fc7d32f7/stream.mp4
+#EXTINF:-1 tvg-id="Amazon Prime V.5 [BE]",Amazon Prime V.5 [BE]
+http://127.0.0.1:8000/pid/d3634268718c6e52cde4a34d0e75cffef26c1ba9/stream.mp4
+#EXTINF:-1 tvg-id="Amazon Prime V.6 [BE]",Amazon Prime V.6 [BE]
+http://127.0.0.1:8000/pid/26e31f091414fb036917a255b4adaf12b2f3da5b/stream.mp4
+#EXTINF:-1 tvg-id="Amazon Prime V.7 [BE]",Amazon Prime V.7 [BE]
+http://127.0.0.1:8000/pid/160b4b508a11f8c8b5c6e0e62ac04a437e00bb67/stream.mp4
+#EXTINF:-1 tvg-id="Amazon Prime V.8 [BE]",Amazon Prime V.8 [BE]
+http://127.0.0.1:8000/pid/3a21b411e9b764efefc0c2166ca07f4655b3d31c/stream.mp4
 #EXTINF:-1 tvg-id="ALL Sports",ALL Sports
 http://127.0.0.1:8000/pid/7101b21c3c95847ddcd5ab47b775fbbc2c4e200f/stream.mp4
 #EXTINF:-1 tvg-id="ALL Sports",ALL Sports
@@ -537,13 +553,3 @@ http://127.0.0.1:8000/pid/77800bb07c1d69135024ee2379c97472eb12dd45/stream.mp4
 http://127.0.0.1:8000/pid/035e34b791335962ca817f42fd14300382af3797/stream.mp4
 #EXTINF:-1 tvg-id="Diema Sport",Diema Sport
 http://127.0.0.1:8000/pid/8c6a3a49e43b6d05ac93b83fe4a41660caffae01/stream.mp4
-#EXTINF:-1 tvg-id="beIN Sports HABER",beIN Sports HABER
-http://127.0.0.1:8000/pid/47c1b3a68d03bd190fed521d144ad08fa0f195f3/stream.mp4
-#EXTINF:-1 tvg-id="beIN Sports 1",beIN Sports 1
-http://127.0.0.1:8000/pid/118416583faa3fb4f03800173429b6b844b43a52/stream.mp4
-#EXTINF:-1 tvg-id="beIN Sports 2",beIN Sports 2
-http://127.0.0.1:8000/pid/48bee10b883f17c7186d60f1e8022dca0ba41a05/stream.mp4
-#EXTINF:-1 tvg-id="beIN Sports 3",beIN Sports 3
-http://127.0.0.1:8000/pid/ed81c333815247536edfcdb2755147e8c4144d62/stream.mp4
-#EXTINF:-1 tvg-id="beIN Sports 4",beIN Sports 4
-http://127.0.0.1:8000/pid/7683cd0cbacf55fa8b39c363219ffba1bc47cf9d/stream.mp4
