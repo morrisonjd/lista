@@ -279,6 +279,8 @@ http://127.0.0.1:8000/pid/8fb7f8107213a9020f298c8d0068ea86d0713d01/stream.mp4
 http://127.0.0.1:8000/pid/ade7437d52002e864f851c4de016923dcd6d2548/stream.mp4
 #EXTINF:-1 tvg-id="Moto Wizja",Moto Wizja
 http://127.0.0.1:8000/pid/8ef4e74336a0114d6def70de9d15cc4817d2f350/stream.mp4
+#EXTINF:-1 tvg-id="Golf Channel [PL]",Golf Channel [PL]
+http://127.0.0.1:8000/pid/d4acffe8f08b7728d3b489ab5ca37398a5636689/stream.mp4
 #EXTINF:-1 tvg-id="DAZN 1 GER",DAZN 1 GER
 http://127.0.0.1:8000/pid/897e73c9d578848f596585314ecb9ae067c0e229/stream.mp4
 #EXTINF:-1 tvg-id="DAZN 2 GER",DAZN 2 GER
@@ -553,3 +555,13 @@ http://127.0.0.1:8000/pid/77800bb07c1d69135024ee2379c97472eb12dd45/stream.mp4
 http://127.0.0.1:8000/pid/035e34b791335962ca817f42fd14300382af3797/stream.mp4
 #EXTINF:-1 tvg-id="Diema Sport",Diema Sport
 http://127.0.0.1:8000/pid/8c6a3a49e43b6d05ac93b83fe4a41660caffae01/stream.mp4
+#EXTINF:-1 tvg-id="beIN Sports HABER",beIN Sports HABER
+http://127.0.0.1:8000/pid/47c1b3a68d03bd190fed521d144ad08fa0f195f3/stream.mp4
+#EXTINF:-1 tvg-id="beIN Sports 1",beIN Sports 1
+http://127.0.0.1:8000/pid/118416583faa3fb4f03800173429b6b844b43a52/stream.mp4
+#EXTINF:-1 tvg-id="beIN Sports 2",beIN Sports 2
+http://127.0.0.1:8000/pid/48bee10b883f17c7186d60f1e8022dca0ba41a05/stream.mp4
+#EXTINF:-1 tvg-id="beIN Sports 3",beIN Sports 3
+http://127.0.0.1:8000/pid/ed81c333815247536edfcdb2755147e8c4144d62/stream.mp4
+#EXTINF:-1 tvg-id="beIN Sports 4",beIN Sports 4
+http://127.0.0.1:8000/pid/7683cd0cbacf55fa8b39c363219ffba1bc47cf9d/stream.mp4
