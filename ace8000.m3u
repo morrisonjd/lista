@@ -64,7 +64,7 @@ http://127.0.0.1:8000/pid/dce1579e3a2e5bd29071fca8eae364f1eb3205cf/stream.mp4
 #EXTINF:-1 tvg-id="M+ LaLiga TV",M+ LaLiga TV
 http://127.0.0.1:8000/pid/f031f5728b32f6089dda28edebe990cf198108d8/stream.mp4
 #EXTINF:-1 tvg-id="LaLiga TV BAR",LaLiga TV BAR
-http://127.0.0.1:8000/pid/512aeadf50d91603d15b32f1e408166536ec4ac9stream.mp4
+http://127.0.0.1:8000/pid/512aeadf50d91603d15b32f1e408166536ec4ac9/stream.mp4
 #EXTINF:-1 tvg-id="LaLiga TV BAR",LaLiga TV BAR
 http://127.0.0.1:8000/pid/608b0faf7d3d25f6fe5dba13d5e4b4142949990e/stream.mp4
 #EXTINF:-1 tvg-id="LaLiga TV BAR",LaLiga TV BAR
