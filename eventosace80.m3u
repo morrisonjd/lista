@@ -1,147 +1,147 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="01:00-NBA Liga Regular-Philadelphia 76ers-Orlando Magic" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",01:00-NBA Liga Regular-Philadelphia 76ers-Orlando Magic
+#EXTINF:-1 tvg-id="01:00-Título Internacional Peso Superligero-L. Paro-R. Hitchins" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",01:00-Título Internacional Peso Superligero-L. Paro-R. Hitchins
+http://127.0.0.1/ace/manifest.m3u8?id=a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
+#EXTINF:-1 tvg-id="01:30-NBA Liga Regular-Toronto Raptors-Dallas Mavericks" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",01:30-NBA Liga Regular-Toronto Raptors-Dallas Mavericks
 http://127.0.0.1/ace/manifest.m3u8?id=d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 tvg-id="01:00-NBA Liga Regular-Philadelphia 76ers-Orlando Magic" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",01:00-NBA Liga Regular-Philadelphia 76ers-Orlando Magic
+#EXTINF:-1 tvg-id="01:30-NBA Liga Regular-Toronto Raptors-Dallas Mavericks" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",01:30-NBA Liga Regular-Toronto Raptors-Dallas Mavericks
 http://127.0.0.1/ace/manifest.m3u8?id=77d83a79afcf6c865289cd8cdb42223cd4b6501c
-#EXTINF:-1 tvg-id="01:00-NBA Liga Regular-Philadelphia 76ers-Orlando Magic" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",01:00-NBA Liga Regular-Philadelphia 76ers-Orlando Magic
+#EXTINF:-1 tvg-id="02:00-UFC UFC 310-A. Pantoja-K. Asakura" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",02:00-UFC UFC 310-A. Pantoja-K. Asakura
+http://127.0.0.1/ace/manifest.m3u8?id=c373da9e901d414b7384e671112e64d5a2310c29
+#EXTINF:-1 tvg-id="08:15-F1 Academy-G.P. Abu Dhabi (Yas Marina)-Carrera 3" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",08:15-F1 Academy-G.P. Abu Dhabi (Yas Marina)-Carrera 3
+http://127.0.0.1/ace/manifest.m3u8?id=968627d24eec1c16b51d88e4a4a6c02211e3346e
+#EXTINF:-1 tvg-id="08:15-F1 Academy-G.P. Abu Dhabi (Yas Marina)-Carrera 3" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",08:15-F1 Academy-G.P. Abu Dhabi (Yas Marina)-Carrera 3
+http://127.0.0.1/ace/manifest.m3u8?id=5789ca155323664edd293b848606688edf803f4d
+#EXTINF:-1 tvg-id="08:15-F1 Academy-G.P. Abu Dhabi (Yas Marina)-Carrera 3" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",08:15-F1 Academy-G.P. Abu Dhabi (Yas Marina)-Carrera 3
+http://127.0.0.1/ace/manifest.m3u8?id=9dad717d99b29a05672166258a77c25b57713dd5
+#EXTINF:-1 tvg-id="08:15-F1 Academy-G.P. Abu Dhabi (Yas Marina)-Carrera 3" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",08:15-F1 Academy-G.P. Abu Dhabi (Yas Marina)-Carrera 3
+http://127.0.0.1/ace/manifest.m3u8?id=e1fcad9de0c782c157fde6377805c58297ab65c2
+#EXTINF:-1 tvg-id="10:25-FIA Fórmula 2-G.P. Abu Dhabi (Yas Marina)-Carrera 2" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",10:25-FIA Fórmula 2-G.P. Abu Dhabi (Yas Marina)-Carrera 2
+http://127.0.0.1/ace/manifest.m3u8?id=968627d24eec1c16b51d88e4a4a6c02211e3346e
+#EXTINF:-1 tvg-id="10:25-FIA Fórmula 2-G.P. Abu Dhabi (Yas Marina)-Carrera 2" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",10:25-FIA Fórmula 2-G.P. Abu Dhabi (Yas Marina)-Carrera 2
+http://127.0.0.1/ace/manifest.m3u8?id=5789ca155323664edd293b848606688edf803f4d
+#EXTINF:-1 tvg-id="10:25-FIA Fórmula 2-G.P. Abu Dhabi (Yas Marina)-Carrera 2" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",10:25-FIA Fórmula 2-G.P. Abu Dhabi (Yas Marina)-Carrera 2
+http://127.0.0.1/ace/manifest.m3u8?id=9dad717d99b29a05672166258a77c25b57713dd5
+#EXTINF:-1 tvg-id="10:25-FIA Fórmula 2-G.P. Abu Dhabi (Yas Marina)-Carrera 2" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",10:25-FIA Fórmula 2-G.P. Abu Dhabi (Yas Marina)-Carrera 2
+http://127.0.0.1/ace/manifest.m3u8?id=e1fcad9de0c782c157fde6377805c58297ab65c2
+#EXTINF:-1 tvg-id="12:30-Liga Endesa Liga Regular-Bilbao Basket-Baskonia" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",12:30-Liga Endesa Liga Regular-Bilbao Basket-Baskonia
+http://127.0.0.1/ace/manifest.m3u8?id=d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 tvg-id="12:30-Liga Endesa Liga Regular-Bilbao Basket-Baskonia" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",12:30-Liga Endesa Liga Regular-Bilbao Basket-Baskonia
+http://127.0.0.1/ace/manifest.m3u8?id=77d83a79afcf6c865289cd8cdb42223cd4b6501c
+#EXTINF:-1 tvg-id="12:30-Liga Endesa Liga Regular-Bilbao Basket-Baskonia" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",12:30-Liga Endesa Liga Regular-Bilbao Basket-Baskonia
 http://127.0.0.1/ace/manifest.m3u8?id=859bb6295b8d0f224224d3063d9db7cdeca03122
-#EXTINF:-1 tvg-id="01:00-NBA Liga Regular-Philadelphia 76ers-Orlando Magic" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",01:00-NBA Liga Regular-Philadelphia 76ers-Orlando Magic
+#EXTINF:-1 tvg-id="12:30-Liga Endesa Liga Regular-Bilbao Basket-Baskonia" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",12:30-Liga Endesa Liga Regular-Bilbao Basket-Baskonia
 http://127.0.0.1/ace/manifest.m3u8?id=3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
-#EXTINF:-1 tvg-id="09:15-F1 Academy-G.P. Abu Dhabi (Yas Marina)-Carrera 1" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",09:15-F1 Academy-G.P. Abu Dhabi (Yas Marina)-Carrera 1
-http://127.0.0.1/ace/manifest.m3u8?id=968627d24eec1c16b51d88e4a4a6c02211e3346e
-#EXTINF:-1 tvg-id="09:15-F1 Academy-G.P. Abu Dhabi (Yas Marina)-Carrera 1" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",09:15-F1 Academy-G.P. Abu Dhabi (Yas Marina)-Carrera 1
-http://127.0.0.1/ace/manifest.m3u8?id=5789ca155323664edd293b848606688edf803f4d
-#EXTINF:-1 tvg-id="09:15-F1 Academy-G.P. Abu Dhabi (Yas Marina)-Carrera 1" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",09:15-F1 Academy-G.P. Abu Dhabi (Yas Marina)-Carrera 1
-http://127.0.0.1/ace/manifest.m3u8?id=9dad717d99b29a05672166258a77c25b57713dd5
-#EXTINF:-1 tvg-id="09:15-F1 Academy-G.P. Abu Dhabi (Yas Marina)-Carrera 1" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",09:15-F1 Academy-G.P. Abu Dhabi (Yas Marina)-Carrera 1
-http://127.0.0.1/ace/manifest.m3u8?id=e1fcad9de0c782c157fde6377805c58297ab65c2
-#EXTINF:-1 tvg-id="11:30-Fórmula 1-G.P. Abu Dhabi (Yas Marina)-Libres 3" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",11:30-Fórmula 1-G.P. Abu Dhabi (Yas Marina)-Libres 3
-http://127.0.0.1/ace/manifest.m3u8?id=968627d24eec1c16b51d88e4a4a6c02211e3346e
-#EXTINF:-1 tvg-id="11:30-Fórmula 1-G.P. Abu Dhabi (Yas Marina)-Libres 3" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",11:30-Fórmula 1-G.P. Abu Dhabi (Yas Marina)-Libres 3
-http://127.0.0.1/ace/manifest.m3u8?id=5789ca155323664edd293b848606688edf803f4d
-#EXTINF:-1 tvg-id="11:30-Fórmula 1-G.P. Abu Dhabi (Yas Marina)-Libres 3" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",11:30-Fórmula 1-G.P. Abu Dhabi (Yas Marina)-Libres 3
-http://127.0.0.1/ace/manifest.m3u8?id=9dad717d99b29a05672166258a77c25b57713dd5
-#EXTINF:-1 tvg-id="11:30-Fórmula 1-G.P. Abu Dhabi (Yas Marina)-Libres 3" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",11:30-Fórmula 1-G.P. Abu Dhabi (Yas Marina)-Libres 3
-http://127.0.0.1/ace/manifest.m3u8?id=e1fcad9de0c782c157fde6377805c58297ab65c2
-#EXTINF:-1 tvg-id="13:15-FIA Fórmula 2-G.P. Abu Dhabi (Yas Marina)-Carrera 1" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",13:15-FIA Fórmula 2-G.P. Abu Dhabi (Yas Marina)-Carrera 1
-http://127.0.0.1/ace/manifest.m3u8?id=968627d24eec1c16b51d88e4a4a6c02211e3346e
-#EXTINF:-1 tvg-id="13:15-FIA Fórmula 2-G.P. Abu Dhabi (Yas Marina)-Carrera 1" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",13:15-FIA Fórmula 2-G.P. Abu Dhabi (Yas Marina)-Carrera 1
-http://127.0.0.1/ace/manifest.m3u8?id=5789ca155323664edd293b848606688edf803f4d
-#EXTINF:-1 tvg-id="13:15-FIA Fórmula 2-G.P. Abu Dhabi (Yas Marina)-Carrera 1" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",13:15-FIA Fórmula 2-G.P. Abu Dhabi (Yas Marina)-Carrera 1
-http://127.0.0.1/ace/manifest.m3u8?id=9dad717d99b29a05672166258a77c25b57713dd5
-#EXTINF:-1 tvg-id="13:15-FIA Fórmula 2-G.P. Abu Dhabi (Yas Marina)-Carrera 1" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",13:15-FIA Fórmula 2-G.P. Abu Dhabi (Yas Marina)-Carrera 1
-http://127.0.0.1/ace/manifest.m3u8?id=e1fcad9de0c782c157fde6377805c58297ab65c2
-#EXTINF:-1 tvg-id="14:00-La Liga EA Sports-UD Las Palmas-Real Valladolid" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",14:00-La Liga EA Sports-UD Las Palmas-Real Valladolid
-http://127.0.0.1/ace/manifest.m3u8?id=aa82e7d4f03061f2144a2f4be22f2e2210d42280
-#EXTINF:-1 tvg-id="14:00-La Liga EA Sports-UD Las Palmas-Real Valladolid" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",14:00-La Liga EA Sports-UD Las Palmas-Real Valladolid
-http://127.0.0.1/ace/manifest.m3u8?id=7d8c87e057be98f00f22e23b23fbf08999e4b02f
-#EXTINF:-1 tvg-id="14:00-La Liga EA Sports-UD Las Palmas-Real Valladolid" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",14:00-La Liga EA Sports-UD Las Palmas-Real Valladolid
-http://127.0.0.1/ace/manifest.m3u8?id=1969c27658d4c8333ab2c0670802546121a774a5
-#EXTINF:-1 tvg-id="14:00-La Liga EA Sports-UD Las Palmas-Real Valladolid" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",14:00-La Liga EA Sports-UD Las Palmas-Real Valladolid
-http://127.0.0.1/ace/manifest.m3u8?id=f031f5728b32f6089dda28edebe990cf198108d8
-#EXTINF:-1 tvg-id="14:00-LaLiga Hypermotion-Elche-Cádiz CF" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",14:00-LaLiga Hypermotion-Elche-Cádiz CF
-http://127.0.0.1/ace/manifest.m3u8?id=4c46585214b23b1d802ef2168060c7649a3894cf
-#EXTINF:-1 tvg-id="14:00-LaLiga Hypermotion-Elche-Cádiz CF" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",14:00-LaLiga Hypermotion-Elche-Cádiz CF
-http://127.0.0.1/ace/manifest.m3u8?id=06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
-#EXTINF:-1 tvg-id="15:00-Fórmula 1-G.P. Abu Dhabi (Yas Marina)-Clasificación" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",15:00-Fórmula 1-G.P. Abu Dhabi (Yas Marina)-Clasificación
-http://127.0.0.1/ace/manifest.m3u8?id=968627d24eec1c16b51d88e4a4a6c02211e3346e
-#EXTINF:-1 tvg-id="15:00-Fórmula 1-G.P. Abu Dhabi (Yas Marina)-Clasificación" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",15:00-Fórmula 1-G.P. Abu Dhabi (Yas Marina)-Clasificación
-http://127.0.0.1/ace/manifest.m3u8?id=5789ca155323664edd293b848606688edf803f4d
-#EXTINF:-1 tvg-id="15:00-Fórmula 1-G.P. Abu Dhabi (Yas Marina)-Clasificación" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",15:00-Fórmula 1-G.P. Abu Dhabi (Yas Marina)-Clasificación
-http://127.0.0.1/ace/manifest.m3u8?id=9dad717d99b29a05672166258a77c25b57713dd5
-#EXTINF:-1 tvg-id="15:00-Fórmula 1-G.P. Abu Dhabi (Yas Marina)-Clasificación" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",15:00-Fórmula 1-G.P. Abu Dhabi (Yas Marina)-Clasificación
-http://127.0.0.1/ace/manifest.m3u8?id=e1fcad9de0c782c157fde6377805c58297ab65c2
-#EXTINF:-1 tvg-id="15:00-Milan Open-Semifinal Masculina-Premier Padel Tour" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",15:00-Milan Open-Semifinal Masculina-Premier Padel Tour
-http://127.0.0.1/ace/manifest.m3u8?id=42e83c337ece0af9ca7808859f84c7960e9cb6f5
-#EXTINF:-1 tvg-id="16:00-Premier League-Brentford-Newcastle" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",16:00-Premier League-Brentford-Newcastle
-http://127.0.0.1/ace/manifest.m3u8?id=2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd
-#EXTINF:-1 tvg-id="16:00-Premier League-Crystal Palace-Manchester City" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",16:00-Premier League-Crystal Palace-Manchester City
-http://127.0.0.1/ace/manifest.m3u8?id=8ca07071b39185431f8e940ec98d1add9e561639
-#EXTINF:-1 tvg-id="16:00-Premier League-Crystal Palace-Manchester City" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",16:00-Premier League-Crystal Palace-Manchester City
-http://127.0.0.1/ace/manifest.m3u8?id=eaff9293c76a324c750ef5094c2a4e2c96518d1f
-#EXTINF:-1 tvg-id="16:15-La Liga EA Sports-Real Betis-FC Barcelona" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",16:15-La Liga EA Sports-Real Betis-FC Barcelona
-http://127.0.0.1/ace/manifest.m3u8?id=aa82e7d4f03061f2144a2f4be22f2e2210d42280
-#EXTINF:-1 tvg-id="16:15-La Liga EA Sports-Real Betis-FC Barcelona" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",16:15-La Liga EA Sports-Real Betis-FC Barcelona
-http://127.0.0.1/ace/manifest.m3u8?id=7d8c87e057be98f00f22e23b23fbf08999e4b02f
-#EXTINF:-1 tvg-id="16:15-La Liga EA Sports-Real Betis-FC Barcelona" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",16:15-La Liga EA Sports-Real Betis-FC Barcelona
-http://127.0.0.1/ace/manifest.m3u8?id=1969c27658d4c8333ab2c0670802546121a774a5
-#EXTINF:-1 tvg-id="16:15-La Liga EA Sports-Real Betis-FC Barcelona" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",16:15-La Liga EA Sports-Real Betis-FC Barcelona
-http://127.0.0.1/ace/manifest.m3u8?id=f031f5728b32f6089dda28edebe990cf198108d8
-#EXTINF:-1 tvg-id="16:15-LaLiga Hypermotion-Granada CF-Racing Santander" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",16:15-LaLiga Hypermotion-Granada CF-Racing Santander
-http://127.0.0.1/ace/manifest.m3u8?id=4c46585214b23b1d802ef2168060c7649a3894cf
-#EXTINF:-1 tvg-id="16:15-LaLiga Hypermotion-Granada CF-Racing Santander" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",16:15-LaLiga Hypermotion-Granada CF-Racing Santander
-http://127.0.0.1/ace/manifest.m3u8?id=06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
-#EXTINF:-1 tvg-id="16:15-LaLiga Hypermotion-Granada CF-Racing Santander" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",16:15-LaLiga Hypermotion-Granada CF-Racing Santander
-http://127.0.0.1/ace/manifest.m3u8?id=d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 tvg-id="16:15-LaLiga Hypermotion-Granada CF-Racing Santander" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",16:15-LaLiga Hypermotion-Granada CF-Racing Santander
-http://127.0.0.1/ace/manifest.m3u8?id=77d83a79afcf6c865289cd8cdb42223cd4b6501c
-#EXTINF:-1 tvg-id="17:15-F1 Academy-G.P. Abu Dhabi (Yas Marina)-Carrera 2" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",17:15-F1 Academy-G.P. Abu Dhabi (Yas Marina)-Carrera 2
-http://127.0.0.1/ace/manifest.m3u8?id=968627d24eec1c16b51d88e4a4a6c02211e3346e
-#EXTINF:-1 tvg-id="17:15-F1 Academy-G.P. Abu Dhabi (Yas Marina)-Carrera 2" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",17:15-F1 Academy-G.P. Abu Dhabi (Yas Marina)-Carrera 2
-http://127.0.0.1/ace/manifest.m3u8?id=5789ca155323664edd293b848606688edf803f4d
-#EXTINF:-1 tvg-id="17:15-F1 Academy-G.P. Abu Dhabi (Yas Marina)-Carrera 2" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",17:15-F1 Academy-G.P. Abu Dhabi (Yas Marina)-Carrera 2
-http://127.0.0.1/ace/manifest.m3u8?id=9dad717d99b29a05672166258a77c25b57713dd5
-#EXTINF:-1 tvg-id="17:15-F1 Academy-G.P. Abu Dhabi (Yas Marina)-Carrera 2" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",17:15-F1 Academy-G.P. Abu Dhabi (Yas Marina)-Carrera 2
-http://127.0.0.1/ace/manifest.m3u8?id=e1fcad9de0c782c157fde6377805c58297ab65c2
-#EXTINF:-1 tvg-id="18:00-FIA Fórmula E-Sao Paulo (Brasil)-Carrera" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",18:00-FIA Fórmula E-Sao Paulo (Brasil)-Carrera
-http://127.0.0.1/ace/manifest.m3u8?id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
-#EXTINF:-1 tvg-id="18:00-Liga Endesa Liga Regular-MoraBanc Andorra-Casademont Zaragoza" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",18:00-Liga Endesa Liga Regular-MoraBanc Andorra-Casademont Zaragoza
-http://127.0.0.1/ace/manifest.m3u8?id=d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 tvg-id="18:00-Liga Endesa Liga Regular-MoraBanc Andorra-Casademont Zaragoza" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",18:00-Liga Endesa Liga Regular-MoraBanc Andorra-Casademont Zaragoza
-http://127.0.0.1/ace/manifest.m3u8?id=77d83a79afcf6c865289cd8cdb42223cd4b6501c
-#EXTINF:-1 tvg-id="18:30-La Liga EA Sports-Valencia CF-Rayo Vallecano" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",18:30-La Liga EA Sports-Valencia CF-Rayo Vallecano
-http://127.0.0.1/ace/manifest.m3u8?id=aa82e7d4f03061f2144a2f4be22f2e2210d42280
-#EXTINF:-1 tvg-id="18:30-La Liga EA Sports-Valencia CF-Rayo Vallecano" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",18:30-La Liga EA Sports-Valencia CF-Rayo Vallecano
-http://127.0.0.1/ace/manifest.m3u8?id=7d8c87e057be98f00f22e23b23fbf08999e4b02f
-#EXTINF:-1 tvg-id="18:30-La Liga EA Sports-Valencia CF-Rayo Vallecano" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",18:30-La Liga EA Sports-Valencia CF-Rayo Vallecano
-http://127.0.0.1/ace/manifest.m3u8?id=1969c27658d4c8333ab2c0670802546121a774a5
-#EXTINF:-1 tvg-id="18:30-La Liga EA Sports-Valencia CF-Rayo Vallecano" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",18:30-La Liga EA Sports-Valencia CF-Rayo Vallecano
-http://127.0.0.1/ace/manifest.m3u8?id=f031f5728b32f6089dda28edebe990cf198108d8
-#EXTINF:-1 tvg-id="18:30-LaLiga Hypermotion-Deportivo-Real Zaragoza" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",18:30-LaLiga Hypermotion-Deportivo-Real Zaragoza
-http://127.0.0.1/ace/manifest.m3u8?id=4c46585214b23b1d802ef2168060c7649a3894cf
-#EXTINF:-1 tvg-id="18:30-LaLiga Hypermotion-Deportivo-Real Zaragoza" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",18:30-LaLiga Hypermotion-Deportivo-Real Zaragoza
-http://127.0.0.1/ace/manifest.m3u8?id=06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
-#EXTINF:-1 tvg-id="18:30-Premier League-Manchester Utd.-Nottingham Forest" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",18:30-Premier League-Manchester Utd.-Nottingham Forest
-http://127.0.0.1/ace/manifest.m3u8?id=8ca07071b39185431f8e940ec98d1add9e561639
-#EXTINF:-1 tvg-id="18:30-Premier League-Manchester Utd.-Nottingham Forest" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",18:30-Premier League-Manchester Utd.-Nottingham Forest
-http://127.0.0.1/ace/manifest.m3u8?id=eaff9293c76a324c750ef5094c2a4e2c96518d1f
-#EXTINF:-1 tvg-id="20:15-Milan Open-Semifinal Masculina-Premier Padel Tour" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",20:15-Milan Open-Semifinal Masculina-Premier Padel Tour
-http://127.0.0.1/ace/manifest.m3u8?id=d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 tvg-id="20:15-Milan Open-Semifinal Masculina-Premier Padel Tour" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",20:15-Milan Open-Semifinal Masculina-Premier Padel Tour
-http://127.0.0.1/ace/manifest.m3u8?id=77d83a79afcf6c865289cd8cdb42223cd4b6501c
-#EXTINF:-1 tvg-id="20:15-Milan Open-Semifinal Masculina-Premier Padel Tour" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",20:15-Milan Open-Semifinal Masculina-Premier Padel Tour
-http://127.0.0.1/ace/manifest.m3u8?id=42e83c337ece0af9ca7808859f84c7960e9cb6f5
-#EXTINF:-1 tvg-id="20:15-Milan Open-Semifinal Masculina-Premier Padel Tour" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",20:15-Milan Open-Semifinal Masculina-Premier Padel Tour
-http://127.0.0.1/ace/manifest.m3u8?id=859bb6295b8d0f224224d3063d9db7cdeca03122
-#EXTINF:-1 tvg-id="20:15-Milan Open-Semifinal Masculina-Premier Padel Tour" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",20:15-Milan Open-Semifinal Masculina-Premier Padel Tour
-http://127.0.0.1/ace/manifest.m3u8?id=3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
-#EXTINF:-1 tvg-id="20:45-Liga Endesa Liga Regular-La Laguna Tenerife-Força Lleida" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",20:45-Liga Endesa Liga Regular-La Laguna Tenerife-Força Lleida
+#EXTINF:-1 tvg-id="12:30-Liga Endesa Liga Regular-Coviran Granada-Joventut Badalona" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",12:30-Liga Endesa Liga Regular-Coviran Granada-Joventut Badalona
 http://127.0.0.1/ace/manifest.m3u8?id=e6f06d697f66a8fa606c4d61236c24b0d604d917
-#EXTINF:-1 tvg-id="20:45-Liga Endesa Liga Regular-Valencia Basket-Basquet Girona" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",20:45-Liga Endesa Liga Regular-Valencia Basket-Basquet Girona
-http://127.0.0.1/ace/manifest.m3u8?id=d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 tvg-id="20:45-Liga Endesa Liga Regular-Valencia Basket-Basquet Girona" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",20:45-Liga Endesa Liga Regular-Valencia Basket-Basquet Girona
-http://127.0.0.1/ace/manifest.m3u8?id=77d83a79afcf6c865289cd8cdb42223cd4b6501c
-#EXTINF:-1 tvg-id="21:00-La Liga EA Sports-Girona-Real Madrid" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",21:00-La Liga EA Sports-Girona-Real Madrid
-http://127.0.0.1/ace/manifest.m3u8?id=aa82e7d4f03061f2144a2f4be22f2e2210d42280
-#EXTINF:-1 tvg-id="21:00-La Liga EA Sports-Girona-Real Madrid" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",21:00-La Liga EA Sports-Girona-Real Madrid
-http://127.0.0.1/ace/manifest.m3u8?id=7d8c87e057be98f00f22e23b23fbf08999e4b02f
-#EXTINF:-1 tvg-id="21:00-La Liga EA Sports-Girona-Real Madrid" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",21:00-La Liga EA Sports-Girona-Real Madrid
-http://127.0.0.1/ace/manifest.m3u8?id=1969c27658d4c8333ab2c0670802546121a774a5
-#EXTINF:-1 tvg-id="21:00-La Liga EA Sports-Girona-Real Madrid" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",21:00-La Liga EA Sports-Girona-Real Madrid
-http://127.0.0.1/ace/manifest.m3u8?id=f031f5728b32f6089dda28edebe990cf198108d8
-#EXTINF:-1 tvg-id="21:00-LaLiga Hypermotion-Huesca-Eibar" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",21:00-LaLiga Hypermotion-Huesca-Eibar
-http://127.0.0.1/ace/manifest.m3u8?id=4c46585214b23b1d802ef2168060c7649a3894cf
-#EXTINF:-1 tvg-id="21:00-LaLiga Hypermotion-Huesca-Eibar" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",21:00-LaLiga Hypermotion-Huesca-Eibar
-http://127.0.0.1/ace/manifest.m3u8?id=06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
-#EXTINF:-1 tvg-id="21:00-Liga Endesa Liga Regular-Básquet Coruña-BAXI Manresa" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",21:00-Liga Endesa Liga Regular-Básquet Coruña-BAXI Manresa
+#EXTINF:-1 tvg-id="12:30-Primera FEB Liga Regular-Movistar Estudiantes-Club Ourense Baloncesto" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",12:30-Primera FEB Liga Regular-Movistar Estudiantes-Club Ourense Baloncesto
 http://127.0.0.1/ace/manifest.m3u8?id=aee0a595220e0f1c2fee725fd1dbc602d7152a9a
-#EXTINF:-1 tvg-id="23:00-San Juan Open-Semifinales-A1 Padel" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",23:00-San Juan Open-Semifinales-A1 Padel
+#EXTINF:-1 tvg-id="13:00-Liga Endesa Liga Regular-Dreamland Gran Canaria-Río Breogán" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",13:00-Liga Endesa Liga Regular-Dreamland Gran Canaria-Río Breogán
+http://127.0.0.1/ace/manifest.m3u8?id=d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 tvg-id="13:00-Liga Endesa Liga Regular-Dreamland Gran Canaria-Río Breogán" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",13:00-Liga Endesa Liga Regular-Dreamland Gran Canaria-Río Breogán
+http://127.0.0.1/ace/manifest.m3u8?id=77d83a79afcf6c865289cd8cdb42223cd4b6501c
+#EXTINF:-1 tvg-id="14:00-Fórmula 1-G.P. Abu Dhabi (Yas Marina)-Carrera" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",14:00-Fórmula 1-G.P. Abu Dhabi (Yas Marina)-Carrera
+http://127.0.0.1/ace/manifest.m3u8?id=968627d24eec1c16b51d88e4a4a6c02211e3346e
+#EXTINF:-1 tvg-id="14:00-Fórmula 1-G.P. Abu Dhabi (Yas Marina)-Carrera" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",14:00-Fórmula 1-G.P. Abu Dhabi (Yas Marina)-Carrera
+http://127.0.0.1/ace/manifest.m3u8?id=5789ca155323664edd293b848606688edf803f4d
+#EXTINF:-1 tvg-id="14:00-Fórmula 1-G.P. Abu Dhabi (Yas Marina)-Carrera" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",14:00-Fórmula 1-G.P. Abu Dhabi (Yas Marina)-Carrera
+http://127.0.0.1/ace/manifest.m3u8?id=9dad717d99b29a05672166258a77c25b57713dd5
+#EXTINF:-1 tvg-id="14:00-Fórmula 1-G.P. Abu Dhabi (Yas Marina)-Carrera" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",14:00-Fórmula 1-G.P. Abu Dhabi (Yas Marina)-Carrera
+http://127.0.0.1/ace/manifest.m3u8?id=e1fcad9de0c782c157fde6377805c58297ab65c2
+#EXTINF:-1 tvg-id="14:00-La Liga EA Sports-Leganés-Real Sociedad" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",14:00-La Liga EA Sports-Leganés-Real Sociedad
+http://127.0.0.1/ace/manifest.m3u8?id=aa82e7d4f03061f2144a2f4be22f2e2210d42280
+#EXTINF:-1 tvg-id="14:00-La Liga EA Sports-Leganés-Real Sociedad" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",14:00-La Liga EA Sports-Leganés-Real Sociedad
+http://127.0.0.1/ace/manifest.m3u8?id=7d8c87e057be98f00f22e23b23fbf08999e4b02f
+#EXTINF:-1 tvg-id="14:00-La Liga EA Sports-Leganés-Real Sociedad" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",14:00-La Liga EA Sports-Leganés-Real Sociedad
+http://127.0.0.1/ace/manifest.m3u8?id=1969c27658d4c8333ab2c0670802546121a774a5
+#EXTINF:-1 tvg-id="14:00-La Liga EA Sports-Leganés-Real Sociedad" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",14:00-La Liga EA Sports-Leganés-Real Sociedad
+http://127.0.0.1/ace/manifest.m3u8?id=f031f5728b32f6089dda28edebe990cf198108d8
+#EXTINF:-1 tvg-id="14:00-LaLiga Hypermotion-Racing Ferrol-Real Oviedo" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",14:00-LaLiga Hypermotion-Racing Ferrol-Real Oviedo
+http://127.0.0.1/ace/manifest.m3u8?id=4c46585214b23b1d802ef2168060c7649a3894cf
+#EXTINF:-1 tvg-id="14:00-LaLiga Hypermotion-Racing Ferrol-Real Oviedo" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",14:00-LaLiga Hypermotion-Racing Ferrol-Real Oviedo
+http://127.0.0.1/ace/manifest.m3u8?id=06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
+#EXTINF:-1 tvg-id="15:00-Premier League-Fulham-Arsenal" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",15:00-Premier League-Fulham-Arsenal
+http://127.0.0.1/ace/manifest.m3u8?id=8ca07071b39185431f8e940ec98d1add9e561639
+#EXTINF:-1 tvg-id="15:00-Premier League-Fulham-Arsenal" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",15:00-Premier League-Fulham-Arsenal
+http://127.0.0.1/ace/manifest.m3u8?id=eaff9293c76a324c750ef5094c2a4e2c96518d1f
+#EXTINF:-1 tvg-id="15:00-Premier League-Ipswich Town-Bournemouth" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",15:00-Premier League-Ipswich Town-Bournemouth
 http://127.0.0.1/ace/manifest.m3u8?id=60dbeeb299ec04bf02bc7426d827547599d3d9fc
-#EXTINF:-1 tvg-id="23:00-San Juan Open-Semifinales-A1 Padel" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",23:00-San Juan Open-Semifinales-A1 Padel
+#EXTINF:-1 tvg-id="15:00-Premier League-Ipswich Town-Bournemouth" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",15:00-Premier League-Ipswich Town-Bournemouth
 http://127.0.0.1/ace/manifest.m3u8?id=7aa402bab9fff43258fbcf401881a39475f30aaf
-#EXTINF:-1 tvg-id="23:00-San Juan Open-Semifinales-A1 Padel" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",23:00-San Juan Open-Semifinales-A1 Padel
+#EXTINF:-1 tvg-id="15:00-Premier League-Leicester City-Brighton" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",15:00-Premier League-Leicester City-Brighton
+http://127.0.0.1/ace/manifest.m3u8?id=a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
+#EXTINF:-1 tvg-id="16:15-La Liga EA Sports-Athletic Club-Villarreal" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",16:15-La Liga EA Sports-Athletic Club-Villarreal
+http://127.0.0.1/ace/manifest.m3u8?id=aa82e7d4f03061f2144a2f4be22f2e2210d42280
+#EXTINF:-1 tvg-id="16:15-La Liga EA Sports-Athletic Club-Villarreal" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",16:15-La Liga EA Sports-Athletic Club-Villarreal
+http://127.0.0.1/ace/manifest.m3u8?id=7d8c87e057be98f00f22e23b23fbf08999e4b02f
+#EXTINF:-1 tvg-id="16:15-La Liga EA Sports-Athletic Club-Villarreal" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",16:15-La Liga EA Sports-Athletic Club-Villarreal
+http://127.0.0.1/ace/manifest.m3u8?id=1969c27658d4c8333ab2c0670802546121a774a5
+#EXTINF:-1 tvg-id="16:15-La Liga EA Sports-Athletic Club-Villarreal" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",16:15-La Liga EA Sports-Athletic Club-Villarreal
+http://127.0.0.1/ace/manifest.m3u8?id=f031f5728b32f6089dda28edebe990cf198108d8
+#EXTINF:-1 tvg-id="16:15-LaLiga Hypermotion-Málaga-UD Almería" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",16:15-LaLiga Hypermotion-Málaga-UD Almería
+http://127.0.0.1/ace/manifest.m3u8?id=4c46585214b23b1d802ef2168060c7649a3894cf
+#EXTINF:-1 tvg-id="16:15-LaLiga Hypermotion-Málaga-UD Almería" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",16:15-LaLiga Hypermotion-Málaga-UD Almería
+http://127.0.0.1/ace/manifest.m3u8?id=06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
+#EXTINF:-1 tvg-id="17:00-Liga Endesa Liga Regular-Barça Basket-UCAM Murcia CB" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",17:00-Liga Endesa Liga Regular-Barça Basket-UCAM Murcia CB
+http://127.0.0.1/ace/manifest.m3u8?id=e6f06d697f66a8fa606c4d61236c24b0d604d917
+#EXTINF:-1 tvg-id="17:00-Milan Open-Final Masculina-Premier Padel Tour" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",17:00-Milan Open-Final Masculina-Premier Padel Tour
+http://127.0.0.1/ace/manifest.m3u8?id=d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 tvg-id="17:00-Milan Open-Final Masculina-Premier Padel Tour" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",17:00-Milan Open-Final Masculina-Premier Padel Tour
+http://127.0.0.1/ace/manifest.m3u8?id=77d83a79afcf6c865289cd8cdb42223cd4b6501c
+#EXTINF:-1 tvg-id="17:00-Milan Open-Final Masculina-Premier Padel Tour" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",17:00-Milan Open-Final Masculina-Premier Padel Tour
+http://127.0.0.1/ace/manifest.m3u8?id=859bb6295b8d0f224224d3063d9db7cdeca03122
+#EXTINF:-1 tvg-id="17:00-Milan Open-Final Masculina-Premier Padel Tour" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",17:00-Milan Open-Final Masculina-Premier Padel Tour
+http://127.0.0.1/ace/manifest.m3u8?id=3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
+#EXTINF:-1 tvg-id="17:30-Premier League-Tottenham-Chelsea" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",17:30-Premier League-Tottenham-Chelsea
+http://127.0.0.1/ace/manifest.m3u8?id=8ca07071b39185431f8e940ec98d1add9e561639
+#EXTINF:-1 tvg-id="17:30-Premier League-Tottenham-Chelsea" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",17:30-Premier League-Tottenham-Chelsea
+http://127.0.0.1/ace/manifest.m3u8?id=eaff9293c76a324c750ef5094c2a4e2c96518d1f
+#EXTINF:-1 tvg-id="18:30-La Liga EA Sports-Osasuna-Alavés" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",18:30-La Liga EA Sports-Osasuna-Alavés
+http://127.0.0.1/ace/manifest.m3u8?id=aa82e7d4f03061f2144a2f4be22f2e2210d42280
+#EXTINF:-1 tvg-id="18:30-La Liga EA Sports-Osasuna-Alavés" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",18:30-La Liga EA Sports-Osasuna-Alavés
+http://127.0.0.1/ace/manifest.m3u8?id=7d8c87e057be98f00f22e23b23fbf08999e4b02f
+#EXTINF:-1 tvg-id="18:30-La Liga EA Sports-Osasuna-Alavés" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",18:30-La Liga EA Sports-Osasuna-Alavés
+http://127.0.0.1/ace/manifest.m3u8?id=1969c27658d4c8333ab2c0670802546121a774a5
+#EXTINF:-1 tvg-id="18:30-La Liga EA Sports-Osasuna-Alavés" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",18:30-La Liga EA Sports-Osasuna-Alavés
+http://127.0.0.1/ace/manifest.m3u8?id=www.goltelevision.com/en-directo
+#EXTINF:-1 tvg-id="18:30-LaLiga Hypermotion-Albacete-CD Castellón" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",18:30-LaLiga Hypermotion-Albacete-CD Castellón
+http://127.0.0.1/ace/manifest.m3u8?id=4c46585214b23b1d802ef2168060c7649a3894cf
+#EXTINF:-1 tvg-id="18:30-LaLiga Hypermotion-Albacete-CD Castellón" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",18:30-LaLiga Hypermotion-Albacete-CD Castellón
+http://127.0.0.1/ace/manifest.m3u8?id=06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
+#EXTINF:-1 tvg-id="18:30-LaLiga Hypermotion-Burgos CF-Eldense" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",18:30-LaLiga Hypermotion-Burgos CF-Eldense
+http://127.0.0.1/ace/manifest.m3u8?id=d81b4f2f3fde433539c097b2edc9b587ca47b087
+#EXTINF:-1 tvg-id="18:30-LaLiga Hypermotion-Burgos CF-Eldense" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",18:30-LaLiga Hypermotion-Burgos CF-Eldense
+http://127.0.0.1/ace/manifest.m3u8?id=2709d0ab86cb6ce7ba4d3ad188d7fa80668f2924
+#EXTINF:-1 tvg-id="18:30-Liga Endesa Liga Regular-Real Madrid Baloncesto-Unicaja Málaga" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",18:30-Liga Endesa Liga Regular-Real Madrid Baloncesto-Unicaja Málaga
+http://127.0.0.1/ace/manifest.m3u8?id=d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 tvg-id="18:30-Liga Endesa Liga Regular-Real Madrid Baloncesto-Unicaja Málaga" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",18:30-Liga Endesa Liga Regular-Real Madrid Baloncesto-Unicaja Málaga
+http://127.0.0.1/ace/manifest.m3u8?id=77d83a79afcf6c865289cd8cdb42223cd4b6501c
+#EXTINF:-1 tvg-id="21:00-La Liga EA Sports-At. Madrid-Sevilla FC" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",21:00-La Liga EA Sports-At. Madrid-Sevilla FC
+http://127.0.0.1/ace/manifest.m3u8?id=aa82e7d4f03061f2144a2f4be22f2e2210d42280
+#EXTINF:-1 tvg-id="21:00-La Liga EA Sports-At. Madrid-Sevilla FC" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",21:00-La Liga EA Sports-At. Madrid-Sevilla FC
+http://127.0.0.1/ace/manifest.m3u8?id=7d8c87e057be98f00f22e23b23fbf08999e4b02f
+#EXTINF:-1 tvg-id="21:00-La Liga EA Sports-At. Madrid-Sevilla FC" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",21:00-La Liga EA Sports-At. Madrid-Sevilla FC
+http://127.0.0.1/ace/manifest.m3u8?id=1969c27658d4c8333ab2c0670802546121a774a5
+#EXTINF:-1 tvg-id="21:00-La Liga EA Sports-At. Madrid-Sevilla FC" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",21:00-La Liga EA Sports-At. Madrid-Sevilla FC
+http://127.0.0.1/ace/manifest.m3u8?id=f031f5728b32f6089dda28edebe990cf198108d8
+#EXTINF:-1 tvg-id="21:00-LaLiga Hypermotion-Córdoba-CD Tenerife" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",21:00-LaLiga Hypermotion-Córdoba-CD Tenerife
+http://127.0.0.1/ace/manifest.m3u8?id=4c46585214b23b1d802ef2168060c7649a3894cf
+#EXTINF:-1 tvg-id="21:00-LaLiga Hypermotion-Córdoba-CD Tenerife" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",21:00-LaLiga Hypermotion-Córdoba-CD Tenerife
+http://127.0.0.1/ace/manifest.m3u8?id=06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
+#EXTINF:-1 tvg-id="21:30-NBA Liga Regular-Brooklyn Nets-Milwaukee Bucks" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",21:30-NBA Liga Regular-Brooklyn Nets-Milwaukee Bucks
+http://127.0.0.1/ace/manifest.m3u8?id=d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 tvg-id="21:30-NBA Liga Regular-Brooklyn Nets-Milwaukee Bucks" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",21:30-NBA Liga Regular-Brooklyn Nets-Milwaukee Bucks
+http://127.0.0.1/ace/manifest.m3u8?id=77d83a79afcf6c865289cd8cdb42223cd4b6501c
+#EXTINF:-1 tvg-id="21:30-NBA Liga Regular-Brooklyn Nets-Milwaukee Bucks" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",21:30-NBA Liga Regular-Brooklyn Nets-Milwaukee Bucks
+http://127.0.0.1/ace/manifest.m3u8?id=859bb6295b8d0f224224d3063d9db7cdeca03122
+#EXTINF:-1 tvg-id="21:30-NBA Liga Regular-Brooklyn Nets-Milwaukee Bucks" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",21:30-NBA Liga Regular-Brooklyn Nets-Milwaukee Bucks
+http://127.0.0.1/ace/manifest.m3u8?id=3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
+#EXTINF:-1 tvg-id="23:00-San Juan Open-Final-A1 Padel" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",23:00-San Juan Open-Final-A1 Padel
+http://127.0.0.1/ace/manifest.m3u8?id=60dbeeb299ec04bf02bc7426d827547599d3d9fc
+#EXTINF:-1 tvg-id="23:00-San Juan Open-Final-A1 Padel" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",23:00-San Juan Open-Final-A1 Padel
+http://127.0.0.1/ace/manifest.m3u8?id=7aa402bab9fff43258fbcf401881a39475f30aaf
+#EXTINF:-1 tvg-id="23:00-San Juan Open-Final-A1 Padel" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",23:00-San Juan Open-Final-A1 Padel
 http://127.0.0.1/ace/manifest.m3u8?id=1960a9be8ae9e8c755330218eac4c5805466290a
-#EXTINF:-1 tvg-id="23:00-San Juan Open-Semifinales-A1 Padel" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",23:00-San Juan Open-Semifinales-A1 Padel
+#EXTINF:-1 tvg-id="23:00-San Juan Open-Final-A1 Padel" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",23:00-San Juan Open-Final-A1 Padel
 http://127.0.0.1/ace/manifest.m3u8?id=75251ba975132ec9a202806ba5bf606e87280c96
-#EXTINF:-1 tvg-id="23:00-San Juan Open-Semifinales-A1 Padel" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",23:00-San Juan Open-Semifinales-A1 Padel
+#EXTINF:-1 tvg-id="23:00-San Juan Open-Final-A1 Padel" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",23:00-San Juan Open-Final-A1 Padel
 http://127.0.0.1/ace/manifest.m3u8?id=a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914
