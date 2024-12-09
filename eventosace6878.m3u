@@ -7,9 +7,9 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=77d83a79afcf6c865289cd8cdb42223cd4b65
 http://127.0.0.1:6878/ace/manifest.m3u8?id=859bb6295b8d0f224224d3063d9db7cdeca03122
 #EXTINF:-1 tvg-id="13:00-Copa del Rey-Sorteo Dieciseisavos de Final-M+ Vamos (8 y 53)" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",13:00-Copa del Rey-Sorteo Dieciseisavos de Final-M+ Vamos (8 y 53)
 http://127.0.0.1:6878/ace/manifest.m3u8?id=tdtchannels.com/television/Teledeporte
-#EXTINF:-1 tvg-id="20:30-LaLiga Hypermotion-FC Cartagena-Sporting Gijón" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",20:30-LaLiga Hypermotion-FC Cartagena-Sporting Gijón
+#EXTINF:-1 tvg-id="20:30-LaLiga Hypermotion Estadio Municipal Cartagonova" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",20:30-LaLiga Hypermotion Estadio Municipal Cartagonova
 http://127.0.0.1:6878/ace/manifest.m3u8?id=4c46585214b23b1d802ef2168060c7649a3894cf
-#EXTINF:-1 tvg-id="20:30-LaLiga Hypermotion-FC Cartagena-Sporting Gijón" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",20:30-LaLiga Hypermotion-FC Cartagena-Sporting Gijón
+#EXTINF:-1 tvg-id="20:30-LaLiga Hypermotion Estadio Municipal Cartagonova" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",20:30-LaLiga Hypermotion Estadio Municipal Cartagonova
 http://127.0.0.1:6878/ace/manifest.m3u8?id=06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
 #EXTINF:-1 tvg-id="21:00-La Liga EA Sports-Getafe-Espanyol" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",21:00-La Liga EA Sports-Getafe-Espanyol
 http://127.0.0.1:6878/ace/manifest.m3u8?id=aa82e7d4f03061f2144a2f4be22f2e2210d42280
