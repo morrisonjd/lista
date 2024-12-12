@@ -1,78 +1,132 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="01:00-NBA Cup cuartos de Final-Milwaukee Bucks-Orlando Magic" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",01:00-NBA Cup cuartos de Final-Milwaukee Bucks-Orlando Magic
+#EXTINF:-1 tvg-id="01:00-NBA Cup cuartos de Final-New York Knicks-Atlanta Hawks" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",01:00-NBA Cup cuartos de Final-New York Knicks-Atlanta Hawks
 http://127.0.0.1/ace/manifest.m3u8?id=d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 tvg-id="01:00-NBA Cup cuartos de Final-Milwaukee Bucks-Orlando Magic" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",01:00-NBA Cup cuartos de Final-Milwaukee Bucks-Orlando Magic
+#EXTINF:-1 tvg-id="01:00-NBA Cup cuartos de Final-New York Knicks-Atlanta Hawks" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",01:00-NBA Cup cuartos de Final-New York Knicks-Atlanta Hawks
 http://127.0.0.1/ace/manifest.m3u8?id=77d83a79afcf6c865289cd8cdb42223cd4b6501c
-#EXTINF:-1 tvg-id="01:00-NBA Cup cuartos de Final-Milwaukee Bucks-Orlando Magic" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",01:00-NBA Cup cuartos de Final-Milwaukee Bucks-Orlando Magic
+#EXTINF:-1 tvg-id="01:00-NBA Cup cuartos de Final-New York Knicks-Atlanta Hawks" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",01:00-NBA Cup cuartos de Final-New York Knicks-Atlanta Hawks
 http://127.0.0.1/ace/manifest.m3u8?id=859bb6295b8d0f224224d3063d9db7cdeca03122
-#EXTINF:-1 tvg-id="01:00-NBA Cup cuartos de Final-Milwaukee Bucks-Orlando Magic" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",01:00-NBA Cup cuartos de Final-Milwaukee Bucks-Orlando Magic
+#EXTINF:-1 tvg-id="01:00-NBA Cup cuartos de Final-New York Knicks-Atlanta Hawks" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",01:00-NBA Cup cuartos de Final-New York Knicks-Atlanta Hawks
 http://127.0.0.1/ace/manifest.m3u8?id=3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
-#EXTINF:-1 tvg-id="03:30-NBA Cup cuartos de Final-Oklahoma C. Thunder-Dallas Mavericks" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",03:30-NBA Cup cuartos de Final-Oklahoma C. Thunder-Dallas Mavericks
+#EXTINF:-1 tvg-id="03:30-NBA Cup cuartos de Final-Houston Rockets-Golden State Warriors" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",03:30-NBA Cup cuartos de Final-Houston Rockets-Golden State Warriors
 http://127.0.0.1/ace/manifest.m3u8?id=d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 tvg-id="03:30-NBA Cup cuartos de Final-Oklahoma C. Thunder-Dallas Mavericks" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",03:30-NBA Cup cuartos de Final-Oklahoma C. Thunder-Dallas Mavericks
+#EXTINF:-1 tvg-id="03:30-NBA Cup cuartos de Final-Houston Rockets-Golden State Warriors" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",03:30-NBA Cup cuartos de Final-Houston Rockets-Golden State Warriors
 http://127.0.0.1/ace/manifest.m3u8?id=77d83a79afcf6c865289cd8cdb42223cd4b6501c
-#EXTINF:-1 tvg-id="16:30-Europa League Fase Liga-Fenerbahçe-Athletic Club" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",16:30-Europa League Fase Liga-Fenerbahçe-Athletic Club
-http://127.0.0.1/ace/manifest.m3u8?id=fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
-#EXTINF:-1 tvg-id="16:30-Europa League Fase Liga-Fenerbahçe-Athletic Club" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",16:30-Europa League Fase Liga-Fenerbahçe-Athletic Club
-http://127.0.0.1/ace/manifest.m3u8?id=6753492c1908274c268a1b28e2a054a0ff8f86f9
-#EXTINF:-1 tvg-id="18:45-Champions League Fase Liga-At. Madrid-Slovan Bratislava" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",18:45-Champions League Fase Liga-At. Madrid-Slovan Bratislava
-http://127.0.0.1/ace/manifest.m3u8?id=931b1984badcb821df7b47a66ac0835ac871b51c
-#EXTINF:-1 tvg-id="18:45-Champions League Fase Liga-At. Madrid-Slovan Bratislava" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",18:45-Champions League Fase Liga-At. Madrid-Slovan Bratislava
-http://127.0.0.1/ace/manifest.m3u8?id=f096a64dd756a6d549aa7b12ee9acf7eee27e833
-#EXTINF:-1 tvg-id="18:45-Champions League Fase Liga-At. Madrid-Slovan Bratislava" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",18:45-Champions League Fase Liga-At. Madrid-Slovan Bratislava
-http://127.0.0.1/ace/manifest.m3u8?id=1d79a7543d691666135669f89f3541f54e2dd0a9
-#EXTINF:-1 tvg-id="18:45-Champions League Fase Liga-At. Madrid-Slovan Bratislava" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",18:45-Champions League Fase Liga-At. Madrid-Slovan Bratislava
-http://127.0.0.1/ace/manifest.m3u8?id=e2e2aca792aae5da19995ac516b1d620531bd49c
-#EXTINF:-1 tvg-id="18:45-Champions League Fase Liga-Lille-Sturm Graz" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",18:45-Champions League Fase Liga-Lille-Sturm Graz
-http://127.0.0.1/ace/manifest.m3u8?id=ad372cba73aa0ece207a79532b3e30b731136bb2
-#EXTINF:-1 tvg-id="18:45-Champions League Fase Liga-Lille-Sturm Graz" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",18:45-Champions League Fase Liga-Lille-Sturm Graz
-http://127.0.0.1/ace/manifest.m3u8?id=d59fe9978eed49f256b312a60671b5bce43d3f24
-#EXTINF:-1 tvg-id="20:30-Primera FEB Liga Regular-CB Morón-Movistar Estudiantes" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",20:30-Primera FEB Liga Regular-CB Morón-Movistar Estudiantes
+#EXTINF:-1 tvg-id="03:30-NBA Cup cuartos de Final-Houston Rockets-Golden State Warriors" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",03:30-NBA Cup cuartos de Final-Houston Rockets-Golden State Warriors
+http://127.0.0.1/ace/manifest.m3u8?id=859bb6295b8d0f224224d3063d9db7cdeca03122
+#EXTINF:-1 tvg-id="03:30-NBA Cup cuartos de Final-Houston Rockets-Golden State Warriors" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",03:30-NBA Cup cuartos de Final-Houston Rockets-Golden State Warriors
+http://127.0.0.1/ace/manifest.m3u8?id=3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
+#EXTINF:-1 tvg-id="18:45-Euroliga Liga Regular-Fenerbahce Istanbul-AS Monaco Basket" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",18:45-Euroliga Liga Regular-Fenerbahce Istanbul-AS Monaco Basket
 http://127.0.0.1/ace/manifest.m3u8?id=e6f06d697f66a8fa606c4d61236c24b0d604d917
-#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-AC Milan-Crvena Zvezda" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",21:00-Champions League Fase Liga-AC Milan-Crvena Zvezda
-http://127.0.0.1/ace/manifest.m3u8?id=f2df4f96b23388b45e75d848a48a510cf8af560f
-#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-AC Milan-Crvena Zvezda" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",21:00-Champions League Fase Liga-AC Milan-Crvena Zvezda
-http://127.0.0.1/ace/manifest.m3u8?id=67b353ab1c4c2f6396b3ca5c4b45023bd9927561
-#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Arsenal-AS Monaco" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",21:00-Champions League Fase Liga-Arsenal-AS Monaco
+#EXTINF:-1 tvg-id="18:45-Europa League Fase Liga-AS Roma-SC Braga" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",18:45-Europa League Fase Liga-AS Roma-SC Braga
 http://127.0.0.1/ace/manifest.m3u8?id=ad372cba73aa0ece207a79532b3e30b731136bb2
-#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Arsenal-AS Monaco" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",21:00-Champions League Fase Liga-Arsenal-AS Monaco
+#EXTINF:-1 tvg-id="18:45-Europa League Fase Liga-AS Roma-SC Braga" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",18:45-Europa League Fase Liga-AS Roma-SC Braga
 http://127.0.0.1/ace/manifest.m3u8?id=d59fe9978eed49f256b312a60671b5bce43d3f24
-#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Arsenal-AS Monaco" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",21:00-Champions League Fase Liga-Arsenal-AS Monaco
+#EXTINF:-1 tvg-id="18:45-Europa League Fase Liga-AS Roma-SC Braga" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",18:45-Europa League Fase Liga-AS Roma-SC Braga
 http://127.0.0.1/ace/manifest.m3u8?id=f2df4f96b23388b45e75d848a48a510cf8af560f
-#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Benfica-Bologna" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",21:00-Champions League Fase Liga-Benfica-Bologna
-http://127.0.0.1/ace/manifest.m3u8?id=f2df4f96b23388b45e75d848a48a510cf8af560f
-#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Benfica-Bologna" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",21:00-Champions League Fase Liga-Benfica-Bologna
-http://127.0.0.1/ace/manifest.m3u8?id=64a9353032efa2acb093d0bb86481f20f482d47e
-#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Borussia Dortmund-FC Barcelona" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",21:00-Champions League Fase Liga-Borussia Dortmund-FC Barcelona
-http://127.0.0.1/ace/manifest.m3u8?id=931b1984badcb821df7b47a66ac0835ac871b51c
-#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Borussia Dortmund-FC Barcelona" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",21:00-Champions League Fase Liga-Borussia Dortmund-FC Barcelona
-http://127.0.0.1/ace/manifest.m3u8?id=f096a64dd756a6d549aa7b12ee9acf7eee27e833
-#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Borussia Dortmund-FC Barcelona" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",21:00-Champions League Fase Liga-Borussia Dortmund-FC Barcelona
-http://127.0.0.1/ace/manifest.m3u8?id=1d79a7543d691666135669f89f3541f54e2dd0a9
-#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Borussia Dortmund-FC Barcelona" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",21:00-Champions League Fase Liga-Borussia Dortmund-FC Barcelona
+#EXTINF:-1 tvg-id="18:45-Europa League Fase Liga-Hoffenheim-FCSB" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",18:45-Europa League Fase Liga-Hoffenheim-FCSB
+http://127.0.0.1/ace/manifest.m3u8?id=ad372cba73aa0ece207a79532b3e30b731136bb2
+#EXTINF:-1 tvg-id="18:45-Europa League Fase Liga-Hoffenheim-FCSB" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",18:45-Europa League Fase Liga-Hoffenheim-FCSB
+http://127.0.0.1/ace/manifest.m3u8?id=d59fe9978eed49f256b312a60671b5bce43d3f24
+#EXTINF:-1 tvg-id="18:45-Europa League Fase Liga-Malmö FF-Galatasaray" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",18:45-Europa League Fase Liga-Malmö FF-Galatasaray
+http://127.0.0.1/ace/manifest.m3u8?id=ad372cba73aa0ece207a79532b3e30b731136bb2
+#EXTINF:-1 tvg-id="18:45-Europa League Fase Liga-Malmö FF-Galatasaray" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",18:45-Europa League Fase Liga-Malmö FF-Galatasaray
+http://127.0.0.1/ace/manifest.m3u8?id=d59fe9978eed49f256b312a60671b5bce43d3f24
+#EXTINF:-1 tvg-id="18:45-Europa League Fase Liga-Malmö FF-Galatasaray" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",18:45-Europa League Fase Liga-Malmö FF-Galatasaray
 http://127.0.0.1/ace/manifest.m3u8?id=e2e2aca792aae5da19995ac516b1d620531bd49c
-#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Borussia Dortmund-FC Barcelona" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",21:00-Champions League Fase Liga-Borussia Dortmund-FC Barcelona
-http://127.0.0.1/ace/manifest.m3u8?id=f2df4f96b23388b45e75d848a48a510cf8af560f
-#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Feyenoord-Sparta Praha" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",21:00-Champions League Fase Liga-Feyenoord-Sparta Praha
-http://127.0.0.1/ace/manifest.m3u8?id=f2df4f96b23388b45e75d848a48a510cf8af560f
-#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Juventus-Manchester City" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",21:00-Champions League Fase Liga-Juventus-Manchester City
+#EXTINF:-1 tvg-id="18:45-Europa League Fase Liga-Olympiacos-Twente" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",18:45-Europa League Fase Liga-Olympiacos-Twente
+http://127.0.0.1/ace/manifest.m3u8?id=ad372cba73aa0ece207a79532b3e30b731136bb2
+#EXTINF:-1 tvg-id="18:45-Europa League Fase Liga-Olympiacos-Twente" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",18:45-Europa League Fase Liga-Olympiacos-Twente
+http://127.0.0.1/ace/manifest.m3u8?id=d59fe9978eed49f256b312a60671b5bce43d3f24
+#EXTINF:-1 tvg-id="18:45-Europa League Fase Liga-Olympiacos-Twente" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",18:45-Europa League Fase Liga-Olympiacos-Twente
+http://127.0.0.1/ace/manifest.m3u8?id=67b353ab1c4c2f6396b3ca5c4b45023bd9927561
+#EXTINF:-1 tvg-id="18:45-Europa League Fase Liga-PAOK FC-Ferencvaros" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",18:45-Europa League Fase Liga-PAOK FC-Ferencvaros
+http://127.0.0.1/ace/manifest.m3u8?id=ad372cba73aa0ece207a79532b3e30b731136bb2
+#EXTINF:-1 tvg-id="18:45-Europa League Fase Liga-PAOK FC-Ferencvaros" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",18:45-Europa League Fase Liga-PAOK FC-Ferencvaros
+http://127.0.0.1/ace/manifest.m3u8?id=d59fe9978eed49f256b312a60671b5bce43d3f24
+#EXTINF:-1 tvg-id="18:45-Europa League Fase Liga-PFC Ludogorets-AZ Alkmaar" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",18:45-Europa League Fase Liga-PFC Ludogorets-AZ Alkmaar
+http://127.0.0.1/ace/manifest.m3u8?id=ad372cba73aa0ece207a79532b3e30b731136bb2
+#EXTINF:-1 tvg-id="18:45-Europa League Fase Liga-PFC Ludogorets-AZ Alkmaar" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",18:45-Europa League Fase Liga-PFC Ludogorets-AZ Alkmaar
+http://127.0.0.1/ace/manifest.m3u8?id=d59fe9978eed49f256b312a60671b5bce43d3f24
+#EXTINF:-1 tvg-id="18:45-Europa League Fase Liga-Saint-Gilloise-Nice" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",18:45-Europa League Fase Liga-Saint-Gilloise-Nice
+http://127.0.0.1/ace/manifest.m3u8?id=ad372cba73aa0ece207a79532b3e30b731136bb2
+#EXTINF:-1 tvg-id="18:45-Europa League Fase Liga-Saint-Gilloise-Nice" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",18:45-Europa League Fase Liga-Saint-Gilloise-Nice
+http://127.0.0.1/ace/manifest.m3u8?id=d59fe9978eed49f256b312a60671b5bce43d3f24
+#EXTINF:-1 tvg-id="18:45-Europa League Fase Liga-Viktoria Plzen-Manchester Utd." tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",18:45-Europa League Fase Liga-Viktoria Plzen-Manchester Utd.
 http://127.0.0.1/ace/manifest.m3u8?id=fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
-#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Juventus-Manchester City" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",21:00-Champions League Fase Liga-Juventus-Manchester City
+#EXTINF:-1 tvg-id="18:45-Europa League Fase Liga-Viktoria Plzen-Manchester Utd." tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",18:45-Europa League Fase Liga-Viktoria Plzen-Manchester Utd.
 http://127.0.0.1/ace/manifest.m3u8?id=6753492c1908274c268a1b28e2a054a0ff8f86f9
-#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Juventus-Manchester City" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",21:00-Champions League Fase Liga-Juventus-Manchester City
-http://127.0.0.1/ace/manifest.m3u8?id=f2df4f96b23388b45e75d848a48a510cf8af560f
-#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Stuttgart-Young Boys" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",21:00-Champions League Fase Liga-Stuttgart-Young Boys
-http://127.0.0.1/ace/manifest.m3u8?id=f2df4f96b23388b45e75d848a48a510cf8af560f
-#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Stuttgart-Young Boys" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",21:00-Champions League Fase Liga-Stuttgart-Young Boys
-http://127.0.0.1/ace/manifest.m3u8?id=e2e2aca792aae5da19995ac516b1d620531bd49c
-#EXTINF:-1 tvg-id="21:00-Eurocup Liga Regular-Dreamland Gran Canaria-Buducnost Voli" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",21:00-Eurocup Liga Regular-Dreamland Gran Canaria-Buducnost Voli
+#EXTINF:-1 tvg-id="18:45-Europa League Fase Liga-Viktoria Plzen-Manchester Utd." tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",18:45-Europa League Fase Liga-Viktoria Plzen-Manchester Utd.
+http://127.0.0.1/ace/manifest.m3u8?id=ad372cba73aa0ece207a79532b3e30b731136bb2
+#EXTINF:-1 tvg-id="18:45-Europa League Fase Liga-Viktoria Plzen-Manchester Utd." tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",18:45-Europa League Fase Liga-Viktoria Plzen-Manchester Utd.
+http://127.0.0.1/ace/manifest.m3u8?id=d59fe9978eed49f256b312a60671b5bce43d3f24
+#EXTINF:-1 tvg-id="19:00-Euroliga Liga Regular-ALBA Berlin-BC Partizan Beograd" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",19:00-Euroliga Liga Regular-ALBA Berlin-BC Partizan Beograd
+http://127.0.0.1/ace/manifest.m3u8?id=42e83c337ece0af9ca7808859f84c7960e9cb6f5
+#EXTINF:-1 tvg-id="20:30-Euroliga Liga Regular-Baskonia-Virtus Bologna" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",20:30-Euroliga Liga Regular-Baskonia-Virtus Bologna
 http://127.0.0.1/ace/manifest.m3u8?id=d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 tvg-id="21:00-Eurocup Liga Regular-Dreamland Gran Canaria-Buducnost Voli" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",21:00-Eurocup Liga Regular-Dreamland Gran Canaria-Buducnost Voli
+#EXTINF:-1 tvg-id="20:30-Euroliga Liga Regular-Baskonia-Virtus Bologna" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",20:30-Euroliga Liga Regular-Baskonia-Virtus Bologna
 http://127.0.0.1/ace/manifest.m3u8?id=77d83a79afcf6c865289cd8cdb42223cd4b6501c
-#EXTINF:-1 tvg-id="21:00-Eurocup Liga Regular-Dreamland Gran Canaria-Buducnost Voli" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",21:00-Eurocup Liga Regular-Dreamland Gran Canaria-Buducnost Voli
+#EXTINF:-1 tvg-id="20:30-Euroliga Liga Regular-Baskonia-Virtus Bologna" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",20:30-Euroliga Liga Regular-Baskonia-Virtus Bologna
 http://127.0.0.1/ace/manifest.m3u8?id=859bb6295b8d0f224224d3063d9db7cdeca03122
-#EXTINF:-1 tvg-id="21:00-Eurocup Liga Regular-Dreamland Gran Canaria-Buducnost Voli" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",21:00-Eurocup Liga Regular-Dreamland Gran Canaria-Buducnost Voli
+#EXTINF:-1 tvg-id="20:30-Euroliga Liga Regular-Baskonia-Virtus Bologna" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",20:30-Euroliga Liga Regular-Baskonia-Virtus Bologna
 http://127.0.0.1/ace/manifest.m3u8?id=3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
+#EXTINF:-1 tvg-id="20:45-Euroliga Liga Regular-FC Bayern Basketball-Maccabi Tel Aviv BC" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",20:45-Euroliga Liga Regular-FC Bayern Basketball-Maccabi Tel Aviv BC
+http://127.0.0.1/ace/manifest.m3u8?id=aee0a595220e0f1c2fee725fd1dbc602d7152a9a
+#EXTINF:-1 tvg-id="20:45-Euroliga Liga Regular-Real Madrid Baloncesto-Zalgiris Kaunas" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",20:45-Euroliga Liga Regular-Real Madrid Baloncesto-Zalgiris Kaunas
+http://127.0.0.1/ace/manifest.m3u8?id=d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 tvg-id="20:45-Euroliga Liga Regular-Real Madrid Baloncesto-Zalgiris Kaunas" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",20:45-Euroliga Liga Regular-Real Madrid Baloncesto-Zalgiris Kaunas
+http://127.0.0.1/ace/manifest.m3u8?id=77d83a79afcf6c865289cd8cdb42223cd4b6501c
+#EXTINF:-1 tvg-id="21:00-Europa League Fase Liga-Ajax-Lazio" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",21:00-Europa League Fase Liga-Ajax-Lazio
+http://127.0.0.1/ace/manifest.m3u8?id=ad372cba73aa0ece207a79532b3e30b731136bb2
+#EXTINF:-1 tvg-id="21:00-Europa League Fase Liga-Ajax-Lazio" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",21:00-Europa League Fase Liga-Ajax-Lazio
+http://127.0.0.1/ace/manifest.m3u8?id=d59fe9978eed49f256b312a60671b5bce43d3f24
+#EXTINF:-1 tvg-id="21:00-Europa League Fase Liga-Ajax-Lazio" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",21:00-Europa League Fase Liga-Ajax-Lazio
+http://127.0.0.1/ace/manifest.m3u8?id=f2df4f96b23388b45e75d848a48a510cf8af560f
+#EXTINF:-1 tvg-id="21:00-Europa League Fase Liga-Elfsborg-Qarabag FK" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",21:00-Europa League Fase Liga-Elfsborg-Qarabag FK
+http://127.0.0.1/ace/manifest.m3u8?id=ad372cba73aa0ece207a79532b3e30b731136bb2
+#EXTINF:-1 tvg-id="21:00-Europa League Fase Liga-Elfsborg-Qarabag FK" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",21:00-Europa League Fase Liga-Elfsborg-Qarabag FK
+http://127.0.0.1/ace/manifest.m3u8?id=d59fe9978eed49f256b312a60671b5bce43d3f24
+#EXTINF:-1 tvg-id="21:00-Europa League Fase Liga-FC Porto-FC Midtjylland" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",21:00-Europa League Fase Liga-FC Porto-FC Midtjylland
+http://127.0.0.1/ace/manifest.m3u8?id=ad372cba73aa0ece207a79532b3e30b731136bb2
+#EXTINF:-1 tvg-id="21:00-Europa League Fase Liga-FC Porto-FC Midtjylland" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",21:00-Europa League Fase Liga-FC Porto-FC Midtjylland
+http://127.0.0.1/ace/manifest.m3u8?id=d59fe9978eed49f256b312a60671b5bce43d3f24
+#EXTINF:-1 tvg-id="21:00-Europa League Fase Liga-FC Porto-FC Midtjylland" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",21:00-Europa League Fase Liga-FC Porto-FC Midtjylland
+http://127.0.0.1/ace/manifest.m3u8?id=67b353ab1c4c2f6396b3ca5c4b45023bd9927561
+#EXTINF:-1 tvg-id="21:00-Europa League Fase Liga-Maccabi Tel Aviv FC-RFS Riga" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",21:00-Europa League Fase Liga-Maccabi Tel Aviv FC-RFS Riga
+http://127.0.0.1/ace/manifest.m3u8?id=ad372cba73aa0ece207a79532b3e30b731136bb2
+#EXTINF:-1 tvg-id="21:00-Europa League Fase Liga-Maccabi Tel Aviv FC-RFS Riga" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",21:00-Europa League Fase Liga-Maccabi Tel Aviv FC-RFS Riga
+http://127.0.0.1/ace/manifest.m3u8?id=d59fe9978eed49f256b312a60671b5bce43d3f24
+#EXTINF:-1 tvg-id="21:00-Europa League Fase Liga-O. Lyonnais-Eintracht Frankfurt" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",21:00-Europa League Fase Liga-O. Lyonnais-Eintracht Frankfurt
+http://127.0.0.1/ace/manifest.m3u8?id=ad372cba73aa0ece207a79532b3e30b731136bb2
+#EXTINF:-1 tvg-id="21:00-Europa League Fase Liga-O. Lyonnais-Eintracht Frankfurt" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",21:00-Europa League Fase Liga-O. Lyonnais-Eintracht Frankfurt
+http://127.0.0.1/ace/manifest.m3u8?id=d59fe9978eed49f256b312a60671b5bce43d3f24
+#EXTINF:-1 tvg-id="21:00-Europa League Fase Liga-O. Lyonnais-Eintracht Frankfurt" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",21:00-Europa League Fase Liga-O. Lyonnais-Eintracht Frankfurt
+http://127.0.0.1/ace/manifest.m3u8?id=64a9353032efa2acb093d0bb86481f20f482d47e
+#EXTINF:-1 tvg-id="21:00-Europa League Fase Liga-Rangers FC-Tottenham" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",21:00-Europa League Fase Liga-Rangers FC-Tottenham
+http://127.0.0.1/ace/manifest.m3u8?id=fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
+#EXTINF:-1 tvg-id="21:00-Europa League Fase Liga-Rangers FC-Tottenham" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",21:00-Europa League Fase Liga-Rangers FC-Tottenham
+http://127.0.0.1/ace/manifest.m3u8?id=6753492c1908274c268a1b28e2a054a0ff8f86f9
+#EXTINF:-1 tvg-id="21:00-Europa League Fase Liga-Rangers FC-Tottenham" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",21:00-Europa League Fase Liga-Rangers FC-Tottenham
+http://127.0.0.1/ace/manifest.m3u8?id=ad372cba73aa0ece207a79532b3e30b731136bb2
+#EXTINF:-1 tvg-id="21:00-Europa League Fase Liga-Rangers FC-Tottenham" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",21:00-Europa League Fase Liga-Rangers FC-Tottenham
+http://127.0.0.1/ace/manifest.m3u8?id=d59fe9978eed49f256b312a60671b5bce43d3f24
+#EXTINF:-1 tvg-id="21:00-Europa League Fase Liga-Real Sociedad-Dynamo Kyiv" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",21:00-Europa League Fase Liga-Real Sociedad-Dynamo Kyiv
+http://127.0.0.1/ace/manifest.m3u8?id=931b1984badcb821df7b47a66ac0835ac871b51c
+#EXTINF:-1 tvg-id="21:00-Europa League Fase Liga-Real Sociedad-Dynamo Kyiv" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",21:00-Europa League Fase Liga-Real Sociedad-Dynamo Kyiv
+http://127.0.0.1/ace/manifest.m3u8?id=f096a64dd756a6d549aa7b12ee9acf7eee27e833
+#EXTINF:-1 tvg-id="21:00-Europa League Fase Liga-Real Sociedad-Dynamo Kyiv" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",21:00-Europa League Fase Liga-Real Sociedad-Dynamo Kyiv
+http://127.0.0.1/ace/manifest.m3u8?id=1d79a7543d691666135669f89f3541f54e2dd0a9
+#EXTINF:-1 tvg-id="21:00-Europa League Fase Liga-Real Sociedad-Dynamo Kyiv" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",21:00-Europa League Fase Liga-Real Sociedad-Dynamo Kyiv
+http://127.0.0.1/ace/manifest.m3u8?id=e2e2aca792aae5da19995ac516b1d620531bd49c
+#EXTINF:-1 tvg-id="21:00-Europa League Fase Liga-Real Sociedad-Dynamo Kyiv" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",21:00-Europa League Fase Liga-Real Sociedad-Dynamo Kyiv
+http://127.0.0.1/ace/manifest.m3u8?id=ad372cba73aa0ece207a79532b3e30b731136bb2
+#EXTINF:-1 tvg-id="21:00-Europa League Fase Liga-Real Sociedad-Dynamo Kyiv" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",21:00-Europa League Fase Liga-Real Sociedad-Dynamo Kyiv
+http://127.0.0.1/ace/manifest.m3u8?id=d59fe9978eed49f256b312a60671b5bce43d3f24
+#EXTINF:-1 tvg-id="21:00-Europa League Fase Liga-Slavia Praha-Anderlecht" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",21:00-Europa League Fase Liga-Slavia Praha-Anderlecht
+http://127.0.0.1/ace/manifest.m3u8?id=ad372cba73aa0ece207a79532b3e30b731136bb2
+#EXTINF:-1 tvg-id="21:00-Europa League Fase Liga-Slavia Praha-Anderlecht" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",21:00-Europa League Fase Liga-Slavia Praha-Anderlecht
+http://127.0.0.1/ace/manifest.m3u8?id=d59fe9978eed49f256b312a60671b5bce43d3f24
+#EXTINF:-1 tvg-id="21:00-Europa League Fase Liga-Slavia Praha-Anderlecht" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",21:00-Europa League Fase Liga-Slavia Praha-Anderlecht
+http://127.0.0.1/ace/manifest.m3u8?id=e2e2aca792aae5da19995ac516b1d620531bd49c
 #EXTINF:-1 tvg-id="21:00-Master Final-Fase de grupos-A1 Padel" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",21:00-Master Final-Fase de grupos-A1 Padel
 http://127.0.0.1/ace/manifest.m3u8?id=1960a9be8ae9e8c755330218eac4c5805466290a
 #EXTINF:-1 tvg-id="21:00-Master Final-Fase de grupos-A1 Padel" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",21:00-Master Final-Fase de grupos-A1 Padel
