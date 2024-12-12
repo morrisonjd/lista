@@ -81,6 +81,10 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=ad372cba73aa0ece207a79532b3e30b731136
 http://127.0.0.1:6878/ace/manifest.m3u8?id=d59fe9978eed49f256b312a60671b5bce43d3f24
 #EXTINF:-1 tvg-id="21:00-Europa League Fase Liga-Ajax-Lazio" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",21:00-Europa League Fase Liga-Ajax-Lazio
 http://127.0.0.1:6878/ace/manifest.m3u8?id=f2df4f96b23388b45e75d848a48a510cf8af560f
+#EXTINF:-1 tvg-id="21:00-Europa League Fase Liga-Bodø Glimt-Besiktas" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",21:00-Europa League Fase Liga-Bodø Glimt-Besiktas
+http://127.0.0.1:6878/ace/manifest.m3u8?id=ad372cba73aa0ece207a79532b3e30b731136bb2
+#EXTINF:-1 tvg-id="21:00-Europa League Fase Liga-Bodø Glimt-Besiktas" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",21:00-Europa League Fase Liga-Bodø Glimt-Besiktas
+http://127.0.0.1:6878/ace/manifest.m3u8?id=d59fe9978eed49f256b312a60671b5bce43d3f24
 #EXTINF:-1 tvg-id="21:00-Europa League Fase Liga-Elfsborg-Qarabag FK" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",21:00-Europa League Fase Liga-Elfsborg-Qarabag FK
 http://127.0.0.1:6878/ace/manifest.m3u8?id=ad372cba73aa0ece207a79532b3e30b731136bb2
 #EXTINF:-1 tvg-id="21:00-Europa League Fase Liga-Elfsborg-Qarabag FK" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",21:00-Europa League Fase Liga-Elfsborg-Qarabag FK
