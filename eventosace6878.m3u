@@ -119,10 +119,6 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=8c8c1e047a1c5ed213ba74722a5345dc55c3c
 http://127.0.0.1:6878/ace/manifest.m3u8?id=97ba38d47680954be40e48bd8f43e17222fefecb
 #EXTINF:-1 tvg-id="21:00-La Liga EA Sports-FC Barcelona-Leganés" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",21:00-La Liga EA Sports-FC Barcelona-Leganés
 http://127.0.0.1:6878/ace/manifest.m3u8?id=51dbbfb42f8091e4ea7a2186b566a40e780953d9
-#EXTINF:-1 tvg-id="21:00-LaLiga Hypermotion-CD Tenerife-Deportivo" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",21:00-LaLiga Hypermotion-CD Tenerife-Deportivo
-http://127.0.0.1:6878/ace/manifest.m3u8?id=b2706a7ffbea236a3b398139a3a606ada664c0eb
-#EXTINF:-1 tvg-id="21:00-LaLiga Hypermotion-CD Tenerife-Deportivo" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",21:00-LaLiga Hypermotion-CD Tenerife-Deportivo
-http://127.0.0.1:6878/ace/manifest.m3u8?id=121f719ebb94193c6086ef92865cf9b197750980
 #EXTINF:-1 tvg-id="22:00-Master Final-Final-A1 Padel" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",22:00-Master Final-Final-A1 Padel
 http://127.0.0.1:6878/ace/manifest.m3u8?id=4e83f23945ab3e43982045f88ec31daaa4683102
 #EXTINF:-1 tvg-id="22:00-Master Final-Final-A1 Padel" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png",22:00-Master Final-Final-A1 Padel
