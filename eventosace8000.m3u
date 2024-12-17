@@ -1,5 +1,51 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="21:00-Premier League-Bournemouth-West Ham" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png" group-title="Eventos",21:00-Premier League-Bournemouth-West Ham
-http://127.0.0.1:8000/pid/7cf0086fa7d478f51dbba952865c79e66cb9add5/stream.mp4
-#EXTINF:-1 tvg-id="21:00-Premier League-Bournemouth-West Ham" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png" group-title="Eventos",21:00-Premier League-Bournemouth-West Ham
-http://127.0.0.1:8000/pid/35c7f0c966ecde3390f4510bb4caded40018c07a/stream.mp4
+#EXTINF:-1 tvg-id="01:00-NBA Liga Regular-Detroit Pistons-Miami Heat" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png" group-title="Eventos",01:00-NBA Liga Regular-Detroit Pistons-Miami Heat
+http://127.0.0.1:8000/pid/55d4602cb22b0d8a33c10c2c2f42dae64a9e8895/stream.mp4
+#EXTINF:-1 tvg-id="01:00-NBA Liga Regular-Detroit Pistons-Miami Heat" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png" group-title="Eventos",01:00-NBA Liga Regular-Detroit Pistons-Miami Heat
+http://127.0.0.1:8000/pid/3a74d9869b13e763476800740c6625e715a39879/stream.mp4
+#EXTINF:-1 tvg-id="17:00-Eurocup Liga Regular-Bahçeşehir Koleji-Dreamland Gran Canaria" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png" group-title="Eventos",17:00-Eurocup Liga Regular-Bahçeşehir Koleji-Dreamland Gran Canaria
+http://127.0.0.1:8000/pid/55d4602cb22b0d8a33c10c2c2f42dae64a9e8895/stream.mp4
+#EXTINF:-1 tvg-id="17:00-Eurocup Liga Regular-Bahçeşehir Koleji-Dreamland Gran Canaria" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png" group-title="Eventos",17:00-Eurocup Liga Regular-Bahçeşehir Koleji-Dreamland Gran Canaria
+http://127.0.0.1:8000/pid/3a74d9869b13e763476800740c6625e715a39879/stream.mp4
+#EXTINF:-1 tvg-id="17:00-Eurocup Liga Regular-Bahçeşehir Koleji-Dreamland Gran Canaria" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png" group-title="Eventos",17:00-Eurocup Liga Regular-Bahçeşehir Koleji-Dreamland Gran Canaria
+http://127.0.0.1:8000/pid/d03c13b6723f66155d7a0df3692a3b073fe630f2/stream.mp4
+#EXTINF:-1 tvg-id="17:00-Eurocup Liga Regular-Bahçeşehir Koleji-Dreamland Gran Canaria" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png" group-title="Eventos",17:00-Eurocup Liga Regular-Bahçeşehir Koleji-Dreamland Gran Canaria
+http://127.0.0.1:8000/pid/12ba546d229bc39f01c3c18988a034b215fe6adb/stream.mp4
+#EXTINF:-1 tvg-id="19:00-Euroliga Liga Regular-AS Monaco Basket-FC Bayern Basketball" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png" group-title="Eventos",19:00-Euroliga Liga Regular-AS Monaco Basket-FC Bayern Basketball
+http://127.0.0.1:8000/pid/571bff4d12b1791eb99dbf20bec38e630693a6a3/stream.mp4
+#EXTINF:-1 tvg-id="19:00-LaLiga Hypermotion-Albacete-Levante" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png" group-title="Eventos",19:00-LaLiga Hypermotion-Albacete-Levante
+http://127.0.0.1:8000/pid/b2706a7ffbea236a3b398139a3a606ada664c0eb/stream.mp4
+#EXTINF:-1 tvg-id="19:00-LaLiga Hypermotion-Albacete-Levante" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png" group-title="Eventos",19:00-LaLiga Hypermotion-Albacete-Levante
+http://127.0.0.1:8000/pid/121f719ebb94193c6086ef92865cf9b197750980/stream.mp4
+#EXTINF:-1 tvg-id="19:00-LaLiga Hypermotion-Granada CF-FC Cartagena" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png" group-title="Eventos",19:00-LaLiga Hypermotion-Granada CF-FC Cartagena
+http://127.0.0.1:8000/pid/0cfdfde1b70623b8c210b0f7301be2a87456481d/stream.mp4
+#EXTINF:-1 tvg-id="19:00-LaLiga Hypermotion-Granada CF-FC Cartagena" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png" group-title="Eventos",19:00-LaLiga Hypermotion-Granada CF-FC Cartagena
+http://127.0.0.1:8000/pid/0a335406bad0b658aeddb2d38f8c0614b2e5623a/stream.mp4
+#EXTINF:-1 tvg-id="20:05-Euroliga Liga Regular-Maccabi Tel Aviv BC-Baskonia" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png" group-title="Eventos",20:05-Euroliga Liga Regular-Maccabi Tel Aviv BC-Baskonia
+http://127.0.0.1:8000/pid/639c561dd57fa3fc91fde715caeb696c5efb7ce7/stream.mp4
+#EXTINF:-1 tvg-id="20:15-Euroliga Liga Regular-Panathinaikos BC-AX Olimpia Milano" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png" group-title="Eventos",20:15-Euroliga Liga Regular-Panathinaikos BC-AX Olimpia Milano
+http://127.0.0.1:8000/pid/b4d1308a61e4caf8c06ac3d6ce89d165c015c2fb/stream.mp4
+#EXTINF:-1 tvg-id="20:30-Euroliga Liga Regular-Barça Basket-Fenerbahce Istanbul" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png" group-title="Eventos",20:30-Euroliga Liga Regular-Barça Basket-Fenerbahce Istanbul
+http://127.0.0.1:8000/pid/55d4602cb22b0d8a33c10c2c2f42dae64a9e8895/stream.mp4
+#EXTINF:-1 tvg-id="20:30-Euroliga Liga Regular-Barça Basket-Fenerbahce Istanbul" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png" group-title="Eventos",20:30-Euroliga Liga Regular-Barça Basket-Fenerbahce Istanbul
+http://127.0.0.1:8000/pid/3a74d9869b13e763476800740c6625e715a39879/stream.mp4
+#EXTINF:-1 tvg-id="20:30-Euroliga Liga Regular-Barça Basket-Fenerbahce Istanbul" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png" group-title="Eventos",20:30-Euroliga Liga Regular-Barça Basket-Fenerbahce Istanbul
+http://127.0.0.1:8000/pid/d03c13b6723f66155d7a0df3692a3b073fe630f2/stream.mp4
+#EXTINF:-1 tvg-id="20:30-Euroliga Liga Regular-Barça Basket-Fenerbahce Istanbul" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png" group-title="Eventos",20:30-Euroliga Liga Regular-Barça Basket-Fenerbahce Istanbul
+http://127.0.0.1:8000/pid/12ba546d229bc39f01c3c18988a034b215fe6adb/stream.mp4
+#EXTINF:-1 tvg-id="20:30-Euroliga Liga Regular-Paris Basketball-Real Madrid Baloncesto" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png" group-title="Eventos",20:30-Euroliga Liga Regular-Paris Basketball-Real Madrid Baloncesto
+http://127.0.0.1:8000/pid/55d4602cb22b0d8a33c10c2c2f42dae64a9e8895/stream.mp4
+#EXTINF:-1 tvg-id="20:30-Euroliga Liga Regular-Paris Basketball-Real Madrid Baloncesto" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png" group-title="Eventos",20:30-Euroliga Liga Regular-Paris Basketball-Real Madrid Baloncesto
+http://127.0.0.1:8000/pid/3a74d9869b13e763476800740c6625e715a39879/stream.mp4
+#EXTINF:-1 tvg-id="20:45-Euroliga Liga Regular-ALBA Berlin-Zalgiris Kaunas" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png" group-title="Eventos",20:45-Euroliga Liga Regular-ALBA Berlin-Zalgiris Kaunas
+http://127.0.0.1:8000/pid/cc5782d37ae6b6e0bab396dd64074982d0879046/stream.mp4
+#EXTINF:-1 tvg-id="20:45-Euroliga Liga Regular-BC Partizan Beograd-ASVEL Lyon-Villeurbanne" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png" group-title="Eventos",20:45-Euroliga Liga Regular-BC Partizan Beograd-ASVEL Lyon-Villeurbanne
+http://127.0.0.1:8000/pid/fcc0fd75bf1dba40b108fcf0d3514e0e549bfbac/stream.mp4
+#EXTINF:-1 tvg-id="21:15-LaLiga Hypermotion-Córdoba-Eibar" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png" group-title="Eventos",21:15-LaLiga Hypermotion-Córdoba-Eibar
+http://127.0.0.1:8000/pid/0cfdfde1b70623b8c210b0f7301be2a87456481d/stream.mp4
+#EXTINF:-1 tvg-id="21:15-LaLiga Hypermotion-Córdoba-Eibar" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png" group-title="Eventos",21:15-LaLiga Hypermotion-Córdoba-Eibar
+http://127.0.0.1:8000/pid/0a335406bad0b658aeddb2d38f8c0614b2e5623a/stream.mp4
+#EXTINF:-1 tvg-id="21:15-LaLiga Hypermotion-Real Zaragoza-Real Oviedo" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png" group-title="Eventos",21:15-LaLiga Hypermotion-Real Zaragoza-Real Oviedo
+http://127.0.0.1:8000/pid/b2706a7ffbea236a3b398139a3a606ada664c0eb/stream.mp4
+#EXTINF:-1 tvg-id="21:15-LaLiga Hypermotion-Real Zaragoza-Real Oviedo" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png" group-title="Eventos",21:15-LaLiga Hypermotion-Real Zaragoza-Real Oviedo
+http://127.0.0.1:8000/pid/121f719ebb94193c6086ef92865cf9b197750980/stream.mp4
