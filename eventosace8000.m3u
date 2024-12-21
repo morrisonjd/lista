@@ -83,7 +83,7 @@ http://127.0.0.1:8000/pid/775abd8697715c48a357906d40734ccd2a10513c/stream.mp4
 http://127.0.0.1:8000/pid/www.goltelevision.com/en-directo/stream.mp4
 #EXTINF:-1 tvg-id="17:00-Master Final-Semifinal Masculina-Premier Padel Tour" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png" group-title="Eventos",17:00-Master Final-Semifinal Masculina-Premier Padel Tour
 http://127.0.0.1:8000/pid/639c561dd57fa3fc91fde715caeb696c5efb7ce7/stream.mp4
-#EXTINF:-1 tvg-id="17:00-Next Gen ATP Finals Semifinal 2-A. Michelsen-L. Tien" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png" group-title="Eventos",17:00-Next Gen ATP Finals Semifinal 2-A. Michelsen-L. Tien
+#EXTINF:-1 tvg-id="17:00-Next Gen ATP Finals Semifinal 1-A. Michelsen-L. Tien" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png" group-title="Eventos",17:00-Next Gen ATP Finals Semifinal 1-A. Michelsen-L. Tien
 http://127.0.0.1:8000/pid/b4d1308a61e4caf8c06ac3d6ce89d165c015c2fb/stream.mp4
 #EXTINF:-1 tvg-id="18:00-Liga Endesa Liga Regular-Río Breogán-Basquet Girona" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png" group-title="Eventos",18:00-Liga Endesa Liga Regular-Río Breogán-Basquet Girona
 http://127.0.0.1:8000/pid/55d4602cb22b0d8a33c10c2c2f42dae64a9e8895/stream.mp4
@@ -119,7 +119,7 @@ http://127.0.0.1:8000/pid/639c561dd57fa3fc91fde715caeb696c5efb7ce7/stream.mp4
 http://127.0.0.1:8000/pid/d03c13b6723f66155d7a0df3692a3b073fe630f2/stream.mp4
 #EXTINF:-1 tvg-id="19:00-Master Final-Semifinal Masculina-Premier Padel Tour" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png" group-title="Eventos",19:00-Master Final-Semifinal Masculina-Premier Padel Tour
 http://127.0.0.1:8000/pid/12ba546d229bc39f01c3c18988a034b215fe6adb/stream.mp4
-#EXTINF:-1 tvg-id="19:00-Next Gen ATP Finals Semifinal 1-J. Fonseca-L. Van Assche" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png" group-title="Eventos",19:00-Next Gen ATP Finals Semifinal 1-J. Fonseca-L. Van Assche
+#EXTINF:-1 tvg-id="19:00-Next Gen ATP Finals Semifinal 2-J. Fonseca-L. Van Assche" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png" group-title="Eventos",19:00-Next Gen ATP Finals Semifinal 2-J. Fonseca-L. Van Assche
 http://127.0.0.1:8000/pid/b4d1308a61e4caf8c06ac3d6ce89d165c015c2fb/stream.mp4
 #EXTINF:-1 tvg-id="19:00-Primera FEB Liga Regular-UEMC RV Baloncesto-Movistar Estudiantes" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png" group-title="Eventos",19:00-Primera FEB Liga Regular-UEMC RV Baloncesto-Movistar Estudiantes
 http://127.0.0.1:8000/pid/fcc0fd75bf1dba40b108fcf0d3514e0e549bfbac/stream.mp4
