@@ -101,6 +101,8 @@ http://127.0.0.1/ace/manifest.m3u8?id=8edb264520569b2280c5e86b2dc734e120032903
 http://127.0.0.1/ace/manifest.m3u8?id=d03c13b6723f66155d7a0df3692a3b073fe630f2
 #EXTINF:-1 tvg-id="18:00-Master Final-Final Masculina-Premier Padel Tour" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png" group-title="Eventos",18:00-Master Final-Final Masculina-Premier Padel Tour
 http://127.0.0.1/ace/manifest.m3u8?id=www.goltelevision.com/en-directo
+#EXTINF:-1 tvg-id="18:00-Next Gen ATP Finals Final-J. Fonseca-L. Tien" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png" group-title="Eventos",18:00-Next Gen ATP Finals Final-J. Fonseca-L. Tien
+http://127.0.0.1/ace/manifest.m3u8?id=b4d1308a61e4caf8c06ac3d6ce89d165c015c2fb
 #EXTINF:-1 tvg-id="18:30-La Liga EA Sports-Leganés-Villarreal" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png" group-title="Eventos",18:30-La Liga EA Sports-Leganés-Villarreal
 http://127.0.0.1/ace/manifest.m3u8?id=97ba38d47680954be40e48bd8f43e17222fefecb
 #EXTINF:-1 tvg-id="18:30-La Liga EA Sports-Leganés-Villarreal" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png" group-title="Eventos",18:30-La Liga EA Sports-Leganés-Villarreal
