@@ -1,0 +1,35 @@
+#EXTM3U 
+#EXTINF:-1 tvg-id="02:00-NBA Liga Regular-Houston Rockets-Dallas Mavericks" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png" group-title="Eventos",02:00-NBA Liga Regular-Houston Rockets-Dallas Mavericks
+http://127.0.0.1:6878/ace/manifest.m3u8?id=55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
+#EXTINF:-1 tvg-id="02:00-NBA Liga Regular-Houston Rockets-Dallas Mavericks" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png" group-title="Eventos",02:00-NBA Liga Regular-Houston Rockets-Dallas Mavericks
+http://127.0.0.1:6878/ace/manifest.m3u8?id=3a74d9869b13e763476800740c6625e715a39879
+#EXTINF:-1 tvg-id="18:00-Liga Endesa Liga Regular-Bilbao Basket-MoraBanc Andorra" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png" group-title="Eventos",18:00-Liga Endesa Liga Regular-Bilbao Basket-MoraBanc Andorra
+http://127.0.0.1:6878/ace/manifest.m3u8?id=639c561dd57fa3fc91fde715caeb696c5efb7ce7
+#EXTINF:-1 tvg-id="19:00-Euroliga Liga Regular-Zalgiris Kaunas-Olympiacos Piraeus" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png" group-title="Eventos",19:00-Euroliga Liga Regular-Zalgiris Kaunas-Olympiacos Piraeus
+http://127.0.0.1:6878/ace/manifest.m3u8?id=fcc0fd75bf1dba40b108fcf0d3514e0e549bfbac
+#EXTINF:-1 tvg-id="19:00-Liga Endesa Liga Regular-Río Breogán-BAXI Manresa" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png" group-title="Eventos",19:00-Liga Endesa Liga Regular-Río Breogán-BAXI Manresa
+http://127.0.0.1:6878/ace/manifest.m3u8?id=571bff4d12b1791eb99dbf20bec38e630693a6a3
+#EXTINF:-1 tvg-id="20:00-Eurocup Liga Regular-Umana Reyer Venice-Valencia Basket" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png" group-title="Eventos",20:00-Eurocup Liga Regular-Umana Reyer Venice-Valencia Basket
+http://127.0.0.1:6878/ace/manifest.m3u8?id=b4d1308a61e4caf8c06ac3d6ce89d165c015c2fb
+#EXTINF:-1 tvg-id="20:00-Euroliga Liga Regular-ALBA Berlin-AS Monaco Basket" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png" group-title="Eventos",20:00-Euroliga Liga Regular-ALBA Berlin-AS Monaco Basket
+http://127.0.0.1:6878/ace/manifest.m3u8?id=cc5782d37ae6b6e0bab396dd64074982d0879046
+#EXTINF:-1 tvg-id="20:00-Euroliga Liga Regular-ASVEL Lyon-Villeurbanne-AX Olimpia Milano" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png" group-title="Eventos",20:00-Euroliga Liga Regular-ASVEL Lyon-Villeurbanne-AX Olimpia Milano
+http://127.0.0.1:6878/ace/manifest.m3u8?id=3a74d9869b13e763476800740c6625e715a39879
+#EXTINF:-1 tvg-id="20:30-Euroliga Liga Regular-Baskonia-Crvena Zvezda MTS Belgrade" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png" group-title="Eventos",20:30-Euroliga Liga Regular-Baskonia-Crvena Zvezda MTS Belgrade
+http://127.0.0.1:6878/ace/manifest.m3u8?id=55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
+#EXTINF:-1 tvg-id="20:30-Euroliga Liga Regular-Baskonia-Crvena Zvezda MTS Belgrade" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png" group-title="Eventos",20:30-Euroliga Liga Regular-Baskonia-Crvena Zvezda MTS Belgrade
+http://127.0.0.1:6878/ace/manifest.m3u8?id=3a74d9869b13e763476800740c6625e715a39879
+#EXTINF:-1 tvg-id="20:30-Liga Endesa Liga Regular-UCAM Murcia CB-Unicaja Málaga" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png" group-title="Eventos",20:30-Liga Endesa Liga Regular-UCAM Murcia CB-Unicaja Málaga
+http://127.0.0.1:6878/ace/manifest.m3u8?id=639c561dd57fa3fc91fde715caeb696c5efb7ce7
+#EXTINF:-1 tvg-id="21:00-Eurocup Liga Regular-Dreamland Gran Canaria-Hapoel Tel Aviv BC" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png" group-title="Eventos",21:00-Eurocup Liga Regular-Dreamland Gran Canaria-Hapoel Tel Aviv BC
+http://127.0.0.1:6878/ace/manifest.m3u8?id=55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
+#EXTINF:-1 tvg-id="21:00-Eurocup Liga Regular-Dreamland Gran Canaria-Hapoel Tel Aviv BC" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png" group-title="Eventos",21:00-Eurocup Liga Regular-Dreamland Gran Canaria-Hapoel Tel Aviv BC
+http://127.0.0.1:6878/ace/manifest.m3u8?id=3a74d9869b13e763476800740c6625e715a39879
+#EXTINF:-1 tvg-id="21:00-Eurocup Liga Regular-Dreamland Gran Canaria-Hapoel Tel Aviv BC" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png" group-title="Eventos",21:00-Eurocup Liga Regular-Dreamland Gran Canaria-Hapoel Tel Aviv BC
+http://127.0.0.1:6878/ace/manifest.m3u8?id=b4d1308a61e4caf8c06ac3d6ce89d165c015c2fb
+#EXTINF:-1 tvg-id="21:00-Eurocup Liga Regular-Dreamland Gran Canaria-Hapoel Tel Aviv BC" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png" group-title="Eventos",21:00-Eurocup Liga Regular-Dreamland Gran Canaria-Hapoel Tel Aviv BC
+http://127.0.0.1:6878/ace/manifest.m3u8?id=d03c13b6723f66155d7a0df3692a3b073fe630f2
+#EXTINF:-1 tvg-id="21:00-Eurocup Liga Regular-Dreamland Gran Canaria-Hapoel Tel Aviv BC" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png" group-title="Eventos",21:00-Eurocup Liga Regular-Dreamland Gran Canaria-Hapoel Tel Aviv BC
+http://127.0.0.1:6878/ace/manifest.m3u8?id=12ba546d229bc39f01c3c18988a034b215fe6adb
+#EXTINF:-1 tvg-id="21:30-Liga Endesa Liga Regular-La Laguna Tenerife-Casademont Zaragoza" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png" group-title="Eventos",21:30-Liga Endesa Liga Regular-La Laguna Tenerife-Casademont Zaragoza
+http://127.0.0.1:6878/ace/manifest.m3u8?id=571bff4d12b1791eb99dbf20bec38e630693a6a3
