@@ -61,6 +61,10 @@ http://127.0.0.1/ace/manifest.m3u8?id=f6beccbc4eea4bc0cda43b3e8ac14790a98b61b4
 http://127.0.0.1/ace/manifest.m3u8?id=b51f2d9a15b6956a44385b6be531bcabeb099d9d
 #EXTINF:-1 tvg-id="19:00-Copa del Rey dieciseisavos de Final-UD Barbastro-FC Barcelona" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png" group-title="Eventos",19:00-Copa del Rey dieciseisavos de Final-UD Barbastro-FC Barcelona
 http://127.0.0.1/ace/manifest.m3u8?id=56ac8e227d526e722624675ccdd91b0cc850582f
+#EXTINF:-1 tvg-id="21:00-Rally Dakar-Etapa 1-Bisha › Bisha (500 km - SS: 412 km)" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png" group-title="Eventos",21:00-Rally Dakar-Etapa 1-Bisha › Bisha (500 km - SS: 412 km)
+http://127.0.0.1/ace/manifest.m3u8?id=16ffa1713f42aa27317ee039a2bd0cdbc89a1580
+#EXTINF:-1 tvg-id="21:00-Rally Dakar-Etapa 1-Bisha › Bisha (500 km - SS: 412 km)" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png" group-title="Eventos",21:00-Rally Dakar-Etapa 1-Bisha › Bisha (500 km - SS: 412 km)
+http://127.0.0.1/ace/manifest.m3u8?id=16ffa1713f42aa27317ee039a2bd0cdbc89a1580</a
 #EXTINF:-1 tvg-id="21:30-Copa del Rey dieciseisavos de Final-Marbella-At. Madrid" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png" group-title="Eventos",21:30-Copa del Rey dieciseisavos de Final-Marbella-At. Madrid
 http://127.0.0.1/ace/manifest.m3u8?id=f6beccbc4eea4bc0cda43b3e8ac14790a98b61b4
 #EXTINF:-1 tvg-id="21:30-Copa del Rey dieciseisavos de Final-Marbella-At. Madrid" tvg-logo="https://raw.githubusercontent.com/morrisonjd/lista/refs/heads/master/picon/acestream.png" group-title="Eventos",21:30-Copa del Rey dieciseisavos de Final-Marbella-At. Madrid
