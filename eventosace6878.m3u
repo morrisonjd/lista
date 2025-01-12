@@ -9,6 +9,12 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=98784fa0714190de289f42eb5b84e405df7e6
 http://127.0.0.1:6878/ace/manifest.m3u8?id=fcc0fd75bf1dba40b108fcf0d3514e0e549bfbac
 #EXTINF:-1 tvg-id="01:45-Tenis Open Australia-A. Todoni-Q. Zheng" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",01:45-Tenis Open Australia-A. Todoni-Q. Zheng
 http://127.0.0.1:6878/ace/manifest.m3u8?id=16ffa1713f42aa27317ee039a2bd0cdbc89a1580
+#EXTINF:-1 tvg-id="02:00-NBA-Minnesota Timberwolves-Memphis Grizzlies" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",02:00-NBA-Minnesota Timberwolves-Memphis Grizzlies
+http://127.0.0.1:6878/ace/manifest.m3u8?id=55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
+#EXTINF:-1 tvg-id="02:00-NBA-Minnesota Timberwolves-Memphis Grizzlies" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",02:00-NBA-Minnesota Timberwolves-Memphis Grizzlies
+http://127.0.0.1:6878/ace/manifest.m3u8?id=3a74d9869b13e763476800740c6625e715a39879
+#EXTINF:-1 tvg-id="02:00-NBA-Minnesota Timberwolves-Memphis Grizzlies" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",02:00-NBA-Minnesota Timberwolves-Memphis Grizzlies
+http://127.0.0.1:6878/ace/manifest.m3u8?id=56ac8e227d526e722624675ccdd91b0cc850582f
 #EXTINF:-1 tvg-id="03:15-Tenis Open Australia-K. Nishikori-T. Monteiro" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",03:15-Tenis Open Australia-K. Nishikori-T. Monteiro
 http://127.0.0.1:6878/ace/manifest.m3u8?id=070f82d6443a52962d6a2ed9954c979b29404932
 #EXTINF:-1 tvg-id="04:05-Tenis Open Australia-C. Ruud-J. Munar" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",04:05-Tenis Open Australia-C. Ruud-J. Munar
@@ -43,6 +49,18 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=16ffa1713f42aa27317ee039a2bd0cdbc89a1
 http://127.0.0.1:6878/ace/manifest.m3u8?id=cc5782d37ae6b6e0bab396dd64074982d0879046
 #EXTINF:-1 tvg-id="11:10-Tenis Open Australia-A. Blinkova-D. Saville" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",11:10-Tenis Open Australia-A. Blinkova-D. Saville
 http://127.0.0.1:6878/ace/manifest.m3u8?id=98784fa0714190de289f42eb5b84e405df7e685a
+#EXTINF:-1 tvg-id="12:00-Primera FEB-Movistar Estudiantes-San Pablo Burgos" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",12:00-Primera FEB-Movistar Estudiantes-San Pablo Burgos
+http://127.0.0.1:6878/ace/manifest.m3u8?id=fcc0fd75bf1dba40b108fcf0d3514e0e549bfbac
+#EXTINF:-1 tvg-id="12:30-ACB-Río Breogán-Básquet Coruña" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",12:30-ACB-Río Breogán-Básquet Coruña
+http://127.0.0.1:6878/ace/manifest.m3u8?id=571bff4d12b1791eb99dbf20bec38e630693a6a3
+#EXTINF:-1 tvg-id="12:30-ACB-UCAM Murcia CB-Força Lleida" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",12:30-ACB-UCAM Murcia CB-Força Lleida
+http://127.0.0.1:6878/ace/manifest.m3u8?id=639c561dd57fa3fc91fde715caeb696c5efb7ce7
+#EXTINF:-1 tvg-id="13:00-ACB-Dreamland Gran Canaria-Barça Basket" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",13:00-ACB-Dreamland Gran Canaria-Barça Basket
+http://127.0.0.1:6878/ace/manifest.m3u8?id=55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
+#EXTINF:-1 tvg-id="13:00-ACB-Dreamland Gran Canaria-Barça Basket" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",13:00-ACB-Dreamland Gran Canaria-Barça Basket
+http://127.0.0.1:6878/ace/manifest.m3u8?id=3a74d9869b13e763476800740c6625e715a39879
+#EXTINF:-1 tvg-id="13:00-ACB-Dreamland Gran Canaria-Barça Basket" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",13:00-ACB-Dreamland Gran Canaria-Barça Basket
+http://127.0.0.1:6878/ace/manifest.m3u8?id=56ac8e227d526e722624675ccdd91b0cc850582f
 #EXTINF:-1 tvg-id="14:00-Primera-UD Las Palmas-Getafe" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:00-Primera-UD Las Palmas-Getafe
 http://127.0.0.1:6878/ace/manifest.m3u8?id=110d441ddc9713a7452588770d2bc85504672f47
 #EXTINF:-1 tvg-id="14:00-Primera-UD Las Palmas-Getafe" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:00-Primera-UD Las Palmas-Getafe
@@ -81,12 +99,30 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=0a335406bad0b658aeddb2d38f8c0614b2e56
 http://127.0.0.1:6878/ace/manifest.m3u8?id=b2706a7ffbea236a3b398139a3a606ada664c0eb
 #EXTINF:-1 tvg-id="16:15-Segunda-Elche-Real Zaragoza" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:15-Segunda-Elche-Real Zaragoza
 http://127.0.0.1:6878/ace/manifest.m3u8?id=121f719ebb94193c6086ef92865cf9b197750980
+#EXTINF:-1 tvg-id="17:00-ACB-Basquet Girona-Baskonia" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:00-ACB-Basquet Girona-Baskonia
+http://127.0.0.1:6878/ace/manifest.m3u8?id=639c561dd57fa3fc91fde715caeb696c5efb7ce7
+#EXTINF:-1 tvg-id="17:00-ACB-Real Madrid Baloncesto-La Laguna Tenerife" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:00-ACB-Real Madrid Baloncesto-La Laguna Tenerife
+http://127.0.0.1:6878/ace/manifest.m3u8?id=55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
+#EXTINF:-1 tvg-id="17:00-ACB-Real Madrid Baloncesto-La Laguna Tenerife" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:00-ACB-Real Madrid Baloncesto-La Laguna Tenerife
+http://127.0.0.1:6878/ace/manifest.m3u8?id=3a74d9869b13e763476800740c6625e715a39879
+#EXTINF:-1 tvg-id="17:00-ACB-Real Madrid Baloncesto-La Laguna Tenerife" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:00-ACB-Real Madrid Baloncesto-La Laguna Tenerife
+http://127.0.0.1:6878/ace/manifest.m3u8?id=d03c13b6723f66155d7a0df3692a3b073fe630f2
+#EXTINF:-1 tvg-id="17:00-ACB-Real Madrid Baloncesto-La Laguna Tenerife" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:00-ACB-Real Madrid Baloncesto-La Laguna Tenerife
+http://127.0.0.1:6878/ace/manifest.m3u8?id=12ba546d229bc39f01c3c18988a034b215fe6adb
 #EXTINF:-1 tvg-id="20:00-Supercopa de España Final-Real Madrid-FC Barcelona" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:00-Supercopa de España Final-Real Madrid-FC Barcelona
 http://127.0.0.1:6878/ace/manifest.m3u8?id=608b0faf7d3d25f6fe5dba13d5e4b4142949990e
 #EXTINF:-1 tvg-id="20:00-Supercopa de España Final-Real Madrid-FC Barcelona" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:00-Supercopa de España Final-Real Madrid-FC Barcelona
 http://127.0.0.1:6878/ace/manifest.m3u8?id=94d34491106e00394835c8cb68aa94481339b53f
 #EXTINF:-1 tvg-id="20:00-Supercopa de España Final-Real Madrid-FC Barcelona" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:00-Supercopa de España Final-Real Madrid-FC Barcelona
 http://127.0.0.1:6878/ace/manifest.m3u8?id=56ac8e227d526e722624675ccdd91b0cc850582f
+#EXTINF:-1 tvg-id="21:00-NBA-Dallas Mavericks-Denver Nuggets" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-NBA-Dallas Mavericks-Denver Nuggets
+http://127.0.0.1:6878/ace/manifest.m3u8?id=55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
+#EXTINF:-1 tvg-id="21:00-NBA-Dallas Mavericks-Denver Nuggets" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-NBA-Dallas Mavericks-Denver Nuggets
+http://127.0.0.1:6878/ace/manifest.m3u8?id=3a74d9869b13e763476800740c6625e715a39879
+#EXTINF:-1 tvg-id="21:00-NBA-Dallas Mavericks-Denver Nuggets" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-NBA-Dallas Mavericks-Denver Nuggets
+http://127.0.0.1:6878/ace/manifest.m3u8?id=d03c13b6723f66155d7a0df3692a3b073fe630f2
+#EXTINF:-1 tvg-id="21:00-NBA-Dallas Mavericks-Denver Nuggets" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-NBA-Dallas Mavericks-Denver Nuggets
+http://127.0.0.1:6878/ace/manifest.m3u8?id=12ba546d229bc39f01c3c18988a034b215fe6adb
 #EXTINF:-1 tvg-id="21:00-Rally Dakar-Etapa 7-Al Duwadimi › Al Duwadimi (745 km - SS: 481 km)" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Rally Dakar-Etapa 7-Al Duwadimi › Al Duwadimi (745 km - SS: 481 km)
 http://127.0.0.1:6878/ace/manifest.m3u8?id=98784fa0714190de289f42eb5b84e405df7e685a
 #EXTINF:-1 tvg-id="21:00-Rally Dakar-Etapa 7-Al Duwadimi › Al Duwadimi (745 km - SS: 481 km)" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Rally Dakar-Etapa 7-Al Duwadimi › Al Duwadimi (745 km - SS: 481 km)
