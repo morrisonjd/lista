@@ -1,52 +1,8 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="01:15-Tenis Open Australia-V. Tomova-D. Kasatkina" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",01:15-Tenis Open Australia-V. Tomova-D. Kasatkina
-http://127.0.0.1/ace/manifest.m3u8?id=070f82d6443a52962d6a2ed9954c979b29404932
 #EXTINF:-1 tvg-id="01:30-NBA-Toronto Raptors-Golden State Warriors" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",01:30-NBA-Toronto Raptors-Golden State Warriors
 http://127.0.0.1/ace/manifest.m3u8?id=55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
 #EXTINF:-1 tvg-id="01:30-NBA-Toronto Raptors-Golden State Warriors" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",01:30-NBA-Toronto Raptors-Golden State Warriors
 http://127.0.0.1/ace/manifest.m3u8?id=3a74d9869b13e763476800740c6625e715a39879
-#EXTINF:-1 tvg-id="01:40-Tenis Open Australia-Zh. Zhang-H. Rune" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",01:40-Tenis Open Australia-Zh. Zhang-H. Rune
-http://127.0.0.1/ace/manifest.m3u8?id=cc5782d37ae6b6e0bab396dd64074982d0879046
-#EXTINF:-1 tvg-id="01:40-Tenis Open Australia-Zh. Zhang-H. Rune" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",01:40-Tenis Open Australia-Zh. Zhang-H. Rune
-http://127.0.0.1/ace/manifest.m3u8?id=98784fa0714190de289f42eb5b84e405df7e685a
-#EXTINF:-1 tvg-id="01:45-Tenis Open Australia-E. Navarro-P. Stearns" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",01:45-Tenis Open Australia-E. Navarro-P. Stearns
-http://127.0.0.1/ace/manifest.m3u8?id=fcc0fd75bf1dba40b108fcf0d3514e0e549bfbac
-#EXTINF:-1 tvg-id="01:45-Tenis Open Australia-E. Navarro-P. Stearns" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",01:45-Tenis Open Australia-E. Navarro-P. Stearns
-http://127.0.0.1/ace/manifest.m3u8?id=16ffa1713f42aa27317ee039a2bd0cdbc89a1580
-#EXTINF:-1 tvg-id="02:45-Tenis Open Australia-T. Fritz-J. Brooksby" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",02:45-Tenis Open Australia-T. Fritz-J. Brooksby
-http://127.0.0.1/ace/manifest.m3u8?id=070f82d6443a52962d6a2ed9954c979b29404932
-#EXTINF:-1 tvg-id="03:50-Tenis Open Australia-N. Parrizas Díaz-I. Jovic" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",03:50-Tenis Open Australia-N. Parrizas Díaz-I. Jovic
-http://127.0.0.1/ace/manifest.m3u8?id=98784fa0714190de289f42eb5b84e405df7e685a
-#EXTINF:-1 tvg-id="05:15-Tenis Open Australia-E. Rybakina-E. Jones" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",05:15-Tenis Open Australia-E. Rybakina-E. Jones
-http://127.0.0.1/ace/manifest.m3u8?id=cc5782d37ae6b6e0bab396dd64074982d0879046
-#EXTINF:-1 tvg-id="05:25-Tenis Open Australia-K. Samrej-D. Medvedev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",05:25-Tenis Open Australia-K. Samrej-D. Medvedev
-http://127.0.0.1/ace/manifest.m3u8?id=fcc0fd75bf1dba40b108fcf0d3514e0e549bfbac
-#EXTINF:-1 tvg-id="05:25-Tenis Open Australia-K. Samrej-D. Medvedev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",05:25-Tenis Open Australia-K. Samrej-D. Medvedev
-http://127.0.0.1/ace/manifest.m3u8?id=16ffa1713f42aa27317ee039a2bd0cdbc89a1580
-#EXTINF:-1 tvg-id="07:15-Tenis Open Australia-M. Keys-A. Li" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",07:15-Tenis Open Australia-M. Keys-A. Li
-http://127.0.0.1/ace/manifest.m3u8?id=070f82d6443a52962d6a2ed9954c979b29404932
-#EXTINF:-1 tvg-id="09:10-Tenis Open Australia-A. Popyrin-C. Moutet" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",09:10-Tenis Open Australia-A. Popyrin-C. Moutet
-http://127.0.0.1/ace/manifest.m3u8?id=070f82d6443a52962d6a2ed9954c979b29404932
-#EXTINF:-1 tvg-id="09:10-Tenis Open Australia-S. Wei-J. Paolini" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",09:10-Tenis Open Australia-S. Wei-J. Paolini
-http://127.0.0.1/ace/manifest.m3u8?id=cc5782d37ae6b6e0bab396dd64074982d0879046
-#EXTINF:-1 tvg-id="09:10-Tenis Open Australia-S. Wei-J. Paolini" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",09:10-Tenis Open Australia-S. Wei-J. Paolini
-http://127.0.0.1/ace/manifest.m3u8?id=98784fa0714190de289f42eb5b84e405df7e685a
-#EXTINF:-1 tvg-id="09:10-Tenis Open Australia-R. Bautista-Agut-D. Shapovalov" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",09:10-Tenis Open Australia-R. Bautista-Agut-D. Shapovalov
-http://127.0.0.1/ace/manifest.m3u8?id=98784fa0714190de289f42eb5b84e405df7e685a
-#EXTINF:-1 tvg-id="09:25-Tenis Open Australia-B. Van de Zandschulp-A. De Miñaur" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",09:25-Tenis Open Australia-B. Van de Zandschulp-A. De Miñaur
-http://127.0.0.1/ace/manifest.m3u8?id=fcc0fd75bf1dba40b108fcf0d3514e0e549bfbac
-#EXTINF:-1 tvg-id="09:25-Tenis Open Australia-B. Van de Zandschulp-A. De Miñaur" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",09:25-Tenis Open Australia-B. Van de Zandschulp-A. De Miñaur
-http://127.0.0.1/ace/manifest.m3u8?id=16ffa1713f42aa27317ee039a2bd0cdbc89a1580
-#EXTINF:-1 tvg-id="10:00-Tenis Open Australia-P. Carreño-K. Majchrzak" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",10:00-Tenis Open Australia-P. Carreño-K. Majchrzak
-http://127.0.0.1/ace/manifest.m3u8?id=98784fa0714190de289f42eb5b84e405df7e685a
-#EXTINF:-1 tvg-id="10:45-Tenis Open Australia-A. Rublev-J. Fonseca" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",10:45-Tenis Open Australia-A. Rublev-J. Fonseca
-http://127.0.0.1/ace/manifest.m3u8?id=cc5782d37ae6b6e0bab396dd64074982d0879046
-#EXTINF:-1 tvg-id="10:45-Tenis Open Australia-A. Rublev-J. Fonseca" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",10:45-Tenis Open Australia-A. Rublev-J. Fonseca
-http://127.0.0.1/ace/manifest.m3u8?id=98784fa0714190de289f42eb5b84e405df7e685a
-#EXTINF:-1 tvg-id="12:10-Tenis Open Australia-V. Kudermetova-O. Gadecki" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",12:10-Tenis Open Australia-V. Kudermetova-O. Gadecki
-http://127.0.0.1/ace/manifest.m3u8?id=fcc0fd75bf1dba40b108fcf0d3514e0e549bfbac
-#EXTINF:-1 tvg-id="12:10-Tenis Open Australia-V. Kudermetova-O. Gadecki" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",12:10-Tenis Open Australia-V. Kudermetova-O. Gadecki
-http://127.0.0.1/ace/manifest.m3u8?id=16ffa1713f42aa27317ee039a2bd0cdbc89a1580
 #EXTINF:-1 tvg-id="18:00-Eurocup-Lietkabelis Panevezys-Valencia Basket" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:00-Eurocup-Lietkabelis Panevezys-Valencia Basket
 http://127.0.0.1/ace/manifest.m3u8?id=55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
 #EXTINF:-1 tvg-id="18:00-Eurocup-Lietkabelis Panevezys-Valencia Basket" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:00-Eurocup-Lietkabelis Panevezys-Valencia Basket
