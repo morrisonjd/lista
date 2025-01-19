@@ -137,9 +137,9 @@ http://127.0.0.1:8000/pid/1bc437bce57b4b0450f6d1f8d818b7e97000745e/stream.mp4
 http://127.0.0.1:8000/pid/608b0faf7d3d25f6fe5dba13d5e4b4142949990e/stream.mp4
 #EXTINF:-1 tvg-id="21:00-Primera-Valencia CF-Real Sociedad" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Primera-Valencia CF-Real Sociedad
 http://127.0.0.1:8000/pid/94d34491106e00394835c8cb68aa94481339b53f/stream.mp4
-#EXTINF:-1 tvg-id="21:00-Segunda Estadio de los Juegos Mediterráneos" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Segunda Estadio de los Juegos Mediterráneos
+#EXTINF:-1 tvg-id="21:00-Segunda-UD Almería-Huesca" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Segunda-UD Almería-Huesca
 http://127.0.0.1:8000/pid/b2706a7ffbea236a3b398139a3a606ada664c0eb/stream.mp4
-#EXTINF:-1 tvg-id="21:00-Segunda Estadio de los Juegos Mediterráneos" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Segunda Estadio de los Juegos Mediterráneos
+#EXTINF:-1 tvg-id="21:00-Segunda-UD Almería-Huesca" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Segunda-UD Almería-Huesca
 http://127.0.0.1:8000/pid/121f719ebb94193c6086ef92865cf9b197750980/stream.mp4
 #EXTINF:-1 tvg-id="21:00-NBA-Miami Heat-San Antonio Spurs" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-NBA-Miami Heat-San Antonio Spurs
 http://127.0.0.1:8000/pid/d03c13b6723f66155d7a0df3692a3b073fe630f2/stream.mp4
