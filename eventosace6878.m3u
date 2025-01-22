@@ -1,4 +1,16 @@
 #EXTM3U 
+#EXTINF:-1 tvg-id="01:30-NBA-Miami Heat-Portland Trail Blazers" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",01:30-NBA-Miami Heat-Portland Trail Blazers
+http://127.0.0.1:6878/ace/manifest.m3u8?id=55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
+#EXTINF:-1 tvg-id="01:30-NBA-Miami Heat-Portland Trail Blazers" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",01:30-NBA-Miami Heat-Portland Trail Blazers
+http://127.0.0.1:6878/ace/manifest.m3u8?id=3a74d9869b13e763476800740c6625e715a39879
+#EXTINF:-1 tvg-id="01:30-Open Australia 4º de Final-M. Keys-E. Svitolina" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",01:30-Open Australia 4º de Final-M. Keys-E. Svitolina
+http://127.0.0.1:6878/ace/manifest.m3u8?id=16ffa1713f42aa27317ee039a2bd0cdbc89a1580
+#EXTINF:-1 tvg-id="03:00-Open Australia 4º de Final-E. Navarro-I. Swiatek" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",03:00-Open Australia 4º de Final-E. Navarro-I. Swiatek
+http://127.0.0.1:6878/ace/manifest.m3u8?id=16ffa1713f42aa27317ee039a2bd0cdbc89a1580
+#EXTINF:-1 tvg-id="04:30-Open Australia 4º de Final-B. Shelton-L. Sonego" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",04:30-Open Australia 4º de Final-B. Shelton-L. Sonego
+http://127.0.0.1:6878/ace/manifest.m3u8?id=16ffa1713f42aa27317ee039a2bd0cdbc89a1580
+#EXTINF:-1 tvg-id="09:30-Open Australia 4º de Final-J. Sinner-A. De Miñaur" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",09:30-Open Australia 4º de Final-J. Sinner-A. De Miñaur
+http://127.0.0.1:6878/ace/manifest.m3u8?id=16ffa1713f42aa27317ee039a2bd0cdbc89a1580
 #EXTINF:-1 tvg-id="16:30-Europa League-Besiktas-Athletic Club" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:30-Europa League-Besiktas-Athletic Club
 http://127.0.0.1:6878/ace/manifest.m3u8?id=608b0faf7d3d25f6fe5dba13d5e4b4142949990e
 #EXTINF:-1 tvg-id="16:30-Europa League-Besiktas-Athletic Club" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:30-Europa League-Besiktas-Athletic Club
@@ -9,6 +21,10 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=0a26e20f39845e928411e09a124374fccb6e1
 http://127.0.0.1:6878/ace/manifest.m3u8?id=775abd8697715c48a357906d40734ccd2a10513c
 #EXTINF:-1 tvg-id="16:30-Europa League-Besiktas-Athletic Club" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:30-Europa League-Besiktas-Athletic Club
 http://127.0.0.1:6878/ace/manifest.m3u8?id=8edb264520569b2280c5e86b2dc734e120032903
+#EXTINF:-1 tvg-id="18:00-Eurocup-BC Wolves-Dreamland Gran Canaria" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:00-Eurocup-BC Wolves-Dreamland Gran Canaria
+http://127.0.0.1:6878/ace/manifest.m3u8?id=55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
+#EXTINF:-1 tvg-id="18:00-Eurocup-BC Wolves-Dreamland Gran Canaria" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:00-Eurocup-BC Wolves-Dreamland Gran Canaria
+http://127.0.0.1:6878/ace/manifest.m3u8?id=3a74d9869b13e763476800740c6625e715a39879
 #EXTINF:-1 tvg-id="18:45-Champions League-RB Leipzig-Sporting CP" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:45-Champions League-RB Leipzig-Sporting CP
 http://127.0.0.1:6878/ace/manifest.m3u8?id=c070cdb701fc46bb79d17568d99fc64620443d63
 #EXTINF:-1 tvg-id="18:45-Champions League-RB Leipzig-Sporting CP" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:45-Champions League-RB Leipzig-Sporting CP
@@ -17,6 +33,16 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=abdf9058786a48623d0de51a3adb414ae10b6
 http://127.0.0.1:6878/ace/manifest.m3u8?id=3618edda333dad5374ac2c801f5f14483934b97d
 #EXTINF:-1 tvg-id="18:45-Champions League-Shakhtar Donetsk-Stade Brestois" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:45-Champions League-Shakhtar Donetsk-Stade Brestois
 http://127.0.0.1:6878/ace/manifest.m3u8?id=0b348cc1ae499e810729661878764a0fab88ab69
+#EXTINF:-1 tvg-id="20:30-Eurocup-Valencia Basket-Aris Thessaloniki BC" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:30-Eurocup-Valencia Basket-Aris Thessaloniki BC
+http://127.0.0.1:6878/ace/manifest.m3u8?id=d03c13b6723f66155d7a0df3692a3b073fe630f2
+#EXTINF:-1 tvg-id="20:30-Eurocup-Valencia Basket-Aris Thessaloniki BC" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:30-Eurocup-Valencia Basket-Aris Thessaloniki BC
+http://127.0.0.1:6878/ace/manifest.m3u8?id=12ba546d229bc39f01c3c18988a034b215fe6adb
+#EXTINF:-1 tvg-id="20:30-Euroliga-BC Partizan Beograd-Paris Basketball" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:30-Euroliga-BC Partizan Beograd-Paris Basketball
+http://127.0.0.1:6878/ace/manifest.m3u8?id=55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
+#EXTINF:-1 tvg-id="20:30-Euroliga-BC Partizan Beograd-Paris Basketball" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:30-Euroliga-BC Partizan Beograd-Paris Basketball
+http://127.0.0.1:6878/ace/manifest.m3u8?id=3a74d9869b13e763476800740c6625e715a39879
+#EXTINF:-1 tvg-id="20:30-Euroliga-BC Partizan Beograd-Paris Basketball" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:30-Euroliga-BC Partizan Beograd-Paris Basketball
+http://127.0.0.1:6878/ace/manifest.m3u8?id=639c561dd57fa3fc91fde715caeb696c5efb7ce7
 #EXTINF:-1 tvg-id="21:00-Champions League-AC Milan-Girona" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Champions League-AC Milan-Girona
 http://127.0.0.1:6878/ace/manifest.m3u8?id=c070cdb701fc46bb79d17568d99fc64620443d63
 #EXTINF:-1 tvg-id="21:00-Champions League-AC Milan-Girona" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Champions League-AC Milan-Girona
