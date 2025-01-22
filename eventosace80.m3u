@@ -3,13 +3,13 @@
 http://127.0.0.1/ace/manifest.m3u8?id=55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
 #EXTINF:-1 tvg-id="01:30-NBA-Miami Heat-Portland Trail Blazers" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",01:30-NBA-Miami Heat-Portland Trail Blazers
 http://127.0.0.1/ace/manifest.m3u8?id=3a74d9869b13e763476800740c6625e715a39879
-#EXTINF:-1 tvg-id="01:30-Open Australia 4º de Final-M. Keys-E. Svitolina" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",01:30-Open Australia 4º de Final-M. Keys-E. Svitolina
+#EXTINF:-1 tvg-id="01:40-Open Australia 4º de Final-M. Keys-E. Svitolina" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",01:40-Open Australia 4º de Final-M. Keys-E. Svitolina
 http://127.0.0.1/ace/manifest.m3u8?id=16ffa1713f42aa27317ee039a2bd0cdbc89a1580
-#EXTINF:-1 tvg-id="03:00-Open Australia 4º de Final-E. Navarro-I. Swiatek" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",03:00-Open Australia 4º de Final-E. Navarro-I. Swiatek
+#EXTINF:-1 tvg-id="03:55-Open Australia 4º de Final-E. Navarro-I. Swiatek" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",03:55-Open Australia 4º de Final-E. Navarro-I. Swiatek
 http://127.0.0.1/ace/manifest.m3u8?id=16ffa1713f42aa27317ee039a2bd0cdbc89a1580
-#EXTINF:-1 tvg-id="04:30-Open Australia 4º de Final-B. Shelton-L. Sonego" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",04:30-Open Australia 4º de Final-B. Shelton-L. Sonego
+#EXTINF:-1 tvg-id="05:45-Open Australia 4º de Final-B. Shelton-L. Sonego" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",05:45-Open Australia 4º de Final-B. Shelton-L. Sonego
 http://127.0.0.1/ace/manifest.m3u8?id=16ffa1713f42aa27317ee039a2bd0cdbc89a1580
-#EXTINF:-1 tvg-id="09:30-Open Australia 4º de Final-J. Sinner-A. De Miñaur" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",09:30-Open Australia 4º de Final-J. Sinner-A. De Miñaur
+#EXTINF:-1 tvg-id="10:20-Open Australia 4º de Final-J. Sinner-A. De Miñaur" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",10:20-Open Australia 4º de Final-J. Sinner-A. De Miñaur
 http://127.0.0.1/ace/manifest.m3u8?id=16ffa1713f42aa27317ee039a2bd0cdbc89a1580
 #EXTINF:-1 tvg-id="16:30-Europa League-Besiktas-Athletic Club" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:30-Europa League-Besiktas-Athletic Club
 http://127.0.0.1/ace/manifest.m3u8?id=608b0faf7d3d25f6fe5dba13d5e4b4142949990e
