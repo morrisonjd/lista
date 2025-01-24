@@ -1,8 +1,14 @@
 #EXTM3U 
+#EXTINF:-1 tvg-id="02:05-Open Australia-Final Dobles Mixtos-Grand Slam" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",02:05-Open Australia-Final Dobles Mixtos-Grand Slam
+http://127.0.0.1:8000/pid/16ffa1713f42aa27317ee039a2bd0cdbc89a1580/stream.mp4
 #EXTINF:-1 tvg-id="03:00-Velada Peso Medio-E. Priest-T. Howard" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",03:00-Velada Peso Medio-E. Priest-T. Howard
 http://127.0.0.1:8000/pid/ca923c9873fd206a41c1e83ff8fc40e3cf323c9a/stream.mp4
 #EXTINF:-1 tvg-id="03:00-Velada Peso Medio-E. Priest-T. Howard" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",03:00-Velada Peso Medio-E. Priest-T. Howard
 http://127.0.0.1:8000/pid/a929eeec1268d69d1556a2e3ace793b2577d8810/stream.mp4
+#EXTINF:-1 tvg-id="04:45-Open Australia Semifinal masculina Grand Slam-N. Djokovic-A. Zverev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",04:45-Open Australia Semifinal masculina Grand Slam-N. Djokovic-A. Zverev
+http://127.0.0.1:8000/pid/16ffa1713f42aa27317ee039a2bd0cdbc89a1580/stream.mp4
+#EXTINF:-1 tvg-id="09:45-Open Australia Semifinal masculina Grand Slam-J. Sinner-B. Shelton" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",09:45-Open Australia Semifinal masculina Grand Slam-J. Sinner-B. Shelton
+http://127.0.0.1:8000/pid/16ffa1713f42aa27317ee039a2bd0cdbc89a1580/stream.mp4
 #EXTINF:-1 tvg-id="20:00-Euroliga-ALBA Berlin-FC Bayern Basketball" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:00-Euroliga-ALBA Berlin-FC Bayern Basketball
 http://127.0.0.1:8000/pid/571bff4d12b1791eb99dbf20bec38e630693a6a3/stream.mp4
 #EXTINF:-1 tvg-id="20:00-Euroliga-ASVEL Lyon-Villeurbanne-Barça Basket" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:00-Euroliga-ASVEL Lyon-Villeurbanne-Barça Basket
