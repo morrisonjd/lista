@@ -3,6 +3,8 @@
 http://127.0.0.1:8000/pid/55d4602cb22b0d8a33c10c2c2f42dae64a9e8895/stream.mp4
 #EXTINF:-1 tvg-id="01:00-NBA-Charlotte Hornets-Portland Trail Blazers" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",01:00-NBA-Charlotte Hornets-Portland Trail Blazers
 http://127.0.0.1:8000/pid/3a74d9869b13e763476800740c6625e715a39879/stream.mp4
+#EXTINF:-1 tvg-id="12:30-Open Australia-Final Dobles Masculinos-Grand Slam" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",12:30-Open Australia-Final Dobles Masculinos-Grand Slam
+http://127.0.0.1:8000/pid/16ffa1713f42aa27317ee039a2bd0cdbc89a1580/stream.mp4
 #EXTINF:-1 tvg-id="14:00-Primera-Mallorca-Real Betis" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:00-Primera-Mallorca-Real Betis
 http://127.0.0.1:8000/pid/94d34491106e00394835c8cb68aa94481339b53f/stream.mp4
 #EXTINF:-1 tvg-id="14:00-Primera-Mallorca-Real Betis" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:00-Primera-Mallorca-Real Betis
