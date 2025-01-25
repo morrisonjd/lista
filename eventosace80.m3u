@@ -1,143 +1,109 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="01:00-NBA-Charlotte Hornets-Portland Trail Blazers" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",01:00-NBA-Charlotte Hornets-Portland Trail Blazers
-http://127.0.0.1/ace/manifest.m3u8?id=55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
-#EXTINF:-1 tvg-id="01:00-NBA-Charlotte Hornets-Portland Trail Blazers" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",01:00-NBA-Charlotte Hornets-Portland Trail Blazers
-http://127.0.0.1/ace/manifest.m3u8?id=3a74d9869b13e763476800740c6625e715a39879
-#EXTINF:-1 tvg-id="12:30-Open Australia-Final Dobles Masculinos-Grand Slam" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",12:30-Open Australia-Final Dobles Masculinos-Grand Slam
-http://127.0.0.1/ace/manifest.m3u8?id=16ffa1713f42aa27317ee039a2bd0cdbc89a1580
-#EXTINF:-1 tvg-id="14:00-Primera-Mallorca-Real Betis" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:00-Primera-Mallorca-Real Betis
-http://127.0.0.1/ace/manifest.m3u8?id=94d34491106e00394835c8cb68aa94481339b53f
-#EXTINF:-1 tvg-id="14:00-Primera-Mallorca-Real Betis" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:00-Primera-Mallorca-Real Betis
-http://127.0.0.1/ace/manifest.m3u8?id=d3de78aebe544611a2347f54d5796bd87f16c92d
-#EXTINF:-1 tvg-id="14:00-Primera-Mallorca-Real Betis" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:00-Primera-Mallorca-Real Betis
-http://127.0.0.1/ace/manifest.m3u8?id=6d05b31e5e8fdae312fbd57897363a7b10ddb163
-#EXTINF:-1 tvg-id="14:00-Primera-Mallorca-Real Betis" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:00-Primera-Mallorca-Real Betis
-http://127.0.0.1/ace/manifest.m3u8?id=1bc437bce57b4b0450f6d1f8d818b7e97000745e
-#EXTINF:-1 tvg-id="14:00-Primera-Mallorca-Real Betis" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:00-Primera-Mallorca-Real Betis
-http://127.0.0.1/ace/manifest.m3u8?id=608b0faf7d3d25f6fe5dba13d5e4b4142949990e
-#EXTINF:-1 tvg-id="14:00-Primera-Mallorca-Real Betis" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:00-Primera-Mallorca-Real Betis
-http://127.0.0.1/ace/manifest.m3u8?id=94d34491106e00394835c8cb68aa94481339b53f
-#EXTINF:-1 tvg-id="15:00-GP Castellón-UCI Europe Tour-Castellón › Onda (171" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:00-GP Castellón-UCI Europe Tour-Castellón › Onda (171
-http://127.0.0.1/ace/manifest.m3u8?id=b9a81ddb0cf98d9a5ae18ba2eef0ab094bd5d5b0
-#EXTINF:-1 tvg-id="15:00-GP Castellón-UCI Europe Tour-Castellón › Onda (171" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:00-GP Castellón-UCI Europe Tour-Castellón › Onda (171
-http://127.0.0.1/ace/manifest.m3u8?id=4a714c436cb67d53cf197f9038239fddab2d8b20
-#EXTINF:-1 tvg-id="15:00-GP Castellón-UCI Europe Tour-Castellón › Onda (171" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:00-GP Castellón-UCI Europe Tour-Castellón › Onda (171
-http://127.0.0.1/ace/manifest.m3u8?id=61b9b271c16f970aab43cb753c5f8be181dceece
-#EXTINF:-1 tvg-id="16:00-Premier League-Bournemouth-Nottingham Forest" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:00-Premier League-Bournemouth-Nottingham Forest
-http://127.0.0.1/ace/manifest.m3u8?id=4e83f23945ab3e43982045f88ec31daaa4683102
-#EXTINF:-1 tvg-id="16:00-Premier League-Liverpool-Ipswich Town" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:00-Premier League-Liverpool-Ipswich Town
-http://127.0.0.1/ace/manifest.m3u8?id=7cf0086fa7d478f51dbba952865c79e66cb9add5
-#EXTINF:-1 tvg-id="16:00-Premier League-Liverpool-Ipswich Town" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:00-Premier League-Liverpool-Ipswich Town
-http://127.0.0.1/ace/manifest.m3u8?id=35c7f0c966ecde3390f4510bb4caded40018c07a
-#EXTINF:-1 tvg-id="16:00-Premier League-Southampton-Newcastle" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:00-Premier League-Southampton-Newcastle
-http://127.0.0.1/ace/manifest.m3u8?id=19cd05c7ae26f22737ae5728b571ca36abd8a2e8
-#EXTINF:-1 tvg-id="16:00-Premier League-Wolverhampton-Arsenal" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:00-Premier League-Wolverhampton-Arsenal
+#EXTINF:-1 tvg-id="01:00-Título Internacional Peso Supermediano-D. Pacheco-S. Nelson" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",01:00-Título Internacional Peso Supermediano-D. Pacheco-S. Nelson
 http://127.0.0.1/ace/manifest.m3u8?id=ca923c9873fd206a41c1e83ff8fc40e3cf323c9a
-#EXTINF:-1 tvg-id="16:00-Premier League-Wolverhampton-Arsenal" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:00-Premier League-Wolverhampton-Arsenal
+#EXTINF:-1 tvg-id="01:00-Título Internacional Peso Supermediano-D. Pacheco-S. Nelson" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",01:00-Título Internacional Peso Supermediano-D. Pacheco-S. Nelson
 http://127.0.0.1/ace/manifest.m3u8?id=a929eeec1268d69d1556a2e3ace793b2577d8810
-#EXTINF:-1 tvg-id="16:15-Primera-At. Madrid-Villarreal" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:15-Primera-At. Madrid-Villarreal
-http://127.0.0.1/ace/manifest.m3u8?id=94d34491106e00394835c8cb68aa94481339b53f
-#EXTINF:-1 tvg-id="16:15-Primera-At. Madrid-Villarreal" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:15-Primera-At. Madrid-Villarreal
-http://127.0.0.1/ace/manifest.m3u8?id=d3de78aebe544611a2347f54d5796bd87f16c92d
-#EXTINF:-1 tvg-id="16:15-Primera-At. Madrid-Villarreal" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:15-Primera-At. Madrid-Villarreal
-http://127.0.0.1/ace/manifest.m3u8?id=6d05b31e5e8fdae312fbd57897363a7b10ddb163
-#EXTINF:-1 tvg-id="16:15-Primera-At. Madrid-Villarreal" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:15-Primera-At. Madrid-Villarreal
-http://127.0.0.1/ace/manifest.m3u8?id=1bc437bce57b4b0450f6d1f8d818b7e97000745e
-#EXTINF:-1 tvg-id="16:15-Primera-At. Madrid-Villarreal" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:15-Primera-At. Madrid-Villarreal
-http://127.0.0.1/ace/manifest.m3u8?id=83c6c4942d69f4aa324aa746c5d7dbfd7d1572b3
-#EXTINF:-1 tvg-id="16:15-Primera-At. Madrid-Villarreal" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:15-Primera-At. Madrid-Villarreal
-http://127.0.0.1/ace/manifest.m3u8?id=f31a586422c9244196c810c84b6c85da350318a5
-#EXTINF:-1 tvg-id="16:15-Primera-At. Madrid-Villarreal" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:15-Primera-At. Madrid-Villarreal
-http://127.0.0.1/ace/manifest.m3u8?id=608b0faf7d3d25f6fe5dba13d5e4b4142949990e
-#EXTINF:-1 tvg-id="16:15-Primera-At. Madrid-Villarreal" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:15-Primera-At. Madrid-Villarreal
-http://127.0.0.1/ace/manifest.m3u8?id=94d34491106e00394835c8cb68aa94481339b53f
-#EXTINF:-1 tvg-id="16:15-Segunda-Córdoba-Racing Santander" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:15-Segunda-Córdoba-Racing Santander
-http://127.0.0.1/ace/manifest.m3u8?id=b2706a7ffbea236a3b398139a3a606ada664c0eb
-#EXTINF:-1 tvg-id="16:15-Segunda-Córdoba-Racing Santander" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:15-Segunda-Córdoba-Racing Santander
-http://127.0.0.1/ace/manifest.m3u8?id=121f719ebb94193c6086ef92865cf9b197750980
-#EXTINF:-1 tvg-id="16:15-Segunda-Córdoba-Racing Santander" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:15-Segunda-Córdoba-Racing Santander
-http://127.0.0.1/ace/manifest.m3u8?id=56ac8e227d526e722624675ccdd91b0cc850582f
-#EXTINF:-1 tvg-id="18:00-ACB-Río Breogán-Bilbao Basket" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:00-ACB-Río Breogán-Bilbao Basket
-http://127.0.0.1/ace/manifest.m3u8?id=639c561dd57fa3fc91fde715caeb696c5efb7ce7
-#EXTINF:-1 tvg-id="18:00-ACB-Valencia Basket-BAXI Manresa" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:00-ACB-Valencia Basket-BAXI Manresa
+#EXTINF:-1 tvg-id="12:30-ACB-Casademont Zaragoza-MoraBanc Andorra" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",12:30-ACB-Casademont Zaragoza-MoraBanc Andorra
 http://127.0.0.1/ace/manifest.m3u8?id=55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
-#EXTINF:-1 tvg-id="18:00-ACB-Valencia Basket-BAXI Manresa" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:00-ACB-Valencia Basket-BAXI Manresa
+#EXTINF:-1 tvg-id="12:30-ACB-Casademont Zaragoza-MoraBanc Andorra" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",12:30-ACB-Casademont Zaragoza-MoraBanc Andorra
 http://127.0.0.1/ace/manifest.m3u8?id=3a74d9869b13e763476800740c6625e715a39879
-#EXTINF:-1 tvg-id="18:00-NBA-San Antonio Spurs-Indiana Pacers" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:00-NBA-San Antonio Spurs-Indiana Pacers
-http://127.0.0.1/ace/manifest.m3u8?id=55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
-#EXTINF:-1 tvg-id="18:00-NBA-San Antonio Spurs-Indiana Pacers" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:00-NBA-San Antonio Spurs-Indiana Pacers
-http://127.0.0.1/ace/manifest.m3u8?id=3a74d9869b13e763476800740c6625e715a39879
-#EXTINF:-1 tvg-id="18:30-Primera-Sevilla FC-Espanyol" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:30-Primera-Sevilla FC-Espanyol
-http://127.0.0.1/ace/manifest.m3u8?id=110d441ddc9713a7452588770d2bc85504672f47
-#EXTINF:-1 tvg-id="18:30-Primera-Sevilla FC-Espanyol" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:30-Primera-Sevilla FC-Espanyol
-http://127.0.0.1/ace/manifest.m3u8?id=ec29289b0b14756e686c03a501bae1efa05be70c
-#EXTINF:-1 tvg-id="18:30-Primera-Sevilla FC-Espanyol" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:30-Primera-Sevilla FC-Espanyol
-http://127.0.0.1/ace/manifest.m3u8?id=6de4794cd02f88f14354b5996823413a59a1de0f
-#EXTINF:-1 tvg-id="18:30-Primera-Sevilla FC-Espanyol" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:30-Primera-Sevilla FC-Espanyol
-http://127.0.0.1/ace/manifest.m3u8?id=8c8c1e047a1c5ed213ba74722a5345dc55c3c0eb
-#EXTINF:-1 tvg-id="18:30-Primera-Sevilla FC-Espanyol" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:30-Primera-Sevilla FC-Espanyol
-http://127.0.0.1/ace/manifest.m3u8?id=608b0faf7d3d25f6fe5dba13d5e4b4142949990e
-#EXTINF:-1 tvg-id="18:30-Primera-Sevilla FC-Espanyol" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:30-Primera-Sevilla FC-Espanyol
-http://127.0.0.1/ace/manifest.m3u8?id=94d34491106e00394835c8cb68aa94481339b53f
-#EXTINF:-1 tvg-id="18:30-Segunda-Deportivo-Levante" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:30-Segunda-Deportivo-Levante
-http://127.0.0.1/ace/manifest.m3u8?id=b2706a7ffbea236a3b398139a3a606ada664c0eb
-#EXTINF:-1 tvg-id="18:30-Segunda-Deportivo-Levante" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:30-Segunda-Deportivo-Levante
-http://127.0.0.1/ace/manifest.m3u8?id=121f719ebb94193c6086ef92865cf9b197750980
-#EXTINF:-1 tvg-id="18:30-Segunda-Huesca-FC Cartagena" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:30-Segunda-Huesca-FC Cartagena
-http://127.0.0.1/ace/manifest.m3u8?id=0cfdfde1b70623b8c210b0f7301be2a87456481d
-#EXTINF:-1 tvg-id="18:30-Segunda-Huesca-FC Cartagena" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:30-Segunda-Huesca-FC Cartagena
-http://127.0.0.1/ace/manifest.m3u8?id=0a335406bad0b658aeddb2d38f8c0614b2e5623a
-#EXTINF:-1 tvg-id="18:30-Premier League-Manchester City-Chelsea" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:30-Premier League-Manchester City-Chelsea
-http://127.0.0.1/ace/manifest.m3u8?id=7cf0086fa7d478f51dbba952865c79e66cb9add5
-#EXTINF:-1 tvg-id="18:30-Premier League-Manchester City-Chelsea" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:30-Premier League-Manchester City-Chelsea
-http://127.0.0.1/ace/manifest.m3u8?id=35c7f0c966ecde3390f4510bb4caded40018c07a
-#EXTINF:-1 tvg-id="18:30-Premier League-Manchester City-Chelsea" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:30-Premier League-Manchester City-Chelsea
-http://127.0.0.1/ace/manifest.m3u8?id=0a26e20f39845e928411e09a124374fccb6e1478
-#EXTINF:-1 tvg-id="18:30-Premier League-Manchester City-Chelsea" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:30-Premier League-Manchester City-Chelsea
-http://127.0.0.1/ace/manifest.m3u8?id=775abd8697715c48a357906d40734ccd2a10513c
-#EXTINF:-1 tvg-id="18:30-Premier League-Manchester City-Chelsea" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:30-Premier League-Manchester City-Chelsea
-http://127.0.0.1/ace/manifest.m3u8?id=8edb264520569b2280c5e86b2dc734e120032903
-#EXTINF:-1 tvg-id="18:30-Premier League-Manchester City-Chelsea" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:30-Premier League-Manchester City-Chelsea
-http://127.0.0.1/ace/manifest.m3u8?id=56ac8e227d526e722624675ccdd91b0cc850582f
-#EXTINF:-1 tvg-id="19:00-Primera Federación Futsal-ElPozo Murcia-Movistar Inter" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",19:00-Primera Federación Futsal-ElPozo Murcia-Movistar Inter
-http://127.0.0.1/ace/manifest.m3u8?id=b9a81ddb0cf98d9a5ae18ba2eef0ab094bd5d5b0
-#EXTINF:-1 tvg-id="19:00-Primera Federación Futsal-ElPozo Murcia-Movistar Inter" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",19:00-Primera Federación Futsal-ElPozo Murcia-Movistar Inter
-http://127.0.0.1/ace/manifest.m3u8?id=4a714c436cb67d53cf197f9038239fddab2d8b20
-#EXTINF:-1 tvg-id="19:00-Primera Federación Futsal-ElPozo Murcia-Movistar Inter" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",19:00-Primera Federación Futsal-ElPozo Murcia-Movistar Inter
-http://127.0.0.1/ace/manifest.m3u8?id=61b9b271c16f970aab43cb753c5f8be181dceece
-#EXTINF:-1 tvg-id="20:00-Título Mundial Peso Superligero-D. Smith-W. Ouizza" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:00-Título Mundial Peso Superligero-D. Smith-W. Ouizza
-http://127.0.0.1/ace/manifest.m3u8?id=ca923c9873fd206a41c1e83ff8fc40e3cf323c9a
-#EXTINF:-1 tvg-id="20:00-Título Mundial Peso Superligero-D. Smith-W. Ouizza" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:00-Título Mundial Peso Superligero-D. Smith-W. Ouizza
-http://127.0.0.1/ace/manifest.m3u8?id=a929eeec1268d69d1556a2e3ace793b2577d8810
-#EXTINF:-1 tvg-id="20:45-ACB-Basquet Girona-Unicaja Málaga" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:45-ACB-Basquet Girona-Unicaja Málaga
-http://127.0.0.1/ace/manifest.m3u8?id=55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
-#EXTINF:-1 tvg-id="20:45-ACB-Basquet Girona-Unicaja Málaga" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:45-ACB-Basquet Girona-Unicaja Málaga
-http://127.0.0.1/ace/manifest.m3u8?id=3a74d9869b13e763476800740c6625e715a39879
-#EXTINF:-1 tvg-id="20:45-ACB-Joventut Badalona-Coviran Granada" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:45-ACB-Joventut Badalona-Coviran Granada
-http://127.0.0.1/ace/manifest.m3u8?id=639c561dd57fa3fc91fde715caeb696c5efb7ce7
-#EXTINF:-1 tvg-id="21:00-Primera-Real Valladolid-Real Madrid" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Primera-Real Valladolid-Real Madrid
-http://127.0.0.1/ace/manifest.m3u8?id=94d34491106e00394835c8cb68aa94481339b53f
-#EXTINF:-1 tvg-id="21:00-Primera-Real Valladolid-Real Madrid" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Primera-Real Valladolid-Real Madrid
-http://127.0.0.1/ace/manifest.m3u8?id=d3de78aebe544611a2347f54d5796bd87f16c92d
-#EXTINF:-1 tvg-id="21:00-Primera-Real Valladolid-Real Madrid" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Primera-Real Valladolid-Real Madrid
-http://127.0.0.1/ace/manifest.m3u8?id=6d05b31e5e8fdae312fbd57897363a7b10ddb163
-#EXTINF:-1 tvg-id="21:00-Primera-Real Valladolid-Real Madrid" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Primera-Real Valladolid-Real Madrid
-http://127.0.0.1/ace/manifest.m3u8?id=1bc437bce57b4b0450f6d1f8d818b7e97000745e
-#EXTINF:-1 tvg-id="21:00-Primera-Real Valladolid-Real Madrid" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Primera-Real Valladolid-Real Madrid
-http://127.0.0.1/ace/manifest.m3u8?id=83c6c4942d69f4aa324aa746c5d7dbfd7d1572b3
-#EXTINF:-1 tvg-id="21:00-Primera-Real Valladolid-Real Madrid" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Primera-Real Valladolid-Real Madrid
-http://127.0.0.1/ace/manifest.m3u8?id=f31a586422c9244196c810c84b6c85da350318a5
-#EXTINF:-1 tvg-id="21:00-Primera-Real Valladolid-Real Madrid" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Primera-Real Valladolid-Real Madrid
-http://127.0.0.1/ace/manifest.m3u8?id=608b0faf7d3d25f6fe5dba13d5e4b4142949990e
-#EXTINF:-1 tvg-id="21:00-Primera-Real Valladolid-Real Madrid" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Primera-Real Valladolid-Real Madrid
-http://127.0.0.1/ace/manifest.m3u8?id=94d34491106e00394835c8cb68aa94481339b53f
-#EXTINF:-1 tvg-id="21:00-Primera-Real Valladolid-Real Madrid" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Primera-Real Valladolid-Real Madrid
-http://127.0.0.1/ace/manifest.m3u8?id=56ac8e227d526e722624675ccdd91b0cc850582f
-#EXTINF:-1 tvg-id="21:00-Segunda-CD Tenerife-Eldense" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Segunda-CD Tenerife-Eldense
-http://127.0.0.1/ace/manifest.m3u8?id=b2706a7ffbea236a3b398139a3a606ada664c0eb
-#EXTINF:-1 tvg-id="21:00-Segunda-CD Tenerife-Eldense" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Segunda-CD Tenerife-Eldense
-http://127.0.0.1/ace/manifest.m3u8?id=121f719ebb94193c6086ef92865cf9b197750980
-#EXTINF:-1 tvg-id="23:30-NBA-Dallas Mavericks-Boston Celtics" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",23:30-NBA-Dallas Mavericks-Boston Celtics
+#EXTINF:-1 tvg-id="13:00-ACB-Dreamland Gran Canaria-La Laguna Tenerife" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",13:00-ACB-Dreamland Gran Canaria-La Laguna Tenerife
 http://127.0.0.1/ace/manifest.m3u8?id=d03c13b6723f66155d7a0df3692a3b073fe630f2
-#EXTINF:-1 tvg-id="23:30-NBA-Dallas Mavericks-Boston Celtics" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",23:30-NBA-Dallas Mavericks-Boston Celtics
+#EXTINF:-1 tvg-id="13:00-ACB-Dreamland Gran Canaria-La Laguna Tenerife" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",13:00-ACB-Dreamland Gran Canaria-La Laguna Tenerife
 http://127.0.0.1/ace/manifest.m3u8?id=12ba546d229bc39f01c3c18988a034b215fe6adb
+#EXTINF:-1 tvg-id="14:00-Primera-Rayo Vallecano-Girona" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:00-Primera-Rayo Vallecano-Girona
+http://127.0.0.1/ace/manifest.m3u8?id=110d441ddc9713a7452588770d2bc85504672f47
+#EXTINF:-1 tvg-id="14:00-Primera-Rayo Vallecano-Girona" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:00-Primera-Rayo Vallecano-Girona
+http://127.0.0.1/ace/manifest.m3u8?id=ec29289b0b14756e686c03a501bae1efa05be70c
+#EXTINF:-1 tvg-id="14:00-Primera-Rayo Vallecano-Girona" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:00-Primera-Rayo Vallecano-Girona
+http://127.0.0.1/ace/manifest.m3u8?id=6de4794cd02f88f14354b5996823413a59a1de0f
+#EXTINF:-1 tvg-id="14:00-Primera-Rayo Vallecano-Girona" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:00-Primera-Rayo Vallecano-Girona
+http://127.0.0.1/ace/manifest.m3u8?id=8c8c1e047a1c5ed213ba74722a5345dc55c3c0eb
+#EXTINF:-1 tvg-id="14:00-Primera-Rayo Vallecano-Girona" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:00-Primera-Rayo Vallecano-Girona
+http://127.0.0.1/ace/manifest.m3u8?id=608b0faf7d3d25f6fe5dba13d5e4b4142949990e
+#EXTINF:-1 tvg-id="14:00-Primera-Rayo Vallecano-Girona" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:00-Primera-Rayo Vallecano-Girona
+http://127.0.0.1/ace/manifest.m3u8?id=94d34491106e00394835c8cb68aa94481339b53f
+#EXTINF:-1 tvg-id="14:00-Segunda-Granada CF-Sporting Gijón" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:00-Segunda-Granada CF-Sporting Gijón
+http://127.0.0.1/ace/manifest.m3u8?id=b2706a7ffbea236a3b398139a3a606ada664c0eb
+#EXTINF:-1 tvg-id="14:00-Segunda-Granada CF-Sporting Gijón" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:00-Segunda-Granada CF-Sporting Gijón
+http://127.0.0.1/ace/manifest.m3u8?id=121f719ebb94193c6086ef92865cf9b197750980
+#EXTINF:-1 tvg-id="14:00-Segunda-Granada CF-Sporting Gijón" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:00-Segunda-Granada CF-Sporting Gijón
+http://127.0.0.1/ace/manifest.m3u8?id=56ac8e227d526e722624675ccdd91b0cc850582f
+#EXTINF:-1 tvg-id="15:00-Premier League-Crystal Palace-Brentford" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:00-Premier League-Crystal Palace-Brentford
+http://127.0.0.1/ace/manifest.m3u8?id=ca923c9873fd206a41c1e83ff8fc40e3cf323c9a
+#EXTINF:-1 tvg-id="15:00-Premier League-Crystal Palace-Brentford" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:00-Premier League-Crystal Palace-Brentford
+http://127.0.0.1/ace/manifest.m3u8?id=a929eeec1268d69d1556a2e3ace793b2577d8810
+#EXTINF:-1 tvg-id="15:00-Premier League-Tottenham-Leicester City" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:00-Premier League-Tottenham-Leicester City
+http://127.0.0.1/ace/manifest.m3u8?id=7cf0086fa7d478f51dbba952865c79e66cb9add5
+#EXTINF:-1 tvg-id="15:00-Premier League-Tottenham-Leicester City" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:00-Premier League-Tottenham-Leicester City
+http://127.0.0.1/ace/manifest.m3u8?id=35c7f0c966ecde3390f4510bb4caded40018c07a
+#EXTINF:-1 tvg-id="16:15-Primera-Real Sociedad-Getafe" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:15-Primera-Real Sociedad-Getafe
+http://127.0.0.1/ace/manifest.m3u8?id=97ba38d47680954be40e48bd8f43e17222fefecb
+#EXTINF:-1 tvg-id="16:15-Primera-Real Sociedad-Getafe" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:15-Primera-Real Sociedad-Getafe
+http://127.0.0.1/ace/manifest.m3u8?id=51dbbfb42f8091e4ea7a2186b566a40e780953d9
+#EXTINF:-1 tvg-id="16:15-Primera-Real Sociedad-Getafe" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:15-Primera-Real Sociedad-Getafe
+http://127.0.0.1/ace/manifest.m3u8?id=608b0faf7d3d25f6fe5dba13d5e4b4142949990e
+#EXTINF:-1 tvg-id="16:15-Primera-Real Sociedad-Getafe" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:15-Primera-Real Sociedad-Getafe
+http://127.0.0.1/ace/manifest.m3u8?id=94d34491106e00394835c8cb68aa94481339b53f
+#EXTINF:-1 tvg-id="16:15-Segunda-Albacete-UD Almería" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:15-Segunda-Albacete-UD Almería
+http://127.0.0.1/ace/manifest.m3u8?id=0cfdfde1b70623b8c210b0f7301be2a87456481d
+#EXTINF:-1 tvg-id="16:15-Segunda-Albacete-UD Almería" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:15-Segunda-Albacete-UD Almería
+http://127.0.0.1/ace/manifest.m3u8?id=0a335406bad0b658aeddb2d38f8c0614b2e5623a
+#EXTINF:-1 tvg-id="16:15-Segunda-Real Oviedo-CD Castellón" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:15-Segunda-Real Oviedo-CD Castellón
+http://127.0.0.1/ace/manifest.m3u8?id=b2706a7ffbea236a3b398139a3a606ada664c0eb
+#EXTINF:-1 tvg-id="16:15-Segunda-Real Oviedo-CD Castellón" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:15-Segunda-Real Oviedo-CD Castellón
+http://127.0.0.1/ace/manifest.m3u8?id=121f719ebb94193c6086ef92865cf9b197750980
+#EXTINF:-1 tvg-id="17:00-ACB-Força Lleida-Baskonia" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:00-ACB-Força Lleida-Baskonia
+http://127.0.0.1/ace/manifest.m3u8?id=571bff4d12b1791eb99dbf20bec38e630693a6a3
+#EXTINF:-1 tvg-id="17:00-ACB-Real Madrid Baloncesto-Básquet Coruña" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:00-ACB-Real Madrid Baloncesto-Básquet Coruña
+http://127.0.0.1/ace/manifest.m3u8?id=639c561dd57fa3fc91fde715caeb696c5efb7ce7
+#EXTINF:-1 tvg-id="17:30-Premier League-Aston Villa-West Ham" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:30-Premier League-Aston Villa-West Ham
+http://127.0.0.1/ace/manifest.m3u8?id=7cf0086fa7d478f51dbba952865c79e66cb9add5
+#EXTINF:-1 tvg-id="17:30-Premier League-Aston Villa-West Ham" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:30-Premier League-Aston Villa-West Ham
+http://127.0.0.1/ace/manifest.m3u8?id=35c7f0c966ecde3390f4510bb4caded40018c07a
+#EXTINF:-1 tvg-id="18:30-Primera-Athletic Club-Leganés" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:30-Primera-Athletic Club-Leganés
+http://127.0.0.1/ace/manifest.m3u8?id=94d34491106e00394835c8cb68aa94481339b53f
+#EXTINF:-1 tvg-id="18:30-Primera-Athletic Club-Leganés" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:30-Primera-Athletic Club-Leganés
+http://127.0.0.1/ace/manifest.m3u8?id=d3de78aebe544611a2347f54d5796bd87f16c92d
+#EXTINF:-1 tvg-id="18:30-Primera-Athletic Club-Leganés" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:30-Primera-Athletic Club-Leganés
+http://127.0.0.1/ace/manifest.m3u8?id=6d05b31e5e8fdae312fbd57897363a7b10ddb163
+#EXTINF:-1 tvg-id="18:30-Primera-Athletic Club-Leganés" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:30-Primera-Athletic Club-Leganés
+http://127.0.0.1/ace/manifest.m3u8?id=1bc437bce57b4b0450f6d1f8d818b7e97000745e
+#EXTINF:-1 tvg-id="18:30-Primera-Athletic Club-Leganés" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:30-Primera-Athletic Club-Leganés
+http://127.0.0.1/ace/manifest.m3u8?id=608b0faf7d3d25f6fe5dba13d5e4b4142949990e
+#EXTINF:-1 tvg-id="18:30-Primera-Athletic Club-Leganés" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:30-Primera-Athletic Club-Leganés
+http://127.0.0.1/ace/manifest.m3u8?id=94d34491106e00394835c8cb68aa94481339b53f
+#EXTINF:-1 tvg-id="18:30-Segunda-Málaga-Real Zaragoza" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:30-Segunda-Málaga-Real Zaragoza
+http://127.0.0.1/ace/manifest.m3u8?id=b2706a7ffbea236a3b398139a3a606ada664c0eb
+#EXTINF:-1 tvg-id="18:30-Segunda-Málaga-Real Zaragoza" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:30-Segunda-Málaga-Real Zaragoza
+http://127.0.0.1/ace/manifest.m3u8?id=121f719ebb94193c6086ef92865cf9b197750980
+#EXTINF:-1 tvg-id="18:30-Segunda-Racing Ferrol-Burgos CF" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:30-Segunda-Racing Ferrol-Burgos CF
+http://127.0.0.1/ace/manifest.m3u8?id=0cfdfde1b70623b8c210b0f7301be2a87456481d
+#EXTINF:-1 tvg-id="18:30-Segunda-Racing Ferrol-Burgos CF" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:30-Segunda-Racing Ferrol-Burgos CF
+http://127.0.0.1/ace/manifest.m3u8?id=0a335406bad0b658aeddb2d38f8c0614b2e5623a
+#EXTINF:-1 tvg-id="18:30-ACB-UCAM Murcia CB-Barça Basket" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:30-ACB-UCAM Murcia CB-Barça Basket
+http://127.0.0.1/ace/manifest.m3u8?id=55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
+#EXTINF:-1 tvg-id="18:30-ACB-UCAM Murcia CB-Barça Basket" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:30-ACB-UCAM Murcia CB-Barça Basket
+http://127.0.0.1/ace/manifest.m3u8?id=3a74d9869b13e763476800740c6625e715a39879
+#EXTINF:-1 tvg-id="18:30-ACB-UCAM Murcia CB-Barça Basket" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:30-ACB-UCAM Murcia CB-Barça Basket
+http://127.0.0.1/ace/manifest.m3u8?id=56ac8e227d526e722624675ccdd91b0cc850582f
+#EXTINF:-1 tvg-id="20:00-Premier League-Fulham-Manchester Utd." tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:00-Premier League-Fulham-Manchester Utd.
+http://127.0.0.1/ace/manifest.m3u8?id=7cf0086fa7d478f51dbba952865c79e66cb9add5
+#EXTINF:-1 tvg-id="20:00-Premier League-Fulham-Manchester Utd." tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:00-Premier League-Fulham-Manchester Utd.
+http://127.0.0.1/ace/manifest.m3u8?id=35c7f0c966ecde3390f4510bb4caded40018c07a
+#EXTINF:-1 tvg-id="21:00-Primera-FC Barcelona-Valencia CF" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Primera-FC Barcelona-Valencia CF
+http://127.0.0.1/ace/manifest.m3u8?id=110d441ddc9713a7452588770d2bc85504672f47
+#EXTINF:-1 tvg-id="21:00-Primera-FC Barcelona-Valencia CF" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Primera-FC Barcelona-Valencia CF
+http://127.0.0.1/ace/manifest.m3u8?id=ec29289b0b14756e686c03a501bae1efa05be70c
+#EXTINF:-1 tvg-id="21:00-Primera-FC Barcelona-Valencia CF" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Primera-FC Barcelona-Valencia CF
+http://127.0.0.1/ace/manifest.m3u8?id=6de4794cd02f88f14354b5996823413a59a1de0f
+#EXTINF:-1 tvg-id="21:00-Primera-FC Barcelona-Valencia CF" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Primera-FC Barcelona-Valencia CF
+http://127.0.0.1/ace/manifest.m3u8?id=8c8c1e047a1c5ed213ba74722a5345dc55c3c0eb
+#EXTINF:-1 tvg-id="21:00-Primera-FC Barcelona-Valencia CF" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Primera-FC Barcelona-Valencia CF
+http://127.0.0.1/ace/manifest.m3u8?id=97ba38d47680954be40e48bd8f43e17222fefecb
+#EXTINF:-1 tvg-id="21:00-Primera-FC Barcelona-Valencia CF" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Primera-FC Barcelona-Valencia CF
+http://127.0.0.1/ace/manifest.m3u8?id=51dbbfb42f8091e4ea7a2186b566a40e780953d9
+#EXTINF:-1 tvg-id="21:00-Primera-FC Barcelona-Valencia CF" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Primera-FC Barcelona-Valencia CF
+http://127.0.0.1/ace/manifest.m3u8?id=608b0faf7d3d25f6fe5dba13d5e4b4142949990e
+#EXTINF:-1 tvg-id="21:00-Primera-FC Barcelona-Valencia CF" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Primera-FC Barcelona-Valencia CF
+http://127.0.0.1/ace/manifest.m3u8?id=94d34491106e00394835c8cb68aa94481339b53f
