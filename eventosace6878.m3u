@@ -33,6 +33,14 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=b2706a7ffbea236a3b398139a3a606ada664c
 http://127.0.0.1:6878/ace/manifest.m3u8?id=121f719ebb94193c6086ef92865cf9b197750980
 #EXTINF:-1 tvg-id="14:00-Segunda-Granada CF-Sporting Gijón" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:00-Segunda-Granada CF-Sporting Gijón
 http://127.0.0.1:6878/ace/manifest.m3u8?id=56ac8e227d526e722624675ccdd91b0cc850582f
+#EXTINF:-1 tvg-id="15:00-Premier League-Crystal Palace-Brentford" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:00-Premier League-Crystal Palace-Brentford
+http://127.0.0.1:6878/ace/manifest.m3u8?id=ca923c9873fd206a41c1e83ff8fc40e3cf323c9a
+#EXTINF:-1 tvg-id="15:00-Premier League-Crystal Palace-Brentford" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:00-Premier League-Crystal Palace-Brentford
+http://127.0.0.1:6878/ace/manifest.m3u8?id=a929eeec1268d69d1556a2e3ace793b2577d8810
+#EXTINF:-1 tvg-id="15:00-Premier League-Tottenham-Leicester City" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:00-Premier League-Tottenham-Leicester City
+http://127.0.0.1:6878/ace/manifest.m3u8?id=7cf0086fa7d478f51dbba952865c79e66cb9add5
+#EXTINF:-1 tvg-id="15:00-Premier League-Tottenham-Leicester City" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:00-Premier League-Tottenham-Leicester City
+http://127.0.0.1:6878/ace/manifest.m3u8?id=35c7f0c966ecde3390f4510bb4caded40018c07a
 #EXTINF:-1 tvg-id="16:15-Primera-Real Sociedad-Getafe" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:15-Primera-Real Sociedad-Getafe
 http://127.0.0.1:6878/ace/manifest.m3u8?id=97ba38d47680954be40e48bd8f43e17222fefecb
 #EXTINF:-1 tvg-id="16:15-Primera-Real Sociedad-Getafe" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:15-Primera-Real Sociedad-Getafe
@@ -53,6 +61,10 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=121f719ebb94193c6086ef92865cf9b197750
 http://127.0.0.1:6878/ace/manifest.m3u8?id=571bff4d12b1791eb99dbf20bec38e630693a6a3
 #EXTINF:-1 tvg-id="17:00-ACB-Real Madrid Baloncesto-Básquet Coruña" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:00-ACB-Real Madrid Baloncesto-Básquet Coruña
 http://127.0.0.1:6878/ace/manifest.m3u8?id=639c561dd57fa3fc91fde715caeb696c5efb7ce7
+#EXTINF:-1 tvg-id="17:30-Premier League-Aston Villa-West Ham" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:30-Premier League-Aston Villa-West Ham
+http://127.0.0.1:6878/ace/manifest.m3u8?id=7cf0086fa7d478f51dbba952865c79e66cb9add5
+#EXTINF:-1 tvg-id="17:30-Premier League-Aston Villa-West Ham" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:30-Premier League-Aston Villa-West Ham
+http://127.0.0.1:6878/ace/manifest.m3u8?id=35c7f0c966ecde3390f4510bb4caded40018c07a
 #EXTINF:-1 tvg-id="18:30-Primera-Athletic Club-Leganés" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:30-Primera-Athletic Club-Leganés
 http://127.0.0.1:6878/ace/manifest.m3u8?id=94d34491106e00394835c8cb68aa94481339b53f
 #EXTINF:-1 tvg-id="18:30-Primera-Athletic Club-Leganés" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:30-Primera-Athletic Club-Leganés
@@ -79,6 +91,10 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=55d4602cb22b0d8a33c10c2c2f42dae64a9e8
 http://127.0.0.1:6878/ace/manifest.m3u8?id=3a74d9869b13e763476800740c6625e715a39879
 #EXTINF:-1 tvg-id="18:30-ACB-UCAM Murcia CB-Barça Basket" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:30-ACB-UCAM Murcia CB-Barça Basket
 http://127.0.0.1:6878/ace/manifest.m3u8?id=56ac8e227d526e722624675ccdd91b0cc850582f
+#EXTINF:-1 tvg-id="20:00-Premier League-Fulham-Manchester Utd." tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:00-Premier League-Fulham-Manchester Utd.
+http://127.0.0.1:6878/ace/manifest.m3u8?id=7cf0086fa7d478f51dbba952865c79e66cb9add5
+#EXTINF:-1 tvg-id="20:00-Premier League-Fulham-Manchester Utd." tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:00-Premier League-Fulham-Manchester Utd.
+http://127.0.0.1:6878/ace/manifest.m3u8?id=35c7f0c966ecde3390f4510bb4caded40018c07a
 #EXTINF:-1 tvg-id="21:00-Primera-FC Barcelona-Valencia CF" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Primera-FC Barcelona-Valencia CF
 http://127.0.0.1:6878/ace/manifest.m3u8?id=110d441ddc9713a7452588770d2bc85504672f47
 #EXTINF:-1 tvg-id="21:00-Primera-FC Barcelona-Valencia CF" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Primera-FC Barcelona-Valencia CF
