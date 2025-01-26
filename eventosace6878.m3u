@@ -3,6 +3,10 @@
 http://127.0.0.1:6878/ace/manifest.m3u8?id=ca923c9873fd206a41c1e83ff8fc40e3cf323c9a
 #EXTINF:-1 tvg-id="01:00-Título Internacional Peso Supermediano-D. Pacheco-S. Nelson" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",01:00-Título Internacional Peso Supermediano-D. Pacheco-S. Nelson
 http://127.0.0.1:6878/ace/manifest.m3u8?id=a929eeec1268d69d1556a2e3ace793b2577d8810
+#EXTINF:-1 tvg-id="05:00-Open Australia-Final Dobles Femeninos-Grand Slam" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",05:00-Open Australia-Final Dobles Femeninos-Grand Slam
+http://127.0.0.1:6878/ace/manifest.m3u8?id=16ffa1713f42aa27317ee039a2bd0cdbc89a1580
+#EXTINF:-1 tvg-id="09:30-Open Australia Final Masculina Grand Slam-J. Sinner-A. Zverev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",09:30-Open Australia Final Masculina Grand Slam-J. Sinner-A. Zverev
+http://127.0.0.1:6878/ace/manifest.m3u8?id=16ffa1713f42aa27317ee039a2bd0cdbc89a1580
 #EXTINF:-1 tvg-id="12:30-ACB-Casademont Zaragoza-MoraBanc Andorra" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",12:30-ACB-Casademont Zaragoza-MoraBanc Andorra
 http://127.0.0.1:6878/ace/manifest.m3u8?id=55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
 #EXTINF:-1 tvg-id="12:30-ACB-Casademont Zaragoza-MoraBanc Andorra" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",12:30-ACB-Casademont Zaragoza-MoraBanc Andorra
