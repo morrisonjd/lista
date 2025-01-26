@@ -3,10 +3,6 @@
 http://127.0.0.1:8000/pid/ca923c9873fd206a41c1e83ff8fc40e3cf323c9a/stream.mp4
 #EXTINF:-1 tvg-id="01:00-Título Internacional Peso Supermediano-D. Pacheco-S. Nelson" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",01:00-Título Internacional Peso Supermediano-D. Pacheco-S. Nelson
 http://127.0.0.1:8000/pid/a929eeec1268d69d1556a2e3ace793b2577d8810/stream.mp4
-#EXTINF:-1 tvg-id="05:00-Open Australia-Final Dobles Femeninos-Grand Slam" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",05:00-Open Australia-Final Dobles Femeninos-Grand Slam
-http://127.0.0.1:8000/pid/16ffa1713f42aa27317ee039a2bd0cdbc89a1580/stream.mp4
-#EXTINF:-1 tvg-id="09:30-Open Australia Final Masculina Grand Slam-J. Sinner-A. Zverev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",09:30-Open Australia Final Masculina Grand Slam-J. Sinner-A. Zverev
-http://127.0.0.1:8000/pid/16ffa1713f42aa27317ee039a2bd0cdbc89a1580/stream.mp4
 #EXTINF:-1 tvg-id="12:30-ACB-Casademont Zaragoza-MoraBanc Andorra" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",12:30-ACB-Casademont Zaragoza-MoraBanc Andorra
 http://127.0.0.1:8000/pid/55d4602cb22b0d8a33c10c2c2f42dae64a9e8895/stream.mp4
 #EXTINF:-1 tvg-id="12:30-ACB-Casademont Zaragoza-MoraBanc Andorra" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",12:30-ACB-Casademont Zaragoza-MoraBanc Andorra
@@ -81,10 +77,6 @@ http://127.0.0.1:8000/pid/94d34491106e00394835c8cb68aa94481339b53f/stream.mp4
 http://127.0.0.1:8000/pid/b2706a7ffbea236a3b398139a3a606ada664c0eb/stream.mp4
 #EXTINF:-1 tvg-id="18:30-Segunda-Málaga-Real Zaragoza" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:30-Segunda-Málaga-Real Zaragoza
 http://127.0.0.1:8000/pid/121f719ebb94193c6086ef92865cf9b197750980/stream.mp4
-#EXTINF:-1 tvg-id="18:30-Segunda-Racing Ferrol-Burgos CF" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:30-Segunda-Racing Ferrol-Burgos CF
-http://127.0.0.1:8000/pid/0cfdfde1b70623b8c210b0f7301be2a87456481d/stream.mp4
-#EXTINF:-1 tvg-id="18:30-Segunda-Racing Ferrol-Burgos CF" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:30-Segunda-Racing Ferrol-Burgos CF
-http://127.0.0.1:8000/pid/0a335406bad0b658aeddb2d38f8c0614b2e5623a/stream.mp4
 #EXTINF:-1 tvg-id="18:30-ACB-UCAM Murcia CB-Barça Basket" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:30-ACB-UCAM Murcia CB-Barça Basket
 http://127.0.0.1:8000/pid/55d4602cb22b0d8a33c10c2c2f42dae64a9e8895/stream.mp4
 #EXTINF:-1 tvg-id="18:30-ACB-UCAM Murcia CB-Barça Basket" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:30-ACB-UCAM Murcia CB-Barça Basket
