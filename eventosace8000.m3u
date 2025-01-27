@@ -1,4 +1,8 @@
 #EXTM3U 
+#EXTINF:-1 tvg-id="00:00-NBA-Portland Trail Blazers-Oklahoma C. Thunder" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",00:00-NBA-Portland Trail Blazers-Oklahoma C. Thunder
+http://127.0.0.1:8000/pid/d03c13b6723f66155d7a0df3692a3b073fe630f2/stream.mp4
+#EXTINF:-1 tvg-id="00:00-NBA-Portland Trail Blazers-Oklahoma C. Thunder" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",00:00-NBA-Portland Trail Blazers-Oklahoma C. Thunder
+http://127.0.0.1:8000/pid/12ba546d229bc39f01c3c18988a034b215fe6adb/stream.mp4
 #EXTINF:-1 tvg-id="20:30-Segunda-Cádiz CF-Mirandés" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:30-Segunda-Cádiz CF-Mirandés
 http://127.0.0.1:8000/pid/b2706a7ffbea236a3b398139a3a606ada664c0eb/stream.mp4
 #EXTINF:-1 tvg-id="20:30-Segunda-Cádiz CF-Mirandés" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:30-Segunda-Cádiz CF-Mirandés
