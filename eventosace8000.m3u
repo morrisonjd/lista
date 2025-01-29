@@ -11,6 +11,34 @@ http://127.0.0.1:8000/pid/ca923c9873fd206a41c1e83ff8fc40e3cf323c9a/stream.mp4
 http://127.0.0.1:8000/pid/a929eeec1268d69d1556a2e3ace793b2577d8810/stream.mp4
 #EXTINF:-1 tvg-id="14:30-Trofeo Calvia-UCI Europe Tour-Palmanova › Palmanova (150" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:30-Trofeo Calvia-UCI Europe Tour-Palmanova › Palmanova (150
 http://127.0.0.1:8000/pid/98784fa0714190de289f42eb5b84e405df7e685a/stream.mp4
+#EXTINF:-1 tvg-id="21:00-Champions League Estádio José Alvalade" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Champions League Estádio José Alvalade
+http://127.0.0.1:8000/pid/11744c25a594e17d587ed0871fe40ff21b4bd1e0/stream.mp4
+#EXTINF:-1 tvg-id="21:00-Champions League Etihad Stadium" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Champions League Etihad Stadium
+http://127.0.0.1:8000/pid/11744c25a594e17d587ed0871fe40ff21b4bd1e0/stream.mp4
+#EXTINF:-1 tvg-id="21:00-Champions League Etihad Stadium" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Champions League Etihad Stadium
+http://127.0.0.1:8000/pid/fdda1f0dd8c33fbdc5a66ab98e291f570cae67cd/stream.mp4
+#EXTINF:-1 tvg-id="21:00-Champions League Juventus Arena" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Champions League Juventus Arena
+http://127.0.0.1:8000/pid/11744c25a594e17d587ed0871fe40ff21b4bd1e0/stream.mp4
+#EXTINF:-1 tvg-id="21:00-Champions League MHP Arena" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Champions League MHP Arena
+http://127.0.0.1:8000/pid/11744c25a594e17d587ed0871fe40ff21b4bd1e0/stream.mp4
+#EXTINF:-1 tvg-id="21:00-Champions League MHP Arena" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Champions League MHP Arena
+http://127.0.0.1:8000/pid/b7f47db93dced60f54e8f89e2366ed061b534049/stream.mp4
+#EXTINF:-1 tvg-id="21:00-Champions League Philips Stadion" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Champions League Philips Stadion
+http://127.0.0.1:8000/pid/11744c25a594e17d587ed0871fe40ff21b4bd1e0/stream.mp4
+#EXTINF:-1 tvg-id="21:00-Champions League Philips Stadion" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Champions League Philips Stadion
+http://127.0.0.1:8000/pid/df7d145fcaf0566db4098d2f10236185d92bc9fd/stream.mp4
+#EXTINF:-1 tvg-id="21:00-Champions League Stade Francis Le Blé" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Champions League Stade Francis Le Blé
+http://127.0.0.1:8000/pid/c070cdb701fc46bb79d17568d99fc64620443d63/stream.mp4
+#EXTINF:-1 tvg-id="21:00-Champions League Stade Francis Le Blé" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Champions League Stade Francis Le Blé
+http://127.0.0.1:8000/pid/abdf9058786a48623d0de51a3adb414ae10b6e72/stream.mp4
+#EXTINF:-1 tvg-id="21:00-Champions League Stade Francis Le Blé" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Champions League Stade Francis Le Blé
+http://127.0.0.1:8000/pid/11744c25a594e17d587ed0871fe40ff21b4bd1e0/stream.mp4
+#EXTINF:-1 tvg-id="21:00-Champions League Stade Francis Le Blé" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Champions League Stade Francis Le Blé
+http://127.0.0.1:8000/pid/56ac8e227d526e722624675ccdd91b0cc850582f/stream.mp4
+#EXTINF:-1 tvg-id="21:00-Champions League Stadion Maksimir" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Champions League Stadion Maksimir
+http://127.0.0.1:8000/pid/11744c25a594e17d587ed0871fe40ff21b4bd1e0/stream.mp4
+#EXTINF:-1 tvg-id="21:00-Champions League Stadion Maksimir" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Champions League Stadion Maksimir
+http://127.0.0.1:8000/pid/bdfe9ebe62d690c1b13eef4346d72e618cfbe804/stream.mp4
 #EXTINF:-1 tvg-id="21:00-Champions League-Aston Villa-Celtic FC" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Champions League-Aston Villa-Celtic FC
 http://127.0.0.1:8000/pid/11744c25a594e17d587ed0871fe40ff21b4bd1e0/stream.mp4
 #EXTINF:-1 tvg-id="21:00-Champions League-Aston Villa-Celtic FC" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Champions League-Aston Villa-Celtic FC
@@ -41,48 +69,20 @@ http://127.0.0.1:8000/pid/a12a16f74cf12799d4475ae867dc61eb60e1ba2e/stream.mp4
 http://127.0.0.1:8000/pid/65a18a6bd83918a9586b673fec12405aaf4e9f7d/stream.mp4
 #EXTINF:-1 tvg-id="21:00-Champions League-Girona-Arsenal" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Champions League-Girona-Arsenal
 http://127.0.0.1:8000/pid/11744c25a594e17d587ed0871fe40ff21b4bd1e0/stream.mp4
-#EXTINF:-1 tvg-id="21:00-Champions League-GNK Dinamo Zagreb-AC Milan" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Champions League-GNK Dinamo Zagreb-AC Milan
-http://127.0.0.1:8000/pid/11744c25a594e17d587ed0871fe40ff21b4bd1e0/stream.mp4
-#EXTINF:-1 tvg-id="21:00-Champions League-GNK Dinamo Zagreb-AC Milan" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Champions League-GNK Dinamo Zagreb-AC Milan
-http://127.0.0.1:8000/pid/bdfe9ebe62d690c1b13eef4346d72e618cfbe804/stream.mp4
 #EXTINF:-1 tvg-id="21:00-Champions League-Inter Milan-AS Monaco" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Champions League-Inter Milan-AS Monaco
 http://127.0.0.1:8000/pid/11744c25a594e17d587ed0871fe40ff21b4bd1e0/stream.mp4
 #EXTINF:-1 tvg-id="21:00-Champions League-Inter Milan-AS Monaco" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Champions League-Inter Milan-AS Monaco
 http://127.0.0.1:8000/pid/d298c6e5c8be71f5995b45289c6388b225318b3c/stream.mp4
-#EXTINF:-1 tvg-id="21:00-Champions League-Juventus-Benfica" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Champions League-Juventus-Benfica
-http://127.0.0.1:8000/pid/11744c25a594e17d587ed0871fe40ff21b4bd1e0/stream.mp4
 #EXTINF:-1 tvg-id="21:00-Champions League-Lille-Feyenoord" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Champions League-Lille-Feyenoord
 http://127.0.0.1:8000/pid/11744c25a594e17d587ed0871fe40ff21b4bd1e0/stream.mp4
-#EXTINF:-1 tvg-id="21:00-Champions League-Manchester City-Club Brugge" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Champions League-Manchester City-Club Brugge
-http://127.0.0.1:8000/pid/11744c25a594e17d587ed0871fe40ff21b4bd1e0/stream.mp4
-#EXTINF:-1 tvg-id="21:00-Champions League-Manchester City-Club Brugge" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Champions League-Manchester City-Club Brugge
-http://127.0.0.1:8000/pid/fdda1f0dd8c33fbdc5a66ab98e291f570cae67cd/stream.mp4
-#EXTINF:-1 tvg-id="21:00-Champions League-PSV Eindhoven-Liverpool" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Champions League-PSV Eindhoven-Liverpool
-http://127.0.0.1:8000/pid/11744c25a594e17d587ed0871fe40ff21b4bd1e0/stream.mp4
-#EXTINF:-1 tvg-id="21:00-Champions League-PSV Eindhoven-Liverpool" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Champions League-PSV Eindhoven-Liverpool
-http://127.0.0.1:8000/pid/df7d145fcaf0566db4098d2f10236185d92bc9fd/stream.mp4
 #EXTINF:-1 tvg-id="21:00-Champions League-Red Bull Salzburg-At. Madrid" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Champions League-Red Bull Salzburg-At. Madrid
 http://127.0.0.1:8000/pid/3618edda333dad5374ac2c801f5f14483934b97d/stream.mp4
 #EXTINF:-1 tvg-id="21:00-Champions League-Red Bull Salzburg-At. Madrid" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Champions League-Red Bull Salzburg-At. Madrid
 http://127.0.0.1:8000/pid/0b348cc1ae499e810729661878764a0fab88ab69/stream.mp4
 #EXTINF:-1 tvg-id="21:00-Champions League-Red Bull Salzburg-At. Madrid" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Champions League-Red Bull Salzburg-At. Madrid
 http://127.0.0.1:8000/pid/11744c25a594e17d587ed0871fe40ff21b4bd1e0/stream.mp4
-#EXTINF:-1 tvg-id="21:00-Champions League-Sporting CP-Bologna" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Champions League-Sporting CP-Bologna
-http://127.0.0.1:8000/pid/11744c25a594e17d587ed0871fe40ff21b4bd1e0/stream.mp4
-#EXTINF:-1 tvg-id="21:00-Champions League-Stade Brestois-Real Madrid" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Champions League-Stade Brestois-Real Madrid
-http://127.0.0.1:8000/pid/c070cdb701fc46bb79d17568d99fc64620443d63/stream.mp4
-#EXTINF:-1 tvg-id="21:00-Champions League-Stade Brestois-Real Madrid" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Champions League-Stade Brestois-Real Madrid
-http://127.0.0.1:8000/pid/abdf9058786a48623d0de51a3adb414ae10b6e72/stream.mp4
-#EXTINF:-1 tvg-id="21:00-Champions League-Stade Brestois-Real Madrid" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Champions League-Stade Brestois-Real Madrid
-http://127.0.0.1:8000/pid/11744c25a594e17d587ed0871fe40ff21b4bd1e0/stream.mp4
-#EXTINF:-1 tvg-id="21:00-Champions League-Stade Brestois-Real Madrid" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Champions League-Stade Brestois-Real Madrid
-http://127.0.0.1:8000/pid/56ac8e227d526e722624675ccdd91b0cc850582f/stream.mp4
 #EXTINF:-1 tvg-id="21:00-Champions League-Sturm Graz-RB Leipzig" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Champions League-Sturm Graz-RB Leipzig
 http://127.0.0.1:8000/pid/11744c25a594e17d587ed0871fe40ff21b4bd1e0/stream.mp4
-#EXTINF:-1 tvg-id="21:00-Champions League-Stuttgart-PSG" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Champions League-Stuttgart-PSG
-http://127.0.0.1:8000/pid/11744c25a594e17d587ed0871fe40ff21b4bd1e0/stream.mp4
-#EXTINF:-1 tvg-id="21:00-Champions League-Stuttgart-PSG" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Champions League-Stuttgart-PSG
-http://127.0.0.1:8000/pid/b7f47db93dced60f54e8f89e2366ed061b534049/stream.mp4
 #EXTINF:-1 tvg-id="21:00-Champions League-Young Boys-Crvena Zvezda" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Champions League-Young Boys-Crvena Zvezda
 http://127.0.0.1:8000/pid/11744c25a594e17d587ed0871fe40ff21b4bd1e0/stream.mp4
 #EXTINF:-1 tvg-id="21:00-Eurocup-Dreamland Gran Canaria-Besiktas JK Istanbul" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Eurocup-Dreamland Gran Canaria-Besiktas JK Istanbul
