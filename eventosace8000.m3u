@@ -1,22 +1,4 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="02:00-NBA-New Orleans Pelicans-Boston Celtics" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",02:00-NBA-New Orleans Pelicans-Boston Celtics
-http://127.0.0.1:8000/pid/d03c13b6723f66155d7a0df3692a3b073fe630f2/stream.mp4
-#EXTINF:-1 tvg-id="02:00-NBA-New Orleans Pelicans-Boston Celtics" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",02:00-NBA-New Orleans Pelicans-Boston Celtics
-http://127.0.0.1:8000/pid/12ba546d229bc39f01c3c18988a034b215fe6adb/stream.mp4
-#EXTINF:-1 tvg-id="12:00-Copa Davis-Dinamarca-Serbia" tvg-logo="http://imgfz.com/i/ZN79E8i.png" group-title="EVENTOS",12:00-Copa Davis-Dinamarca-Serbia
-http://127.0.0.1:8000/pid/fcc0fd75bf1dba40b108fcf0d3514e0e549bfbac/stream.mp4
-#EXTINF:-1 tvg-id="13:00-Copa Davis-Suiza-España" tvg-logo="http://imgfz.com/i/ZN79E8i.png" group-title="EVENTOS",13:00-Copa Davis-Suiza-España
-http://127.0.0.1:8000/pid/639c561dd57fa3fc91fde715caeb696c5efb7ce7/stream.mp4
-#EXTINF:-1 tvg-id="13:00-Copa Davis-Suiza-España" tvg-logo="http://imgfz.com/i/ZN79E8i.png" group-title="EVENTOS",13:00-Copa Davis-Suiza-España
-http://127.0.0.1:8000/pid/d03c13b6723f66155d7a0df3692a3b073fe630f2/stream.mp4
-#EXTINF:-1 tvg-id="13:00-Copa Davis-Suiza-España" tvg-logo="http://imgfz.com/i/ZN79E8i.png" group-title="EVENTOS",13:00-Copa Davis-Suiza-España
-http://127.0.0.1:8000/pid/12ba546d229bc39f01c3c18988a034b215fe6adb/stream.mp4
-#EXTINF:-1 tvg-id="13:30-Copa Davis-Dinamarca-Serbia" tvg-logo="http://imgfz.com/i/ZN79E8i.png" group-title="EVENTOS",13:30-Copa Davis-Dinamarca-Serbia
-http://127.0.0.1:8000/pid/fcc0fd75bf1dba40b108fcf0d3514e0e549bfbac/stream.mp4
-#EXTINF:-1 tvg-id="13:30-Premier League-Nottingham Forest-Brighton" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",13:30-Premier League-Nottingham Forest-Brighton
-http://127.0.0.1:8000/pid/7cf0086fa7d478f51dbba952865c79e66cb9add5/stream.mp4
-#EXTINF:-1 tvg-id="13:30-Premier League-Nottingham Forest-Brighton" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",13:30-Premier League-Nottingham Forest-Brighton
-http://127.0.0.1:8000/pid/35c7f0c966ecde3390f4510bb4caded40018c07a/stream.mp4
 #EXTINF:-1 tvg-id="14:00-Primera-Getafe-Sevilla FC" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",14:00-Primera-Getafe-Sevilla FC
 http://127.0.0.1:8000/pid/110d441ddc9713a7452588770d2bc85504672f47/stream.mp4
 #EXTINF:-1 tvg-id="14:00-Primera-Getafe-Sevilla FC" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",14:00-Primera-Getafe-Sevilla FC
@@ -33,30 +15,6 @@ http://127.0.0.1:8000/pid/94d34491106e00394835c8cb68aa94481339b53f/stream.mp4
 http://127.0.0.1:8000/pid/b2706a7ffbea236a3b398139a3a606ada664c0eb/stream.mp4
 #EXTINF:-1 tvg-id="14:00-Segunda-Mirandés-Elche" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",14:00-Segunda-Mirandés-Elche
 http://127.0.0.1:8000/pid/121f719ebb94193c6086ef92865cf9b197750980/stream.mp4
-#EXTINF:-1 tvg-id="14:00-Segunda-Mirandés-Elche" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",14:00-Segunda-Mirandés-Elche
-http://127.0.0.1:8000/pid/56ac8e227d526e722624675ccdd91b0cc850582f/stream.mp4
-#EXTINF:-1 tvg-id="14:30-Copa Davis-Suiza-España" tvg-logo="http://imgfz.com/i/ZN79E8i.png" group-title="EVENTOS",14:30-Copa Davis-Suiza-España
-http://127.0.0.1:8000/pid/639c561dd57fa3fc91fde715caeb696c5efb7ce7/stream.mp4
-#EXTINF:-1 tvg-id="14:30-Copa Davis-Suiza-España" tvg-logo="http://imgfz.com/i/ZN79E8i.png" group-title="EVENTOS",14:30-Copa Davis-Suiza-España
-http://127.0.0.1:8000/pid/d03c13b6723f66155d7a0df3692a3b073fe630f2/stream.mp4
-#EXTINF:-1 tvg-id="14:30-Copa Davis-Suiza-España" tvg-logo="http://imgfz.com/i/ZN79E8i.png" group-title="EVENTOS",14:30-Copa Davis-Suiza-España
-http://127.0.0.1:8000/pid/12ba546d229bc39f01c3c18988a034b215fe6adb/stream.mp4
-#EXTINF:-1 tvg-id="15:00-Copa Davis-Dinamarca-Serbia" tvg-logo="http://imgfz.com/i/ZN79E8i.png" group-title="EVENTOS",15:00-Copa Davis-Dinamarca-Serbia
-http://127.0.0.1:8000/pid/fcc0fd75bf1dba40b108fcf0d3514e0e549bfbac/stream.mp4
-#EXTINF:-1 tvg-id="15:00-Torneo de Montpellier-J. De Jong-F. Auger-Aliassime" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:00-Torneo de Montpellier-J. De Jong-F. Auger-Aliassime
-http://127.0.0.1:8000/pid/b4d1308a61e4caf8c06ac3d6ce89d165c015c2fb/stream.mp4
-#EXTINF:-1 tvg-id="16:00-Premier League-Bournemouth-Liverpool" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",16:00-Premier League-Bournemouth-Liverpool
-http://127.0.0.1:8000/pid/7cf0086fa7d478f51dbba952865c79e66cb9add5/stream.mp4
-#EXTINF:-1 tvg-id="16:00-Premier League-Bournemouth-Liverpool" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",16:00-Premier League-Bournemouth-Liverpool
-http://127.0.0.1:8000/pid/35c7f0c966ecde3390f4510bb4caded40018c07a/stream.mp4
-#EXTINF:-1 tvg-id="16:00-Premier League-Everton-Leicester City" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",16:00-Premier League-Everton-Leicester City
-http://127.0.0.1:8000/pid/19cd05c7ae26f22737ae5728b571ca36abd8a2e8/stream.mp4
-#EXTINF:-1 tvg-id="16:00-Premier League-Ipswich Town-Southampton" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",16:00-Premier League-Ipswich Town-Southampton
-http://127.0.0.1:8000/pid/4e83f23945ab3e43982045f88ec31daaa4683102/stream.mp4
-#EXTINF:-1 tvg-id="16:00-Premier League-Newcastle-Fulham" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",16:00-Premier League-Newcastle-Fulham
-http://127.0.0.1:8000/pid/ca923c9873fd206a41c1e83ff8fc40e3cf323c9a/stream.mp4
-#EXTINF:-1 tvg-id="16:00-Premier League-Newcastle-Fulham" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",16:00-Premier League-Newcastle-Fulham
-http://127.0.0.1:8000/pid/a929eeec1268d69d1556a2e3ace793b2577d8810/stream.mp4
 #EXTINF:-1 tvg-id="16:15-Primera-Villarreal-Real Valladolid" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",16:15-Primera-Villarreal-Real Valladolid
 http://127.0.0.1:8000/pid/94d34491106e00394835c8cb68aa94481339b53f/stream.mp4
 #EXTINF:-1 tvg-id="16:15-Primera-Villarreal-Real Valladolid" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",16:15-Primera-Villarreal-Real Valladolid
@@ -73,16 +31,6 @@ http://127.0.0.1:8000/pid/94d34491106e00394835c8cb68aa94481339b53f/stream.mp4
 http://127.0.0.1:8000/pid/b2706a7ffbea236a3b398139a3a606ada664c0eb/stream.mp4
 #EXTINF:-1 tvg-id="16:15-Segunda-Sporting Gijón-Burgos CF" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",16:15-Segunda-Sporting Gijón-Burgos CF
 http://127.0.0.1:8000/pid/121f719ebb94193c6086ef92865cf9b197750980/stream.mp4
-#EXTINF:-1 tvg-id="16:30-Torneo de Montpellier-A. Rublev-A. Kovacevic" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:30-Torneo de Montpellier-A. Rublev-A. Kovacevic
-http://127.0.0.1:8000/pid/b4d1308a61e4caf8c06ac3d6ce89d165c015c2fb/stream.mp4
-#EXTINF:-1 tvg-id="18:00-ACB-Casademont Zaragoza-UCAM Murcia CB" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",18:00-ACB-Casademont Zaragoza-UCAM Murcia CB
-http://127.0.0.1:8000/pid/55d4602cb22b0d8a33c10c2c2f42dae64a9e8895/stream.mp4
-#EXTINF:-1 tvg-id="18:00-ACB-Casademont Zaragoza-UCAM Murcia CB" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",18:00-ACB-Casademont Zaragoza-UCAM Murcia CB
-http://127.0.0.1:8000/pid/3a74d9869b13e763476800740c6625e715a39879/stream.mp4
-#EXTINF:-1 tvg-id="18:00-ACB-Coviran Granada-Basquet Girona" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",18:00-ACB-Coviran Granada-Basquet Girona
-http://127.0.0.1:8000/pid/639c561dd57fa3fc91fde715caeb696c5efb7ce7/stream.mp4
-#EXTINF:-1 tvg-id="18:00-ACB-Coviran Granada-Basquet Girona" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",18:00-ACB-Coviran Granada-Basquet Girona
-http://127.0.0.1:8000/pid/fcc0fd75bf1dba40b108fcf0d3514e0e549bfbac/stream.mp4
 #EXTINF:-1 tvg-id="18:30-Primera-At. Madrid-Mallorca" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:30-Primera-At. Madrid-Mallorca
 http://127.0.0.1:8000/pid/110d441ddc9713a7452588770d2bc85504672f47/stream.mp4
 #EXTINF:-1 tvg-id="18:30-Primera-At. Madrid-Mallorca" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:30-Primera-At. Madrid-Mallorca
@@ -99,18 +47,6 @@ http://127.0.0.1:8000/pid/94d34491106e00394835c8cb68aa94481339b53f/stream.mp4
 http://127.0.0.1:8000/pid/b2706a7ffbea236a3b398139a3a606ada664c0eb/stream.mp4
 #EXTINF:-1 tvg-id="18:30-Segunda-UD Almería-Real Oviedo" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:30-Segunda-UD Almería-Real Oviedo
 http://127.0.0.1:8000/pid/121f719ebb94193c6086ef92865cf9b197750980/stream.mp4
-#EXTINF:-1 tvg-id="18:30-Segunda-UD Almería-Real Oviedo" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:30-Segunda-UD Almería-Real Oviedo
-http://127.0.0.1:8000/pid/56ac8e227d526e722624675ccdd91b0cc850582f/stream.mp4
-#EXTINF:-1 tvg-id="18:30-Premier League-Wolverhampton-Aston Villa" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:30-Premier League-Wolverhampton-Aston Villa
-http://127.0.0.1:8000/pid/ca923c9873fd206a41c1e83ff8fc40e3cf323c9a/stream.mp4
-#EXTINF:-1 tvg-id="18:30-Premier League-Wolverhampton-Aston Villa" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:30-Premier League-Wolverhampton-Aston Villa
-http://127.0.0.1:8000/pid/a929eeec1268d69d1556a2e3ace793b2577d8810/stream.mp4
-#EXTINF:-1 tvg-id="20:45-ACB-Básquet Coruña-Dreamland Gran Canaria" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:45-ACB-Básquet Coruña-Dreamland Gran Canaria
-http://127.0.0.1:8000/pid/639c561dd57fa3fc91fde715caeb696c5efb7ce7/stream.mp4
-#EXTINF:-1 tvg-id="20:45-ACB-MoraBanc Andorra-Valencia Basket" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:45-ACB-MoraBanc Andorra-Valencia Basket
-http://127.0.0.1:8000/pid/55d4602cb22b0d8a33c10c2c2f42dae64a9e8895/stream.mp4
-#EXTINF:-1 tvg-id="20:45-ACB-MoraBanc Andorra-Valencia Basket" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:45-ACB-MoraBanc Andorra-Valencia Basket
-http://127.0.0.1:8000/pid/3a74d9869b13e763476800740c6625e715a39879/stream.mp4
 #EXTINF:-1 tvg-id="21:00-Primera-Espanyol-Real Madrid" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera-Espanyol-Real Madrid
 http://127.0.0.1:8000/pid/110d441ddc9713a7452588770d2bc85504672f47/stream.mp4
 #EXTINF:-1 tvg-id="21:00-Primera-Espanyol-Real Madrid" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera-Espanyol-Real Madrid
@@ -131,5 +67,3 @@ http://127.0.0.1:8000/pid/94d34491106e00394835c8cb68aa94481339b53f/stream.mp4
 http://127.0.0.1:8000/pid/b2706a7ffbea236a3b398139a3a606ada664c0eb/stream.mp4
 #EXTINF:-1 tvg-id="21:00-Segunda-Racing Santander-Málaga" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Segunda-Racing Santander-Málaga
 http://127.0.0.1:8000/pid/121f719ebb94193c6086ef92865cf9b197750980/stream.mp4
-#EXTINF:-1 tvg-id="22:00-Título Mundial-D. Benavidez-D. Morrell" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",22:00-Título Mundial-D. Benavidez-D. Morrell
-http://127.0.0.1:8000/pid/98784fa0714190de289f42eb5b84e405df7e685a/stream.mp4
