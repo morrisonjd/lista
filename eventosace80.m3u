@@ -15,6 +15,10 @@ http://127.0.0.1/ace/manifest.m3u8?id=f31a586422c9244196c810c84b6c85da350318a5
 http://127.0.0.1/ace/manifest.m3u8?id=608b0faf7d3d25f6fe5dba13d5e4b4142949990e
 #EXTINF:-1 tvg-id="14:00-Primera-FC Barcelona-Alavés" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",14:00-Primera-FC Barcelona-Alavés
 http://127.0.0.1/ace/manifest.m3u8?id=94d34491106e00394835c8cb68aa94481339b53f
+#EXTINF:-1 tvg-id="14:00-Segunda-CD Castellón-Huesca" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",14:00-Segunda-CD Castellón-Huesca
+http://127.0.0.1/ace/manifest.m3u8?id=b2706a7ffbea236a3b398139a3a606ada664c0eb
+#EXTINF:-1 tvg-id="14:00-Segunda-CD Castellón-Huesca" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",14:00-Segunda-CD Castellón-Huesca
+http://127.0.0.1/ace/manifest.m3u8?id=121f719ebb94193c6086ef92865cf9b197750980
 #EXTINF:-1 tvg-id="16:15-Primera-Valencia CF-Celta" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",16:15-Primera-Valencia CF-Celta
 http://127.0.0.1/ace/manifest.m3u8?id=110d441ddc9713a7452588770d2bc85504672f47
 #EXTINF:-1 tvg-id="16:15-Primera-Valencia CF-Celta" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",16:15-Primera-Valencia CF-Celta
@@ -27,6 +31,10 @@ http://127.0.0.1/ace/manifest.m3u8?id=8c8c1e047a1c5ed213ba74722a5345dc55c3c0eb
 http://127.0.0.1/ace/manifest.m3u8?id=608b0faf7d3d25f6fe5dba13d5e4b4142949990e
 #EXTINF:-1 tvg-id="16:15-Primera-Valencia CF-Celta" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",16:15-Primera-Valencia CF-Celta
 http://127.0.0.1/ace/manifest.m3u8?id=94d34491106e00394835c8cb68aa94481339b53f
+#EXTINF:-1 tvg-id="16:15-Segunda-Eibar-Deportivo" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",16:15-Segunda-Eibar-Deportivo
+http://127.0.0.1/ace/manifest.m3u8?id=b2706a7ffbea236a3b398139a3a606ada664c0eb
+#EXTINF:-1 tvg-id="16:15-Segunda-Eibar-Deportivo" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",16:15-Segunda-Eibar-Deportivo
+http://127.0.0.1/ace/manifest.m3u8?id=121f719ebb94193c6086ef92865cf9b197750980
 #EXTINF:-1 tvg-id="18:30-Primera-Osasuna-Real Sociedad" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:30-Primera-Osasuna-Real Sociedad
 http://127.0.0.1/ace/manifest.m3u8?id=94d34491106e00394835c8cb68aa94481339b53f
 #EXTINF:-1 tvg-id="18:30-Primera-Osasuna-Real Sociedad" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:30-Primera-Osasuna-Real Sociedad
@@ -39,6 +47,14 @@ http://127.0.0.1/ace/manifest.m3u8?id=1bc437bce57b4b0450f6d1f8d818b7e97000745e
 http://127.0.0.1/ace/manifest.m3u8?id=608b0faf7d3d25f6fe5dba13d5e4b4142949990e
 #EXTINF:-1 tvg-id="18:30-Primera-Osasuna-Real Sociedad" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:30-Primera-Osasuna-Real Sociedad
 http://127.0.0.1/ace/manifest.m3u8?id=94d34491106e00394835c8cb68aa94481339b53f
+#EXTINF:-1 tvg-id="18:30-Segunda-FC Cartagena-Córdoba" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:30-Segunda-FC Cartagena-Córdoba
+http://127.0.0.1/ace/manifest.m3u8?id=0cfdfde1b70623b8c210b0f7301be2a87456481d
+#EXTINF:-1 tvg-id="18:30-Segunda-FC Cartagena-Córdoba" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:30-Segunda-FC Cartagena-Córdoba
+http://127.0.0.1/ace/manifest.m3u8?id=0a335406bad0b658aeddb2d38f8c0614b2e5623a
+#EXTINF:-1 tvg-id="18:30-Segunda-Real Zaragoza-Cádiz CF" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:30-Segunda-Real Zaragoza-Cádiz CF
+http://127.0.0.1/ace/manifest.m3u8?id=b2706a7ffbea236a3b398139a3a606ada664c0eb
+#EXTINF:-1 tvg-id="18:30-Segunda-Real Zaragoza-Cádiz CF" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:30-Segunda-Real Zaragoza-Cádiz CF
+http://127.0.0.1/ace/manifest.m3u8?id=121f719ebb94193c6086ef92865cf9b197750980
 #EXTINF:-1 tvg-id="21:00-Primera-Real Betis-Athletic Club" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera-Real Betis-Athletic Club
 http://127.0.0.1/ace/manifest.m3u8?id=94d34491106e00394835c8cb68aa94481339b53f
 #EXTINF:-1 tvg-id="21:00-Primera-Real Betis-Athletic Club" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera-Real Betis-Athletic Club
@@ -51,3 +67,7 @@ http://127.0.0.1/ace/manifest.m3u8?id=1bc437bce57b4b0450f6d1f8d818b7e97000745e
 http://127.0.0.1/ace/manifest.m3u8?id=608b0faf7d3d25f6fe5dba13d5e4b4142949990e
 #EXTINF:-1 tvg-id="21:00-Primera-Real Betis-Athletic Club" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera-Real Betis-Athletic Club
 http://127.0.0.1/ace/manifest.m3u8?id=94d34491106e00394835c8cb68aa94481339b53f
+#EXTINF:-1 tvg-id="21:00-Segunda-CD Tenerife-Albacete" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Segunda-CD Tenerife-Albacete
+http://127.0.0.1/ace/manifest.m3u8?id=b2706a7ffbea236a3b398139a3a606ada664c0eb
+#EXTINF:-1 tvg-id="21:00-Segunda-CD Tenerife-Albacete" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Segunda-CD Tenerife-Albacete
+http://127.0.0.1/ace/manifest.m3u8?id=121f719ebb94193c6086ef92865cf9b197750980
