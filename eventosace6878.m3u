@@ -1,3 +1,3 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="prueba",prueba
+#EXTINF:-1 tvg-id="prueba" group-title="EVENTOS",prueba
 http://127.0.0.1:6878/ace/manifest.m3u8?id=02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
