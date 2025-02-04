@@ -19,3 +19,5 @@ http://127.0.0.1/ace/getstream?id=fecc9e98396b3bf9e5643003825b7cdd71346d65
 http://127.0.0.1/ace/getstream?id=7b47fd387480989002b93db1fe9a28f5f7b94576
 #EXTINF:-1 tvg-id="M+ DEPORTES 2 FHD" group-title="EVENTOS",M+ DEPORTES 2 FHD
 http://127.0.0.1/ace/getstream?id=b6c0f2706af6d203dbf15e3363cfbd6b8944afd3
+#EXTINF:-1 tvg-id="DAZN 1" group-title="EVENTOS",DAZN 1
+http://127.0.0.1/ace/getstream?id=ab5f59f7cbc1bc3a83ddf09c239713b419d7ae81
