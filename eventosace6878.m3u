@@ -1,3 +1,9 @@
 #EXTM3U 
 #EXTINF:-1 tvg-id="prueba" group-title="EVENTOS",prueba
 http://127.0.0.1:6878/ace/manifest.m3u8?id=6375fcdea62577dccee55618a0790a058ea548ec
+#EXTINF:-1 tvg-id="DAZN LA LIGA FHD" group-title="EVENTOS",DAZN LA LIGA FHD
+http://127.0.0.1:6878/ace/manifest.m3u8?id=225141726b1d9a4f979e5306c228c33516f062ff
+#EXTINF:-1 tvg-id="LIGA TV BAR FHD" group-title="EVENTOS",LIGA TV BAR FHD
+http://127.0.0.1:6878/ace/manifest.m3u8?id=5570c9d0ffc8f728100e1638785908a586dd259c
+#EXTINF:-1 tvg-id="DAZN F1 FHD" group-title="EVENTOS",DAZN F1 FHD
+http://127.0.0.1:6878/ace/manifest.m3u8?id=edfeb3fe8cc5ed6d7abdcd79d742b1cab190b975
