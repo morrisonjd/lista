@@ -1,75 +1,83 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="DAZN LA LIGA FHD (SAT) por Tronoss" group-title="TRONOS", DAZN LA LIGA FHD (SAT) por Tronoss
-http://127.0.0.1/ace/manifest.m3u8?id=cc6823f25edb580a5b6b16f9afba0a73554e045f
+http://127.0.0.1/ace/getstream?id=25fe7c7c63b382a77f79f8f912b11dde94ea89b7
 #EXTINF:-1 tvg-id="DAZN LIGA FHD MULTIAUDIO por Tronoss" group-title="TRONOS", DAZN LIGA FHD MULTIAUDIO por Tronoss
-http://127.0.0.1/ace/manifest.m3u8?id=93c17ef124fda47d8ecce00a1296c44453000a7b
+http://127.0.0.1/ace/getstream?id=8e1f821dcf2d12c8001423d62c73cde356b5e9c0
 #EXTINF:-1 tvg-id="DAZN LA LIGA 2 FHD por Tronoss" group-title="TRONOS", DAZN LA LIGA 2 FHD por Tronoss
-http://127.0.0.1/ace/manifest.m3u8?id=8064caa14428902812c5dc4d3081d8bf0ee1350b
+http://127.0.0.1/ace/getstream?id=db0c15253ddecbf356726f7218a38213c66d0ad1
 #EXTINF:-1 tvg-id="DAZN F1 FHD por Tronoss" group-title="TRONOS", DAZN F1 FHD por Tronoss
-http://127.0.0.1/ace/manifest.m3u8?id=4918f3138d184d7b413f37f46bb6a082f0050561
+http://127.0.0.1/ace/getstream?id=3563e97bd9253c3a46912e7ec8afb52592cacdb6
 #EXTINF:-1 tvg-id="DAZN EVENTOS 1 por Tronoss" group-title="TRONOS", DAZN EVENTOS 1 por Tronoss
-http://127.0.0.1/ace/manifest.m3u8?id=de27ac42c305261c772b9f1f6586459f9b34ea9b
+http://127.0.0.1/ace/getstream?id=de27ac42c305261c772b9f1f6586459f9b34ea9b
 #EXTINF:-1 tvg-id="DAZN EVENTOS 2 por Tronoss" group-title="TRONOS", DAZN EVENTOS 2 por Tronoss
-http://127.0.0.1/ace/manifest.m3u8?id=590a61f3497800918e6cfc10e0864354a06eddd1
+http://127.0.0.1/ace/getstream?id=d33d285b90a72926792d63d2e706788f98f38415
 #EXTINF:-1 tvg-id="MOVISTAR GOLF FHD por Tronoss" group-title="TRONOS", MOVISTAR GOLF FHD por Tronoss
-http://127.0.0.1/ace/manifest.m3u8?id=1251847ebf3d3c4be89bb900da80f60bb2edbd62
+http://127.0.0.1/ace/getstream?id=fa12e4d1bd80e3599fff58d0e310660e24d2ad4b
 #EXTINF:-1 tvg-id="MOVISTAR GOLF 2 FHD por Tronoss" group-title="TRONOS", MOVISTAR GOLF 2 FHD por Tronoss
-http://127.0.0.1/ace/manifest.m3u8?id=8cfca5b5726ac30e131b85c3cc7c7501c4c8fd75
+http://127.0.0.1/ace/getstream?id=4a6a4c8e7655e0e7ba4aca812e199a5b79d1eea9
 #EXTINF:-1 tvg-id="MOVISTAR SERIES FHD por Tronoss" group-title="TRONOS", MOVISTAR SERIES FHD por Tronoss
-http://127.0.0.1/ace/manifest.m3u8?id=26473bf58c30e72e5a6c8e76deef407191af1f62
+http://127.0.0.1/ace/getstream?id=2b9e1cddbb52f8f69d70b477ec36f87d707df31b
 #EXTINF:-1 tvg-id="MOVISTAR CLASICOS FHD por Tronoss" group-title="TRONOS", MOVISTAR CLASICOS FHD por Tronoss
-http://127.0.0.1/ace/manifest.m3u8?id=7d5328d70dfd297a294c11083b030f5255f4cbbb
+http://127.0.0.1/ace/getstream?id=ab79f3dbca2992aa041da92ede3d1e0c30245c8d
 #EXTINF:-1 tvg-id="M+ LIGA DE CAMPEONES FHD por Tronoss" group-title="TRONOS", M+ LIGA DE CAMPEONES FHD por Tronoss
-http://127.0.0.1/ace/manifest.m3u8?id=3bda575f7bab66443932709190453c31814fb90a
+http://127.0.0.1/ace/getstream?id=eb47dd6510df6f6a6b4fdbb593681f2bee4bc773
+#EXTINF:-1 tvg-id="M+ LIGA DE CAMPEONES FHD (ORANGE) por Tronoss" group-title="TRONOS", M+ LIGA DE CAMPEONES FHD (ORANGE) por Tronoss
+http://127.0.0.1/ace/getstream?id=42a27b0e6ec5cf2663dad8a1e23af73f5aaf62e7
 #EXTINF:-1 tvg-id="M+ LIGA DE CAMPEONES 2 FHD por Tronoss" group-title="TRONOS", M+ LIGA DE CAMPEONES 2 FHD por Tronoss
-http://127.0.0.1/ace/manifest.m3u8?id=33703f45fdbc73b649112773d5a6a2f65f375d04
+http://127.0.0.1/ace/getstream?id=d3faa1e424d6bede03028203c82cac69d1552944
+#EXTINF:-1 tvg-id="M+ LIGA DE CAMPEONES 2 FHD (ORANGE) por Tronoss" group-title="TRONOS", M+ LIGA DE CAMPEONES 2 FHD (ORANGE) por Tronoss
+http://127.0.0.1/ace/getstream?id=3f5bb406bcd0fe75074d300a27c7be8df9c19d8e
 #EXTINF:-1 tvg-id="M+ LIGA DE CAMPEONES 3 FHD por Tronoss" group-title="TRONOS", M+ LIGA DE CAMPEONES 3 FHD por Tronoss
-http://127.0.0.1/ace/manifest.m3u8?id=99bed20071311ab3a2710dcc5238699de5f4a4b9
+http://127.0.0.1/ace/getstream?id=99bed20071311ab3a2710dcc5238699de5f4a4b9
 #EXTINF:-1 tvg-id="M+ LIGA DE CAMPEONES 4 FHD por Tronoss" group-title="TRONOS", M+ LIGA DE CAMPEONES 4 FHD por Tronoss
-http://127.0.0.1/ace/manifest.m3u8?id=bf1d83d16fa1b2930ec16a9d09d51e2bed533069
+http://127.0.0.1/ace/getstream?id=8cea9ac3c2e1100bb07126ed2eb8a55b507a86f7
 #EXTINF:-1 tvg-id="M+ LIGA DE CAMPEONES 5 FHD por Tronoss" group-title="TRONOS", M+ LIGA DE CAMPEONES 5 FHD por Tronoss
-http://127.0.0.1/ace/manifest.m3u8?id=e17f4ab7bbefb7bf0283382b5f3f5e352d6e8225
+http://127.0.0.1/ace/getstream?id=936c8d82c034f3625521939935b1c4cc11aac257
 #EXTINF:-1 tvg-id="M+ LIGA DE CAMPEONES 6 SD por Tronoss" group-title="TRONOS", M+ LIGA DE CAMPEONES 6 SD por Tronoss
-http://127.0.0.1/ace/manifest.m3u8?id=db620edca5bd1f186d786b60258421f129ad6fb9
+http://127.0.0.1/ace/getstream?id=db620edca5bd1f186d786b60258421f129ad6fb9
 #EXTINF:-1 tvg-id="M+ LIGA DE CAMPEONES 7 SD por Tronoss" group-title="TRONOS", M+ LIGA DE CAMPEONES 7 SD por Tronoss
-http://127.0.0.1/ace/manifest.m3u8?id=60b9217f902a3bd360da6e4f702b7a802f994560
+http://127.0.0.1/ace/getstream?id=fa99326470e0a8e20e1f0b7b018d06948a00a71d
 #EXTINF:-1 tvg-id="M+ LIGA DE CAMPEONES 8 SD por Tronoss" group-title="TRONOS", M+ LIGA DE CAMPEONES 8 SD por Tronoss
-http://127.0.0.1/ace/manifest.m3u8?id=77402f2a490331c1f5c60341d38bbd3ade0896e1
+http://127.0.0.1/ace/getstream?id=45130a45e022528f8a6985c20ac93545821c4893
 #EXTINF:-1 tvg-id="M+ LIGA DE CAMPEONES 14 SD por Tronoss" group-title="TRONOS", M+ LIGA DE CAMPEONES 14 SD por Tronoss
-http://127.0.0.1/ace/manifest.m3u8?id=02e0adcabc54a76e8bfdd574e20197e2724e9154
+http://127.0.0.1/ace/getstream?id=075825bfd1067d717207dd18d8df0b600f18eb05
 #EXTINF:-1 tvg-id="M+ LIGA DE CAMPEONES 15 SD por Tronoss" group-title="TRONOS", M+ LIGA DE CAMPEONES 15 SD por Tronoss
-http://127.0.0.1/ace/manifest.m3u8?id=a4bfeb2fc596bed93b284f4ce61c15c8a8c09863
+http://127.0.0.1/ace/getstream?id=a4bfeb2fc596bed93b284f4ce61c15c8a8c09863
 #EXTINF:-1 tvg-id="M+ LIGA DE CAMPEONES 16 SD por Tronoss" group-title="TRONOS", M+ LIGA DE CAMPEONES 16 SD por Tronoss
-http://127.0.0.1/ace/manifest.m3u8?id=3a5b1d8914ab145b6aacfc36e1990cc401eb1834
+http://127.0.0.1/ace/getstream?id=2d55cf87eda866bda96d2c9b3f77a44a51cd0841
 #EXTINF:-1 tvg-id="M+ LIGA DE CAMPEONES 17 SD por Tronoss" group-title="TRONOS", M+ LIGA DE CAMPEONES 17 SD por Tronoss
-http://127.0.0.1/ace/manifest.m3u8?id=b1d82b868d9e6bfb1714a58f96b7eec792673533
+http://127.0.0.1/ace/getstream?id=20b5f8c2099dd707307baa6340eb418dd40fa339
 #EXTINF:-1 tvg-id="Super Copa OrangeTV por Tronoss" group-title="TRONOS", Super Copa OrangeTV por Tronoss
-http://127.0.0.1/ace/manifest.m3u8?id=23f02ba817225232479d04bc11a13e886d7f799b
+http://127.0.0.1/ace/getstream?id=4a2f4cd05015af4be3a61a55daec06339b9ed596
 #EXTINF:-1 tvg-id="M+ Super Copa por Tronoss" group-title="TRONOS", M+ Super Copa por Tronoss
-http://127.0.0.1/ace/manifest.m3u8?id=be5e5d5840ca1c9e0dd91b53aef9b6b23c142088
+http://127.0.0.1/ace/getstream?id=094d256765a176bbe46e09eea28e72ebceed18cd
 #EXTINF:-1 tvg-id="ORANGE LIGA (FIBRA) por Tronoss" group-title="TRONOS", ORANGE LIGA (FIBRA) por Tronoss
-http://127.0.0.1/ace/manifest.m3u8?id=d5feb1c3a83b7e59f85ce5e6d0573c4bf36659ff
+http://127.0.0.1/ace/getstream?id=0d130a990935c65910af5964d5f3dbce9dd63b05
 #EXTINF:-1 tvg-id="LA LIGA TV UHD por Tronoss" group-title="TRONOS", LA LIGA TV UHD por Tronoss
-http://127.0.0.1/ace/manifest.m3u8?id=7e63c60c1b0f5e5ad1e1266011326232fb8c7e53
+http://127.0.0.1/ace/getstream?id=5b6fd5b3dd0189d09bd96c55bb88814da681dabf
 #EXTINF:-1 tvg-id="LA LIGA TV BAR FHD por Tronoss" group-title="TRONOS", LA LIGA TV BAR FHD por Tronoss
-http://127.0.0.1/ace/manifest.m3u8?id=1ca6d0fb0581443018670640d7e0ffeb14387004
+http://127.0.0.1/ace/getstream?id=eb3fe9045283703e50f338428e22471350660015
 #EXTINF:-1 tvg-id="DAZN F1 FHD por Tronoss" group-title="TRONOS", DAZN F1 FHD por Tronoss
-http://127.0.0.1/ace/manifest.m3u8?id=7d3b62576b534fcae0d783128cacf43bc356230f
+http://127.0.0.1/ace/getstream?id=9e232028581f9cd04234a86a799ddeb9854c02a9
 #EXTINF:-1 tvg-id="DAZN 1 FHD por Tronoss" group-title="TRONOS", DAZN 1 FHD por Tronoss
-http://127.0.0.1/ace/manifest.m3u8?id=28e2f4bd236cbfc00503b975e8a51cfa95542bea
+http://127.0.0.1/ace/getstream?id=bcb879c881f85f9ab6f5171b4566c67b1347cfc8
+#EXTINF:-1 tvg-id="DAZN 2 FHD por Tronoss" group-title="TRONOS", DAZN 2 FHD por Tronoss
+http://127.0.0.1/ace/getstream?id=7bd69c94c90173f2f7cb8d465aeeb0123c89446a
 #EXTINF:-1 tvg-id="DAZN 4 FHD por Tronoss" group-title="TRONOS", DAZN 4 FHD por Tronoss
-http://127.0.0.1/ace/manifest.m3u8?id=1fe11abaa096b24ad150cb3bbbf81883f82782f4
+http://127.0.0.1/ace/getstream?id=022e55502708fec364379dfdbf5b2556188eba41
 #EXTINF:-1 tvg-id="#VAMOS FHD por Tronoss" group-title="TRONOS", #VAMOS FHD por Tronoss
-http://127.0.0.1/ace/manifest.m3u8?id=5317e5c61bba23fb731598367bf293156440318f
+http://127.0.0.1/ace/getstream?id=5f593876293d0a5c3c138e904c54526cc2da3c5b
 #EXTINF:-1 tvg-id="#VAMOS FHD 2 por Tronoss" group-title="TRONOS", #VAMOS FHD 2 por Tronoss
-http://127.0.0.1/ace/manifest.m3u8?id=9692132869cf08fd8768d1240669eff8bb1129f7
+http://127.0.0.1/ace/getstream?id=9692132869cf08fd8768d1240669eff8bb1129f7
 #EXTINF:-1 tvg-id="ELLAS #V FHD por Tronoss" group-title="TRONOS", ELLAS #V FHD por Tronoss
-http://127.0.0.1/ace/manifest.m3u8?id=a258f0572ae1432ae8d52162e586b116010679dc
+http://127.0.0.1/ace/getstream?id=989dbe43fbf4def5d2e577ca8cea35ba9793b16d
+#EXTINF:-1 tvg-id="EUROSPORT 1 FHD por Tronoss" group-title="TRONOS", EUROSPORT 1 FHD por Tronoss
+http://127.0.0.1/ace/getstream?id=52472b43317984ab70ea58326cd61f6f943bb593
 #EXTINF:-1 tvg-id="EUROSPORT 2 FHD por Tronoss" group-title="TRONOS", EUROSPORT 2 FHD por Tronoss
-http://127.0.0.1/ace/manifest.m3u8?id=5f3658bd6f85f2d883afdbceaf9671c837f7c61c
+http://127.0.0.1/ace/getstream?id=5c1e4bc4d62bfbb2e6cc0abf98db29358aec2479
 #EXTINF:-1 tvg-id="DEPORTES FHD por Tronoss" group-title="TRONOS", DEPORTES FHD por Tronoss
-http://127.0.0.1/ace/manifest.m3u8?id=f4a5545ab93ea29144debcbba87204b4f4a7ccf5
+http://127.0.0.1/ace/getstream?id=ae4caf67cb4de140acd49fa632137a2cfa46cc4b
 #EXTINF:-1 tvg-id="DEPORTES 2 FHD (SOLO EVENTOS) por Tronoss" group-title="TRONOS", DEPORTES 2 FHD (SOLO EVENTOS) por Tronoss
-http://127.0.0.1/ace/manifest.m3u8?id=7802e1c784d8b5d5e1b1534ca085990c8e5e1b67
+http://127.0.0.1/ace/getstream?id=7802e1c784d8b5d5e1b1534ca085990c8e5e1b67
 #EXTINF:-1 tvg-id="M. ACCION FHD por Tronoss" group-title="TRONOS", M. ACCION FHD por Tronoss
-http://127.0.0.1/ace/manifest.m3u8?id=4e62333d37ab424ed0cf30d4adbd293aff729443
+http://127.0.0.1/ace/getstream?id=0745ec9349604ddf194d2b16fa3c523e92fb9b35
