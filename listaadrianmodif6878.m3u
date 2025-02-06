@@ -6,7 +6,7 @@ http://127.0.0.1:6878/ace/getstream?id=704d3d43e6aa360eb552501eb020793cab93175d
 #EXTINF:-1 tvg-id="DAZN LA LIGA FHD" group-title="ADRI",DAZN LA LIGA FHD
 http://127.0.0.1:6878/ace/getstream?id=27df9a17762aea1c6e256cf12ec262790deafef7
 #EXTINF:-1 tvg-id="M. DEPORTES FHD" group-title="ADRI",M. DEPORTES FHD
-http://127.0.0.1/ace/getstream?id=fecc9e98396b3bf9e5643003825b7cdd71346d65
+http://127.0.0.1:6878/ace/getstream?id=fecc9e98396b3bf9e5643003825b7cdd71346d65
 #EXTINF:-1 tvg-id="LA 1 FHD" group-title="ADRI",LA 1 FHD
 http://127.0.0.1:6878/ace/getstream?id=7b47fd387480989002b93db1fe9a28f5f7b94576
 #EXTINF:-1 tvg-id="M. DEPORTES 2 FHD" group-title="ADRI",M. DEPORTES 2 FHD
