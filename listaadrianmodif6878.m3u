@@ -94,8 +94,8 @@ http://127.0.0.1:6878/ace/getstream?id=52472b43317984ab70ea58326cd61f6f943bb593
 #EXTINF:-1 tvg-id="EUROSPORT 2 FHD por Tronoss" group-title="TRONOS ACE", EUROSPORT 2 FHD por Tronoss
 http://127.0.0.1:6878/ace/getstream?id=5c1e4bc4d62bfbb2e6cc0abf98db29358aec2479
 #EXTINF:-1 tvg-id="DEPORTES FHD por Tronoss" group-title="TRONOS ACE", DEPORTES FHD por Tronoss
-http://127.0.0.1:6878/ace/getstream?id=ae4caf67cb4de140acd49fa632137a2cfa46cc4b
+http://192.168.18.170:6878/ace/getstream?id=ae4caf67cb4de140acd49fa632137a2cfa46cc4b
 #EXTINF:-1 tvg-id="DEPORTES 2 FHD (SOLO EVENTOS) por Tronoss" group-title="TRONOS ACE", DEPORTES 2 FHD (SOLO EVENTOS) por Tronoss
 http://127.0.0.1:6878/ace/getstream?id=7802e1c784d8b5d5e1b1534ca085990c8e5e1b67
 #EXTINF:-1 tvg-id="M. ACCION FHD por Tronoss" group-title="TRONOS ACE", M. ACCION FHD por Tronoss
-http://127.0.0.1:6878/ace/getstream?id=0745ec9349604ddf194d2b16fa3c523e92fb9b35
+http://127.0.0.1:6878/ace/manifest.m3u8?id=0745ec9349604ddf194d2b16fa3c523e92fb9b35
