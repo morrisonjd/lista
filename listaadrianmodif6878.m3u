@@ -1,22 +1,28 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="DAZN F1 FHD" group-title="ADRI ACE",DAZN F1 FHD
-http://127.0.0.1:6878/ace/getstream?id=4c8a9cd2090cacff69ed64926e0f6e91366903e2
-#EXTINF:-1 tvg-id="LA LIGA TV BAR FHD" group-title="ADRI ACE",LA LIGA TV BAR FHD
-http://127.0.0.1:6878/ace/getstream?id=a7a545d5f8040ca6626aa24f550c286642f24928
-#EXTINF:-1 tvg-id="DAZN LA LIGA FHD" group-title="ADRI ACE",DAZN LA LIGA FHD
-http://127.0.0.1:6878/ace/getstream?id=73e85610075e9a5e5e9b9ad9eef1310e7a38e563
-#EXTINF:-1 tvg-id="M. DEPORTES FHD" group-title="ADRI ACE",M. DEPORTES FHD
-http://127.0.0.1:6878/ace/getstream?id=d80d6e2a4350bc9886fbb55a2149b3de3c057ddf
-#EXTINF:-1 tvg-id="LA 1 FHD" group-title="ADRI ACE",LA 1 FHD
-http://127.0.0.1:6878/ace/getstream?id=3a504c76168986edf68c86084b7d4af2131e40ad
-#EXTINF:-1 tvg-id="M. DEPORTES 2 FHD" group-title="ADRI ACE",M. DEPORTES 2 FHD
-http://127.0.0.1:6878/ace/getstream?id=b6c0f2706af6d203dbf15e3363cfbd6b8944afd3
+#EXTINF:-1 tvg-id="M. LA LIGA 1" group-title="ADRI ACE",M. LA LIGA 1
+http://127.0.0.1:6878/ace/getstream?id=4f416d74e9feb1812f7d10c637e46d40ebab3e2b
+#EXTINF:-1 tvg-id="M. LA LIGA 1" group-title="ADRI ACE",M. LA LIGA 1
+http://127.0.0.1:6878/ace/getstream?id=f5a769b1d4d97673dcaae415bf197706a8056428
+#EXTINF:-1 tvg-id="M. LA LIGA 1" group-title="ADRI ACE",M. LA LIGA 1
+http://127.0.0.1:6878/ace/getstream?id=b308f69384b9be8c5cfdcb45cfcc3d595b0cbaa1
+#EXTINF:-1 tvg-id="M. LA LIGA 2" group-title="ADRI ACE",M. LA LIGA 2
+http://127.0.0.1:6878/ace/getstream?id=83a2be1d789584c6040308d485ab1b29880af100
+#EXTINF:-1 tvg-id="TV BAR" group-title="ADRI ACE",TV BAR
+http://127.0.0.1:6878/ace/getstream?id=954b2cb573313690f2a6d6a2e70102fb49ace952
+#EXTINF:-1 tvg-id="DAZN LA LIGA" group-title="ADRI ACE",DAZN LA LIGA
+http://127.0.0.1:6878/ace/getstream?id=6af858dff80a87e247c6ad681aa5adf09f988d1e
+#EXTINF:-1 tvg-id="M. DEPORTES" group-title="ADRI ACE",M. DEPORTES
+http://127.0.0.1:6878/ace/getstream?id=dca9d8b0be1a5d68c929f5cebb61b82a4f62a307
+#EXTINF:-1 tvg-id="M. DEPORTES 2" group-title="ADRI ACE",M. DEPORTES 2
+http://127.0.0.1:6878/ace/getstream?id=a54aed5e91e4a99a3582551db44fd472e1addda6
+#EXTINF:-1 tvg-id="DAZN F1" group-title="ADRI ACE",DAZN F1
+http://127.0.0.1:6878/ace/getstream?id=0390f35108dd054332097af5fcb53a192d0289bf
 #EXTINF:-1 tvg-id="COPA DEL REY 1" group-title="ADRI ACE",COPA DEL REY 1
-http://127.0.0.1:6878/ace/getstream?id=33fcd9a17cb791374376f1b77f7247371167245d
-#EXTINF:-1 tvg-id="COPA DEL REY 2" group-title="ADRI ACE",COPA DEL REY 2
-http://127.0.0.1:6878/ace/getstream?id=8f477366c37b6b18c4390a918b69738d5525a7c4
-#EXTINF:-1 tvg-id="COPA DEL REY 3" group-title="ADRI ACE",COPA DEL REY 3
-http://127.0.0.1:6878/ace/getstream?id=c2c9feacb26aad632bda5bba5f9958dc694714ec
+http://127.0.0.1:6878/ace/getstream?id=adb8b91f027336eb5091ca5852561202c35f0b6e
+#EXTINF:-1 tvg-id="LA 1" group-title="ADRI ACE",LA 1
+http://127.0.0.1:6878/ace/getstream?id=54064ca54e2bebd37851431c3f023aa35ce10ea6
+#EXTINF:-1 tvg-id="#VAMOS" group-title="ADRI ACE",#VAMOS
+http://127.0.0.1:6878/ace/getstream?id=0b7057503d40a24417441484479cfe2d0eceb2fd
 #EXTINF:-1 tvg-id="#VAMOS" group-title="TRONOSS ACE", #VAMOS
 http://127.0.0.1:6878/ace/getstream?id=6d949579bc230abff933d5ac242961319bbebc4b
 #EXTINF:-1 tvg-id="#VAMOS" group-title="TRONOSS ACE", #VAMOS
