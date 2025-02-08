@@ -39,7 +39,7 @@ http://127.0.0.1:8000/pid/b16127ba49c5065b877cb2d4073f2a4bb9a1ddbe/stream.mp4
 http://127.0.0.1:8000/pid/4f416d74e9feb1812f7d10c637e46d40ebab3e2b/stream.mp4
 #EXTINF:-1 tvg-id="M+ LaLiga TV" group-title="Adrián",M+ LaLiga TV
 http://127.0.0.1:8000/pid/b308f69384b9be8c5cfdcb45cfcc3d595b0cbaa1/stream.mp4
-#EXTINF:-1 tvg-id="M+ LaLiga TV" group-title="Elcano" group-title="Adrián",M+ LaLiga TV
+#EXTINF:-1 tvg-id="M+ LaLiga TV" group-title="Adrián",M+ LaLiga TV
 http://127.0.0.1:8000/pid/f5a769b1d4d97673dcaae415bf197706a8056428/stream.mp4
 #EXTINF:-1 tvg-id="M+ LaLiga TV" group-title="Elcano",M+ LaLiga TV
 http://127.0.0.1:8000/pid/1bc437bce57b4b0450f6d1f8d818b7e97000745e/stream.mp4
