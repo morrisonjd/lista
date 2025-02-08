@@ -1,10 +1,10 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="La 1" group-title="Adrián",La 1
-http://127.0.0.1/ace/manifest.m3u8?id=54064ca54e2bebd37851431c3f023aa35ce10ea6
 #EXTINF:-1 tvg-id="La 1" group-title="Antigua"",La 1
 http://127.0.0.1/ace/manifest.m3u8?id=b897de3e62d7c6bee9ef1107d972f3d1075e03ff
 #EXTINF:-1 tvg-id="La 1" group-title="Tronoss",La 1
 http://127.0.0.1/ace/manifest.m3u8?id=71abebf150324106df1d9dc25e34dd8840217835
+#EXTINF:-1 tvg-id="La 1",La 1
+http://127.0.0.1/ace/manifest.m3u8?id=54064ca54e2bebd37851431c3f023aa35ce10ea6
 #EXTINF:-1 tvg-id="La 2" group-title="Tronoss",La 2
 http://127.0.0.1/ace/manifest.m3u8?id=d27e23deffb2314a9549b00d62fade1e2e38ed60
 #EXTINF:-1 tvg-id="Antena 3" group-title="Tronoss",Antena 3
@@ -23,22 +23,18 @@ http://127.0.0.1/ace/manifest.m3u8?id=14767834db41c572ab83b80f7eadc3ba78a2ced0
 http://127.0.0.1/ace/manifest.m3u8?id=26c63851b7a0de9efed907571b19d342fc8d6765
 #EXTINF:-1 tvg-id="M+ Acción" group-title="Tronoss",M+ Acción
 http://127.0.0.1/ace/manifest.m3u8?id=a5e21f79ebd21c2562019ceefd9a7e21c8e2f6a5
-#EXTINF:-1 tvg-id="M+ Copa del Rey" group-title="Adrián",M+ Copa del Rey
-http://127.0.0.1/ace/manifest.m3u8?id=adb8b91f027336eb5091ca5852561202c35f0b6e
 #EXTINF:-1 tvg-id="M+ Copa del Rey" group-title="Tronoss",M+ Copa del Rey
 http://127.0.0.1/ace/manifest.m3u8?id=25181134e74e9af67c27d6af8489d08179b599fb
 #EXTINF:-1 tvg-id="M+ Copa del Rey" group-title="Tronoss",M+ Copa del Rey
 http://127.0.0.1/ace/manifest.m3u8?id=6118cada4cbe7650eeb21d170e184c26a4cdc808
-#EXTINF:-1 tvg-id="M+ Vamos" group-title="Adrián",M+ Vamos
-http://127.0.0.1/ace/manifest.m3u8?id=0b7057503d40a24417441484479cfe2d0eceb2fd
+#EXTINF:-1 tvg-id="M+ Copa del Rey",M+ Copa del Rey
+http://127.0.0.1/ace/manifest.m3u8?id=adb8b91f027336eb5091ca5852561202c35f0b6e
 #EXTINF:-1 tvg-id="M+ Vamos" group-title="Tronoss",M+ Vamos
 http://127.0.0.1/ace/manifest.m3u8?id=6d949579bc230abff933d5ac242961319bbebc4b
 #EXTINF:-1 tvg-id="M+ Vamos" group-title="Tronoss",M+ Vamos
 http://127.0.0.1/ace/manifest.m3u8?id=b16127ba49c5065b877cb2d4073f2a4bb9a1ddbe
-#EXTINF:-1 tvg-id="M+ LaLiga TV" group-title="Adrián",M+ LaLiga TV
-http://127.0.0.1/ace/manifest.m3u8?id=4f416d74e9feb1812f7d10c637e46d40ebab3e2b
-#EXTINF:-1 tvg-id="M+ LaLiga TV" group-title="Adrián",M+ LaLiga TV
-http://127.0.0.1/ace/manifest.m3u8?id=b308f69384b9be8c5cfdcb45cfcc3d595b0cbaa1
+#EXTINF:-1 tvg-id="M+ Vamos",M+ Vamos
+http://127.0.0.1/ace/manifest.m3u8?id=0b7057503d40a24417441484479cfe2d0eceb2fd
 #EXTINF:-1 tvg-id="M+ LaLiga TV" group-title="Elcano",M+ LaLiga TV
 http://127.0.0.1/ace/manifest.m3u8?id=1bc437bce57b4b0450f6d1f8d818b7e97000745e
 #EXTINF:-1 tvg-id="M+ LaLiga TV" group-title="Elcano",M+ LaLiga TV
@@ -47,20 +43,24 @@ http://127.0.0.1/ace/manifest.m3u8?id=6d05b31e5e8fdae312fbd57897363a7b10ddb163
 http://127.0.0.1/ace/manifest.m3u8?id=94d34491106e00394835c8cb68aa94481339b53f
 #EXTINF:-1 tvg-id="M+ LaLiga TV" group-title="Elcano",M+ LaLiga TV
 http://127.0.0.1/ace/manifest.m3u8?id=d3de78aebe544611a2347f54d5796bd87f16c92d
+#EXTINF:-1 tvg-id="M+ LaLiga TV" group-title="Elcano",M+ LaLiga TV
+http://127.0.0.1/ace/manifest.m3u8?id=f5a769b1d4d97673dcaae415bf197706a8056428
 #EXTINF:-1 tvg-id="M+ LaLiga TV" group-title="Tronoss",M+ LaLiga TV
 http://127.0.0.1/ace/manifest.m3u8?id=7138311a683384297b7ba47020badf454a4376aa
 #EXTINF:-1 tvg-id="M+ LaLiga TV" group-title="Tronoss",M+ LaLiga TV
 http://127.0.0.1/ace/manifest.m3u8?id=7fc274f1bccb3d755c8e0760459bd81056eb998f
+#EXTINF:-1 tvg-id="M+ LaLiga TV",M+ LaLiga TV
+http://127.0.0.1/ace/manifest.m3u8?id=4f416d74e9feb1812f7d10c637e46d40ebab3e2b
+#EXTINF:-1 tvg-id="M+ LaLiga TV",M+ LaLiga TV
+http://127.0.0.1/ace/manifest.m3u8?id=b308f69384b9be8c5cfdcb45cfcc3d595b0cbaa1
 #EXTINF:-1 tvg-id="LaLiga LaLiga TV BAR" group-title="Elcano",LaLiga LaLiga TV BAR
 http://127.0.0.1/ace/manifest.m3u8?id=608b0faf7d3d25f6fe5dba13d5e4b4142949990e
 #EXTINF:-1 tvg-id="LaLiga LaLiga TV BAR" group-title="Elcano",LaLiga LaLiga TV BAR
 http://127.0.0.1/ace/manifest.m3u8?id=94d34491106e00394835c8cb68aa94481339b53f
-#EXTINF:-1 tvg-id="LaLiga TV BAR" group-title="Adrián",LaLiga TV BAR
+#EXTINF:-1 tvg-id="LaLiga TV BAR",LaLiga TV BAR
 http://127.0.0.1/ace/manifest.m3u8?id=954b2cb573313690f2a6d6a2e70102fb49ace952
 #EXTINF:-1 tvg-id="M+ LaLiga LaLiga TV BAR" group-title="Tronoss",M+ LaLiga LaLiga TV BAR
 http://127.0.0.1/ace/manifest.m3u8?id=5834660ff7ae10f0514dc23c241c054dc0272d01
-#EXTINF:-1 tvg-id="DAZN LaLiga" group-title="Adrián",DAZN LaLiga
-http://127.0.0.1/ace/manifest.m3u8?id=6af858dff80a87e247c6ad681aa5adf09f988d1e
 #EXTINF:-1 tvg-id="DAZN LaLiga" group-title="Elcano",DAZN LaLiga
 http://127.0.0.1/ace/manifest.m3u8?id=110d441ddc9713a7452588770d2bc85504672f47
 #EXTINF:-1 tvg-id="DAZN LaLiga" group-title="Elcano",DAZN LaLiga
@@ -73,16 +73,20 @@ http://127.0.0.1/ace/manifest.m3u8?id=ec29289b0b14756e686c03a501bae1efa05be70c
 http://127.0.0.1/ace/manifest.m3u8?id=28c8115681bf6e4565cb5e987530c2f606cc561f
 #EXTINF:-1 tvg-id="DAZN LaLiga" group-title="Tronoss",DAZN LaLiga
 http://127.0.0.1/ace/manifest.m3u8?id=f509888b9c39e8de6e275b19796d6cac5f3fd6cb
+#EXTINF:-1 tvg-id="DAZN LaLiga",DAZN LaLiga
+http://127.0.0.1/ace/manifest.m3u8?id=6af858dff80a87e247c6ad681aa5adf09f988d1e
 #EXTINF:-1 tvg-id="LaLiga TV Hypermotion" group-title="Elcano",LaLiga TV Hypermotion
 http://127.0.0.1/ace/manifest.m3u8?id=121f719ebb94193c6086ef92865cf9b197750980
 #EXTINF:-1 tvg-id="LaLiga TV Hypermotion" group-title="Elcano",LaLiga TV Hypermotion
 http://127.0.0.1/ace/manifest.m3u8?id=b2706a7ffbea236a3b398139a3a606ada664c0eb
-#EXTINF:-1 tvg-id="M+ LaLiga TV 2" group-title="Adrián",M+ LaLiga TV 2
-http://127.0.0.1/ace/manifest.m3u8?id=83a2be1d789584c6040308d485ab1b29880af100
+#EXTINF:-1 tvg-id="LaLiga TV Hypermotion" group-title="Tronoss",LaLiga TV Hypermotion
+http://127.0.0.1/ace/manifest.m3u8?id=c0f89f060d5134c855b6e3cc707c42ed0bf92498
 #EXTINF:-1 tvg-id="M+ LaLiga TV 2" group-title="Elcano",M+ LaLiga TV 2
 http://127.0.0.1/ace/manifest.m3u8?id=83c6c4942d69f4aa324aa746c5d7dbfd7d1572b3
 #EXTINF:-1 tvg-id="M+ LaLiga TV 2" group-title="Elcano",M+ LaLiga TV 2
 http://127.0.0.1/ace/manifest.m3u8?id=f31a586422c9244196c810c84b6c85da350318a5
+#EXTINF:-1 tvg-id="M+ LaLiga TV 2",M+ LaLiga TV 2
+http://127.0.0.1/ace/manifest.m3u8?id=83a2be1d789584c6040308d485ab1b29880af100
 #EXTINF:-1 tvg-id="DAZN LaLiga 2" group-title="Elcano",DAZN LaLiga 2
 http://127.0.0.1/ace/manifest.m3u8?id=51dbbfb42f8091e4ea7a2186b566a40e780953d9
 #EXTINF:-1 tvg-id="DAZN LaLiga 2" group-title="Elcano",DAZN LaLiga 2
@@ -93,6 +97,8 @@ http://127.0.0.1/ace/manifest.m3u8?id=c79b272e20f31d1be9103f582e87209a06a63927
 http://127.0.0.1/ace/manifest.m3u8?id=0a335406bad0b658aeddb2d38f8c0614b2e5623a
 #EXTINF:-1 tvg-id="LaLiga TV Hypermotion 2" group-title="Elcano",LaLiga TV Hypermotion 2
 http://127.0.0.1/ace/manifest.m3u8?id=0cfdfde1b70623b8c210b0f7301be2a87456481d
+#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 2" group-title="Tronoss",LaLiga TV Hypermotion 2
+http://127.0.0.1/ace/manifest.m3u8?id=7f7eaa56f11249f7b92b6287c4cd5d58dc77a61a
 #EXTINF:-1 tvg-id="M+ Liga de Campeones" group-title="Tronoss",M+ Liga de Campeones
 http://127.0.0.1/ace/manifest.m3u8?id=4e3302991c482dff2e10de69795fa5aa87a61ae7
 #EXTINF:-1 tvg-id="M+ Liga de Campeones" group-title="Tronoss",M+ Liga de Campeones
@@ -103,14 +109,14 @@ http://127.0.0.1/ace/manifest.m3u8?id=061bda6fe2e50c509afd83f63a601e139d75d3a0
 http://127.0.0.1/ace/manifest.m3u8?id=e3f891c3dd120b4b1dab40e5c932ac65873a0465
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 3" group-title="Tronoss",M+ Liga de Campeones 3
 http://127.0.0.1/ace/manifest.m3u8?id=e42984ac6529407462f92201af95c01db8988368
-#EXTINF:-1 tvg-id="M+ Deportes" group-title="Adrián",M+ Deportes
-http://127.0.0.1/ace/manifest.m3u8?id=dca9d8b0be1a5d68c929f5cebb61b82a4f62a307
 #EXTINF:-1 tvg-id="M+ Deportes" group-title="Tronoss",M+ Deportes
 http://127.0.0.1/ace/manifest.m3u8?id=81c467f75aa3e4b02361730bb8973ca2234cf684
-#EXTINF:-1 tvg-id="M+ Deportes 2" group-title="Adrián",M+ Deportes 2
-http://127.0.0.1/ace/manifest.m3u8?id=a54aed5e91e4a99a3582551db44fd472e1addda6
+#EXTINF:-1 tvg-id="M+ Deportes",M+ Deportes
+http://127.0.0.1/ace/manifest.m3u8?id=dca9d8b0be1a5d68c929f5cebb61b82a4f62a307
 #EXTINF:-1 tvg-id="M+ Deportes 2" group-title="Tronoss",M+ Deportes 2
 http://127.0.0.1/ace/manifest.m3u8?id=911b6c35f4802fd358b78b328528af4650eca020
+#EXTINF:-1 tvg-id="M+ Deportes 2",M+ Deportes 2
+http://127.0.0.1/ace/manifest.m3u8?id=a54aed5e91e4a99a3582551db44fd472e1addda6
 #EXTINF:-1 tvg-id="M+ Deportes 3" group-title="Tronoss",M+ Deportes 3
 http://127.0.0.1/ace/manifest.m3u8?id=dba6e81dab3150e40ca49bef03f931a990bb93ea
 #EXTINF:-1 tvg-id="M+ Ellas Vamos" group-title="Tronoss",M+ Ellas Vamos
@@ -119,12 +125,12 @@ http://127.0.0.1/ace/manifest.m3u8?id=e871097e11dc05086e945bd715e854be3c3c4082
 http://127.0.0.1/ace/manifest.m3u8?id=e2a05b5dad62f8dd20822c08fc9fd5dc2245c512
 #EXTINF:-1 tvg-id="M+ Golf 2" group-title="Tronoss",M+ Golf 2
 http://127.0.0.1/ace/manifest.m3u8?id=11078aceacd1be758f4c953a437fc1ecb8eca730
-#EXTINF:-1 tvg-id="DAZN F1" group-title="Adrián",DAZN F1
-http://127.0.0.1/ace/manifest.m3u8?id=0390f35108dd054332097af5fcb53a192d0289bf
 #EXTINF:-1 tvg-id="DAZN F1" group-title="Tronoss",DAZN F1
 http://127.0.0.1/ace/manifest.m3u8?id=e41352c657506cfe6eecc4f17982f69275f1660b
 #EXTINF:-1 tvg-id="DAZN F1" group-title="Tronoss",DAZN F1
 http://127.0.0.1/ace/manifest.m3u8?id=e53cba0be75d9a0f1e58f33af4cd525c5cfdb088
+#EXTINF:-1 tvg-id="DAZN F1",DAZN F1
+http://127.0.0.1/ace/manifest.m3u8?id=0390f35108dd054332097af5fcb53a192d0289bf
 #EXTINF:-1 tvg-id="DAZN 1" group-title="Tronoss",DAZN 1
 http://127.0.0.1/ace/manifest.m3u8?id=0908f5dd264ded10b638636cb7479409cfee0813
 #EXTINF:-1 tvg-id="DAZN 1" group-title="Tronoss",DAZN 1
@@ -155,6 +161,8 @@ http://127.0.0.1/ace/manifest.m3u8?id=68697ea4f261289d97bbc3418ad3cbc4180aa32f
 http://127.0.0.1/ace/manifest.m3u8?id=0ab6bab2334d442b68671cc86c4243f2b0bf1290
 #EXTINF:-1 tvg-id="LaLiga TV Hypermotion 3" group-title="Elcano",LaLiga TV Hypermotion 3
 http://127.0.0.1/ace/manifest.m3u8?id=fefd45ed6ff415e05f1341b7d9da2988eacd13ea
+#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 3" group-title="Tronoss",LaLiga TV Hypermotion 3
+http://127.0.0.1/ace/manifest.m3u8?id=f93741dc38bac456018fe9906a4689c2c6405716
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 4" group-title="Tronoss",M+ Liga de Campeones 4
 http://127.0.0.1/ace/manifest.m3u8?id=01152274037c5f7155489e0a977cbde71a61290c
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 5" group-title="Tronoss",M+ Liga de Campeones 5
