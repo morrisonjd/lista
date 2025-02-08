@@ -196,6 +196,8 @@ http://127.0.0.1/ace/manifest.m3u8?id=ddb1d0ff24955582668c0c6e4d4fb3d58cc4b65e
 #EXTINF:-1 tvg-id="UFC Fight Pass" group-title="Tronoss",UFC Fight Pass
 http://127.0.0.1/ace/manifest.m3u8?id=e3ad553098e0c1e70cba1ea2a906dc27aa3452a2
 #EXTINF:-1 tvg-id="UFC TV" group-title="Tronoss",UFC TV
+http://127.0.0.1/ace/manifest.m3u8?id=008722562de872871b879d9d0cab4fb4b79784b2
+#EXTINF:-1 tvg-id="UFC TV" group-title="Tronoss",UFC TV
 http://127.0.0.1/ace/manifest.m3u8?id=c73e3eefe1f4a90fd7495f8be2d5f772d758713b
 #EXTINF:-1 tvg-id="MATCH!" group-title="Antigua"",MATCH!
 http://127.0.0.1/ace/manifest.m3u8?id=a203f6b935a8ad8659c4c76c1d9c13afa6368ef2

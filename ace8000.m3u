@@ -196,6 +196,8 @@ http://127.0.0.1:8000/pid/ddb1d0ff24955582668c0c6e4d4fb3d58cc4b65e/stream.mp4
 #EXTINF:-1 tvg-id="UFC Fight Pass" group-title="Tronoss",UFC Fight Pass
 http://127.0.0.1:8000/pid/e3ad553098e0c1e70cba1ea2a906dc27aa3452a2/stream.mp4
 #EXTINF:-1 tvg-id="UFC TV" group-title="Tronoss",UFC TV
+http://127.0.0.1:8000/pid/008722562de872871b879d9d0cab4fb4b79784b2/stream.mp4
+#EXTINF:-1 tvg-id="UFC TV" group-title="Tronoss",UFC TV
 http://127.0.0.1:8000/pid/c73e3eefe1f4a90fd7495f8be2d5f772d758713b/stream.mp4
 #EXTINF:-1 tvg-id="MATCH!" group-title="Antigua"",MATCH!
 http://127.0.0.1:8000/pid/a203f6b935a8ad8659c4c76c1d9c13afa6368ef2/stream.mp4
