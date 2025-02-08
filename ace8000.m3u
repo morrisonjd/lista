@@ -53,13 +53,13 @@ http://127.0.0.1:8000/pid/d3de78aebe544611a2347f54d5796bd87f16c92d/stream.mp4
 http://127.0.0.1:8000/pid/7138311a683384297b7ba47020badf454a4376aa/stream.mp4
 #EXTINF:-1 tvg-id="M+ LaLiga TV" group-title="Tronoss",M+ LaLiga TV
 http://127.0.0.1:8000/pid/7fc274f1bccb3d755c8e0760459bd81056eb998f/stream.mp4
-#EXTINF:-1 tvg-id="LaLiga LaLiga TV BAR" group-title="Elcano",LaLiga LaLiga TV BAR
-http://127.0.0.1:8000/pid/608b0faf7d3d25f6fe5dba13d5e4b4142949990e/stream.mp4
-#EXTINF:-1 tvg-id="LaLiga LaLiga TV BAR" group-title="Elcano",LaLiga LaLiga TV BAR
-http://127.0.0.1:8000/pid/94d34491106e00394835c8cb68aa94481339b53f/stream.mp4
 #EXTINF:-1 tvg-id="LaLiga TV BAR" group-title="Adrián",LaLiga TV BAR
 http://127.0.0.1:8000/pid/954b2cb573313690f2a6d6a2e70102fb49ace952/stream.mp4
-#EXTINF:-1 tvg-id="M+ LaLiga LaLiga TV BAR" group-title="Tronoss",M+ LaLiga LaLiga TV BAR
+#EXTINF:-1 tvg-id="LaLiga TV BAR" group-title="Elcano",LaLiga TV BAR
+http://127.0.0.1:8000/pid/608b0faf7d3d25f6fe5dba13d5e4b4142949990e/stream.mp4
+#EXTINF:-1 tvg-id="LaLiga TV BAR" group-title="Elcano",LaLiga TV BAR
+http://127.0.0.1:8000/pid/94d34491106e00394835c8cb68aa94481339b53f/stream.mp4
+#EXTINF:-1 tvg-id="M+ LaLiga TV BAR" group-title="Tronoss",M+ LaLiga TV BAR
 http://127.0.0.1:8000/pid/5834660ff7ae10f0514dc23c241c054dc0272d01/stream.mp4
 #EXTINF:-1 tvg-id="DAZN LaLiga" group-title="Adrián",DAZN LaLiga
 http://127.0.0.1:8000/pid/6af858dff80a87e247c6ad681aa5adf09f988d1e/stream.mp4
