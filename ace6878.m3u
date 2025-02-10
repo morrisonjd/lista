@@ -1,4 +1,6 @@
 #EXTM3U 
+#EXTINF:-1 tvg-id="PRUEBA" group-title="Adrián",PRUEBA
+http://127.0.0.1:6878/ace/getstream?infohash=78266c15035d0ad8cbc58f821733931e1de434ab&pid=4
 #EXTINF:-1 tvg-id="La 1" group-title="Adrián",La 1
 http://127.0.0.1:6878/ace/manifest.m3u8?id=54064ca54e2bebd37851431c3f023aa35ce10ea6
 #EXTINF:-1 tvg-id="La 1" group-title="Antigua"",La 1
