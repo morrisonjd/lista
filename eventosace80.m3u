@@ -33,3 +33,5 @@ http://127.0.0.1/ace/manifest.m3u8?id=01152274037c5f7155489e0a977cbde71a61290c
 http://127.0.0.1/ace/manifest.m3u8?id=e42984ac6529407462f92201af95c01db8988368
 #EXTINF:-1 tvg-id="21:00-Champions League-Sporting CP-Borussia Dortmund" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League-Sporting CP-Borussia Dortmund
 http://127.0.0.1/ace/manifest.m3u8?id=01152274037c5f7155489e0a977cbde71a61290c
+#EXTINF:-1 tvg-id="21:00-Copa del Rey-Jaén FS-Barça FS" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Copa del Rey-Jaén FS-Barça FS
+http://127.0.0.1/ace/manifest.m3u8?id=2c5a883ed564be5ff3692705c25556613c395b11

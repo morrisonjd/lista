@@ -33,3 +33,5 @@ http://127.0.0.1:8000/pid/01152274037c5f7155489e0a977cbde71a61290c/stream.mp4
 http://127.0.0.1:8000/pid/e42984ac6529407462f92201af95c01db8988368/stream.mp4
 #EXTINF:-1 tvg-id="21:00-Champions League-Sporting CP-Borussia Dortmund" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League-Sporting CP-Borussia Dortmund
 http://127.0.0.1:8000/pid/01152274037c5f7155489e0a977cbde71a61290c/stream.mp4
+#EXTINF:-1 tvg-id="21:00-Copa del Rey-Jaén FS-Barça FS" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Copa del Rey-Jaén FS-Barça FS
+http://127.0.0.1:8000/pid/2c5a883ed564be5ff3692705c25556613c395b11/stream.mp4
