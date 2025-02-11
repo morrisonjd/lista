@@ -3,6 +3,8 @@
 http://127.0.0.1:6878/ace/manifest.m3u8?id=ce65932b1113ec32c270050786d7702897150d74
 #EXTINF:-1 tvg-id="04:30-NBA-Los Angeles Lakers-Utah Jazz" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",04:30-NBA-Los Angeles Lakers-Utah Jazz
 http://127.0.0.1:6878/ace/manifest.m3u8?id=dca9d8b0be1a5d68c929f5cebb61b82a4f62a307
+#EXTINF:-1 tvg-id="04:30-NBA-Los Angeles Lakers-Utah Jazz" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",04:30-NBA-Los Angeles Lakers-Utah Jazz
+http://127.0.0.1:6878/ace/manifest.m3u8?id=682579275d24fa95964f99f3778bdd22c211c6b9
 #EXTINF:-1 tvg-id="18:45-Champions League-Stade Brestois-PSG" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Champions League-Stade Brestois-PSG
 http://127.0.0.1:6878/ace/manifest.m3u8?id=061bda6fe2e50c509afd83f63a601e139d75d3a0
 #EXTINF:-1 tvg-id="18:45-Champions League-Stade Brestois-PSG" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Champions League-Stade Brestois-PSG
