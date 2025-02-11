@@ -1,37 +1,37 @@
 #EXTM3U 
 #EXTINF:-1 tvg-id="04:30-NBA-Los Angeles Lakers-Utah Jazz" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",04:30-NBA-Los Angeles Lakers-Utah Jazz
-http://127.0.0.1:6878/ace/manifest.m3u8?id=ce65932b1113ec32c270050786d7702897150d74
+http://127.0.0.1:6878/ace/getstream?id=ce65932b1113ec32c270050786d7702897150d74
 #EXTINF:-1 tvg-id="04:30-NBA-Los Angeles Lakers-Utah Jazz" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",04:30-NBA-Los Angeles Lakers-Utah Jazz
-http://127.0.0.1:6878/ace/manifest.m3u8?id=dca9d8b0be1a5d68c929f5cebb61b82a4f62a307
+http://127.0.0.1:6878/ace/getstream?id=dca9d8b0be1a5d68c929f5cebb61b82a4f62a307
 #EXTINF:-1 tvg-id="04:30-NBA-Los Angeles Lakers-Utah Jazz" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",04:30-NBA-Los Angeles Lakers-Utah Jazz
-http://127.0.0.1:6878/ace/manifest.m3u8?id=682579275d24fa95964f99f3778bdd22c211c6b9
+http://127.0.0.1:6878/ace/getstream?id=682579275d24fa95964f99f3778bdd22c211c6b9
 #EXTINF:-1 tvg-id="18:45-Champions League-Stade Brestois-PSG" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Champions League-Stade Brestois-PSG
-http://127.0.0.1:6878/ace/manifest.m3u8?id=061bda6fe2e50c509afd83f63a601e139d75d3a0
+http://127.0.0.1:6878/ace/getstream?id=061bda6fe2e50c509afd83f63a601e139d75d3a0
 #EXTINF:-1 tvg-id="18:45-Champions League-Stade Brestois-PSG" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Champions League-Stade Brestois-PSG
-http://127.0.0.1:6878/ace/manifest.m3u8?id=8e4ab34c7fe491831734bc677b7bf91555653eb3
+http://127.0.0.1:6878/ace/getstream?id=8e4ab34c7fe491831734bc677b7bf91555653eb3
 #EXTINF:-1 tvg-id="21:00-Champions League-Juventus-PSV Eindhoven" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League-Juventus-PSV Eindhoven
-http://127.0.0.1:6878/ace/manifest.m3u8?id=061bda6fe2e50c509afd83f63a601e139d75d3a0
+http://127.0.0.1:6878/ace/getstream?id=061bda6fe2e50c509afd83f63a601e139d75d3a0
 #EXTINF:-1 tvg-id="21:00-Champions League-Juventus-PSV Eindhoven" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League-Juventus-PSV Eindhoven
-http://127.0.0.1:6878/ace/manifest.m3u8?id=8e4ab34c7fe491831734bc677b7bf91555653eb3
+http://127.0.0.1:6878/ace/getstream?id=8e4ab34c7fe491831734bc677b7bf91555653eb3
 #EXTINF:-1 tvg-id="21:00-Champions League-Juventus-PSV Eindhoven" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League-Juventus-PSV Eindhoven
-http://127.0.0.1:6878/ace/manifest.m3u8?id=01152274037c5f7155489e0a977cbde71a61290c
+http://127.0.0.1:6878/ace/getstream?id=01152274037c5f7155489e0a977cbde71a61290c
 #EXTINF:-1 tvg-id="21:00-Champions League-Manchester City-Real Madrid" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League-Manchester City-Real Madrid
-http://127.0.0.1:6878/ace/manifest.m3u8?id=608b0faf7d3d25f6fe5dba13d5e4b4142949990e
+http://127.0.0.1:6878/ace/getstream?id=608b0faf7d3d25f6fe5dba13d5e4b4142949990e
 #EXTINF:-1 tvg-id="21:00-Champions League-Manchester City-Real Madrid" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League-Manchester City-Real Madrid
-http://127.0.0.1:6878/ace/manifest.m3u8?id=94d34491106e00394835c8cb68aa94481339b53f
+http://127.0.0.1:6878/ace/getstream?id=94d34491106e00394835c8cb68aa94481339b53f
 #EXTINF:-1 tvg-id="21:00-Champions League-Manchester City-Real Madrid" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League-Manchester City-Real Madrid
-http://127.0.0.1:6878/ace/manifest.m3u8?id=954b2cb573313690f2a6d6a2e70102fb49ace952
+http://127.0.0.1:6878/ace/getstream?id=954b2cb573313690f2a6d6a2e70102fb49ace952
 #EXTINF:-1 tvg-id="21:00-Champions League-Manchester City-Real Madrid" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League-Manchester City-Real Madrid
-http://127.0.0.1:6878/ace/manifest.m3u8?id=4e3302991c482dff2e10de69795fa5aa87a61ae7
+http://127.0.0.1:6878/ace/getstream?id=4e3302991c482dff2e10de69795fa5aa87a61ae7
 #EXTINF:-1 tvg-id="21:00-Champions League-Manchester City-Real Madrid" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League-Manchester City-Real Madrid
-http://127.0.0.1:6878/ace/manifest.m3u8?id=38d0b187d3cf396695bbb2166a09f57736276e2e
+http://127.0.0.1:6878/ace/getstream?id=38d0b187d3cf396695bbb2166a09f57736276e2e
 #EXTINF:-1 tvg-id="21:00-Champions League-Manchester City-Real Madrid" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League-Manchester City-Real Madrid
-http://127.0.0.1:6878/ace/manifest.m3u8?id=be5cf4441685df4540a34938fb3774818fa62310
+http://127.0.0.1:6878/ace/getstream?id=be5cf4441685df4540a34938fb3774818fa62310
 #EXTINF:-1 tvg-id="21:00-Champions League-Manchester City-Real Madrid" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League-Manchester City-Real Madrid
-http://127.0.0.1:6878/ace/manifest.m3u8?id=01152274037c5f7155489e0a977cbde71a61290c
+http://127.0.0.1:6878/ace/getstream?id=01152274037c5f7155489e0a977cbde71a61290c
 #EXTINF:-1 tvg-id="21:00-Champions League-Sporting CP-Borussia Dortmund" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League-Sporting CP-Borussia Dortmund
-http://127.0.0.1:6878/ace/manifest.m3u8?id=e42984ac6529407462f92201af95c01db8988368
+http://127.0.0.1:6878/ace/getstream?id=e42984ac6529407462f92201af95c01db8988368
 #EXTINF:-1 tvg-id="21:00-Champions League-Sporting CP-Borussia Dortmund" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League-Sporting CP-Borussia Dortmund
-http://127.0.0.1:6878/ace/manifest.m3u8?id=01152274037c5f7155489e0a977cbde71a61290c
+http://127.0.0.1:6878/ace/getstream?id=01152274037c5f7155489e0a977cbde71a61290c
 #EXTINF:-1 tvg-id="21:00-Copa del Rey-Jaén FS-Barça FS" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Copa del Rey-Jaén FS-Barça FS
-http://127.0.0.1:6878/ace/manifest.m3u8?id=2c5a883ed564be5ff3692705c25556613c395b11
+http://127.0.0.1:6878/ace/getstream?id=2c5a883ed564be5ff3692705c25556613c395b11
