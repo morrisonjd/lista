@@ -1,8 +1,6 @@
 #EXTM3U 
 #EXTINF:-1 tvg-id="01:00-NBA-Boston Celtics-San Antonio Spurs" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",01:00-NBA-Boston Celtics-San Antonio Spurs
 http://127.0.0.1:6878/ace/manifest.m3u8?id=ce65932b1113ec32c270050786d7702897150d74
-#EXTINF:-1 tvg-id="03:00-NBA-Utah Jazz-Los Angeles Lakers" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",03:00-NBA-Utah Jazz-Los Angeles Lakers
-http://127.0.0.1:6878/ace/manifest.m3u8?id=ce65932b1113ec32c270050786d7702897150d74
 #EXTINF:-1 tvg-id="18:30-Copa del Rey-Unicaja Málaga-Joventut Badalona" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:30-Copa del Rey-Unicaja Málaga-Joventut Badalona
 http://127.0.0.1:6878/ace/manifest.m3u8?id=ce65932b1113ec32c270050786d7702897150d74
 #EXTINF:-1 tvg-id="18:30-Copa del Rey-Unicaja Málaga-Joventut Badalona" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:30-Copa del Rey-Unicaja Málaga-Joventut Badalona
