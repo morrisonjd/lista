@@ -14,8 +14,6 @@ http://127.0.0.1:8000/pid/e53c497c3a56968bc11fa3771c813fc740e355e3/stream.mp4
 #EXTINF:-1 tvg-id="La Sexta" group-title="Tronoss",La Sexta
 http://127.0.0.1:8000/pid/906191eed84a42d83939fd150ee3c04834bc0533/stream.mp4
 #EXTINF:-1 tvg-id="Movistar Plus+" group-title="Tronoss",Movistar Plus+
-http://127.0.0.1:8000/pid/659cc6cda90af8bd4e72845929535c8efcbd6a44/stream.mp4
-#EXTINF:-1 tvg-id="Movistar Plus+" group-title="Tronoss",Movistar Plus+
 http://127.0.0.1:8000/pid/682579275d24fa95964f99f3778bdd22c211c6b9/stream.mp4
 #EXTINF:-1 tvg-id="M+ Hits" group-title="Tronoss",M+ Hits
 http://127.0.0.1:8000/pid/14767834db41c572ab83b80f7eadc3ba78a2ced0/stream.mp4
@@ -92,13 +90,11 @@ http://127.0.0.1:8000/pid/38d0b187d3cf396695bbb2166a09f57736276e2e/stream.mp4
 #EXTINF:-1 tvg-id="M+ Liga de Campeones" group-title="Tronoss",M+ Liga de Campeones
 http://127.0.0.1:8000/pid/4e3302991c482dff2e10de69795fa5aa87a61ae7/stream.mp4
 #EXTINF:-1 tvg-id="M+ Liga de Campeones" group-title="Tronoss",M+ Liga de Campeones
-http://127.0.0.1:8000/pid/be5cf4441685df4540a34938fb3774818fa62310/stream.mp4
+http://127.0.0.1:8000/pid/7cdf501671e3a34e56f1686471ccd2f587cade7c/stream.mp4
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 2" group-title="Tronoss",M+ Liga de Campeones 2
 http://127.0.0.1:8000/pid/061bda6fe2e50c509afd83f63a601e139d75d3a0/stream.mp4
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 2" group-title="Tronoss",M+ Liga de Campeones 2
 http://127.0.0.1:8000/pid/8e4ab34c7fe491831734bc677b7bf91555653eb3/stream.mp4
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 2" group-title="Tronoss",M+ Liga de Campeones 2
-http://127.0.0.1:8000/pid/d1632b993ac2f980f601e1026b3966654a93beee/stream.mp4
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 3" group-title="Tronoss",M+ Liga de Campeones 3
 http://127.0.0.1:8000/pid/e42984ac6529407462f92201af95c01db8988368/stream.mp4
 #EXTINF:-1 tvg-id="M+ Deportes" group-title="Tronoss",M+ Deportes
