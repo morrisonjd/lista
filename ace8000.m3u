@@ -22,13 +22,19 @@ http://127.0.0.1:8000/pid/26c63851b7a0de9efed907571b19d342fc8d6765/stream.mp4
 #EXTINF:-1 tvg-id="M+ Acción" group-title="Tronoss",M+ Acción
 http://127.0.0.1:8000/pid/2d904318a20e89de0f6540f3e8c210e1376d5e51/stream.mp4
 #EXTINF:-1 tvg-id="M+ Copa del Rey" group-title="Tronoss",M+ Copa del Rey
+http://127.0.0.1:8000/pid/0d7874cae74e394dac877d1621ec12537c67e4b0/stream.mp4
+#EXTINF:-1 tvg-id="M+ Copa del Rey" group-title="Tronoss",M+ Copa del Rey
 http://127.0.0.1:8000/pid/6118cada4cbe7650eeb21d170e184c26a4cdc808/stream.mp4
 #EXTINF:-1 tvg-id="M+ Copa del Rey" group-title="Tronoss",M+ Copa del Rey
 http://127.0.0.1:8000/pid/894afd347da576af7bbfc0b986485581b8df151b/stream.mp4
 #EXTINF:-1 tvg-id="M+ Copa del Rey" group-title="Tronoss",M+ Copa del Rey
 http://127.0.0.1:8000/pid/d282167ec84abdb4f5ed4c4856ea4284ac00991f/stream.mp4
+#EXTINF:-1 tvg-id="M+ Copa del Rey" group-title="Tronoss",M+ Copa del Rey
+http://127.0.0.1:8000/pid/e783202a17ed86e9ce2e8cb4b802288b4ccf38e8/stream.mp4
 #EXTINF:-1 tvg-id="M+ Vamos" group-title="Adrián",M+ Vamos
 http://127.0.0.1:8000/pid/472b73d3c63fe53c3a95644f20aab65b31a6e506/stream.mp4
+#EXTINF:-1 tvg-id="M+ Vamos" group-title="Tronoss",M+ Vamos
+http://127.0.0.1:8000/pid/7628ebd71c7f6b78d5a91a324bde49ef8317a49f/stream.mp4
 #EXTINF:-1 tvg-id="M+ Vamos" group-title="Tronoss",M+ Vamos
 http://127.0.0.1:8000/pid/7ea69506cdde10da9d85a2414310a7e5afcdba19/stream.mp4
 #EXTINF:-1 tvg-id="M+ Vamos" group-title="Tronoss",M+ Vamos
@@ -62,6 +68,8 @@ http://127.0.0.1:8000/pid/ec29289b0b14756e686c03a501bae1efa05be70c/stream.mp4
 #EXTINF:-1 tvg-id="DAZN LaLiga" group-title="Tronoss",DAZN LaLiga
 http://127.0.0.1:8000/pid/28c8115681bf6e4565cb5e987530c2f606cc561f/stream.mp4
 #EXTINF:-1 tvg-id="DAZN LaLiga" group-title="Tronoss",DAZN LaLiga
+http://127.0.0.1:8000/pid/cf144f2d6c5a267a3dd122ae70dfd34bfbed2ce0/stream.mp4
+#EXTINF:-1 tvg-id="DAZN LaLiga" group-title="Tronoss",DAZN LaLiga
 http://127.0.0.1:8000/pid/dad36d37fa74b94e345bb014d82d820e54fb69d8/stream.mp4
 #EXTINF:-1 tvg-id="LaLiga TV Hypermotion" group-title="Elcano",LaLiga TV Hypermotion
 http://127.0.0.1:8000/pid/121f719ebb94193c6086ef92865cf9b197750980/stream.mp4
@@ -80,6 +88,8 @@ http://127.0.0.1:8000/pid/51dbbfb42f8091e4ea7a2186b566a40e780953d9/stream.mp4
 #EXTINF:-1 tvg-id="DAZN LaLiga 2" group-title="Elcano",DAZN LaLiga 2
 http://127.0.0.1:8000/pid/97ba38d47680954be40e48bd8f43e17222fefecb/stream.mp4
 #EXTINF:-1 tvg-id="DAZN LaLiga 2" group-title="Tronoss",DAZN LaLiga 2
+http://127.0.0.1:8000/pid/31fe946682dfc753edeabe8f3f7117fd774530cc/stream.mp4
+#EXTINF:-1 tvg-id="DAZN LaLiga 2" group-title="Tronoss",DAZN LaLiga 2
 http://127.0.0.1:8000/pid/c79b272e20f31d1be9103f582e87209a06a63927/stream.mp4
 #EXTINF:-1 tvg-id="LaLiga TV Hypermotion 2" group-title="Elcano",LaLiga TV Hypermotion 2
 http://127.0.0.1:8000/pid/0a335406bad0b658aeddb2d38f8c0614b2e5623a/stream.mp4
@@ -94,17 +104,33 @@ http://127.0.0.1:8000/pid/38d0b187d3cf396695bbb2166a09f57736276e2e/stream.mp4
 #EXTINF:-1 tvg-id="M+ Liga de Campeones" group-title="Tronoss",M+ Liga de Campeones
 http://127.0.0.1:8000/pid/4e3302991c482dff2e10de69795fa5aa87a61ae7/stream.mp4
 #EXTINF:-1 tvg-id="M+ Liga de Campeones" group-title="Tronoss",M+ Liga de Campeones
+http://127.0.0.1:8000/pid/769baa913100d8147418bcc4b7d9b6d05f551494/stream.mp4
+#EXTINF:-1 tvg-id="M+ Liga de Campeones" group-title="Tronoss",M+ Liga de Campeones
 http://127.0.0.1:8000/pid/7cdf501671e3a34e56f1686471ccd2f587cade7c/stream.mp4
+#EXTINF:-1 tvg-id="M+ Liga de Campeones" group-title="Tronoss",M+ Liga de Campeones
+http://127.0.0.1:8000/pid/ce2b0f2ca503d4fa66ac9325c00e279348551008/stream.mp4
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 2" group-title="Adrián",M+ Liga de Campeones 2
 http://127.0.0.1:8000/pid/1b16e6969c9170273cf7e08abe0b919db3e9351f/stream.mp4
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 2" group-title="Tronoss",M+ Liga de Campeones 2
 http://127.0.0.1:8000/pid/061bda6fe2e50c509afd83f63a601e139d75d3a0/stream.mp4
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 2" group-title="Tronoss",M+ Liga de Campeones 2
 http://127.0.0.1:8000/pid/8e4ab34c7fe491831734bc677b7bf91555653eb3/stream.mp4
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 2" group-title="Tronoss",M+ Liga de Campeones 2
+http://127.0.0.1:8000/pid/b4870954d92d55f897625e14644bfae496190e47/stream.mp4
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 2" group-title="Tronoss",M+ Liga de Campeones 2
+http://127.0.0.1:8000/pid/fc26030c4d3983435872f1286fed5ee7a8bcd9ac/stream.mp4
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 3" group-title="Tronoss",M+ Liga de Campeones 3
+http://127.0.0.1:8000/pid/4b1b4f556f2dfc642ef9efd688a845c928f09132/stream.mp4
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 3" group-title="Tronoss",M+ Liga de Campeones 3
+http://127.0.0.1:8000/pid/57e4a8ad0e0fae14cfd9e3c8ddf351ac5e25d69a/stream.mp4
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 3" group-title="Tronoss",M+ Liga de Campeones 3
 http://127.0.0.1:8000/pid/e42984ac6529407462f92201af95c01db8988368/stream.mp4
 #EXTINF:-1 tvg-id="M+ Deportes" group-title="Tronoss",M+ Deportes
+http://127.0.0.1:8000/pid/37d450c61d992cc4f4634cbd51ccda710c126de2/stream.mp4
+#EXTINF:-1 tvg-id="M+ Deportes" group-title="Tronoss",M+ Deportes
 http://127.0.0.1:8000/pid/ce65932b1113ec32c270050786d7702897150d74/stream.mp4
+#EXTINF:-1 tvg-id="M+ Deportes 2" group-title="Tronoss",M+ Deportes 2
+http://127.0.0.1:8000/pid/0a49fa5dcd8c2f764f48236d7bb3f50828f99c33/stream.mp4
 #EXTINF:-1 tvg-id="M+ Deportes 2" group-title="Tronoss",M+ Deportes 2
 http://127.0.0.1:8000/pid/43931a2672086891ce4f6d6b4128e005e8038959/stream.mp4
 #EXTINF:-1 tvg-id="M+ Deportes 3" group-title="Tronoss",M+ Deportes 3
@@ -119,6 +145,8 @@ http://127.0.0.1:8000/pid/11078aceacd1be758f4c953a437fc1ecb8eca730/stream.mp4
 http://127.0.0.1:8000/pid/1b8069f8c8cb18d565c1c776b6620bbed32b789c/stream.mp4
 #EXTINF:-1 tvg-id="DAZN F1" group-title="Tronoss",DAZN F1
 http://127.0.0.1:8000/pid/37875b8c4e71b3daca16e03070968e0f6344ba4c/stream.mp4
+#EXTINF:-1 tvg-id="DAZN F1" group-title="Tronoss",DAZN F1
+http://127.0.0.1:8000/pid/505c4130005386ca0854500fab2bae25ca6aa53f/stream.mp4
 #EXTINF:-1 tvg-id="DAZN F1" group-title="Tronoss",DAZN F1
 http://127.0.0.1:8000/pid/e41352c657506cfe6eecc4f17982f69275f1660b/stream.mp4
 #EXTINF:-1 tvg-id="F1 TV 14 | Fernando Alonso | Aston Martin" group-title="Tronoss",F1 TV 14 | Fernando Alonso | Aston Martin
@@ -136,15 +164,21 @@ http://127.0.0.1:8000/pid/7a8c76faf27e39efd0535de43fb11d18e1ef043b/stream.mp4
 #EXTINF:-1 tvg-id="MGPTV | Camara de a bordo 4" group-title="Tronoss",MGPTV | Camara de a bordo 4
 http://127.0.0.1:8000/pid/a98becd43a2e6ec6a643cb12851d31203756bba5/stream.mp4
 #EXTINF:-1 tvg-id="DAZN 1" group-title="Tronoss",DAZN 1
+http://127.0.0.1:8000/pid/03de691c3fea9ea7b6abefdc88a86f3a47b455f4/stream.mp4
+#EXTINF:-1 tvg-id="DAZN 1" group-title="Tronoss",DAZN 1
 http://127.0.0.1:8000/pid/0908f5dd264ded10b638636cb7479409cfee0813/stream.mp4
 #EXTINF:-1 tvg-id="DAZN 1" group-title="Tronoss",DAZN 1
 http://127.0.0.1:8000/pid/17dc260a6b6c176183807e659817b647ddca465b/stream.mp4
 #EXTINF:-1 tvg-id="DAZN 1" group-title="Tronoss",DAZN 1
 http://127.0.0.1:8000/pid/413ee8ca35110147e6644e7c3eed37eff46ba222/stream.mp4
 #EXTINF:-1 tvg-id="DAZN 1" group-title="Tronoss",DAZN 1
+http://127.0.0.1:8000/pid/b05e54ad63a1df17a75366f21284d96baa697998/stream.mp4
+#EXTINF:-1 tvg-id="DAZN 1" group-title="Tronoss",DAZN 1
 http://127.0.0.1:8000/pid/e253307f495a6beeda976d2363d72501f2dc1fe3/stream.mp4
 #EXTINF:-1 tvg-id="DAZN 1" group-title="Tronoss",DAZN 1
 http://127.0.0.1:8000/pid/e6121426f7d8007ae9de8e782f05d91e9b27993d/stream.mp4
+#EXTINF:-1 tvg-id="DAZN 2" group-title="Tronoss",DAZN 2
+http://127.0.0.1:8000/pid/90c50f925b84b6dfd0827861c492ab42c3f1703d/stream.mp4
 #EXTINF:-1 tvg-id="DAZN 2" group-title="Tronoss",DAZN 2
 http://127.0.0.1:8000/pid/b056dfc53c18de02caeff4435ddb6b36bfb7b031/stream.mp4
 #EXTINF:-1 tvg-id="DAZN 2" group-title="Tronoss",DAZN 2
@@ -183,6 +217,10 @@ http://127.0.0.1:8000/pid/9bbbaec25775a0c47b07ceb547fe5e017c169729/stream.mp4
 http://127.0.0.1:8000/pid/8656b8874dbb8f52911ca0ad6e1e3d177526508f/stream.mp4
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 4" group-title="Tronoss",M+ Liga de Campeones 4
 http://127.0.0.1:8000/pid/01152274037c5f7155489e0a977cbde71a61290c/stream.mp4
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 4" group-title="Tronoss",M+ Liga de Campeones 4
+http://127.0.0.1:8000/pid/6c226f2ca072df049af77c46430e69e8278a0be7/stream.mp4
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 5" group-title="Tronoss",M+ Liga de Campeones 5
+http://127.0.0.1:8000/pid/c0b6716e77dee0083cfdcd16617682322ff9dd7b/stream.mp4
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 5" group-title="Tronoss",M+ Liga de Campeones 5
 http://127.0.0.1:8000/pid/cc910aee690f70190b04920d61e39da5a6d0a057/stream.mp4
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 6" group-title="Tronoss",M+ Liga de Campeones 6
@@ -214,9 +252,13 @@ http://127.0.0.1:8000/pid/f36a4e0ef1fbd63757130284e9a6c3b7c212a421/stream.mp4
 #EXTINF:-1 tvg-id="M+ Deportes 5" group-title="Tronoss",M+ Deportes 5
 http://127.0.0.1:8000/pid/34b38986ac5e6e842f954f0dd25b2798be70b276/stream.mp4
 #EXTINF:-1 tvg-id="DAZN 3" group-title="Tronoss",DAZN 3
+http://127.0.0.1:8000/pid/3e3f801d03eaf7df527617eaa4c2c5e26dfc9de7/stream.mp4
+#EXTINF:-1 tvg-id="DAZN 3" group-title="Tronoss",DAZN 3
 http://127.0.0.1:8000/pid/b11dd020fc6e89b39b69c1f3bef032be72286e72/stream.mp4
 #EXTINF:-1 tvg-id="DAZN 3" group-title="Tronoss",DAZN 3
 http://127.0.0.1:8000/pid/ea00d98ceb524da4ef7f2f0733661dbb31e48f7b/stream.mp4
+#EXTINF:-1 tvg-id="DAZN 4" group-title="Tronoss",DAZN 4
+http://127.0.0.1:8000/pid/846a1ff238ee87a09785f1c053ccd2e4f57267b1/stream.mp4
 #EXTINF:-1 tvg-id="DAZN 4" group-title="Tronoss",DAZN 4
 http://127.0.0.1:8000/pid/ddb1d0ff24955582668c0c6e4d4fb3d58cc4b65e/stream.mp4
 #EXTINF:-1 tvg-id="Eurosport" group-title="Adrián",Eurosport

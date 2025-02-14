@@ -22,13 +22,19 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=26c63851b7a0de9efed907571b19d342fc8d6
 #EXTINF:-1 tvg-id="M+ Acción" group-title="Tronoss",M+ Acción
 http://127.0.0.1:6878/ace/manifest.m3u8?id=2d904318a20e89de0f6540f3e8c210e1376d5e51
 #EXTINF:-1 tvg-id="M+ Copa del Rey" group-title="Tronoss",M+ Copa del Rey
+http://127.0.0.1:6878/ace/manifest.m3u8?id=0d7874cae74e394dac877d1621ec12537c67e4b0
+#EXTINF:-1 tvg-id="M+ Copa del Rey" group-title="Tronoss",M+ Copa del Rey
 http://127.0.0.1:6878/ace/manifest.m3u8?id=6118cada4cbe7650eeb21d170e184c26a4cdc808
 #EXTINF:-1 tvg-id="M+ Copa del Rey" group-title="Tronoss",M+ Copa del Rey
 http://127.0.0.1:6878/ace/manifest.m3u8?id=894afd347da576af7bbfc0b986485581b8df151b
 #EXTINF:-1 tvg-id="M+ Copa del Rey" group-title="Tronoss",M+ Copa del Rey
 http://127.0.0.1:6878/ace/manifest.m3u8?id=d282167ec84abdb4f5ed4c4856ea4284ac00991f
+#EXTINF:-1 tvg-id="M+ Copa del Rey" group-title="Tronoss",M+ Copa del Rey
+http://127.0.0.1:6878/ace/manifest.m3u8?id=e783202a17ed86e9ce2e8cb4b802288b4ccf38e8
 #EXTINF:-1 tvg-id="M+ Vamos" group-title="Adrián",M+ Vamos
 http://127.0.0.1:6878/ace/manifest.m3u8?id=472b73d3c63fe53c3a95644f20aab65b31a6e506
+#EXTINF:-1 tvg-id="M+ Vamos" group-title="Tronoss",M+ Vamos
+http://127.0.0.1:6878/ace/manifest.m3u8?id=7628ebd71c7f6b78d5a91a324bde49ef8317a49f
 #EXTINF:-1 tvg-id="M+ Vamos" group-title="Tronoss",M+ Vamos
 http://127.0.0.1:6878/ace/manifest.m3u8?id=7ea69506cdde10da9d85a2414310a7e5afcdba19
 #EXTINF:-1 tvg-id="M+ Vamos" group-title="Tronoss",M+ Vamos
@@ -62,6 +68,8 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=ec29289b0b14756e686c03a501bae1efa05be
 #EXTINF:-1 tvg-id="DAZN LaLiga" group-title="Tronoss",DAZN LaLiga
 http://127.0.0.1:6878/ace/manifest.m3u8?id=28c8115681bf6e4565cb5e987530c2f606cc561f
 #EXTINF:-1 tvg-id="DAZN LaLiga" group-title="Tronoss",DAZN LaLiga
+http://127.0.0.1:6878/ace/manifest.m3u8?id=cf144f2d6c5a267a3dd122ae70dfd34bfbed2ce0
+#EXTINF:-1 tvg-id="DAZN LaLiga" group-title="Tronoss",DAZN LaLiga
 http://127.0.0.1:6878/ace/manifest.m3u8?id=dad36d37fa74b94e345bb014d82d820e54fb69d8
 #EXTINF:-1 tvg-id="LaLiga TV Hypermotion" group-title="Elcano",LaLiga TV Hypermotion
 http://127.0.0.1:6878/ace/manifest.m3u8?id=121f719ebb94193c6086ef92865cf9b197750980
@@ -80,6 +88,8 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=51dbbfb42f8091e4ea7a2186b566a40e78095
 #EXTINF:-1 tvg-id="DAZN LaLiga 2" group-title="Elcano",DAZN LaLiga 2
 http://127.0.0.1:6878/ace/manifest.m3u8?id=97ba38d47680954be40e48bd8f43e17222fefecb
 #EXTINF:-1 tvg-id="DAZN LaLiga 2" group-title="Tronoss",DAZN LaLiga 2
+http://127.0.0.1:6878/ace/manifest.m3u8?id=31fe946682dfc753edeabe8f3f7117fd774530cc
+#EXTINF:-1 tvg-id="DAZN LaLiga 2" group-title="Tronoss",DAZN LaLiga 2
 http://127.0.0.1:6878/ace/manifest.m3u8?id=c79b272e20f31d1be9103f582e87209a06a63927
 #EXTINF:-1 tvg-id="LaLiga TV Hypermotion 2" group-title="Elcano",LaLiga TV Hypermotion 2
 http://127.0.0.1:6878/ace/manifest.m3u8?id=0a335406bad0b658aeddb2d38f8c0614b2e5623a
@@ -94,17 +104,33 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=38d0b187d3cf396695bbb2166a09f57736276
 #EXTINF:-1 tvg-id="M+ Liga de Campeones" group-title="Tronoss",M+ Liga de Campeones
 http://127.0.0.1:6878/ace/manifest.m3u8?id=4e3302991c482dff2e10de69795fa5aa87a61ae7
 #EXTINF:-1 tvg-id="M+ Liga de Campeones" group-title="Tronoss",M+ Liga de Campeones
+http://127.0.0.1:6878/ace/manifest.m3u8?id=769baa913100d8147418bcc4b7d9b6d05f551494
+#EXTINF:-1 tvg-id="M+ Liga de Campeones" group-title="Tronoss",M+ Liga de Campeones
 http://127.0.0.1:6878/ace/manifest.m3u8?id=7cdf501671e3a34e56f1686471ccd2f587cade7c
+#EXTINF:-1 tvg-id="M+ Liga de Campeones" group-title="Tronoss",M+ Liga de Campeones
+http://127.0.0.1:6878/ace/manifest.m3u8?id=ce2b0f2ca503d4fa66ac9325c00e279348551008
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 2" group-title="Adrián",M+ Liga de Campeones 2
 http://127.0.0.1:6878/ace/manifest.m3u8?id=1b16e6969c9170273cf7e08abe0b919db3e9351f
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 2" group-title="Tronoss",M+ Liga de Campeones 2
 http://127.0.0.1:6878/ace/manifest.m3u8?id=061bda6fe2e50c509afd83f63a601e139d75d3a0
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 2" group-title="Tronoss",M+ Liga de Campeones 2
 http://127.0.0.1:6878/ace/manifest.m3u8?id=8e4ab34c7fe491831734bc677b7bf91555653eb3
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 2" group-title="Tronoss",M+ Liga de Campeones 2
+http://127.0.0.1:6878/ace/manifest.m3u8?id=b4870954d92d55f897625e14644bfae496190e47
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 2" group-title="Tronoss",M+ Liga de Campeones 2
+http://127.0.0.1:6878/ace/manifest.m3u8?id=fc26030c4d3983435872f1286fed5ee7a8bcd9ac
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 3" group-title="Tronoss",M+ Liga de Campeones 3
+http://127.0.0.1:6878/ace/manifest.m3u8?id=4b1b4f556f2dfc642ef9efd688a845c928f09132
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 3" group-title="Tronoss",M+ Liga de Campeones 3
+http://127.0.0.1:6878/ace/manifest.m3u8?id=57e4a8ad0e0fae14cfd9e3c8ddf351ac5e25d69a
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 3" group-title="Tronoss",M+ Liga de Campeones 3
 http://127.0.0.1:6878/ace/manifest.m3u8?id=e42984ac6529407462f92201af95c01db8988368
 #EXTINF:-1 tvg-id="M+ Deportes" group-title="Tronoss",M+ Deportes
+http://127.0.0.1:6878/ace/manifest.m3u8?id=37d450c61d992cc4f4634cbd51ccda710c126de2
+#EXTINF:-1 tvg-id="M+ Deportes" group-title="Tronoss",M+ Deportes
 http://127.0.0.1:6878/ace/manifest.m3u8?id=ce65932b1113ec32c270050786d7702897150d74
+#EXTINF:-1 tvg-id="M+ Deportes 2" group-title="Tronoss",M+ Deportes 2
+http://127.0.0.1:6878/ace/manifest.m3u8?id=0a49fa5dcd8c2f764f48236d7bb3f50828f99c33
 #EXTINF:-1 tvg-id="M+ Deportes 2" group-title="Tronoss",M+ Deportes 2
 http://127.0.0.1:6878/ace/manifest.m3u8?id=43931a2672086891ce4f6d6b4128e005e8038959
 #EXTINF:-1 tvg-id="M+ Deportes 3" group-title="Tronoss",M+ Deportes 3
@@ -119,6 +145,8 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=11078aceacd1be758f4c953a437fc1ecb8eca
 http://127.0.0.1:6878/ace/manifest.m3u8?id=1b8069f8c8cb18d565c1c776b6620bbed32b789c
 #EXTINF:-1 tvg-id="DAZN F1" group-title="Tronoss",DAZN F1
 http://127.0.0.1:6878/ace/manifest.m3u8?id=37875b8c4e71b3daca16e03070968e0f6344ba4c
+#EXTINF:-1 tvg-id="DAZN F1" group-title="Tronoss",DAZN F1
+http://127.0.0.1:6878/ace/manifest.m3u8?id=505c4130005386ca0854500fab2bae25ca6aa53f
 #EXTINF:-1 tvg-id="DAZN F1" group-title="Tronoss",DAZN F1
 http://127.0.0.1:6878/ace/manifest.m3u8?id=e41352c657506cfe6eecc4f17982f69275f1660b
 #EXTINF:-1 tvg-id="F1 TV 14 | Fernando Alonso | Aston Martin" group-title="Tronoss",F1 TV 14 | Fernando Alonso | Aston Martin
@@ -136,15 +164,21 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=7a8c76faf27e39efd0535de43fb11d18e1ef0
 #EXTINF:-1 tvg-id="MGPTV | Camara de a bordo 4" group-title="Tronoss",MGPTV | Camara de a bordo 4
 http://127.0.0.1:6878/ace/manifest.m3u8?id=a98becd43a2e6ec6a643cb12851d31203756bba5
 #EXTINF:-1 tvg-id="DAZN 1" group-title="Tronoss",DAZN 1
+http://127.0.0.1:6878/ace/manifest.m3u8?id=03de691c3fea9ea7b6abefdc88a86f3a47b455f4
+#EXTINF:-1 tvg-id="DAZN 1" group-title="Tronoss",DAZN 1
 http://127.0.0.1:6878/ace/manifest.m3u8?id=0908f5dd264ded10b638636cb7479409cfee0813
 #EXTINF:-1 tvg-id="DAZN 1" group-title="Tronoss",DAZN 1
 http://127.0.0.1:6878/ace/manifest.m3u8?id=17dc260a6b6c176183807e659817b647ddca465b
 #EXTINF:-1 tvg-id="DAZN 1" group-title="Tronoss",DAZN 1
 http://127.0.0.1:6878/ace/manifest.m3u8?id=413ee8ca35110147e6644e7c3eed37eff46ba222
 #EXTINF:-1 tvg-id="DAZN 1" group-title="Tronoss",DAZN 1
+http://127.0.0.1:6878/ace/manifest.m3u8?id=b05e54ad63a1df17a75366f21284d96baa697998
+#EXTINF:-1 tvg-id="DAZN 1" group-title="Tronoss",DAZN 1
 http://127.0.0.1:6878/ace/manifest.m3u8?id=e253307f495a6beeda976d2363d72501f2dc1fe3
 #EXTINF:-1 tvg-id="DAZN 1" group-title="Tronoss",DAZN 1
 http://127.0.0.1:6878/ace/manifest.m3u8?id=e6121426f7d8007ae9de8e782f05d91e9b27993d
+#EXTINF:-1 tvg-id="DAZN 2" group-title="Tronoss",DAZN 2
+http://127.0.0.1:6878/ace/manifest.m3u8?id=90c50f925b84b6dfd0827861c492ab42c3f1703d
 #EXTINF:-1 tvg-id="DAZN 2" group-title="Tronoss",DAZN 2
 http://127.0.0.1:6878/ace/manifest.m3u8?id=b056dfc53c18de02caeff4435ddb6b36bfb7b031
 #EXTINF:-1 tvg-id="DAZN 2" group-title="Tronoss",DAZN 2
@@ -183,6 +217,10 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=9bbbaec25775a0c47b07ceb547fe5e017c169
 http://127.0.0.1:6878/ace/manifest.m3u8?id=8656b8874dbb8f52911ca0ad6e1e3d177526508f
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 4" group-title="Tronoss",M+ Liga de Campeones 4
 http://127.0.0.1:6878/ace/manifest.m3u8?id=01152274037c5f7155489e0a977cbde71a61290c
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 4" group-title="Tronoss",M+ Liga de Campeones 4
+http://127.0.0.1:6878/ace/manifest.m3u8?id=6c226f2ca072df049af77c46430e69e8278a0be7
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 5" group-title="Tronoss",M+ Liga de Campeones 5
+http://127.0.0.1:6878/ace/manifest.m3u8?id=c0b6716e77dee0083cfdcd16617682322ff9dd7b
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 5" group-title="Tronoss",M+ Liga de Campeones 5
 http://127.0.0.1:6878/ace/manifest.m3u8?id=cc910aee690f70190b04920d61e39da5a6d0a057
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 6" group-title="Tronoss",M+ Liga de Campeones 6
@@ -214,9 +252,13 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=f36a4e0ef1fbd63757130284e9a6c3b7c212a
 #EXTINF:-1 tvg-id="M+ Deportes 5" group-title="Tronoss",M+ Deportes 5
 http://127.0.0.1:6878/ace/manifest.m3u8?id=34b38986ac5e6e842f954f0dd25b2798be70b276
 #EXTINF:-1 tvg-id="DAZN 3" group-title="Tronoss",DAZN 3
+http://127.0.0.1:6878/ace/manifest.m3u8?id=3e3f801d03eaf7df527617eaa4c2c5e26dfc9de7
+#EXTINF:-1 tvg-id="DAZN 3" group-title="Tronoss",DAZN 3
 http://127.0.0.1:6878/ace/manifest.m3u8?id=b11dd020fc6e89b39b69c1f3bef032be72286e72
 #EXTINF:-1 tvg-id="DAZN 3" group-title="Tronoss",DAZN 3
 http://127.0.0.1:6878/ace/manifest.m3u8?id=ea00d98ceb524da4ef7f2f0733661dbb31e48f7b
+#EXTINF:-1 tvg-id="DAZN 4" group-title="Tronoss",DAZN 4
+http://127.0.0.1:6878/ace/manifest.m3u8?id=846a1ff238ee87a09785f1c053ccd2e4f57267b1
 #EXTINF:-1 tvg-id="DAZN 4" group-title="Tronoss",DAZN 4
 http://127.0.0.1:6878/ace/manifest.m3u8?id=ddb1d0ff24955582668c0c6e4d4fb3d58cc4b65e
 #EXTINF:-1 tvg-id="Eurosport" group-title="Adrián",Eurosport
