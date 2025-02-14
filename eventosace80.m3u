@@ -1,0 +1,47 @@
+#EXTM3U 
+#EXTINF:-1 tvg-id="02:00-NBA-Houston Rockets-Golden State Warriors" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",02:00-NBA-Houston Rockets-Golden State Warriors
+http://127.0.0.1/ace/manifest.m3u8?id=ce65932b1113ec32c270050786d7702897150d74
+#EXTINF:-1 tvg-id="18:05-FIA Fórmula E-Jeddah (Arabia Saudí)-Carrera 1" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:05-FIA Fórmula E-Jeddah (Arabia Saudí)-Carrera 1
+http://127.0.0.1/ace/manifest.m3u8?id=dfdf5353080a7e3d0f4b4c8e3cf4e0be19731652
+#EXTINF:-1 tvg-id="18:30-Copa del Rey-Real Madrid Baloncesto-BAXI Manresa" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:30-Copa del Rey-Real Madrid Baloncesto-BAXI Manresa
+http://127.0.0.1/ace/manifest.m3u8?id=ce65932b1113ec32c270050786d7702897150d74
+#EXTINF:-1 tvg-id="18:30-Copa del Rey-Real Madrid Baloncesto-BAXI Manresa" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:30-Copa del Rey-Real Madrid Baloncesto-BAXI Manresa
+http://127.0.0.1/ace/manifest.m3u8?id=682579275d24fa95964f99f3778bdd22c211c6b9
+#EXTINF:-1 tvg-id="20:30-Segunda-Mirandés-Racing Ferrol" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",20:30-Segunda-Mirandés-Racing Ferrol
+http://127.0.0.1/ace/manifest.m3u8?id=b2706a7ffbea236a3b398139a3a606ada664c0eb
+#EXTINF:-1 tvg-id="21:00-Primera-Girona-Getafe" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera-Girona-Getafe
+http://127.0.0.1/ace/manifest.m3u8?id=110d441ddc9713a7452588770d2bc85504672f47
+#EXTINF:-1 tvg-id="21:00-Primera-Girona-Getafe" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera-Girona-Getafe
+http://127.0.0.1/ace/manifest.m3u8?id=6de4794cd02f88f14354b5996823413a59a1de0f
+#EXTINF:-1 tvg-id="21:00-Primera-Girona-Getafe" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera-Girona-Getafe
+http://127.0.0.1/ace/manifest.m3u8?id=ec29289b0b14756e686c03a501bae1efa05be70c
+#EXTINF:-1 tvg-id="21:00-Primera-Girona-Getafe" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera-Girona-Getafe
+http://127.0.0.1/ace/manifest.m3u8?id=8c8c1e047a1c5ed213ba74722a5345dc55c3c0eb
+#EXTINF:-1 tvg-id="21:00-Primera-Girona-Getafe" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera-Girona-Getafe
+http://127.0.0.1/ace/manifest.m3u8?id=dad36d37fa74b94e345bb014d82d820e54fb69d8
+#EXTINF:-1 tvg-id="21:00-Primera-Girona-Getafe" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera-Girona-Getafe
+http://127.0.0.1/ace/manifest.m3u8?id=28c8115681bf6e4565cb5e987530c2f606cc561f
+#EXTINF:-1 tvg-id="21:00-Primera-Girona-Getafe" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera-Girona-Getafe
+http://127.0.0.1/ace/manifest.m3u8?id=608b0faf7d3d25f6fe5dba13d5e4b4142949990e
+#EXTINF:-1 tvg-id="21:00-Primera-Girona-Getafe" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera-Girona-Getafe
+http://127.0.0.1/ace/manifest.m3u8?id=94d34491106e00394835c8cb68aa94481339b53f
+#EXTINF:-1 tvg-id="21:00-Premier League-Brighton-Chelsea" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Premier League-Brighton-Chelsea
+http://127.0.0.1/ace/manifest.m3u8?id=0908f5dd264ded10b638636cb7479409cfee0813
+#EXTINF:-1 tvg-id="21:00-Premier League-Brighton-Chelsea" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Premier League-Brighton-Chelsea
+http://127.0.0.1/ace/manifest.m3u8?id=17dc260a6b6c176183807e659817b647ddca465b
+#EXTINF:-1 tvg-id="21:00-Premier League-Brighton-Chelsea" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Premier League-Brighton-Chelsea
+http://127.0.0.1/ace/manifest.m3u8?id=e6121426f7d8007ae9de8e782f05d91e9b27993d
+#EXTINF:-1 tvg-id="21:00-Premier League-Brighton-Chelsea" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Premier League-Brighton-Chelsea
+http://127.0.0.1/ace/manifest.m3u8?id=e253307f495a6beeda976d2363d72501f2dc1fe3
+#EXTINF:-1 tvg-id="21:00-Premier League-Brighton-Chelsea" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Premier League-Brighton-Chelsea
+http://127.0.0.1/ace/manifest.m3u8?id=4fa5fb9ab4a3213f7ffe2dfa2ca2d3740f8fd61d
+#EXTINF:-1 tvg-id="21:00-Primera Federación Futsal-Jaén FS-Movistar Inter" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera Federación Futsal-Jaén FS-Movistar Inter
+http://127.0.0.1/ace/manifest.m3u8?id=2c5a883ed564be5ff3692705c25556613c395b11
+#EXTINF:-1 tvg-id="21:30-Copa del Rey-Dreamland Gran Canaria-Valencia Basket" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:30-Copa del Rey-Dreamland Gran Canaria-Valencia Basket
+http://127.0.0.1/ace/manifest.m3u8?id=ce65932b1113ec32c270050786d7702897150d74
+#EXTINF:-1 tvg-id="21:30-Copa del Rey-Dreamland Gran Canaria-Valencia Basket" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:30-Copa del Rey-Dreamland Gran Canaria-Valencia Basket
+http://127.0.0.1/ace/manifest.m3u8?id=472b73d3c63fe53c3a95644f20aab65b31a6e506
+#EXTINF:-1 tvg-id="21:30-Copa del Rey-Dreamland Gran Canaria-Valencia Basket" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:30-Copa del Rey-Dreamland Gran Canaria-Valencia Basket
+http://127.0.0.1/ace/manifest.m3u8?id=7ea69506cdde10da9d85a2414310a7e5afcdba19
+#EXTINF:-1 tvg-id="21:30-Copa del Rey-Dreamland Gran Canaria-Valencia Basket" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:30-Copa del Rey-Dreamland Gran Canaria-Valencia Basket
+http://127.0.0.1/ace/manifest.m3u8?id=8c1e181e99425c729cdf12c21fccaf07ea106a49
