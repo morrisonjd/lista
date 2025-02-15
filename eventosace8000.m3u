@@ -1,0 +1,155 @@
+#EXTM3U 
+#EXTINF:-1 tvg-id="02:00-NBA-Noche de concursos-Movistar Plus+ (M7)" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",02:00-NBA-Noche de concursos-Movistar Plus+ (M7)
+http://127.0.0.1:8000/pid/37d450c61d992cc4f4634cbd51ccda710c126de2/stream.mp4
+#EXTINF:-1 tvg-id="02:00-NBA-Noche de concursos-Movistar Plus+ (M7)" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",02:00-NBA-Noche de concursos-Movistar Plus+ (M7)
+http://127.0.0.1:8000/pid/0a49fa5dcd8c2f764f48236d7bb3f50828f99c33/stream.mp4
+#EXTINF:-1 tvg-id="02:00-NBA-Noche de concursos-Movistar Plus+ (M7)" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",02:00-NBA-Noche de concursos-Movistar Plus+ (M7)
+http://127.0.0.1:8000/pid/ce65932b1113ec32c270050786d7702897150d74/stream.mp4
+#EXTINF:-1 tvg-id="02:00-NBA-Noche de concursos-Movistar Plus+ (M7)" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",02:00-NBA-Noche de concursos-Movistar Plus+ (M7)
+http://127.0.0.1:8000/pid/682579275d24fa95964f99f3778bdd22c211c6b9/stream.mp4
+#EXTINF:-1 tvg-id="02:00-Velada-O. Duarte-M. Madueno" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",02:00-Velada-O. Duarte-M. Madueno
+http://127.0.0.1:8000/pid/90c50f925b84b6dfd0827861c492ab42c3f1703d/stream.mp4
+#EXTINF:-1 tvg-id="02:00-Velada-O. Duarte-M. Madueno" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",02:00-Velada-O. Duarte-M. Madueno
+http://127.0.0.1:8000/pid/b056dfc53c18de02caeff4435ddb6b36bfb7b031/stream.mp4
+#EXTINF:-1 tvg-id="02:00-Velada-O. Duarte-M. Madueno" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",02:00-Velada-O. Duarte-M. Madueno
+http://127.0.0.1:8000/pid/f67f95bcb185c3d62d532425709908be86bd442c/stream.mp4
+#EXTINF:-1 tvg-id="12:30-Primera FEB-CB Zamora-Movistar Estudiantes" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",12:30-Primera FEB-CB Zamora-Movistar Estudiantes
+http://127.0.0.1:8000/pid/fb27c753c690bf21edcf527f42cd14c5c9e6b53e/stream.mp4
+#EXTINF:-1 tvg-id="14:00-Primera-Espanyol-Athletic Club" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",14:00-Primera-Espanyol-Athletic Club
+http://127.0.0.1:8000/pid/6d05b31e5e8fdae312fbd57897363a7b10ddb163/stream.mp4
+#EXTINF:-1 tvg-id="14:00-Primera-Espanyol-Athletic Club" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",14:00-Primera-Espanyol-Athletic Club
+http://127.0.0.1:8000/pid/d3de78aebe544611a2347f54d5796bd87f16c92d/stream.mp4
+#EXTINF:-1 tvg-id="14:00-Primera-Espanyol-Athletic Club" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",14:00-Primera-Espanyol-Athletic Club
+http://127.0.0.1:8000/pid/94d34491106e00394835c8cb68aa94481339b53f/stream.mp4
+#EXTINF:-1 tvg-id="14:00-Primera-Espanyol-Athletic Club" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",14:00-Primera-Espanyol-Athletic Club
+http://127.0.0.1:8000/pid/1bc437bce57b4b0450f6d1f8d818b7e97000745e/stream.mp4
+#EXTINF:-1 tvg-id="14:00-Primera-Espanyol-Athletic Club" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",14:00-Primera-Espanyol-Athletic Club
+http://127.0.0.1:8000/pid/63b976bbf9bbd0c37117880b8b33702b95357ef3/stream.mp4
+#EXTINF:-1 tvg-id="14:00-Primera-Espanyol-Athletic Club" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",14:00-Primera-Espanyol-Athletic Club
+http://127.0.0.1:8000/pid/f5fcacb60627d6319b89942391e441d179dbb9d9/stream.mp4
+#EXTINF:-1 tvg-id="14:00-Primera-Espanyol-Athletic Club" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",14:00-Primera-Espanyol-Athletic Club
+http://127.0.0.1:8000/pid/b8370220a0338f9eb4728467111a2bce1033b80b/stream.mp4
+#EXTINF:-1 tvg-id="14:00-Primera-Espanyol-Athletic Club" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",14:00-Primera-Espanyol-Athletic Club
+http://127.0.0.1:8000/pid/608b0faf7d3d25f6fe5dba13d5e4b4142949990e/stream.mp4
+#EXTINF:-1 tvg-id="14:00-Primera-Espanyol-Athletic Club" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",14:00-Primera-Espanyol-Athletic Club
+http://127.0.0.1:8000/pid/94d34491106e00394835c8cb68aa94481339b53f/stream.mp4
+#EXTINF:-1 tvg-id="14:00-Primera-Espanyol-Athletic Club" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",14:00-Primera-Espanyol-Athletic Club
+http://127.0.0.1:8000/pid/eaadbbda22219748f2aa1a3f0153ce0a2eaf3e8f/stream.mp4
+#EXTINF:-1 tvg-id="14:00-Segunda Estadio Ciudad de Valencia" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",14:00-Segunda Estadio Ciudad de Valencia
+http://127.0.0.1:8000/pid/b2706a7ffbea236a3b398139a3a606ada664c0eb/stream.mp4
+#EXTINF:-1 tvg-id="14:00-Segunda Estadio Ciudad de Valencia" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",14:00-Segunda Estadio Ciudad de Valencia
+http://127.0.0.1:8000/pid/682579275d24fa95964f99f3778bdd22c211c6b9/stream.mp4
+#EXTINF:-1 tvg-id="15:00-Premier League-Liverpool-Wolverhampton" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",15:00-Premier League-Liverpool-Wolverhampton
+http://127.0.0.1:8000/pid/03de691c3fea9ea7b6abefdc88a86f3a47b455f4/stream.mp4
+#EXTINF:-1 tvg-id="15:00-Premier League-Liverpool-Wolverhampton" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",15:00-Premier League-Liverpool-Wolverhampton
+http://127.0.0.1:8000/pid/4397faf316e52508dd2f0db6f1d5cbab432f46a3/stream.mp4
+#EXTINF:-1 tvg-id="15:00-Premier League-Liverpool-Wolverhampton" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",15:00-Premier League-Liverpool-Wolverhampton
+http://127.0.0.1:8000/pid/e6121426f7d8007ae9de8e782f05d91e9b27993d/stream.mp4
+#EXTINF:-1 tvg-id="15:00-Premier League-Liverpool-Wolverhampton" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",15:00-Premier League-Liverpool-Wolverhampton
+http://127.0.0.1:8000/pid/e253307f495a6beeda976d2363d72501f2dc1fe3/stream.mp4
+#EXTINF:-1 tvg-id="15:00-Premier League-Liverpool-Wolverhampton" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",15:00-Premier League-Liverpool-Wolverhampton
+http://127.0.0.1:8000/pid/4fa5fb9ab4a3213f7ffe2dfa2ca2d3740f8fd61d/stream.mp4
+#EXTINF:-1 tvg-id="16:15-Primera-Real Valladolid-Sevilla FC" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",16:15-Primera-Real Valladolid-Sevilla FC
+http://127.0.0.1:8000/pid/110d441ddc9713a7452588770d2bc85504672f47/stream.mp4
+#EXTINF:-1 tvg-id="16:15-Primera-Real Valladolid-Sevilla FC" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",16:15-Primera-Real Valladolid-Sevilla FC
+http://127.0.0.1:8000/pid/6de4794cd02f88f14354b5996823413a59a1de0f/stream.mp4
+#EXTINF:-1 tvg-id="16:15-Primera-Real Valladolid-Sevilla FC" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",16:15-Primera-Real Valladolid-Sevilla FC
+http://127.0.0.1:8000/pid/ec29289b0b14756e686c03a501bae1efa05be70c/stream.mp4
+#EXTINF:-1 tvg-id="16:15-Primera-Real Valladolid-Sevilla FC" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",16:15-Primera-Real Valladolid-Sevilla FC
+http://127.0.0.1:8000/pid/8c8c1e047a1c5ed213ba74722a5345dc55c3c0eb/stream.mp4
+#EXTINF:-1 tvg-id="16:15-Primera-Real Valladolid-Sevilla FC" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",16:15-Primera-Real Valladolid-Sevilla FC
+http://127.0.0.1:8000/pid/cf144f2d6c5a267a3dd122ae70dfd34bfbed2ce0/stream.mp4
+#EXTINF:-1 tvg-id="16:15-Primera-Real Valladolid-Sevilla FC" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",16:15-Primera-Real Valladolid-Sevilla FC
+http://127.0.0.1:8000/pid/dad36d37fa74b94e345bb014d82d820e54fb69d8/stream.mp4
+#EXTINF:-1 tvg-id="16:15-Primera-Real Valladolid-Sevilla FC" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",16:15-Primera-Real Valladolid-Sevilla FC
+http://127.0.0.1:8000/pid/28c8115681bf6e4565cb5e987530c2f606cc561f/stream.mp4
+#EXTINF:-1 tvg-id="16:15-Primera-Real Valladolid-Sevilla FC" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",16:15-Primera-Real Valladolid-Sevilla FC
+http://127.0.0.1:8000/pid/608b0faf7d3d25f6fe5dba13d5e4b4142949990e/stream.mp4
+#EXTINF:-1 tvg-id="16:15-Primera-Real Valladolid-Sevilla FC" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",16:15-Primera-Real Valladolid-Sevilla FC
+http://127.0.0.1:8000/pid/94d34491106e00394835c8cb68aa94481339b53f/stream.mp4
+#EXTINF:-1 tvg-id="16:15-Primera-Real Valladolid-Sevilla FC" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",16:15-Primera-Real Valladolid-Sevilla FC
+http://127.0.0.1:8000/pid/eaadbbda22219748f2aa1a3f0153ce0a2eaf3e8f/stream.mp4
+#EXTINF:-1 tvg-id="16:15-Segunda Estadio El Alcoraz" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",16:15-Segunda Estadio El Alcoraz
+http://127.0.0.1:8000/pid/b2706a7ffbea236a3b398139a3a606ada664c0eb/stream.mp4
+#EXTINF:-1 tvg-id="16:15-Segunda-Eldense-Deportivo" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",16:15-Segunda-Eldense-Deportivo
+http://127.0.0.1:8000/pid/7f7eaa56f11249f7b92b6287c4cd5d58dc77a61a/stream.mp4
+#EXTINF:-1 tvg-id="16:15-Segunda-Eldense-Deportivo" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",16:15-Segunda-Eldense-Deportivo
+http://127.0.0.1:8000/pid/0cfdfde1b70623b8c210b0f7301be2a87456481d/stream.mp4
+#EXTINF:-1 tvg-id="16:15-Segunda-Eldense-Deportivo" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",16:15-Segunda-Eldense-Deportivo
+http://127.0.0.1:8000/pid/0a335406bad0b658aeddb2d38f8c0614b2e5623a/stream.mp4
+#EXTINF:-1 tvg-id="17:30-Premier League-Tottenham-Manchester Utd." tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",17:30-Premier League-Tottenham-Manchester Utd.
+http://127.0.0.1:8000/pid/03de691c3fea9ea7b6abefdc88a86f3a47b455f4/stream.mp4
+#EXTINF:-1 tvg-id="17:30-Premier League-Tottenham-Manchester Utd." tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",17:30-Premier League-Tottenham-Manchester Utd.
+http://127.0.0.1:8000/pid/4397faf316e52508dd2f0db6f1d5cbab432f46a3/stream.mp4
+#EXTINF:-1 tvg-id="17:30-Premier League-Tottenham-Manchester Utd." tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",17:30-Premier League-Tottenham-Manchester Utd.
+http://127.0.0.1:8000/pid/e6121426f7d8007ae9de8e782f05d91e9b27993d/stream.mp4
+#EXTINF:-1 tvg-id="17:30-Premier League-Tottenham-Manchester Utd." tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",17:30-Premier League-Tottenham-Manchester Utd.
+http://127.0.0.1:8000/pid/e253307f495a6beeda976d2363d72501f2dc1fe3/stream.mp4
+#EXTINF:-1 tvg-id="17:30-Premier League-Tottenham-Manchester Utd." tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",17:30-Premier League-Tottenham-Manchester Utd.
+http://127.0.0.1:8000/pid/4fa5fb9ab4a3213f7ffe2dfa2ca2d3740f8fd61d/stream.mp4
+#EXTINF:-1 tvg-id="17:30-Premier League-Tottenham-Manchester Utd." tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",17:30-Premier League-Tottenham-Manchester Utd.
+http://127.0.0.1:8000/pid/769baa913100d8147418bcc4b7d9b6d05f551494/stream.mp4
+#EXTINF:-1 tvg-id="17:30-Premier League-Tottenham-Manchester Utd." tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",17:30-Premier League-Tottenham-Manchester Utd.
+http://127.0.0.1:8000/pid/ce2b0f2ca503d4fa66ac9325c00e279348551008/stream.mp4
+#EXTINF:-1 tvg-id="17:30-Premier League-Tottenham-Manchester Utd." tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",17:30-Premier League-Tottenham-Manchester Utd.
+http://127.0.0.1:8000/pid/c9c6e562d63019f283415540827c7bce5704f54d/stream.mp4
+#EXTINF:-1 tvg-id="17:30-Premier League-Tottenham-Manchester Utd." tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",17:30-Premier League-Tottenham-Manchester Utd.
+http://127.0.0.1:8000/pid/4e3302991c482dff2e10de69795fa5aa87a61ae7/stream.mp4
+#EXTINF:-1 tvg-id="17:30-Premier League-Tottenham-Manchester Utd." tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",17:30-Premier League-Tottenham-Manchester Utd.
+http://127.0.0.1:8000/pid/7cdf501671e3a34e56f1686471ccd2f587cade7c/stream.mp4
+#EXTINF:-1 tvg-id="17:30-Premier League-Tottenham-Manchester Utd." tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",17:30-Premier League-Tottenham-Manchester Utd.
+http://127.0.0.1:8000/pid/38d0b187d3cf396695bbb2166a09f57736276e2e/stream.mp4
+#EXTINF:-1 tvg-id="17:30-Premier League-Tottenham-Manchester Utd." tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",17:30-Premier League-Tottenham-Manchester Utd.
+http://127.0.0.1:8000/pid/682579275d24fa95964f99f3778bdd22c211c6b9/stream.mp4
+#EXTINF:-1 tvg-id="18:30-Primera-Mallorca-UD Las Palmas" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:30-Primera-Mallorca-UD Las Palmas
+http://127.0.0.1:8000/pid/6d05b31e5e8fdae312fbd57897363a7b10ddb163/stream.mp4
+#EXTINF:-1 tvg-id="18:30-Primera-Mallorca-UD Las Palmas" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:30-Primera-Mallorca-UD Las Palmas
+http://127.0.0.1:8000/pid/d3de78aebe544611a2347f54d5796bd87f16c92d/stream.mp4
+#EXTINF:-1 tvg-id="18:30-Primera-Mallorca-UD Las Palmas" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:30-Primera-Mallorca-UD Las Palmas
+http://127.0.0.1:8000/pid/94d34491106e00394835c8cb68aa94481339b53f/stream.mp4
+#EXTINF:-1 tvg-id="18:30-Primera-Mallorca-UD Las Palmas" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:30-Primera-Mallorca-UD Las Palmas
+http://127.0.0.1:8000/pid/1bc437bce57b4b0450f6d1f8d818b7e97000745e/stream.mp4
+#EXTINF:-1 tvg-id="18:30-Primera-Mallorca-UD Las Palmas" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:30-Primera-Mallorca-UD Las Palmas
+http://127.0.0.1:8000/pid/63b976bbf9bbd0c37117880b8b33702b95357ef3/stream.mp4
+#EXTINF:-1 tvg-id="18:30-Primera-Mallorca-UD Las Palmas" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:30-Primera-Mallorca-UD Las Palmas
+http://127.0.0.1:8000/pid/f5fcacb60627d6319b89942391e441d179dbb9d9/stream.mp4
+#EXTINF:-1 tvg-id="18:30-Primera-Mallorca-UD Las Palmas" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:30-Primera-Mallorca-UD Las Palmas
+http://127.0.0.1:8000/pid/b8370220a0338f9eb4728467111a2bce1033b80b/stream.mp4
+#EXTINF:-1 tvg-id="18:30-Primera-Mallorca-UD Las Palmas" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:30-Primera-Mallorca-UD Las Palmas
+http://127.0.0.1:8000/pid/608b0faf7d3d25f6fe5dba13d5e4b4142949990e/stream.mp4
+#EXTINF:-1 tvg-id="18:30-Primera-Mallorca-UD Las Palmas" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:30-Primera-Mallorca-UD Las Palmas
+http://127.0.0.1:8000/pid/94d34491106e00394835c8cb68aa94481339b53f/stream.mp4
+#EXTINF:-1 tvg-id="18:30-Primera-Mallorca-UD Las Palmas" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:30-Primera-Mallorca-UD Las Palmas
+http://127.0.0.1:8000/pid/eaadbbda22219748f2aa1a3f0153ce0a2eaf3e8f/stream.mp4
+#EXTINF:-1 tvg-id="18:30-Segunda-Real Zaragoza-Burgos CF" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:30-Segunda-Real Zaragoza-Burgos CF
+http://127.0.0.1:8000/pid/b2706a7ffbea236a3b398139a3a606ada664c0eb/stream.mp4
+#EXTINF:-1 tvg-id="20:00-Copa del Rey-Unicaja Málaga-Real Madrid Baloncesto" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:00-Copa del Rey-Unicaja Málaga-Real Madrid Baloncesto
+http://127.0.0.1:8000/pid/37d450c61d992cc4f4634cbd51ccda710c126de2/stream.mp4
+#EXTINF:-1 tvg-id="20:00-Copa del Rey-Unicaja Málaga-Real Madrid Baloncesto" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:00-Copa del Rey-Unicaja Málaga-Real Madrid Baloncesto
+http://127.0.0.1:8000/pid/0a49fa5dcd8c2f764f48236d7bb3f50828f99c33/stream.mp4
+#EXTINF:-1 tvg-id="20:00-Copa del Rey-Unicaja Málaga-Real Madrid Baloncesto" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:00-Copa del Rey-Unicaja Málaga-Real Madrid Baloncesto
+http://127.0.0.1:8000/pid/ce65932b1113ec32c270050786d7702897150d74/stream.mp4
+#EXTINF:-1 tvg-id="20:00-Copa del Rey-Unicaja Málaga-Real Madrid Baloncesto" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:00-Copa del Rey-Unicaja Málaga-Real Madrid Baloncesto
+http://127.0.0.1:8000/pid/682579275d24fa95964f99f3778bdd22c211c6b9/stream.mp4
+#EXTINF:-1 tvg-id="21:00-Primera-Real Betis-Real Sociedad" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera-Real Betis-Real Sociedad
+http://127.0.0.1:8000/pid/110d441ddc9713a7452588770d2bc85504672f47/stream.mp4
+#EXTINF:-1 tvg-id="21:00-Primera-Real Betis-Real Sociedad" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera-Real Betis-Real Sociedad
+http://127.0.0.1:8000/pid/6de4794cd02f88f14354b5996823413a59a1de0f/stream.mp4
+#EXTINF:-1 tvg-id="21:00-Primera-Real Betis-Real Sociedad" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera-Real Betis-Real Sociedad
+http://127.0.0.1:8000/pid/ec29289b0b14756e686c03a501bae1efa05be70c/stream.mp4
+#EXTINF:-1 tvg-id="21:00-Primera-Real Betis-Real Sociedad" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera-Real Betis-Real Sociedad
+http://127.0.0.1:8000/pid/8c8c1e047a1c5ed213ba74722a5345dc55c3c0eb/stream.mp4
+#EXTINF:-1 tvg-id="21:00-Primera-Real Betis-Real Sociedad" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera-Real Betis-Real Sociedad
+http://127.0.0.1:8000/pid/cf144f2d6c5a267a3dd122ae70dfd34bfbed2ce0/stream.mp4
+#EXTINF:-1 tvg-id="21:00-Primera-Real Betis-Real Sociedad" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera-Real Betis-Real Sociedad
+http://127.0.0.1:8000/pid/dad36d37fa74b94e345bb014d82d820e54fb69d8/stream.mp4
+#EXTINF:-1 tvg-id="21:00-Primera-Real Betis-Real Sociedad" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera-Real Betis-Real Sociedad
+http://127.0.0.1:8000/pid/28c8115681bf6e4565cb5e987530c2f606cc561f/stream.mp4
+#EXTINF:-1 tvg-id="21:00-Primera-Real Betis-Real Sociedad" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera-Real Betis-Real Sociedad
+http://127.0.0.1:8000/pid/608b0faf7d3d25f6fe5dba13d5e4b4142949990e/stream.mp4
+#EXTINF:-1 tvg-id="21:00-Primera-Real Betis-Real Sociedad" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera-Real Betis-Real Sociedad
+http://127.0.0.1:8000/pid/94d34491106e00394835c8cb68aa94481339b53f/stream.mp4
+#EXTINF:-1 tvg-id="21:00-Primera-Real Betis-Real Sociedad" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera-Real Betis-Real Sociedad
+http://127.0.0.1:8000/pid/eaadbbda22219748f2aa1a3f0153ce0a2eaf3e8f/stream.mp4
+#EXTINF:-1 tvg-id="21:00-Segunda-Real Oviedo-Albacete" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Segunda-Real Oviedo-Albacete
+http://127.0.0.1:8000/pid/b2706a7ffbea236a3b398139a3a606ada664c0eb/stream.mp4
