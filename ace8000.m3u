@@ -152,8 +152,6 @@ http://127.0.0.1:8000/pid/945dac22fb0e1bb1550dec99c8b8ca496db39c76/stream.mp4
 #EXTINF:-1 tvg-id="F1 TV 55 | Carlos Sainz | Williams" group-title="New Era",F1 TV 55 | Carlos Sainz | Williams
 http://127.0.0.1:8000/pid/e258ddc8d0240eb587a5e0e518b3f42c442179ae/stream.mp4
 #EXTINF:-1 tvg-id="Rally TV" group-title="Tronoss",Rally TV
-http://127.0.0.1:8000/pid/" ,/stream.mp4
-#EXTINF:-1 tvg-id="Rally TV" group-title="Tronoss",Rally TV
 http://127.0.0.1:8000/pid/1a9085a7b8aa402f317fb86f7243f3736770b325/stream.mp4
 #EXTINF:-1 tvg-id="MGPTV | Camara de a bordo 1" group-title="New Era",MGPTV | Camara de a bordo 1
 http://127.0.0.1:8000/pid/a270b5c076b2c4d74a9d9f828f9f9f862de699a3/stream.mp4
