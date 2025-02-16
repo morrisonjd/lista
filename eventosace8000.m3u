@@ -13,6 +13,8 @@ http://127.0.0.1:8000/pid/90c50f925b84b6dfd0827861c492ab42c3f1703d/stream.mp4
 http://127.0.0.1:8000/pid/b056dfc53c18de02caeff4435ddb6b36bfb7b031/stream.mp4
 #EXTINF:-1 tvg-id="02:00-Velada-O. Duarte-M. Madueno" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",02:00-Velada-O. Duarte-M. Madueno
 http://127.0.0.1:8000/pid/f67f95bcb185c3d62d532425709908be86bd442c/stream.mp4
+#EXTINF:-1 tvg-id="02:10-Torneo de Delray Beach-A. Davidovich-M. Arnaldi" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",02:10-Torneo de Delray Beach-A. Davidovich-M. Arnaldi
+http://127.0.0.1:8000/pid/34b38986ac5e6e842f954f0dd25b2798be70b276/stream.mp4
 #EXTINF:-1 tvg-id="12:30-Primera FEB-CB Zamora-Movistar Estudiantes" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",12:30-Primera FEB-CB Zamora-Movistar Estudiantes
 http://127.0.0.1:8000/pid/fb27c753c690bf21edcf527f42cd14c5c9e6b53e/stream.mp4
 #EXTINF:-1 tvg-id="14:00-Primera-Espanyol-Athletic Club" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",14:00-Primera-Espanyol-Athletic Club
@@ -35,9 +37,9 @@ http://127.0.0.1:8000/pid/608b0faf7d3d25f6fe5dba13d5e4b4142949990e/stream.mp4
 http://127.0.0.1:8000/pid/94d34491106e00394835c8cb68aa94481339b53f/stream.mp4
 #EXTINF:-1 tvg-id="14:00-Primera-Espanyol-Athletic Club" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",14:00-Primera-Espanyol-Athletic Club
 http://127.0.0.1:8000/pid/eaadbbda22219748f2aa1a3f0153ce0a2eaf3e8f/stream.mp4
-#EXTINF:-1 tvg-id="14:00-Segunda Estadio Ciudad de Valencia" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",14:00-Segunda Estadio Ciudad de Valencia
+#EXTINF:-1 tvg-id="14:00-Segunda-Levante-Sporting Gijón" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",14:00-Segunda-Levante-Sporting Gijón
 http://127.0.0.1:8000/pid/b2706a7ffbea236a3b398139a3a606ada664c0eb/stream.mp4
-#EXTINF:-1 tvg-id="14:00-Segunda Estadio Ciudad de Valencia" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",14:00-Segunda Estadio Ciudad de Valencia
+#EXTINF:-1 tvg-id="14:00-Segunda-Levante-Sporting Gijón" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",14:00-Segunda-Levante-Sporting Gijón
 http://127.0.0.1:8000/pid/682579275d24fa95964f99f3778bdd22c211c6b9/stream.mp4
 #EXTINF:-1 tvg-id="15:00-Premier League-Liverpool-Wolverhampton" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",15:00-Premier League-Liverpool-Wolverhampton
 http://127.0.0.1:8000/pid/03de691c3fea9ea7b6abefdc88a86f3a47b455f4/stream.mp4
@@ -49,6 +51,14 @@ http://127.0.0.1:8000/pid/e6121426f7d8007ae9de8e782f05d91e9b27993d/stream.mp4
 http://127.0.0.1:8000/pid/e253307f495a6beeda976d2363d72501f2dc1fe3/stream.mp4
 #EXTINF:-1 tvg-id="15:00-Premier League-Liverpool-Wolverhampton" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",15:00-Premier League-Liverpool-Wolverhampton
 http://127.0.0.1:8000/pid/4fa5fb9ab4a3213f7ffe2dfa2ca2d3740f8fd61d/stream.mp4
+#EXTINF:-1 tvg-id="15:30-Torneo de Marsella-H. Medjedovic-U. Humbert" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:30-Torneo de Marsella-H. Medjedovic-U. Humbert
+http://127.0.0.1:8000/pid/7628ebd71c7f6b78d5a91a324bde49ef8317a49f/stream.mp4
+#EXTINF:-1 tvg-id="15:30-Torneo de Marsella-H. Medjedovic-U. Humbert" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:30-Torneo de Marsella-H. Medjedovic-U. Humbert
+http://127.0.0.1:8000/pid/472b73d3c63fe53c3a95644f20aab65b31a6e506/stream.mp4
+#EXTINF:-1 tvg-id="15:30-Torneo de Marsella-H. Medjedovic-U. Humbert" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:30-Torneo de Marsella-H. Medjedovic-U. Humbert
+http://127.0.0.1:8000/pid/7ea69506cdde10da9d85a2414310a7e5afcdba19/stream.mp4
+#EXTINF:-1 tvg-id="15:30-Torneo de Marsella-H. Medjedovic-U. Humbert" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:30-Torneo de Marsella-H. Medjedovic-U. Humbert
+http://127.0.0.1:8000/pid/8c1e181e99425c729cdf12c21fccaf07ea106a49/stream.mp4
 #EXTINF:-1 tvg-id="16:15-Primera-Real Valladolid-Sevilla FC" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",16:15-Primera-Real Valladolid-Sevilla FC
 http://127.0.0.1:8000/pid/110d441ddc9713a7452588770d2bc85504672f47/stream.mp4
 #EXTINF:-1 tvg-id="16:15-Primera-Real Valladolid-Sevilla FC" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",16:15-Primera-Real Valladolid-Sevilla FC
@@ -69,14 +79,14 @@ http://127.0.0.1:8000/pid/608b0faf7d3d25f6fe5dba13d5e4b4142949990e/stream.mp4
 http://127.0.0.1:8000/pid/94d34491106e00394835c8cb68aa94481339b53f/stream.mp4
 #EXTINF:-1 tvg-id="16:15-Primera-Real Valladolid-Sevilla FC" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",16:15-Primera-Real Valladolid-Sevilla FC
 http://127.0.0.1:8000/pid/eaadbbda22219748f2aa1a3f0153ce0a2eaf3e8f/stream.mp4
-#EXTINF:-1 tvg-id="16:15-Segunda Estadio El Alcoraz" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",16:15-Segunda Estadio El Alcoraz
-http://127.0.0.1:8000/pid/b2706a7ffbea236a3b398139a3a606ada664c0eb/stream.mp4
 #EXTINF:-1 tvg-id="16:15-Segunda-Eldense-Deportivo" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",16:15-Segunda-Eldense-Deportivo
 http://127.0.0.1:8000/pid/7f7eaa56f11249f7b92b6287c4cd5d58dc77a61a/stream.mp4
 #EXTINF:-1 tvg-id="16:15-Segunda-Eldense-Deportivo" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",16:15-Segunda-Eldense-Deportivo
 http://127.0.0.1:8000/pid/0cfdfde1b70623b8c210b0f7301be2a87456481d/stream.mp4
 #EXTINF:-1 tvg-id="16:15-Segunda-Eldense-Deportivo" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",16:15-Segunda-Eldense-Deportivo
 http://127.0.0.1:8000/pid/0a335406bad0b658aeddb2d38f8c0614b2e5623a/stream.mp4
+#EXTINF:-1 tvg-id="16:15-Segunda-Huesca-Granada CF" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",16:15-Segunda-Huesca-Granada CF
+http://127.0.0.1:8000/pid/b2706a7ffbea236a3b398139a3a606ada664c0eb/stream.mp4
 #EXTINF:-1 tvg-id="17:30-Premier League-Tottenham-Manchester Utd." tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",17:30-Premier League-Tottenham-Manchester Utd.
 http://127.0.0.1:8000/pid/03de691c3fea9ea7b6abefdc88a86f3a47b455f4/stream.mp4
 #EXTINF:-1 tvg-id="17:30-Premier League-Tottenham-Manchester Utd." tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",17:30-Premier League-Tottenham-Manchester Utd.
@@ -131,6 +141,8 @@ http://127.0.0.1:8000/pid/0a49fa5dcd8c2f764f48236d7bb3f50828f99c33/stream.mp4
 http://127.0.0.1:8000/pid/ce65932b1113ec32c270050786d7702897150d74/stream.mp4
 #EXTINF:-1 tvg-id="20:00-Copa del Rey-Unicaja Málaga-Real Madrid Baloncesto" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:00-Copa del Rey-Unicaja Málaga-Real Madrid Baloncesto
 http://127.0.0.1:8000/pid/682579275d24fa95964f99f3778bdd22c211c6b9/stream.mp4
+#EXTINF:-1 tvg-id="20:00-Torneo de Buenos Aires-F. Cerúndolo-J. Fonseca" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:00-Torneo de Buenos Aires-F. Cerúndolo-J. Fonseca
+http://127.0.0.1:8000/pid/43931a2672086891ce4f6d6b4128e005e8038959/stream.mp4
 #EXTINF:-1 tvg-id="21:00-Primera-Real Betis-Real Sociedad" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera-Real Betis-Real Sociedad
 http://127.0.0.1:8000/pid/110d441ddc9713a7452588770d2bc85504672f47/stream.mp4
 #EXTINF:-1 tvg-id="21:00-Primera-Real Betis-Real Sociedad" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera-Real Betis-Real Sociedad
@@ -153,3 +165,5 @@ http://127.0.0.1:8000/pid/94d34491106e00394835c8cb68aa94481339b53f/stream.mp4
 http://127.0.0.1:8000/pid/eaadbbda22219748f2aa1a3f0153ce0a2eaf3e8f/stream.mp4
 #EXTINF:-1 tvg-id="21:00-Segunda-Real Oviedo-Albacete" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Segunda-Real Oviedo-Albacete
 http://127.0.0.1:8000/pid/b2706a7ffbea236a3b398139a3a606ada664c0eb/stream.mp4
+#EXTINF:-1 tvg-id="21:00-Torneo de Delray Beach-A. Davidovich-M. Kecmanovic" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Torneo de Delray Beach-A. Davidovich-M. Kecmanovic
+http://127.0.0.1:8000/pid/fb27c753c690bf21edcf527f42cd14c5c9e6b53e/stream.mp4
