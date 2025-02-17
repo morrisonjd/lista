@@ -1,4 +1,24 @@
 #EXTM3U 
+#EXTINF:-1 tvg-id="02:00-NBA-All Star Game-Movistar Plus+ (M7)" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",02:00-NBA-All Star Game-Movistar Plus+ (M7)
+http://127.0.0.1:6878/ace/getstream?id=3c0cd902ff7e3d2fbf6b47a623f5d30aeda02531
+#EXTINF:-1 tvg-id="02:00-NBA-All Star Game-Movistar Plus+ (M7)" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",02:00-NBA-All Star Game-Movistar Plus+ (M7)
+http://127.0.0.1:6878/ace/getstream?id=3c62803dcd12fa883e233bbb7e5ed63b29bd0544
+#EXTINF:-1 tvg-id="02:00-NBA-All Star Game-Movistar Plus+ (M7)" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",02:00-NBA-All Star Game-Movistar Plus+ (M7)
+http://127.0.0.1:6878/ace/getstream?id=7e3eeaa3cd4f0365cd378d2e88a39630aea0ac48
+#EXTINF:-1 tvg-id="02:00-NBA-All Star Game-Movistar Plus+ (M7)" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",02:00-NBA-All Star Game-Movistar Plus+ (M7)
+http://127.0.0.1:6878/ace/getstream?id=f409a32da912cda2a0071397f552c564540fe101
+#EXTINF:-1 tvg-id="02:00-NBA-All Star Game-Movistar Plus+ (M7)" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",02:00-NBA-All Star Game-Movistar Plus+ (M7)
+http://127.0.0.1:6878/ace/getstream?id=a357cb0f77e39380844dbf93ec647156d7f2ded1
+#EXTINF:-1 tvg-id="12:35-Torneo de Doha-1ª Ronda-ATP 500" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",12:35-Torneo de Doha-1ª Ronda-ATP 500
+http://127.0.0.1:6878/ace/getstream?id=3c0cd902ff7e3d2fbf6b47a623f5d30aeda02531
+#EXTINF:-1 tvg-id="12:35-Torneo de Doha-1ª Ronda-ATP 500" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",12:35-Torneo de Doha-1ª Ronda-ATP 500
+http://127.0.0.1:6878/ace/getstream?id=3c62803dcd12fa883e233bbb7e5ed63b29bd0544
+#EXTINF:-1 tvg-id="12:35-Torneo de Doha-1ª Ronda-ATP 500" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",12:35-Torneo de Doha-1ª Ronda-ATP 500
+http://127.0.0.1:6878/ace/getstream?id=7e3eeaa3cd4f0365cd378d2e88a39630aea0ac48
+#EXTINF:-1 tvg-id="12:35-Torneo de Doha-1ª Ronda-ATP 500" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",12:35-Torneo de Doha-1ª Ronda-ATP 500
+http://127.0.0.1:6878/ace/getstream?id=f409a32da912cda2a0071397f552c564540fe101
+#EXTINF:-1 tvg-id="19:00-Torneo de Río de Janeiro-1ª Ronda-ATP 500" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",19:00-Torneo de Río de Janeiro-1ª Ronda-ATP 500
+http://127.0.0.1:6878/ace/getstream?id=675a8080982cc34b6d3c7ce38e2c121458b68ebd
 #EXTINF:-1 tvg-id="20:30-Segunda-UD Almería-Elche" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",20:30-Segunda-UD Almería-Elche
 http://127.0.0.1:6878/ace/getstream?id=b2706a7ffbea236a3b398139a3a606ada664c0eb
 #EXTINF:-1 tvg-id="21:00-Primera-FC Barcelona-Rayo Vallecano" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera-FC Barcelona-Rayo Vallecano
