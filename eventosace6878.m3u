@@ -1,0 +1,97 @@
+#EXTM3U 
+#EXTINF:-1 tvg-id="00:30-Torneo de Río de Janeiro-J. Fonseca-A. Muller" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",00:30-Torneo de Río de Janeiro-J. Fonseca-A. Muller
+http://127.0.0.1:6878/ace/getstream?id=7e3eeaa3cd4f0365cd378d2e88a39630aea0ac48
+#EXTINF:-1 tvg-id="00:30-Torneo de Río de Janeiro-J. Fonseca-A. Muller" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",00:30-Torneo de Río de Janeiro-J. Fonseca-A. Muller
+http://127.0.0.1:6878/ace/getstream?id=675a8080982cc34b6d3c7ce38e2c121458b68ebd
+#EXTINF:-1 tvg-id="00:30-Torneo de Río de Janeiro-J. Fonseca-A. Muller" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",00:30-Torneo de Río de Janeiro-J. Fonseca-A. Muller
+http://127.0.0.1:6878/ace/getstream?id=d8c2ed470e847154a88f011137cc206319f6bed5
+#EXTINF:-1 tvg-id="12:30-Torneo de Doha-B. Van de Zandschulp-A. De Miñaur" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",12:30-Torneo de Doha-B. Van de Zandschulp-A. De Miñaur
+http://127.0.0.1:6878/ace/getstream?id=3c0cd902ff7e3d2fbf6b47a623f5d30aeda02531
+#EXTINF:-1 tvg-id="12:30-Torneo de Doha-B. Van de Zandschulp-A. De Miñaur" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",12:30-Torneo de Doha-B. Van de Zandschulp-A. De Miñaur
+http://127.0.0.1:6878/ace/getstream?id=3c62803dcd12fa883e233bbb7e5ed63b29bd0544
+#EXTINF:-1 tvg-id="12:30-Torneo de Doha-B. Van de Zandschulp-A. De Miñaur" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",12:30-Torneo de Doha-B. Van de Zandschulp-A. De Miñaur
+http://127.0.0.1:6878/ace/getstream?id=d08f78bd69c9c5cd927c4431632660bb9994727c
+#EXTINF:-1 tvg-id="14:00-Torneo de Doha-Z. Bergs-D. Medvedev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:00-Torneo de Doha-Z. Bergs-D. Medvedev
+http://127.0.0.1:6878/ace/getstream?id=3c0cd902ff7e3d2fbf6b47a623f5d30aeda02531
+#EXTINF:-1 tvg-id="14:00-Torneo de Doha-Z. Bergs-D. Medvedev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:00-Torneo de Doha-Z. Bergs-D. Medvedev
+http://127.0.0.1:6878/ace/getstream?id=3c62803dcd12fa883e233bbb7e5ed63b29bd0544
+#EXTINF:-1 tvg-id="14:00-Torneo de Doha-Z. Bergs-D. Medvedev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:00-Torneo de Doha-Z. Bergs-D. Medvedev
+http://127.0.0.1:6878/ace/getstream?id=d08f78bd69c9c5cd927c4431632660bb9994727c
+#EXTINF:-1 tvg-id="15:30-Torneo de Doha-M. Berrettini-T. Griekspoor" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:30-Torneo de Doha-M. Berrettini-T. Griekspoor
+http://127.0.0.1:6878/ace/getstream?id=3c0cd902ff7e3d2fbf6b47a623f5d30aeda02531
+#EXTINF:-1 tvg-id="15:30-Torneo de Doha-M. Berrettini-T. Griekspoor" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:30-Torneo de Doha-M. Berrettini-T. Griekspoor
+http://127.0.0.1:6878/ace/getstream?id=3c62803dcd12fa883e233bbb7e5ed63b29bd0544
+#EXTINF:-1 tvg-id="15:30-Torneo de Doha-M. Berrettini-T. Griekspoor" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:30-Torneo de Doha-M. Berrettini-T. Griekspoor
+http://127.0.0.1:6878/ace/getstream?id=d08f78bd69c9c5cd927c4431632660bb9994727c
+#EXTINF:-1 tvg-id="17:00-Torneo de Doha-C. Alcaraz-L. Nardi" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:00-Torneo de Doha-C. Alcaraz-L. Nardi
+http://127.0.0.1:6878/ace/getstream?id=3c0cd902ff7e3d2fbf6b47a623f5d30aeda02531
+#EXTINF:-1 tvg-id="17:00-Torneo de Doha-C. Alcaraz-L. Nardi" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:00-Torneo de Doha-C. Alcaraz-L. Nardi
+http://127.0.0.1:6878/ace/getstream?id=3c62803dcd12fa883e233bbb7e5ed63b29bd0544
+#EXTINF:-1 tvg-id="17:00-Torneo de Doha-C. Alcaraz-L. Nardi" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:00-Torneo de Doha-C. Alcaraz-L. Nardi
+http://127.0.0.1:6878/ace/getstream?id=d08f78bd69c9c5cd927c4431632660bb9994727c
+#EXTINF:-1 tvg-id="18:45-Champions League-Borussia Dortmund-Sporting CP" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Champions League-Borussia Dortmund-Sporting CP
+http://127.0.0.1:6878/ace/getstream?id=000b384859bf2ec421e27a6ca851afeb160e3712
+#EXTINF:-1 tvg-id="18:45-Champions League-Borussia Dortmund-Sporting CP" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Champions League-Borussia Dortmund-Sporting CP
+http://127.0.0.1:6878/ace/getstream?id=a60baf4991755b349b588a490918785f0a5a29c3
+#EXTINF:-1 tvg-id="18:45-Champions League-Borussia Dortmund-Sporting CP" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Champions League-Borussia Dortmund-Sporting CP
+http://127.0.0.1:6878/ace/getstream?id=17522a1d20641f167bc2c342a2ae584755be6f11
+#EXTINF:-1 tvg-id="18:45-Champions League-Borussia Dortmund-Sporting CP" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Champions League-Borussia Dortmund-Sporting CP
+http://127.0.0.1:6878/ace/getstream?id=5c552dda22c9b00a3b7cf8a1a485034f8d90f978
+#EXTINF:-1 tvg-id="18:45-Champions League-Borussia Dortmund-Sporting CP" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Champions League-Borussia Dortmund-Sporting CP
+http://127.0.0.1:6878/ace/getstream?id=abdf9058786a48623d0de51a3adb414ae10b6e72
+#EXTINF:-1 tvg-id="19:00-Torneo de Río de Janeiro-2ª Ronda-ATP 500" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",19:00-Torneo de Río de Janeiro-2ª Ronda-ATP 500
+http://127.0.0.1:6878/ace/getstream?id=7e3eeaa3cd4f0365cd378d2e88a39630aea0ac48
+#EXTINF:-1 tvg-id="19:00-Torneo de Río de Janeiro-2ª Ronda-ATP 500" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",19:00-Torneo de Río de Janeiro-2ª Ronda-ATP 500
+http://127.0.0.1:6878/ace/getstream?id=675a8080982cc34b6d3c7ce38e2c121458b68ebd
+#EXTINF:-1 tvg-id="19:00-Torneo de Río de Janeiro-2ª Ronda-ATP 500" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",19:00-Torneo de Río de Janeiro-2ª Ronda-ATP 500
+http://127.0.0.1:6878/ace/getstream?id=d8c2ed470e847154a88f011137cc206319f6bed5
+#EXTINF:-1 tvg-id="21:00-Champions League-PSG-Stade Brestois" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League-PSG-Stade Brestois
+http://127.0.0.1:6878/ace/getstream?id=000b384859bf2ec421e27a6ca851afeb160e3712
+#EXTINF:-1 tvg-id="21:00-Champions League-PSG-Stade Brestois" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League-PSG-Stade Brestois
+http://127.0.0.1:6878/ace/getstream?id=a60baf4991755b349b588a490918785f0a5a29c3
+#EXTINF:-1 tvg-id="21:00-Champions League-PSG-Stade Brestois" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League-PSG-Stade Brestois
+http://127.0.0.1:6878/ace/getstream?id=17522a1d20641f167bc2c342a2ae584755be6f11
+#EXTINF:-1 tvg-id="21:00-Champions League-PSG-Stade Brestois" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League-PSG-Stade Brestois
+http://127.0.0.1:6878/ace/getstream?id=5c552dda22c9b00a3b7cf8a1a485034f8d90f978
+#EXTINF:-1 tvg-id="21:00-Champions League-PSG-Stade Brestois" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League-PSG-Stade Brestois
+http://127.0.0.1:6878/ace/getstream?id=abdf9058786a48623d0de51a3adb414ae10b6e72
+#EXTINF:-1 tvg-id="21:00-Champions League-PSG-Stade Brestois" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League-PSG-Stade Brestois
+http://127.0.0.1:6878/ace/getstream?id=59e80a6a8295c9365d00bf88f05fba61b0787716
+#EXTINF:-1 tvg-id="21:00-Champions League-PSG-Stade Brestois" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League-PSG-Stade Brestois
+http://127.0.0.1:6878/ace/getstream?id=42f8705aecde8d1f4c5b7c4086690b62d78a275e
+#EXTINF:-1 tvg-id="21:00-Champions League-PSG-Stade Brestois" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League-PSG-Stade Brestois
+http://127.0.0.1:6878/ace/getstream?id=9933a06895aada44029ff72bf04fa09ce2596ca9
+#EXTINF:-1 tvg-id="21:00-Champions League-PSG-Stade Brestois" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League-PSG-Stade Brestois
+http://127.0.0.1:6878/ace/getstream?id=9373bd982fa6dec7802f7ab2a58d7931638de1a5
+#EXTINF:-1 tvg-id="21:00-Champions League-PSV Eindhoven-Juventus" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League-PSV Eindhoven-Juventus
+http://127.0.0.1:6878/ace/getstream?id=29dfa2835d44bcda0a27200cda0416fdb1cfcc98
+#EXTINF:-1 tvg-id="21:00-Champions League-PSV Eindhoven-Juventus" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League-PSV Eindhoven-Juventus
+http://127.0.0.1:6878/ace/getstream?id=4055cb22a44f48f06c0e3ade3bfd9c804bbab7e7
+#EXTINF:-1 tvg-id="21:00-Champions League-PSV Eindhoven-Juventus" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League-PSV Eindhoven-Juventus
+http://127.0.0.1:6878/ace/getstream?id=7274ccecb51b67499c4239eda91d4de6c9af8dd3
+#EXTINF:-1 tvg-id="21:00-Champions League-PSV Eindhoven-Juventus" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League-PSV Eindhoven-Juventus
+http://127.0.0.1:6878/ace/getstream?id=59e80a6a8295c9365d00bf88f05fba61b0787716
+#EXTINF:-1 tvg-id="21:00-Champions League-PSV Eindhoven-Juventus" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League-PSV Eindhoven-Juventus
+http://127.0.0.1:6878/ace/getstream?id=42f8705aecde8d1f4c5b7c4086690b62d78a275e
+#EXTINF:-1 tvg-id="21:00-Champions League-Real Madrid-Manchester City" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League-Real Madrid-Manchester City
+http://127.0.0.1:6878/ace/getstream?id=608b0faf7d3d25f6fe5dba13d5e4b4142949990e
+#EXTINF:-1 tvg-id="21:00-Champions League-Real Madrid-Manchester City" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League-Real Madrid-Manchester City
+http://127.0.0.1:6878/ace/getstream?id=94d34491106e00394835c8cb68aa94481339b53f
+#EXTINF:-1 tvg-id="21:00-Champions League-Real Madrid-Manchester City" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League-Real Madrid-Manchester City
+http://127.0.0.1:6878/ace/getstream?id=720c2a7afc922d575d658d98285645683dc9d346
+#EXTINF:-1 tvg-id="21:00-Champions League-Real Madrid-Manchester City" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League-Real Madrid-Manchester City
+http://127.0.0.1:6878/ace/getstream?id=b67ac651bcb2e93fda9dba2a122e083f20394067
+#EXTINF:-1 tvg-id="21:00-Champions League-Real Madrid-Manchester City" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League-Real Madrid-Manchester City
+http://127.0.0.1:6878/ace/getstream?id=10ae32928d1320eb98d4656cd1faa16ad3648e82
+#EXTINF:-1 tvg-id="21:00-Champions League-Real Madrid-Manchester City" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League-Real Madrid-Manchester City
+http://127.0.0.1:6878/ace/getstream?id=ee5ffa2c47cad5f00276904722e9d234def6f14a
+#EXTINF:-1 tvg-id="21:00-Champions League-Real Madrid-Manchester City" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League-Real Madrid-Manchester City
+http://127.0.0.1:6878/ace/getstream?id=7fd55d3cfc6b8b9c3195b1c852c0a04145756247
+#EXTINF:-1 tvg-id="21:00-Champions League-Real Madrid-Manchester City" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League-Real Madrid-Manchester City
+http://127.0.0.1:6878/ace/getstream?id=c691bfa3517ada9c7626c9c82bda7f1a1f6eeac0
+#EXTINF:-1 tvg-id="21:00-Champions League-Real Madrid-Manchester City" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League-Real Madrid-Manchester City
+http://127.0.0.1:6878/ace/getstream?id=59e80a6a8295c9365d00bf88f05fba61b0787716
+#EXTINF:-1 tvg-id="21:00-Champions League-Real Madrid-Manchester City" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League-Real Madrid-Manchester City
+http://127.0.0.1:6878/ace/getstream?id=42f8705aecde8d1f4c5b7c4086690b62d78a275e
+#EXTINF:-1 tvg-id="21:00-Champions League-Real Madrid-Manchester City" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League-Real Madrid-Manchester City
+http://127.0.0.1:6878/ace/getstream?id=a357cb0f77e39380844dbf93ec647156d7f2ded1
