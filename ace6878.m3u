@@ -149,6 +149,8 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=496ef60d6a65c168a537038334e0ecf6db91d
 http://127.0.0.1:6878/ace/manifest.m3u8?id=79cf6cedaf4eb0fc20633c2d4efaea5cba29f05e
 #EXTINF:-1 tvg-id="DAZN 2" group-title="New Era",DAZN 2
 http://127.0.0.1:6878/ace/manifest.m3u8?id=b401da8e5a918fb0532ddfc2f55374a3d49ea183
+#EXTINF:-1 tvg-id="DAZN 2" group-title="New Era",DAZN 2
+http://127.0.0.1:6878/ace/manifest.m3u8?id=d67bd4fddb4dfbb7e155770e344a135fc54bd3db
 #EXTINF:-1 tvg-id="Eurosport 1" group-title="Antigua",Eurosport 1
 http://127.0.0.1:6878/ace/manifest.m3u8?id=1b0bc4d4dcd609d3c092712e721392b199f50a62
 #EXTINF:-1 tvg-id="Eurosport 1" group-title="New Era",Eurosport 1
