@@ -1,7 +1,19 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="00:30-Torneo de Río de Janeiro-T. Monteiro-C. Tseng" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",00:30-Torneo de Río de Janeiro-T. Monteiro-C. Tseng
+#EXTINF:-1 tvg-id="00:20-Torneo de Río de Janeiro-A. Zverev-A. Shevchenko" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",00:20-Torneo de Río de Janeiro-A. Zverev-A. Shevchenko
 http://127.0.0.1:6878/ace/getstream?id=7e3eeaa3cd4f0365cd378d2e88a39630aea0ac48
-#EXTINF:-1 tvg-id="00:30-Torneo de Río de Janeiro-T. Monteiro-C. Tseng" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",00:30-Torneo de Río de Janeiro-T. Monteiro-C. Tseng
+#EXTINF:-1 tvg-id="00:20-Torneo de Río de Janeiro-A. Zverev-A. Shevchenko" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",00:20-Torneo de Río de Janeiro-A. Zverev-A. Shevchenko
+http://127.0.0.1:6878/ace/getstream?id=675a8080982cc34b6d3c7ce38e2c121458b68ebd
+#EXTINF:-1 tvg-id="00:20-Torneo de Río de Janeiro-A. Zverev-A. Shevchenko" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",00:20-Torneo de Río de Janeiro-A. Zverev-A. Shevchenko
+http://127.0.0.1:6878/ace/getstream?id=5dbfe26d5486f962466eba41c63a3e1a042d83bb
+#EXTINF:-1 tvg-id="00:20-Torneo de Río de Janeiro-A. Zverev-A. Shevchenko" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",00:20-Torneo de Río de Janeiro-A. Zverev-A. Shevchenko
+http://127.0.0.1:6878/ace/getstream?id=a55df9a3db614b4e92ea7f8612a9624e7a9f226d
+#EXTINF:-1 tvg-id="00:20-Torneo de Río de Janeiro-A. Zverev-A. Shevchenko" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",00:20-Torneo de Río de Janeiro-A. Zverev-A. Shevchenko
+http://127.0.0.1:6878/ace/getstream?id=ef3fe310b5f1687fdedd6672c93f27cbeb586f7e
+#EXTINF:-1 tvg-id="00:20-Torneo de Río de Janeiro-A. Zverev-A. Shevchenko" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",00:20-Torneo de Río de Janeiro-A. Zverev-A. Shevchenko
+http://127.0.0.1:6878/ace/getstream?id=67ea7c1a0e406884dbbbe0f08100de3132ac2cfd
+#EXTINF:-1 tvg-id="03:15-Torneo de Río de Janeiro-T. Monteiro-C. Tseng" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",03:15-Torneo de Río de Janeiro-T. Monteiro-C. Tseng
+http://127.0.0.1:6878/ace/getstream?id=7e3eeaa3cd4f0365cd378d2e88a39630aea0ac48
+#EXTINF:-1 tvg-id="03:15-Torneo de Río de Janeiro-T. Monteiro-C. Tseng" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",03:15-Torneo de Río de Janeiro-T. Monteiro-C. Tseng
 http://127.0.0.1:6878/ace/getstream?id=675a8080982cc34b6d3c7ce38e2c121458b68ebd
 #EXTINF:-1 tvg-id="04:00-NBA-Los Angeles Lakers-Charlotte Hornets" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",04:00-NBA-Los Angeles Lakers-Charlotte Hornets
 http://127.0.0.1:6878/ace/getstream?id=3c0cd902ff7e3d2fbf6b47a623f5d30aeda02531
@@ -11,8 +23,34 @@ http://127.0.0.1:6878/ace/getstream?id=3c62803dcd12fa883e233bbb7e5ed63b29bd0544
 http://127.0.0.1:6878/ace/getstream?id=d08f78bd69c9c5cd927c4431632660bb9994727c
 #EXTINF:-1 tvg-id="04:00-NBA-Los Angeles Lakers-Charlotte Hornets" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",04:00-NBA-Los Angeles Lakers-Charlotte Hornets
 http://127.0.0.1:6878/ace/getstream?id=a357cb0f77e39380844dbf93ec647156d7f2ded1
+#EXTINF:-1 tvg-id="12:40-Torneo de Doha-A. Rublev-A. De Miñaur" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",12:40-Torneo de Doha-A. Rublev-A. De Miñaur
+http://127.0.0.1:6878/ace/getstream?id=3c0cd902ff7e3d2fbf6b47a623f5d30aeda02531
+#EXTINF:-1 tvg-id="12:40-Torneo de Doha-A. Rublev-A. De Miñaur" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",12:40-Torneo de Doha-A. Rublev-A. De Miñaur
+http://127.0.0.1:6878/ace/getstream?id=3c62803dcd12fa883e233bbb7e5ed63b29bd0544
+#EXTINF:-1 tvg-id="12:40-Torneo de Doha-A. Rublev-A. De Miñaur" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",12:40-Torneo de Doha-A. Rublev-A. De Miñaur
+http://127.0.0.1:6878/ace/getstream?id=d08f78bd69c9c5cd927c4431632660bb9994727c
+#EXTINF:-1 tvg-id="15:40-Torneo de Doha-F. Auger-Aliassime-D. Medvedev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:40-Torneo de Doha-F. Auger-Aliassime-D. Medvedev
+http://127.0.0.1:6878/ace/getstream?id=3c0cd902ff7e3d2fbf6b47a623f5d30aeda02531
+#EXTINF:-1 tvg-id="15:40-Torneo de Doha-F. Auger-Aliassime-D. Medvedev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:40-Torneo de Doha-F. Auger-Aliassime-D. Medvedev
+http://127.0.0.1:6878/ace/getstream?id=3c62803dcd12fa883e233bbb7e5ed63b29bd0544
+#EXTINF:-1 tvg-id="15:40-Torneo de Doha-F. Auger-Aliassime-D. Medvedev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:40-Torneo de Doha-F. Auger-Aliassime-D. Medvedev
+http://127.0.0.1:6878/ace/getstream?id=d08f78bd69c9c5cd927c4431632660bb9994727c
+#EXTINF:-1 tvg-id="16:55-Torneo de Doha-C. Alcaraz-J. Lehecka" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:55-Torneo de Doha-C. Alcaraz-J. Lehecka
+http://127.0.0.1:6878/ace/getstream?id=3c0cd902ff7e3d2fbf6b47a623f5d30aeda02531
+#EXTINF:-1 tvg-id="16:55-Torneo de Doha-C. Alcaraz-J. Lehecka" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:55-Torneo de Doha-C. Alcaraz-J. Lehecka
+http://127.0.0.1:6878/ace/getstream?id=3c62803dcd12fa883e233bbb7e5ed63b29bd0544
+#EXTINF:-1 tvg-id="16:55-Torneo de Doha-C. Alcaraz-J. Lehecka" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:55-Torneo de Doha-C. Alcaraz-J. Lehecka
+http://127.0.0.1:6878/ace/getstream?id=d08f78bd69c9c5cd927c4431632660bb9994727c
+#EXTINF:-1 tvg-id="16:55-Torneo de Doha-C. Alcaraz-J. Lehecka" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:55-Torneo de Doha-C. Alcaraz-J. Lehecka
+http://127.0.0.1:6878/ace/getstream?id=a357cb0f77e39380844dbf93ec647156d7f2ded1
 #EXTINF:-1 tvg-id="18:00-Eurobasket-Letonia-España" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:00-Eurobasket-Letonia-España
 http://127.0.0.1:6878/ace/getstream?id=6259b1b33c51d795c90eedfaeaffc87e25a824bf
+#EXTINF:-1 tvg-id="18:30-Torneo de Doha-M. Berrettini-J. Draper" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:30-Torneo de Doha-M. Berrettini-J. Draper
+http://127.0.0.1:6878/ace/getstream?id=3c0cd902ff7e3d2fbf6b47a623f5d30aeda02531
+#EXTINF:-1 tvg-id="18:30-Torneo de Doha-M. Berrettini-J. Draper" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:30-Torneo de Doha-M. Berrettini-J. Draper
+http://127.0.0.1:6878/ace/getstream?id=3c62803dcd12fa883e233bbb7e5ed63b29bd0544
+#EXTINF:-1 tvg-id="18:30-Torneo de Doha-M. Berrettini-J. Draper" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:30-Torneo de Doha-M. Berrettini-J. Draper
+http://127.0.0.1:6878/ace/getstream?id=d08f78bd69c9c5cd927c4431632660bb9994727c
 #EXTINF:-1 tvg-id="18:45-Conference League-Heidenheim-København" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League-Heidenheim-København
 http://127.0.0.1:6878/ace/getstream?id=720c2a7afc922d575d658d98285645683dc9d346
 #EXTINF:-1 tvg-id="18:45-Conference League-Heidenheim-København" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League-Heidenheim-København
@@ -127,10 +165,18 @@ http://127.0.0.1:6878/ace/getstream?id=4055cb22a44f48f06c0e3ade3bfd9c804bbab7e7
 http://127.0.0.1:6878/ace/getstream?id=7274ccecb51b67499c4239eda91d4de6c9af8dd3
 #EXTINF:-1 tvg-id="18:45-Europa League-Galatasaray-AZ Alkmaar" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Europa League-Galatasaray-AZ Alkmaar
 http://127.0.0.1:6878/ace/getstream?id=d14c15f63bbfc7ca9dffa0ad259355a7546c6740
-#EXTINF:-1 tvg-id="19:00-Torneo de Río de Janeiro-2ª Ronda-ATP 500" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",19:00-Torneo de Río de Janeiro-2ª Ronda-ATP 500
+#EXTINF:-1 tvg-id="20:30-Torneo de Río de Janeiro-J. Munar-J. Faria" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:30-Torneo de Río de Janeiro-J. Munar-J. Faria
 http://127.0.0.1:6878/ace/getstream?id=7e3eeaa3cd4f0365cd378d2e88a39630aea0ac48
-#EXTINF:-1 tvg-id="19:00-Torneo de Río de Janeiro-2ª Ronda-ATP 500" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",19:00-Torneo de Río de Janeiro-2ª Ronda-ATP 500
+#EXTINF:-1 tvg-id="20:30-Torneo de Río de Janeiro-J. Munar-J. Faria" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:30-Torneo de Río de Janeiro-J. Munar-J. Faria
 http://127.0.0.1:6878/ace/getstream?id=675a8080982cc34b6d3c7ce38e2c121458b68ebd
+#EXTINF:-1 tvg-id="20:30-Torneo de Río de Janeiro-J. Munar-J. Faria" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:30-Torneo de Río de Janeiro-J. Munar-J. Faria
+http://127.0.0.1:6878/ace/getstream?id=5dbfe26d5486f962466eba41c63a3e1a042d83bb
+#EXTINF:-1 tvg-id="20:30-Torneo de Río de Janeiro-J. Munar-J. Faria" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:30-Torneo de Río de Janeiro-J. Munar-J. Faria
+http://127.0.0.1:6878/ace/getstream?id=a55df9a3db614b4e92ea7f8612a9624e7a9f226d
+#EXTINF:-1 tvg-id="20:30-Torneo de Río de Janeiro-J. Munar-J. Faria" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:30-Torneo de Río de Janeiro-J. Munar-J. Faria
+http://127.0.0.1:6878/ace/getstream?id=ef3fe310b5f1687fdedd6672c93f27cbeb586f7e
+#EXTINF:-1 tvg-id="20:30-Torneo de Río de Janeiro-J. Munar-J. Faria" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:30-Torneo de Río de Janeiro-J. Munar-J. Faria
+http://127.0.0.1:6878/ace/getstream?id=67ea7c1a0e406884dbbbe0f08100de3132ac2cfd
 #EXTINF:-1 tvg-id="21:00-Conference League-APOEL FC-NK Celje" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League-APOEL FC-NK Celje
 http://127.0.0.1:6878/ace/getstream?id=720c2a7afc922d575d658d98285645683dc9d346
 #EXTINF:-1 tvg-id="21:00-Conference League-APOEL FC-NK Celje" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League-APOEL FC-NK Celje
@@ -261,3 +307,7 @@ http://127.0.0.1:6878/ace/getstream?id=7274ccecb51b67499c4239eda91d4de6c9af8dd3
 http://127.0.0.1:6878/ace/getstream?id=316d845591178e24047678bf67c521c9a9b5c96c
 #EXTINF:-1 tvg-id="21:00-Europa League-Viktoria Plzen-Ferencvaros" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League-Viktoria Plzen-Ferencvaros
 http://127.0.0.1:6878/ace/getstream?id=bf52fd49623e3424ee22211998f885c413e92d19
+#EXTINF:-1 tvg-id="23:00-Torneo de Río de Janeiro-F. Cerúndolo-L. Darderi" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",23:00-Torneo de Río de Janeiro-F. Cerúndolo-L. Darderi
+http://127.0.0.1:6878/ace/getstream?id=7e3eeaa3cd4f0365cd378d2e88a39630aea0ac48
+#EXTINF:-1 tvg-id="23:00-Torneo de Río de Janeiro-F. Cerúndolo-L. Darderi" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",23:00-Torneo de Río de Janeiro-F. Cerúndolo-L. Darderi
+http://127.0.0.1:6878/ace/getstream?id=675a8080982cc34b6d3c7ce38e2c121458b68ebd
