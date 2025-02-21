@@ -141,6 +141,24 @@ http://127.0.0.1:6878/ace/getstream?id=3c62803dcd12fa883e233bbb7e5ed63b29bd0544
 http://127.0.0.1:6878/ace/getstream?id=90b662a88120d29d7dbb110552cccf0bb2ebb1c1
 #EXTINF:-1 tvg-id="16:00-Torneo de Doha-F. Auger-Aliassime-A. Rublev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:00-Torneo de Doha-F. Auger-Aliassime-A. Rublev
 http://127.0.0.1:6878/ace/getstream?id=aef3a4058ecb01e912db6f155ab1daf6775004a7
+#EXTINF:-1 tvg-id="16:00-Torneo de Doha-F. Auger-Aliassime-A. Rublev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:00-Torneo de Doha-F. Auger-Aliassime-A. Rublev
+http://127.0.0.1:6878/ace/getstream?id=5dbfe26d5486f962466eba41c63a3e1a042d83bb
+#EXTINF:-1 tvg-id="16:00-Torneo de Doha-F. Auger-Aliassime-A. Rublev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:00-Torneo de Doha-F. Auger-Aliassime-A. Rublev
+http://127.0.0.1:6878/ace/getstream?id=67ea7c1a0e406884dbbbe0f08100de3132ac2cfd
+#EXTINF:-1 tvg-id="16:00-Torneo de Doha-F. Auger-Aliassime-A. Rublev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:00-Torneo de Doha-F. Auger-Aliassime-A. Rublev
+http://127.0.0.1:6878/ace/getstream?id=a55df9a3db614b4e92ea7f8612a9624e7a9f226d
+#EXTINF:-1 tvg-id="16:00-Torneo de Doha-F. Auger-Aliassime-A. Rublev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:00-Torneo de Doha-F. Auger-Aliassime-A. Rublev
+http://127.0.0.1:6878/ace/getstream?id=ef3fe310b5f1687fdedd6672c93f27cbeb586f7e
+#EXTINF:-1 tvg-id="16:00-Torneo de Doha-F. Auger-Aliassime-A. Rublev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:00-Torneo de Doha-F. Auger-Aliassime-A. Rublev
+http://127.0.0.1:6878/ace/getstream?id=d03c13b6723f66155d7a0df3692a3b073fe630f2
+#EXTINF:-1 tvg-id="16:00-Torneo de Doha-F. Auger-Aliassime-A. Rublev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:00-Torneo de Doha-F. Auger-Aliassime-A. Rublev
+http://127.0.0.1:6878/ace/getstream?id=12ba546d229bc39f01c3c18988a034b215fe6adb
+#EXTINF:-1 tvg-id="16:00-Torneo de Doha-F. Auger-Aliassime-A. Rublev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:00-Torneo de Doha-F. Auger-Aliassime-A. Rublev
+http://127.0.0.1:6878/ace/getstream?id=79419383248b3b8e9d2b4945c551b9fc19de4e9a
+#EXTINF:-1 tvg-id="16:00-Torneo de Doha-F. Auger-Aliassime-A. Rublev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:00-Torneo de Doha-F. Auger-Aliassime-A. Rublev
+http://127.0.0.1:6878/ace/getstream?id=ab42fb57e3b30d0dac87d1ddc3eaeb7e5b0f2d62
+#EXTINF:-1 tvg-id="16:00-Torneo de Doha-F. Auger-Aliassime-A. Rublev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:00-Torneo de Doha-F. Auger-Aliassime-A. Rublev
+http://127.0.0.1:6878/ace/getstream?id=aff68366395db9735fc1ddb03ed642adb72fc6f3
 #EXTINF:-1 tvg-id="17:30-Torneo de Doha-J. Lehecka-J. Draper" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:30-Torneo de Doha-J. Lehecka-J. Draper
 http://127.0.0.1:6878/ace/getstream?id=3c0cd902ff7e3d2fbf6b47a623f5d30aeda02531
 #EXTINF:-1 tvg-id="17:30-Torneo de Doha-J. Lehecka-J. Draper" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:30-Torneo de Doha-J. Lehecka-J. Draper
@@ -151,16 +169,6 @@ http://127.0.0.1:6878/ace/getstream?id=3c62803dcd12fa883e233bbb7e5ed63b29bd0544
 http://127.0.0.1:6878/ace/getstream?id=90b662a88120d29d7dbb110552cccf0bb2ebb1c1
 #EXTINF:-1 tvg-id="17:30-Torneo de Doha-J. Lehecka-J. Draper" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:30-Torneo de Doha-J. Lehecka-J. Draper
 http://127.0.0.1:6878/ace/getstream?id=aef3a4058ecb01e912db6f155ab1daf6775004a7
-#EXTINF:-1 tvg-id="20:00-Torneo de Río de Janeiro-1/4 de Final-ATP 500" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:00-Torneo de Río de Janeiro-1/4 de Final-ATP 500
-http://127.0.0.1:6878/ace/getstream?id=675a8080982cc34b6d3c7ce38e2c121458b68ebd
-#EXTINF:-1 tvg-id="20:00-Torneo de Río de Janeiro-1/4 de Final-ATP 500" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:00-Torneo de Río de Janeiro-1/4 de Final-ATP 500
-http://127.0.0.1:6878/ace/getstream?id=7e3eeaa3cd4f0365cd378d2e88a39630aea0ac48
-#EXTINF:-1 tvg-id="20:00-Torneo de Río de Janeiro-1/4 de Final-ATP 500" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:00-Torneo de Río de Janeiro-1/4 de Final-ATP 500
-http://127.0.0.1:6878/ace/getstream?id=d8c2ed470e847154a88f011137cc206319f6bed5
-#EXTINF:-1 tvg-id="20:00-Torneo de Río de Janeiro-1/4 de Final-ATP 500" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:00-Torneo de Río de Janeiro-1/4 de Final-ATP 500
-http://127.0.0.1:6878/ace/getstream?id=9a8d22e71f9f1d0c34394fa9656003e2f28c7c7e
-#EXTINF:-1 tvg-id="20:00-Torneo de Río de Janeiro-1/4 de Final-ATP 500" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:00-Torneo de Río de Janeiro-1/4 de Final-ATP 500
-http://127.0.0.1:6878/ace/getstream?id=5375b06881a4edf82841a0626df288d8a55cbfd5
 #EXTINF:-1 tvg-id="20:30-Segunda-Málaga-CD Tenerife" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",20:30-Segunda-Málaga-CD Tenerife
 http://127.0.0.1:6878/ace/getstream?id=b2706a7ffbea236a3b398139a3a606ada664c0eb
 #EXTINF:-1 tvg-id="20:30-Segunda-Málaga-CD Tenerife" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",20:30-Segunda-Málaga-CD Tenerife
@@ -181,59 +189,79 @@ http://127.0.0.1:6878/ace/getstream?id=79419383248b3b8e9d2b4945c551b9fc19de4e9a
 http://127.0.0.1:6878/ace/getstream?id=ab42fb57e3b30d0dac87d1ddc3eaeb7e5b0f2d62
 #EXTINF:-1 tvg-id="20:30-Segunda-Málaga-CD Tenerife" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",20:30-Segunda-Málaga-CD Tenerife
 http://127.0.0.1:6878/ace/getstream?id=aff68366395db9735fc1ddb03ed642adb72fc6f3
-#EXTINF:-1 tvg-id="21:00-Primera Estadio de Balaídos" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera Estadio de Balaídos
+#EXTINF:-1 tvg-id="21:00-Primera-Celta-Osasuna" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera-Celta-Osasuna
 http://127.0.0.1:6878/ace/getstream?id=94d34491106e00394835c8cb68aa94481339b53f
-#EXTINF:-1 tvg-id="21:00-Primera Estadio de Balaídos" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera Estadio de Balaídos
+#EXTINF:-1 tvg-id="21:00-Primera-Celta-Osasuna" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera-Celta-Osasuna
 http://127.0.0.1:6878/ace/getstream?id=d3de78aebe544611a2347f54d5796bd87f16c92d
-#EXTINF:-1 tvg-id="21:00-Primera Estadio de Balaídos" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera Estadio de Balaídos
+#EXTINF:-1 tvg-id="21:00-Primera-Celta-Osasuna" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera-Celta-Osasuna
 http://127.0.0.1:6878/ace/getstream?id=6d05b31e5e8fdae312fbd57897363a7b10ddb163
-#EXTINF:-1 tvg-id="21:00-Primera Estadio de Balaídos" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera Estadio de Balaídos
+#EXTINF:-1 tvg-id="21:00-Primera-Celta-Osasuna" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera-Celta-Osasuna
 http://127.0.0.1:6878/ace/getstream?id=1bc437bce57b4b0450f6d1f8d818b7e97000745e
-#EXTINF:-1 tvg-id="21:00-Primera Estadio de Balaídos" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera Estadio de Balaídos
+#EXTINF:-1 tvg-id="21:00-Primera-Celta-Osasuna" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera-Celta-Osasuna
 http://127.0.0.1:6878/ace/getstream?id=1ce2166753aa886e01c6f111e404ca6af0329ce0
-#EXTINF:-1 tvg-id="21:00-Primera Estadio de Balaídos" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera Estadio de Balaídos
+#EXTINF:-1 tvg-id="21:00-Primera-Celta-Osasuna" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera-Celta-Osasuna
 http://127.0.0.1:6878/ace/getstream?id=784c6a44fa26724945f63080c4a739165d8cde4c
-#EXTINF:-1 tvg-id="21:00-Primera Estadio de Balaídos" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera Estadio de Balaídos
+#EXTINF:-1 tvg-id="21:00-Primera-Celta-Osasuna" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera-Celta-Osasuna
 http://127.0.0.1:6878/ace/getstream?id=568c70efeb56e04ee6245d9bcdf88e06bc270a9e
-#EXTINF:-1 tvg-id="21:00-Primera Estadio de Balaídos" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera Estadio de Balaídos
+#EXTINF:-1 tvg-id="21:00-Primera-Celta-Osasuna" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera-Celta-Osasuna
 http://127.0.0.1:6878/ace/getstream?id=f70e59be6ac2307e5c893b8f6345f16825ebcfe7
-#EXTINF:-1 tvg-id="21:00-Primera Estadio de Balaídos" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera Estadio de Balaídos
+#EXTINF:-1 tvg-id="21:00-Primera-Celta-Osasuna" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera-Celta-Osasuna
 http://127.0.0.1:6878/ace/getstream?id=6381de4582d868d12ae57fc00f41c92f89d1876f
-#EXTINF:-1 tvg-id="21:00-Primera Estadio de Balaídos" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera Estadio de Balaídos
+#EXTINF:-1 tvg-id="21:00-Primera-Celta-Osasuna" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera-Celta-Osasuna
 http://127.0.0.1:6878/ace/getstream?id=f8683f2afcb639ab4f1b250452fd946779a9ef3a
-#EXTINF:-1 tvg-id="21:00-Primera Estadio de Balaídos" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera Estadio de Balaídos
+#EXTINF:-1 tvg-id="21:00-Primera-Celta-Osasuna" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera-Celta-Osasuna
 http://127.0.0.1:6878/ace/getstream?id=d15a0eaf825b5f8f94259d5209688a7e97e6acde
-#EXTINF:-1 tvg-id="21:00-Primera Estadio de Balaídos" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera Estadio de Balaídos
+#EXTINF:-1 tvg-id="21:00-Primera-Celta-Osasuna" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera-Celta-Osasuna
 http://127.0.0.1:6878/ace/getstream?id=cc9b7f5fe416069a2110da0909b0f915043c468b
-#EXTINF:-1 tvg-id="21:00-Primera Estadio de Balaídos" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera Estadio de Balaídos
+#EXTINF:-1 tvg-id="21:00-Primera-Celta-Osasuna" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera-Celta-Osasuna
 http://127.0.0.1:6878/ace/getstream?id=608b0faf7d3d25f6fe5dba13d5e4b4142949990e
-#EXTINF:-1 tvg-id="21:00-Premier League King Power Stadium" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Premier League King Power Stadium
+#EXTINF:-1 tvg-id="21:00-Premier League-Leicester City-Brentford" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Premier League-Leicester City-Brentford
 http://127.0.0.1:6878/ace/getstream?id=d9c40027c3b10dac0d3cb68906b7cde37132c76c
-#EXTINF:-1 tvg-id="21:00-Premier League King Power Stadium" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Premier League King Power Stadium
+#EXTINF:-1 tvg-id="21:00-Premier League-Leicester City-Brentford" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Premier League-Leicester City-Brentford
 http://127.0.0.1:6878/ace/getstream?id=9231dbffec043dfdd44f90025241d684e2c9515b
-#EXTINF:-1 tvg-id="21:00-Premier League King Power Stadium" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Premier League King Power Stadium
+#EXTINF:-1 tvg-id="21:00-Premier League-Leicester City-Brentford" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Premier League-Leicester City-Brentford
 http://127.0.0.1:6878/ace/getstream?id=446f322c9aefb4f308cc24743d80679ca7a253a8
-#EXTINF:-1 tvg-id="21:00-Premier League King Power Stadium" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Premier League King Power Stadium
+#EXTINF:-1 tvg-id="21:00-Premier League-Leicester City-Brentford" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Premier League-Leicester City-Brentford
 http://127.0.0.1:6878/ace/getstream?id=ef1e0c8799b331efe144a91317e35b064c54ec0c
-#EXTINF:-1 tvg-id="21:00-Premier League King Power Stadium" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Premier League King Power Stadium
+#EXTINF:-1 tvg-id="21:00-Premier League-Leicester City-Brentford" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Premier League-Leicester City-Brentford
 http://127.0.0.1:6878/ace/getstream?id=b8b8c3cef92fca5061b9e75da3fbbfa8e94425ed
-#EXTINF:-1 tvg-id="21:00-Premier League King Power Stadium" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Premier League King Power Stadium
+#EXTINF:-1 tvg-id="21:00-Premier League-Leicester City-Brentford" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Premier League-Leicester City-Brentford
 http://127.0.0.1:6878/ace/getstream?id=8aedbf4be7908834a27afd37b4bce6eb44559bde
-#EXTINF:-1 tvg-id="21:00-Premier League King Power Stadium" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Premier League King Power Stadium
+#EXTINF:-1 tvg-id="21:00-Premier League-Leicester City-Brentford" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Premier League-Leicester City-Brentford
 http://127.0.0.1:6878/ace/getstream?id=e01a2f055a0e34430add3b9c089711e119e1d0c7
-#EXTINF:-1 tvg-id="21:00-Premier League King Power Stadium" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Premier League King Power Stadium
+#EXTINF:-1 tvg-id="21:00-Premier League-Leicester City-Brentford" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Premier League-Leicester City-Brentford
 http://127.0.0.1:6878/ace/getstream?id=35c7f0c966ecde3390f4510bb4caded40018c07a
-#EXTINF:-1 tvg-id="21:00-Premier League King Power Stadium" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Premier League King Power Stadium
+#EXTINF:-1 tvg-id="21:00-Premier League-Leicester City-Brentford" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Premier League-Leicester City-Brentford
 http://127.0.0.1:6878/ace/getstream?id=40e875aa616d2e9762f6adeda0d067afbebb24eb
-#EXTINF:-1 tvg-id="21:00-Premier League King Power Stadium" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Premier League King Power Stadium
+#EXTINF:-1 tvg-id="21:00-Premier League-Leicester City-Brentford" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Premier League-Leicester City-Brentford
 http://127.0.0.1:6878/ace/getstream?id=4ca7d2ac427a515bc2c51713364fd80c7129c6d0
-#EXTINF:-1 tvg-id="21:00-Premier League King Power Stadium" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Premier League King Power Stadium
+#EXTINF:-1 tvg-id="21:00-Premier League-Leicester City-Brentford" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Premier League-Leicester City-Brentford
 http://127.0.0.1:6878/ace/getstream?id=7dccacd74431a5eed7ab1aab67b3f34526860ea8
-#EXTINF:-1 tvg-id="21:00-Premier League King Power Stadium" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Premier League King Power Stadium
+#EXTINF:-1 tvg-id="21:00-Premier League-Leicester City-Brentford" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Premier League-Leicester City-Brentford
 http://127.0.0.1:6878/ace/getstream?id=01ecb65666bc476239a6162089fd267dad07c9f6
-#EXTINF:-1 tvg-id="21:00-Premier League King Power Stadium" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Premier League King Power Stadium
+#EXTINF:-1 tvg-id="21:00-Premier League-Leicester City-Brentford" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Premier League-Leicester City-Brentford
 http://127.0.0.1:6878/ace/getstream?id=355256c0cc375879e22f93142a5aa9d8e0e42a3c
-#EXTINF:-1 tvg-id="21:00-Premier League King Power Stadium" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Premier League King Power Stadium
+#EXTINF:-1 tvg-id="21:00-Premier League-Leicester City-Brentford" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Premier League-Leicester City-Brentford
 http://127.0.0.1:6878/ace/getstream?id=397828cb7bac233374dac2c898604a5b6c718225
-#EXTINF:-1 tvg-id="21:00-Premier League King Power Stadium" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Premier League King Power Stadium
+#EXTINF:-1 tvg-id="21:00-Premier League-Leicester City-Brentford" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Premier League-Leicester City-Brentford
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 tvg-id="21:00-Torneo de Río de Janeiro-S. Báez-C. Tseng" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Torneo de Río de Janeiro-S. Báez-C. Tseng
+http://127.0.0.1:6878/ace/getstream?id=675a8080982cc34b6d3c7ce38e2c121458b68ebd
+#EXTINF:-1 tvg-id="21:00-Torneo de Río de Janeiro-S. Báez-C. Tseng" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Torneo de Río de Janeiro-S. Báez-C. Tseng
+http://127.0.0.1:6878/ace/getstream?id=7e3eeaa3cd4f0365cd378d2e88a39630aea0ac48
+#EXTINF:-1 tvg-id="21:00-Torneo de Río de Janeiro-S. Báez-C. Tseng" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Torneo de Río de Janeiro-S. Báez-C. Tseng
+http://127.0.0.1:6878/ace/getstream?id=d8c2ed470e847154a88f011137cc206319f6bed5
+#EXTINF:-1 tvg-id="21:00-Torneo de Río de Janeiro-S. Báez-C. Tseng" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Torneo de Río de Janeiro-S. Báez-C. Tseng
+http://127.0.0.1:6878/ace/getstream?id=9a8d22e71f9f1d0c34394fa9656003e2f28c7c7e
+#EXTINF:-1 tvg-id="21:00-Torneo de Río de Janeiro-S. Báez-C. Tseng" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Torneo de Río de Janeiro-S. Báez-C. Tseng
+http://127.0.0.1:6878/ace/getstream?id=5375b06881a4edf82841a0626df288d8a55cbfd5
+#EXTINF:-1 tvg-id="22:30-Torneo de Río de Janeiro-A. Zverev-F. Comesana" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",22:30-Torneo de Río de Janeiro-A. Zverev-F. Comesana
+http://127.0.0.1:6878/ace/getstream?id=675a8080982cc34b6d3c7ce38e2c121458b68ebd
+#EXTINF:-1 tvg-id="22:30-Torneo de Río de Janeiro-A. Zverev-F. Comesana" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",22:30-Torneo de Río de Janeiro-A. Zverev-F. Comesana
+http://127.0.0.1:6878/ace/getstream?id=7e3eeaa3cd4f0365cd378d2e88a39630aea0ac48
+#EXTINF:-1 tvg-id="22:30-Torneo de Río de Janeiro-A. Zverev-F. Comesana" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",22:30-Torneo de Río de Janeiro-A. Zverev-F. Comesana
+http://127.0.0.1:6878/ace/getstream?id=d8c2ed470e847154a88f011137cc206319f6bed5
+#EXTINF:-1 tvg-id="22:30-Torneo de Río de Janeiro-A. Zverev-F. Comesana" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",22:30-Torneo de Río de Janeiro-A. Zverev-F. Comesana
+http://127.0.0.1:6878/ace/getstream?id=9a8d22e71f9f1d0c34394fa9656003e2f28c7c7e
+#EXTINF:-1 tvg-id="22:30-Torneo de Río de Janeiro-A. Zverev-F. Comesana" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",22:30-Torneo de Río de Janeiro-A. Zverev-F. Comesana
+http://127.0.0.1:6878/ace/getstream?id=5375b06881a4edf82841a0626df288d8a55cbfd5
