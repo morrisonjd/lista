@@ -1,313 +1,277 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="00:20-Torneo de Río de Janeiro-A. Zverev-A. Shevchenko" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",00:20-Torneo de Río de Janeiro-A. Zverev-A. Shevchenko
-http://127.0.0.1:6878/ace/getstream?id=7e3eeaa3cd4f0365cd378d2e88a39630aea0ac48
-#EXTINF:-1 tvg-id="00:20-Torneo de Río de Janeiro-A. Zverev-A. Shevchenko" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",00:20-Torneo de Río de Janeiro-A. Zverev-A. Shevchenko
-http://127.0.0.1:6878/ace/getstream?id=675a8080982cc34b6d3c7ce38e2c121458b68ebd
-#EXTINF:-1 tvg-id="00:20-Torneo de Río de Janeiro-A. Zverev-A. Shevchenko" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",00:20-Torneo de Río de Janeiro-A. Zverev-A. Shevchenko
-http://127.0.0.1:6878/ace/getstream?id=5dbfe26d5486f962466eba41c63a3e1a042d83bb
-#EXTINF:-1 tvg-id="00:20-Torneo de Río de Janeiro-A. Zverev-A. Shevchenko" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",00:20-Torneo de Río de Janeiro-A. Zverev-A. Shevchenko
-http://127.0.0.1:6878/ace/getstream?id=a55df9a3db614b4e92ea7f8612a9624e7a9f226d
-#EXTINF:-1 tvg-id="00:20-Torneo de Río de Janeiro-A. Zverev-A. Shevchenko" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",00:20-Torneo de Río de Janeiro-A. Zverev-A. Shevchenko
-http://127.0.0.1:6878/ace/getstream?id=ef3fe310b5f1687fdedd6672c93f27cbeb586f7e
-#EXTINF:-1 tvg-id="00:20-Torneo de Río de Janeiro-A. Zverev-A. Shevchenko" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",00:20-Torneo de Río de Janeiro-A. Zverev-A. Shevchenko
-http://127.0.0.1:6878/ace/getstream?id=67ea7c1a0e406884dbbbe0f08100de3132ac2cfd
-#EXTINF:-1 tvg-id="03:15-Torneo de Río de Janeiro-T. Monteiro-C. Tseng" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",03:15-Torneo de Río de Janeiro-T. Monteiro-C. Tseng
-http://127.0.0.1:6878/ace/getstream?id=7e3eeaa3cd4f0365cd378d2e88a39630aea0ac48
-#EXTINF:-1 tvg-id="03:15-Torneo de Río de Janeiro-T. Monteiro-C. Tseng" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",03:15-Torneo de Río de Janeiro-T. Monteiro-C. Tseng
-http://127.0.0.1:6878/ace/getstream?id=675a8080982cc34b6d3c7ce38e2c121458b68ebd
-#EXTINF:-1 tvg-id="04:00-NBA-Los Angeles Lakers-Charlotte Hornets" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",04:00-NBA-Los Angeles Lakers-Charlotte Hornets
+#EXTINF:-1 tvg-id="01:30-NBA-Atlanta Hawks-Orlando Magic" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",01:30-NBA-Atlanta Hawks-Orlando Magic
 http://127.0.0.1:6878/ace/getstream?id=3c0cd902ff7e3d2fbf6b47a623f5d30aeda02531
-#EXTINF:-1 tvg-id="04:00-NBA-Los Angeles Lakers-Charlotte Hornets" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",04:00-NBA-Los Angeles Lakers-Charlotte Hornets
+#EXTINF:-1 tvg-id="01:30-NBA-Atlanta Hawks-Orlando Magic" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",01:30-NBA-Atlanta Hawks-Orlando Magic
 http://127.0.0.1:6878/ace/getstream?id=3c62803dcd12fa883e233bbb7e5ed63b29bd0544
-#EXTINF:-1 tvg-id="04:00-NBA-Los Angeles Lakers-Charlotte Hornets" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",04:00-NBA-Los Angeles Lakers-Charlotte Hornets
+#EXTINF:-1 tvg-id="01:30-NBA-Atlanta Hawks-Orlando Magic" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",01:30-NBA-Atlanta Hawks-Orlando Magic
 http://127.0.0.1:6878/ace/getstream?id=d08f78bd69c9c5cd927c4431632660bb9994727c
-#EXTINF:-1 tvg-id="04:00-NBA-Los Angeles Lakers-Charlotte Hornets" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",04:00-NBA-Los Angeles Lakers-Charlotte Hornets
-http://127.0.0.1:6878/ace/getstream?id=a357cb0f77e39380844dbf93ec647156d7f2ded1
-#EXTINF:-1 tvg-id="12:40-Torneo de Doha-A. Rublev-A. De Miñaur" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",12:40-Torneo de Doha-A. Rublev-A. De Miñaur
-http://127.0.0.1:6878/ace/getstream?id=3c0cd902ff7e3d2fbf6b47a623f5d30aeda02531
-#EXTINF:-1 tvg-id="12:40-Torneo de Doha-A. Rublev-A. De Miñaur" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",12:40-Torneo de Doha-A. Rublev-A. De Miñaur
-http://127.0.0.1:6878/ace/getstream?id=3c62803dcd12fa883e233bbb7e5ed63b29bd0544
-#EXTINF:-1 tvg-id="12:40-Torneo de Doha-A. Rublev-A. De Miñaur" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",12:40-Torneo de Doha-A. Rublev-A. De Miñaur
-http://127.0.0.1:6878/ace/getstream?id=d08f78bd69c9c5cd927c4431632660bb9994727c
-#EXTINF:-1 tvg-id="15:40-Torneo de Doha-F. Auger-Aliassime-D. Medvedev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:40-Torneo de Doha-F. Auger-Aliassime-D. Medvedev
-http://127.0.0.1:6878/ace/getstream?id=3c0cd902ff7e3d2fbf6b47a623f5d30aeda02531
-#EXTINF:-1 tvg-id="15:40-Torneo de Doha-F. Auger-Aliassime-D. Medvedev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:40-Torneo de Doha-F. Auger-Aliassime-D. Medvedev
-http://127.0.0.1:6878/ace/getstream?id=3c62803dcd12fa883e233bbb7e5ed63b29bd0544
-#EXTINF:-1 tvg-id="15:40-Torneo de Doha-F. Auger-Aliassime-D. Medvedev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:40-Torneo de Doha-F. Auger-Aliassime-D. Medvedev
-http://127.0.0.1:6878/ace/getstream?id=d08f78bd69c9c5cd927c4431632660bb9994727c
-#EXTINF:-1 tvg-id="16:55-Torneo de Doha-C. Alcaraz-J. Lehecka" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:55-Torneo de Doha-C. Alcaraz-J. Lehecka
-http://127.0.0.1:6878/ace/getstream?id=3c0cd902ff7e3d2fbf6b47a623f5d30aeda02531
-#EXTINF:-1 tvg-id="16:55-Torneo de Doha-C. Alcaraz-J. Lehecka" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:55-Torneo de Doha-C. Alcaraz-J. Lehecka
-http://127.0.0.1:6878/ace/getstream?id=3c62803dcd12fa883e233bbb7e5ed63b29bd0544
-#EXTINF:-1 tvg-id="16:55-Torneo de Doha-C. Alcaraz-J. Lehecka" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:55-Torneo de Doha-C. Alcaraz-J. Lehecka
-http://127.0.0.1:6878/ace/getstream?id=d08f78bd69c9c5cd927c4431632660bb9994727c
-#EXTINF:-1 tvg-id="16:55-Torneo de Doha-C. Alcaraz-J. Lehecka" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:55-Torneo de Doha-C. Alcaraz-J. Lehecka
-http://127.0.0.1:6878/ace/getstream?id=a357cb0f77e39380844dbf93ec647156d7f2ded1
-#EXTINF:-1 tvg-id="18:00-Eurobasket-Letonia-España" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:00-Eurobasket-Letonia-España
-http://127.0.0.1:6878/ace/getstream?id=6259b1b33c51d795c90eedfaeaffc87e25a824bf
-#EXTINF:-1 tvg-id="18:30-Torneo de Doha-M. Berrettini-J. Draper" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:30-Torneo de Doha-M. Berrettini-J. Draper
-http://127.0.0.1:6878/ace/getstream?id=3c0cd902ff7e3d2fbf6b47a623f5d30aeda02531
-#EXTINF:-1 tvg-id="18:30-Torneo de Doha-M. Berrettini-J. Draper" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:30-Torneo de Doha-M. Berrettini-J. Draper
-http://127.0.0.1:6878/ace/getstream?id=3c62803dcd12fa883e233bbb7e5ed63b29bd0544
-#EXTINF:-1 tvg-id="18:30-Torneo de Doha-M. Berrettini-J. Draper" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:30-Torneo de Doha-M. Berrettini-J. Draper
-http://127.0.0.1:6878/ace/getstream?id=d08f78bd69c9c5cd927c4431632660bb9994727c
-#EXTINF:-1 tvg-id="18:45-Conference League-Heidenheim-København" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League-Heidenheim-København
-http://127.0.0.1:6878/ace/getstream?id=720c2a7afc922d575d658d98285645683dc9d346
-#EXTINF:-1 tvg-id="18:45-Conference League-Heidenheim-København" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League-Heidenheim-København
-http://127.0.0.1:6878/ace/getstream?id=b67ac651bcb2e93fda9dba2a122e083f20394067
-#EXTINF:-1 tvg-id="18:45-Conference League-Heidenheim-København" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League-Heidenheim-København
+#EXTINF:-1 tvg-id="04:55-Supersport-G.P. Australia (Phillip Island)-Superpole" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",04:55-Supersport-G.P. Australia (Phillip Island)-Superpole
+http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
+#EXTINF:-1 tvg-id="04:55-Supersport-G.P. Australia (Phillip Island)-Superpole" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",04:55-Supersport-G.P. Australia (Phillip Island)-Superpole
+http://127.0.0.1:6878/ace/getstream?id=496ef60d6a65c168a537038334e0ecf6db91d718
+#EXTINF:-1 tvg-id="04:55-Supersport-G.P. Australia (Phillip Island)-Superpole" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",04:55-Supersport-G.P. Australia (Phillip Island)-Superpole
+http://127.0.0.1:6878/ace/getstream?id=b401da8e5a918fb0532ddfc2f55374a3d49ea183
+#EXTINF:-1 tvg-id="04:55-Supersport-G.P. Australia (Phillip Island)-Superpole" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",04:55-Supersport-G.P. Australia (Phillip Island)-Superpole
+http://127.0.0.1:6878/ace/getstream?id=d67bd4fddb4dfbb7e155770e344a135fc54bd3db
+#EXTINF:-1 tvg-id="04:55-Supersport-G.P. Australia (Phillip Island)-Superpole" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",04:55-Supersport-G.P. Australia (Phillip Island)-Superpole
+http://127.0.0.1:6878/ace/getstream?id=cc2a882a4705b7e5260236ec714d574143fd5d27
+#EXTINF:-1 tvg-id="04:55-Supersport-G.P. Australia (Phillip Island)-Superpole" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",04:55-Supersport-G.P. Australia (Phillip Island)-Superpole
+http://127.0.0.1:6878/ace/getstream?id=a929eeec1268d69d1556a2e3ace793b2577d8810
+#EXTINF:-1 tvg-id="04:55-Supersport-G.P. Australia (Phillip Island)-Superpole" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",04:55-Supersport-G.P. Australia (Phillip Island)-Superpole
+http://127.0.0.1:6878/ace/getstream?id=ca923c9873fd206a41c1e83ff8fc40e3cf323c9a
+#EXTINF:-1 tvg-id="12:00-Champions League-Sorteo Octavos de Final-UEFA TV" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",12:00-Champions League-Sorteo Octavos de Final-UEFA TV
+http://127.0.0.1:6878/ace/getstream?id=608b0faf7d3d25f6fe5dba13d5e4b4142949990e
+#EXTINF:-1 tvg-id="12:00-Champions League-Sorteo Octavos de Final-UEFA TV" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",12:00-Champions League-Sorteo Octavos de Final-UEFA TV
 http://127.0.0.1:6878/ace/getstream?id=10ae32928d1320eb98d4656cd1faa16ad3648e82
-#EXTINF:-1 tvg-id="18:45-Conference League-Heidenheim-København" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League-Heidenheim-København
-http://127.0.0.1:6878/ace/getstream?id=ee5ffa2c47cad5f00276904722e9d234def6f14a
-#EXTINF:-1 tvg-id="18:45-Conference League-Heidenheim-København" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League-Heidenheim-København
-http://127.0.0.1:6878/ace/getstream?id=7fd55d3cfc6b8b9c3195b1c852c0a04145756247
-#EXTINF:-1 tvg-id="18:45-Conference League-Heidenheim-København" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League-Heidenheim-København
-http://127.0.0.1:6878/ace/getstream?id=c691bfa3517ada9c7626c9c82bda7f1a1f6eeac0
-#EXTINF:-1 tvg-id="18:45-Conference League-Heidenheim-København" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League-Heidenheim-København
-http://127.0.0.1:6878/ace/getstream?id=29dfa2835d44bcda0a27200cda0416fdb1cfcc98
-#EXTINF:-1 tvg-id="18:45-Conference League-Heidenheim-København" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League-Heidenheim-København
-http://127.0.0.1:6878/ace/getstream?id=4055cb22a44f48f06c0e3ade3bfd9c804bbab7e7
-#EXTINF:-1 tvg-id="18:45-Conference League-Heidenheim-København" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League-Heidenheim-København
-http://127.0.0.1:6878/ace/getstream?id=7274ccecb51b67499c4239eda91d4de6c9af8dd3
-#EXTINF:-1 tvg-id="18:45-Conference League-Heidenheim-København" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League-Heidenheim-København
-http://127.0.0.1:6878/ace/getstream?id=e1d22c7c5f8685496f49308bf00dd2c6906383d7
-#EXTINF:-1 tvg-id="18:45-Conference League-NK Olimpija-Borac Banja Luka" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League-NK Olimpija-Borac Banja Luka
+#EXTINF:-1 tvg-id="12:00-Champions League-Sorteo Octavos de Final-UEFA TV" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",12:00-Champions League-Sorteo Octavos de Final-UEFA TV
 http://127.0.0.1:6878/ace/getstream?id=720c2a7afc922d575d658d98285645683dc9d346
-#EXTINF:-1 tvg-id="18:45-Conference League-NK Olimpija-Borac Banja Luka" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League-NK Olimpija-Borac Banja Luka
+#EXTINF:-1 tvg-id="12:00-Champions League-Sorteo Octavos de Final-UEFA TV" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",12:00-Champions League-Sorteo Octavos de Final-UEFA TV
 http://127.0.0.1:6878/ace/getstream?id=b67ac651bcb2e93fda9dba2a122e083f20394067
-#EXTINF:-1 tvg-id="18:45-Conference League-NK Olimpija-Borac Banja Luka" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League-NK Olimpija-Borac Banja Luka
-http://127.0.0.1:6878/ace/getstream?id=10ae32928d1320eb98d4656cd1faa16ad3648e82
-#EXTINF:-1 tvg-id="18:45-Conference League-NK Olimpija-Borac Banja Luka" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League-NK Olimpija-Borac Banja Luka
+#EXTINF:-1 tvg-id="12:00-Champions League-Sorteo Octavos de Final-UEFA TV" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",12:00-Champions League-Sorteo Octavos de Final-UEFA TV
 http://127.0.0.1:6878/ace/getstream?id=ee5ffa2c47cad5f00276904722e9d234def6f14a
-#EXTINF:-1 tvg-id="18:45-Conference League-NK Olimpija-Borac Banja Luka" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League-NK Olimpija-Borac Banja Luka
+#EXTINF:-1 tvg-id="12:00-Champions League-Sorteo Octavos de Final-UEFA TV" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",12:00-Champions League-Sorteo Octavos de Final-UEFA TV
 http://127.0.0.1:6878/ace/getstream?id=7fd55d3cfc6b8b9c3195b1c852c0a04145756247
-#EXTINF:-1 tvg-id="18:45-Conference League-NK Olimpija-Borac Banja Luka" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League-NK Olimpija-Borac Banja Luka
+#EXTINF:-1 tvg-id="12:00-Champions League-Sorteo Octavos de Final-UEFA TV" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",12:00-Champions League-Sorteo Octavos de Final-UEFA TV
 http://127.0.0.1:6878/ace/getstream?id=c691bfa3517ada9c7626c9c82bda7f1a1f6eeac0
-#EXTINF:-1 tvg-id="18:45-Conference League-NK Olimpija-Borac Banja Luka" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League-NK Olimpija-Borac Banja Luka
-http://127.0.0.1:6878/ace/getstream?id=29dfa2835d44bcda0a27200cda0416fdb1cfcc98
-#EXTINF:-1 tvg-id="18:45-Conference League-NK Olimpija-Borac Banja Luka" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League-NK Olimpija-Borac Banja Luka
-http://127.0.0.1:6878/ace/getstream?id=4055cb22a44f48f06c0e3ade3bfd9c804bbab7e7
-#EXTINF:-1 tvg-id="18:45-Conference League-NK Olimpija-Borac Banja Luka" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League-NK Olimpija-Borac Banja Luka
-http://127.0.0.1:6878/ace/getstream?id=7274ccecb51b67499c4239eda91d4de6c9af8dd3
-#EXTINF:-1 tvg-id="18:45-Conference League-NK Olimpija-Borac Banja Luka" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League-NK Olimpija-Borac Banja Luka
-http://127.0.0.1:6878/ace/getstream?id=3f97b05f6ccfe65ea2ff303ec9efe8e686a7a4da
-#EXTINF:-1 tvg-id="18:45-Conference League-Pafos FC-AC Omonia" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League-Pafos FC-AC Omonia
-http://127.0.0.1:6878/ace/getstream?id=720c2a7afc922d575d658d98285645683dc9d346
-#EXTINF:-1 tvg-id="18:45-Conference League-Pafos FC-AC Omonia" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League-Pafos FC-AC Omonia
-http://127.0.0.1:6878/ace/getstream?id=b67ac651bcb2e93fda9dba2a122e083f20394067
-#EXTINF:-1 tvg-id="18:45-Conference League-Pafos FC-AC Omonia" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League-Pafos FC-AC Omonia
-http://127.0.0.1:6878/ace/getstream?id=10ae32928d1320eb98d4656cd1faa16ad3648e82
-#EXTINF:-1 tvg-id="18:45-Conference League-Pafos FC-AC Omonia" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League-Pafos FC-AC Omonia
-http://127.0.0.1:6878/ace/getstream?id=ee5ffa2c47cad5f00276904722e9d234def6f14a
-#EXTINF:-1 tvg-id="18:45-Conference League-Pafos FC-AC Omonia" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League-Pafos FC-AC Omonia
-http://127.0.0.1:6878/ace/getstream?id=7fd55d3cfc6b8b9c3195b1c852c0a04145756247
-#EXTINF:-1 tvg-id="18:45-Conference League-Pafos FC-AC Omonia" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League-Pafos FC-AC Omonia
-http://127.0.0.1:6878/ace/getstream?id=c691bfa3517ada9c7626c9c82bda7f1a1f6eeac0
-#EXTINF:-1 tvg-id="18:45-Conference League-Pafos FC-AC Omonia" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League-Pafos FC-AC Omonia
-http://127.0.0.1:6878/ace/getstream?id=29dfa2835d44bcda0a27200cda0416fdb1cfcc98
-#EXTINF:-1 tvg-id="18:45-Conference League-Pafos FC-AC Omonia" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League-Pafos FC-AC Omonia
-http://127.0.0.1:6878/ace/getstream?id=4055cb22a44f48f06c0e3ade3bfd9c804bbab7e7
-#EXTINF:-1 tvg-id="18:45-Conference League-Pafos FC-AC Omonia" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League-Pafos FC-AC Omonia
-http://127.0.0.1:6878/ace/getstream?id=7274ccecb51b67499c4239eda91d4de6c9af8dd3
-#EXTINF:-1 tvg-id="18:45-Conference League-Pafos FC-AC Omonia" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League-Pafos FC-AC Omonia
-http://127.0.0.1:6878/ace/getstream?id=06109930932efcc3e0695194ef2f3fb3060caa5c
-#EXTINF:-1 tvg-id="18:45-Conference League-Real Betis-Gent" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League-Real Betis-Gent
-http://127.0.0.1:6878/ace/getstream?id=720c2a7afc922d575d658d98285645683dc9d346
-#EXTINF:-1 tvg-id="18:45-Conference League-Real Betis-Gent" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League-Real Betis-Gent
-http://127.0.0.1:6878/ace/getstream?id=b67ac651bcb2e93fda9dba2a122e083f20394067
-#EXTINF:-1 tvg-id="18:45-Conference League-Real Betis-Gent" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League-Real Betis-Gent
-http://127.0.0.1:6878/ace/getstream?id=10ae32928d1320eb98d4656cd1faa16ad3648e82
-#EXTINF:-1 tvg-id="18:45-Conference League-Real Betis-Gent" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League-Real Betis-Gent
-http://127.0.0.1:6878/ace/getstream?id=ee5ffa2c47cad5f00276904722e9d234def6f14a
-#EXTINF:-1 tvg-id="18:45-Conference League-Real Betis-Gent" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League-Real Betis-Gent
-http://127.0.0.1:6878/ace/getstream?id=7fd55d3cfc6b8b9c3195b1c852c0a04145756247
-#EXTINF:-1 tvg-id="18:45-Conference League-Real Betis-Gent" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League-Real Betis-Gent
-http://127.0.0.1:6878/ace/getstream?id=c691bfa3517ada9c7626c9c82bda7f1a1f6eeac0
-#EXTINF:-1 tvg-id="18:45-Conference League-Real Betis-Gent" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League-Real Betis-Gent
-http://127.0.0.1:6878/ace/getstream?id=29dfa2835d44bcda0a27200cda0416fdb1cfcc98
-#EXTINF:-1 tvg-id="18:45-Conference League-Real Betis-Gent" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League-Real Betis-Gent
-http://127.0.0.1:6878/ace/getstream?id=4055cb22a44f48f06c0e3ade3bfd9c804bbab7e7
-#EXTINF:-1 tvg-id="18:45-Conference League-Real Betis-Gent" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League-Real Betis-Gent
-http://127.0.0.1:6878/ace/getstream?id=7274ccecb51b67499c4239eda91d4de6c9af8dd3
-#EXTINF:-1 tvg-id="18:45-Europa League-AS Roma-FC Porto" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Europa League-AS Roma-FC Porto
-http://127.0.0.1:6878/ace/getstream?id=29dfa2835d44bcda0a27200cda0416fdb1cfcc98
-#EXTINF:-1 tvg-id="18:45-Europa League-AS Roma-FC Porto" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Europa League-AS Roma-FC Porto
-http://127.0.0.1:6878/ace/getstream?id=4055cb22a44f48f06c0e3ade3bfd9c804bbab7e7
-#EXTINF:-1 tvg-id="18:45-Europa League-AS Roma-FC Porto" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Europa League-AS Roma-FC Porto
-http://127.0.0.1:6878/ace/getstream?id=7274ccecb51b67499c4239eda91d4de6c9af8dd3
-#EXTINF:-1 tvg-id="18:45-Europa League-AS Roma-FC Porto" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Europa League-AS Roma-FC Porto
-http://127.0.0.1:6878/ace/getstream?id=59e80a6a8295c9365d00bf88f05fba61b0787716
-#EXTINF:-1 tvg-id="18:45-Europa League-AS Roma-FC Porto" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Europa League-AS Roma-FC Porto
-http://127.0.0.1:6878/ace/getstream?id=42f8705aecde8d1f4c5b7c4086690b62d78a275e
-#EXTINF:-1 tvg-id="18:45-Europa League-Bodø Glimt-Twente" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Europa League-Bodø Glimt-Twente
-http://127.0.0.1:6878/ace/getstream?id=29dfa2835d44bcda0a27200cda0416fdb1cfcc98
-#EXTINF:-1 tvg-id="18:45-Europa League-Bodø Glimt-Twente" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Europa League-Bodø Glimt-Twente
-http://127.0.0.1:6878/ace/getstream?id=4055cb22a44f48f06c0e3ade3bfd9c804bbab7e7
-#EXTINF:-1 tvg-id="18:45-Europa League-Bodø Glimt-Twente" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Europa League-Bodø Glimt-Twente
-http://127.0.0.1:6878/ace/getstream?id=7274ccecb51b67499c4239eda91d4de6c9af8dd3
-#EXTINF:-1 tvg-id="18:45-Europa League-Bodø Glimt-Twente" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Europa League-Bodø Glimt-Twente
-http://127.0.0.1:6878/ace/getstream?id=316d845591178e24047678bf67c521c9a9b5c96c
-#EXTINF:-1 tvg-id="18:45-Europa League-FCSB-PAOK FC" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Europa League-FCSB-PAOK FC
-http://127.0.0.1:6878/ace/getstream?id=29dfa2835d44bcda0a27200cda0416fdb1cfcc98
-#EXTINF:-1 tvg-id="18:45-Europa League-FCSB-PAOK FC" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Europa League-FCSB-PAOK FC
-http://127.0.0.1:6878/ace/getstream?id=4055cb22a44f48f06c0e3ade3bfd9c804bbab7e7
-#EXTINF:-1 tvg-id="18:45-Europa League-FCSB-PAOK FC" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Europa League-FCSB-PAOK FC
-http://127.0.0.1:6878/ace/getstream?id=7274ccecb51b67499c4239eda91d4de6c9af8dd3
-#EXTINF:-1 tvg-id="18:45-Europa League-FCSB-PAOK FC" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Europa League-FCSB-PAOK FC
-http://127.0.0.1:6878/ace/getstream?id=9933a06895aada44029ff72bf04fa09ce2596ca9
-#EXTINF:-1 tvg-id="18:45-Europa League-FCSB-PAOK FC" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Europa League-FCSB-PAOK FC
-http://127.0.0.1:6878/ace/getstream?id=9373bd982fa6dec7802f7ab2a58d7931638de1a5
-#EXTINF:-1 tvg-id="18:45-Europa League-Galatasaray-AZ Alkmaar" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Europa League-Galatasaray-AZ Alkmaar
-http://127.0.0.1:6878/ace/getstream?id=29dfa2835d44bcda0a27200cda0416fdb1cfcc98
-#EXTINF:-1 tvg-id="18:45-Europa League-Galatasaray-AZ Alkmaar" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Europa League-Galatasaray-AZ Alkmaar
-http://127.0.0.1:6878/ace/getstream?id=4055cb22a44f48f06c0e3ade3bfd9c804bbab7e7
-#EXTINF:-1 tvg-id="18:45-Europa League-Galatasaray-AZ Alkmaar" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Europa League-Galatasaray-AZ Alkmaar
-http://127.0.0.1:6878/ace/getstream?id=7274ccecb51b67499c4239eda91d4de6c9af8dd3
-#EXTINF:-1 tvg-id="18:45-Europa League-Galatasaray-AZ Alkmaar" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Europa League-Galatasaray-AZ Alkmaar
-http://127.0.0.1:6878/ace/getstream?id=d14c15f63bbfc7ca9dffa0ad259355a7546c6740
-#EXTINF:-1 tvg-id="20:30-Torneo de Río de Janeiro-J. Munar-J. Faria" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:30-Torneo de Río de Janeiro-J. Munar-J. Faria
-http://127.0.0.1:6878/ace/getstream?id=7e3eeaa3cd4f0365cd378d2e88a39630aea0ac48
-#EXTINF:-1 tvg-id="20:30-Torneo de Río de Janeiro-J. Munar-J. Faria" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:30-Torneo de Río de Janeiro-J. Munar-J. Faria
-http://127.0.0.1:6878/ace/getstream?id=675a8080982cc34b6d3c7ce38e2c121458b68ebd
-#EXTINF:-1 tvg-id="20:30-Torneo de Río de Janeiro-J. Munar-J. Faria" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:30-Torneo de Río de Janeiro-J. Munar-J. Faria
-http://127.0.0.1:6878/ace/getstream?id=5dbfe26d5486f962466eba41c63a3e1a042d83bb
-#EXTINF:-1 tvg-id="20:30-Torneo de Río de Janeiro-J. Munar-J. Faria" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:30-Torneo de Río de Janeiro-J. Munar-J. Faria
-http://127.0.0.1:6878/ace/getstream?id=a55df9a3db614b4e92ea7f8612a9624e7a9f226d
-#EXTINF:-1 tvg-id="20:30-Torneo de Río de Janeiro-J. Munar-J. Faria" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:30-Torneo de Río de Janeiro-J. Munar-J. Faria
-http://127.0.0.1:6878/ace/getstream?id=ef3fe310b5f1687fdedd6672c93f27cbeb586f7e
-#EXTINF:-1 tvg-id="20:30-Torneo de Río de Janeiro-J. Munar-J. Faria" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:30-Torneo de Río de Janeiro-J. Munar-J. Faria
-http://127.0.0.1:6878/ace/getstream?id=67ea7c1a0e406884dbbbe0f08100de3132ac2cfd
-#EXTINF:-1 tvg-id="21:00-Conference League-APOEL FC-NK Celje" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League-APOEL FC-NK Celje
-http://127.0.0.1:6878/ace/getstream?id=720c2a7afc922d575d658d98285645683dc9d346
-#EXTINF:-1 tvg-id="21:00-Conference League-APOEL FC-NK Celje" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League-APOEL FC-NK Celje
-http://127.0.0.1:6878/ace/getstream?id=b67ac651bcb2e93fda9dba2a122e083f20394067
-#EXTINF:-1 tvg-id="21:00-Conference League-APOEL FC-NK Celje" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League-APOEL FC-NK Celje
-http://127.0.0.1:6878/ace/getstream?id=10ae32928d1320eb98d4656cd1faa16ad3648e82
-#EXTINF:-1 tvg-id="21:00-Conference League-APOEL FC-NK Celje" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League-APOEL FC-NK Celje
-http://127.0.0.1:6878/ace/getstream?id=ee5ffa2c47cad5f00276904722e9d234def6f14a
-#EXTINF:-1 tvg-id="21:00-Conference League-APOEL FC-NK Celje" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League-APOEL FC-NK Celje
-http://127.0.0.1:6878/ace/getstream?id=7fd55d3cfc6b8b9c3195b1c852c0a04145756247
-#EXTINF:-1 tvg-id="21:00-Conference League-APOEL FC-NK Celje" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League-APOEL FC-NK Celje
-http://127.0.0.1:6878/ace/getstream?id=c691bfa3517ada9c7626c9c82bda7f1a1f6eeac0
-#EXTINF:-1 tvg-id="21:00-Conference League-APOEL FC-NK Celje" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League-APOEL FC-NK Celje
-http://127.0.0.1:6878/ace/getstream?id=29dfa2835d44bcda0a27200cda0416fdb1cfcc98
-#EXTINF:-1 tvg-id="21:00-Conference League-APOEL FC-NK Celje" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League-APOEL FC-NK Celje
-http://127.0.0.1:6878/ace/getstream?id=4055cb22a44f48f06c0e3ade3bfd9c804bbab7e7
-#EXTINF:-1 tvg-id="21:00-Conference League-APOEL FC-NK Celje" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League-APOEL FC-NK Celje
-http://127.0.0.1:6878/ace/getstream?id=7274ccecb51b67499c4239eda91d4de6c9af8dd3
-#EXTINF:-1 tvg-id="21:00-Conference League-APOEL FC-NK Celje" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League-APOEL FC-NK Celje
-http://127.0.0.1:6878/ace/getstream?id=e1d22c7c5f8685496f49308bf00dd2c6906383d7
-#EXTINF:-1 tvg-id="21:00-Conference League-Jagiellonia Bialystok-TSC Bačka Topola" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League-Jagiellonia Bialystok-TSC Bačka Topola
-http://127.0.0.1:6878/ace/getstream?id=720c2a7afc922d575d658d98285645683dc9d346
-#EXTINF:-1 tvg-id="21:00-Conference League-Jagiellonia Bialystok-TSC Bačka Topola" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League-Jagiellonia Bialystok-TSC Bačka Topola
-http://127.0.0.1:6878/ace/getstream?id=b67ac651bcb2e93fda9dba2a122e083f20394067
-#EXTINF:-1 tvg-id="21:00-Conference League-Jagiellonia Bialystok-TSC Bačka Topola" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League-Jagiellonia Bialystok-TSC Bačka Topola
-http://127.0.0.1:6878/ace/getstream?id=10ae32928d1320eb98d4656cd1faa16ad3648e82
-#EXTINF:-1 tvg-id="21:00-Conference League-Jagiellonia Bialystok-TSC Bačka Topola" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League-Jagiellonia Bialystok-TSC Bačka Topola
-http://127.0.0.1:6878/ace/getstream?id=ee5ffa2c47cad5f00276904722e9d234def6f14a
-#EXTINF:-1 tvg-id="21:00-Conference League-Jagiellonia Bialystok-TSC Bačka Topola" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League-Jagiellonia Bialystok-TSC Bačka Topola
-http://127.0.0.1:6878/ace/getstream?id=7fd55d3cfc6b8b9c3195b1c852c0a04145756247
-#EXTINF:-1 tvg-id="21:00-Conference League-Jagiellonia Bialystok-TSC Bačka Topola" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League-Jagiellonia Bialystok-TSC Bačka Topola
-http://127.0.0.1:6878/ace/getstream?id=c691bfa3517ada9c7626c9c82bda7f1a1f6eeac0
-#EXTINF:-1 tvg-id="21:00-Conference League-Jagiellonia Bialystok-TSC Bačka Topola" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League-Jagiellonia Bialystok-TSC Bačka Topola
-http://127.0.0.1:6878/ace/getstream?id=29dfa2835d44bcda0a27200cda0416fdb1cfcc98
-#EXTINF:-1 tvg-id="21:00-Conference League-Jagiellonia Bialystok-TSC Bačka Topola" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League-Jagiellonia Bialystok-TSC Bačka Topola
-http://127.0.0.1:6878/ace/getstream?id=4055cb22a44f48f06c0e3ade3bfd9c804bbab7e7
-#EXTINF:-1 tvg-id="21:00-Conference League-Jagiellonia Bialystok-TSC Bačka Topola" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League-Jagiellonia Bialystok-TSC Bačka Topola
-http://127.0.0.1:6878/ace/getstream?id=7274ccecb51b67499c4239eda91d4de6c9af8dd3
-#EXTINF:-1 tvg-id="21:00-Conference League-Jagiellonia Bialystok-TSC Bačka Topola" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League-Jagiellonia Bialystok-TSC Bačka Topola
-http://127.0.0.1:6878/ace/getstream?id=06109930932efcc3e0695194ef2f3fb3060caa5c
-#EXTINF:-1 tvg-id="21:00-Conference League-Panathinaikos-Víkingur R" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League-Panathinaikos-Víkingur R
-http://127.0.0.1:6878/ace/getstream?id=720c2a7afc922d575d658d98285645683dc9d346
-#EXTINF:-1 tvg-id="21:00-Conference League-Panathinaikos-Víkingur R" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League-Panathinaikos-Víkingur R
-http://127.0.0.1:6878/ace/getstream?id=b67ac651bcb2e93fda9dba2a122e083f20394067
-#EXTINF:-1 tvg-id="21:00-Conference League-Panathinaikos-Víkingur R" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League-Panathinaikos-Víkingur R
-http://127.0.0.1:6878/ace/getstream?id=10ae32928d1320eb98d4656cd1faa16ad3648e82
-#EXTINF:-1 tvg-id="21:00-Conference League-Panathinaikos-Víkingur R" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League-Panathinaikos-Víkingur R
-http://127.0.0.1:6878/ace/getstream?id=ee5ffa2c47cad5f00276904722e9d234def6f14a
-#EXTINF:-1 tvg-id="21:00-Conference League-Panathinaikos-Víkingur R" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League-Panathinaikos-Víkingur R
-http://127.0.0.1:6878/ace/getstream?id=7fd55d3cfc6b8b9c3195b1c852c0a04145756247
-#EXTINF:-1 tvg-id="21:00-Conference League-Panathinaikos-Víkingur R" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League-Panathinaikos-Víkingur R
-http://127.0.0.1:6878/ace/getstream?id=c691bfa3517ada9c7626c9c82bda7f1a1f6eeac0
-#EXTINF:-1 tvg-id="21:00-Conference League-Panathinaikos-Víkingur R" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League-Panathinaikos-Víkingur R
-http://127.0.0.1:6878/ace/getstream?id=29dfa2835d44bcda0a27200cda0416fdb1cfcc98
-#EXTINF:-1 tvg-id="21:00-Conference League-Panathinaikos-Víkingur R" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League-Panathinaikos-Víkingur R
-http://127.0.0.1:6878/ace/getstream?id=4055cb22a44f48f06c0e3ade3bfd9c804bbab7e7
-#EXTINF:-1 tvg-id="21:00-Conference League-Panathinaikos-Víkingur R" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League-Panathinaikos-Víkingur R
-http://127.0.0.1:6878/ace/getstream?id=7274ccecb51b67499c4239eda91d4de6c9af8dd3
-#EXTINF:-1 tvg-id="21:00-Conference League-Panathinaikos-Víkingur R" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League-Panathinaikos-Víkingur R
-http://127.0.0.1:6878/ace/getstream?id=d14c15f63bbfc7ca9dffa0ad259355a7546c6740
-#EXTINF:-1 tvg-id="21:00-Conference League-Shamrock Rovers-Molde" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League-Shamrock Rovers-Molde
-http://127.0.0.1:6878/ace/getstream?id=720c2a7afc922d575d658d98285645683dc9d346
-#EXTINF:-1 tvg-id="21:00-Conference League-Shamrock Rovers-Molde" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League-Shamrock Rovers-Molde
-http://127.0.0.1:6878/ace/getstream?id=b67ac651bcb2e93fda9dba2a122e083f20394067
-#EXTINF:-1 tvg-id="21:00-Conference League-Shamrock Rovers-Molde" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League-Shamrock Rovers-Molde
-http://127.0.0.1:6878/ace/getstream?id=10ae32928d1320eb98d4656cd1faa16ad3648e82
-#EXTINF:-1 tvg-id="21:00-Conference League-Shamrock Rovers-Molde" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League-Shamrock Rovers-Molde
-http://127.0.0.1:6878/ace/getstream?id=ee5ffa2c47cad5f00276904722e9d234def6f14a
-#EXTINF:-1 tvg-id="21:00-Conference League-Shamrock Rovers-Molde" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League-Shamrock Rovers-Molde
-http://127.0.0.1:6878/ace/getstream?id=7fd55d3cfc6b8b9c3195b1c852c0a04145756247
-#EXTINF:-1 tvg-id="21:00-Conference League-Shamrock Rovers-Molde" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League-Shamrock Rovers-Molde
-http://127.0.0.1:6878/ace/getstream?id=c691bfa3517ada9c7626c9c82bda7f1a1f6eeac0
-#EXTINF:-1 tvg-id="21:00-Conference League-Shamrock Rovers-Molde" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League-Shamrock Rovers-Molde
-http://127.0.0.1:6878/ace/getstream?id=29dfa2835d44bcda0a27200cda0416fdb1cfcc98
-#EXTINF:-1 tvg-id="21:00-Conference League-Shamrock Rovers-Molde" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League-Shamrock Rovers-Molde
-http://127.0.0.1:6878/ace/getstream?id=4055cb22a44f48f06c0e3ade3bfd9c804bbab7e7
-#EXTINF:-1 tvg-id="21:00-Conference League-Shamrock Rovers-Molde" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League-Shamrock Rovers-Molde
-http://127.0.0.1:6878/ace/getstream?id=7274ccecb51b67499c4239eda91d4de6c9af8dd3
-#EXTINF:-1 tvg-id="21:00-Conference League-Shamrock Rovers-Molde" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League-Shamrock Rovers-Molde
-http://127.0.0.1:6878/ace/getstream?id=3f97b05f6ccfe65ea2ff303ec9efe8e686a7a4da
-#EXTINF:-1 tvg-id="21:00-Europa League-Ajax-Saint-Gilloise" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League-Ajax-Saint-Gilloise
-http://127.0.0.1:6878/ace/getstream?id=29dfa2835d44bcda0a27200cda0416fdb1cfcc98
-#EXTINF:-1 tvg-id="21:00-Europa League-Ajax-Saint-Gilloise" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League-Ajax-Saint-Gilloise
-http://127.0.0.1:6878/ace/getstream?id=4055cb22a44f48f06c0e3ade3bfd9c804bbab7e7
-#EXTINF:-1 tvg-id="21:00-Europa League-Ajax-Saint-Gilloise" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League-Ajax-Saint-Gilloise
-http://127.0.0.1:6878/ace/getstream?id=7274ccecb51b67499c4239eda91d4de6c9af8dd3
-#EXTINF:-1 tvg-id="21:00-Europa League-Ajax-Saint-Gilloise" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League-Ajax-Saint-Gilloise
-http://127.0.0.1:6878/ace/getstream?id=9933a06895aada44029ff72bf04fa09ce2596ca9
-#EXTINF:-1 tvg-id="21:00-Europa League-Ajax-Saint-Gilloise" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League-Ajax-Saint-Gilloise
-http://127.0.0.1:6878/ace/getstream?id=9373bd982fa6dec7802f7ab2a58d7931638de1a5
-#EXTINF:-1 tvg-id="21:00-Europa League-Ajax-Saint-Gilloise" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League-Ajax-Saint-Gilloise
-http://127.0.0.1:6878/ace/getstream?id=afc498b4f7b6d7587ed076834985a9ea452c9df8
-#EXTINF:-1 tvg-id="21:00-Europa League-Anderlecht-Fenerbahçe" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League-Anderlecht-Fenerbahçe
-http://127.0.0.1:6878/ace/getstream?id=29dfa2835d44bcda0a27200cda0416fdb1cfcc98
-#EXTINF:-1 tvg-id="21:00-Europa League-Anderlecht-Fenerbahçe" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League-Anderlecht-Fenerbahçe
-http://127.0.0.1:6878/ace/getstream?id=4055cb22a44f48f06c0e3ade3bfd9c804bbab7e7
-#EXTINF:-1 tvg-id="21:00-Europa League-Anderlecht-Fenerbahçe" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League-Anderlecht-Fenerbahçe
-http://127.0.0.1:6878/ace/getstream?id=7274ccecb51b67499c4239eda91d4de6c9af8dd3
-#EXTINF:-1 tvg-id="21:00-Europa League-Anderlecht-Fenerbahçe" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League-Anderlecht-Fenerbahçe
-http://127.0.0.1:6878/ace/getstream?id=59e80a6a8295c9365d00bf88f05fba61b0787716
-#EXTINF:-1 tvg-id="21:00-Europa League-Anderlecht-Fenerbahçe" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League-Anderlecht-Fenerbahçe
-http://127.0.0.1:6878/ace/getstream?id=42f8705aecde8d1f4c5b7c4086690b62d78a275e
-#EXTINF:-1 tvg-id="21:00-Europa League-Anderlecht-Fenerbahçe" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League-Anderlecht-Fenerbahçe
-http://127.0.0.1:6878/ace/getstream?id=e9f016c54f25c74c20b1c7d93ab3beafec99c1ff
-#EXTINF:-1 tvg-id="21:00-Europa League-Real Sociedad-FC Midtjylland" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League-Real Sociedad-FC Midtjylland
+#EXTINF:-1 tvg-id="12:00-Champions League-Sorteo Octavos de Final-UEFA TV" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",12:00-Champions League-Sorteo Octavos de Final-UEFA TV
 http://127.0.0.1:6878/ace/getstream?id=000b384859bf2ec421e27a6ca851afeb160e3712
-#EXTINF:-1 tvg-id="21:00-Europa League-Real Sociedad-FC Midtjylland" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League-Real Sociedad-FC Midtjylland
-http://127.0.0.1:6878/ace/getstream?id=a60baf4991755b349b588a490918785f0a5a29c3
-#EXTINF:-1 tvg-id="21:00-Europa League-Real Sociedad-FC Midtjylland" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League-Real Sociedad-FC Midtjylland
+#EXTINF:-1 tvg-id="12:00-Champions League-Sorteo Octavos de Final-UEFA TV" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",12:00-Champions League-Sorteo Octavos de Final-UEFA TV
 http://127.0.0.1:6878/ace/getstream?id=17522a1d20641f167bc2c342a2ae584755be6f11
-#EXTINF:-1 tvg-id="21:00-Europa League-Real Sociedad-FC Midtjylland" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League-Real Sociedad-FC Midtjylland
+#EXTINF:-1 tvg-id="12:00-Champions League-Sorteo Octavos de Final-UEFA TV" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",12:00-Champions League-Sorteo Octavos de Final-UEFA TV
 http://127.0.0.1:6878/ace/getstream?id=5c552dda22c9b00a3b7cf8a1a485034f8d90f978
-#EXTINF:-1 tvg-id="21:00-Europa League-Real Sociedad-FC Midtjylland" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League-Real Sociedad-FC Midtjylland
+#EXTINF:-1 tvg-id="12:00-Champions League-Sorteo Octavos de Final-UEFA TV" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",12:00-Champions League-Sorteo Octavos de Final-UEFA TV
+http://127.0.0.1:6878/ace/getstream?id=a60baf4991755b349b588a490918785f0a5a29c3
+#EXTINF:-1 tvg-id="12:00-Champions League-Sorteo Octavos de Final-UEFA TV" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",12:00-Champions League-Sorteo Octavos de Final-UEFA TV
+http://127.0.0.1:6878/ace/getstream?id=abdf9058786a48623d0de51a3adb414ae10b6e72
+#EXTINF:-1 tvg-id="12:00-Champions League-Sorteo Octavos de Final-UEFA TV" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",12:00-Champions League-Sorteo Octavos de Final-UEFA TV
 http://127.0.0.1:6878/ace/getstream?id=29dfa2835d44bcda0a27200cda0416fdb1cfcc98
-#EXTINF:-1 tvg-id="21:00-Europa League-Real Sociedad-FC Midtjylland" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League-Real Sociedad-FC Midtjylland
+#EXTINF:-1 tvg-id="12:00-Champions League-Sorteo Octavos de Final-UEFA TV" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",12:00-Champions League-Sorteo Octavos de Final-UEFA TV
 http://127.0.0.1:6878/ace/getstream?id=4055cb22a44f48f06c0e3ade3bfd9c804bbab7e7
-#EXTINF:-1 tvg-id="21:00-Europa League-Real Sociedad-FC Midtjylland" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League-Real Sociedad-FC Midtjylland
+#EXTINF:-1 tvg-id="12:00-Champions League-Sorteo Octavos de Final-UEFA TV" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",12:00-Champions League-Sorteo Octavos de Final-UEFA TV
 http://127.0.0.1:6878/ace/getstream?id=7274ccecb51b67499c4239eda91d4de6c9af8dd3
-#EXTINF:-1 tvg-id="21:00-Europa League-Real Sociedad-FC Midtjylland" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League-Real Sociedad-FC Midtjylland
-http://127.0.0.1:6878/ace/getstream?id=a357cb0f77e39380844dbf93ec647156d7f2ded1
-#EXTINF:-1 tvg-id="21:00-Europa League-Viktoria Plzen-Ferencvaros" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League-Viktoria Plzen-Ferencvaros
-http://127.0.0.1:6878/ace/getstream?id=29dfa2835d44bcda0a27200cda0416fdb1cfcc98
-#EXTINF:-1 tvg-id="21:00-Europa League-Viktoria Plzen-Ferencvaros" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League-Viktoria Plzen-Ferencvaros
-http://127.0.0.1:6878/ace/getstream?id=4055cb22a44f48f06c0e3ade3bfd9c804bbab7e7
-#EXTINF:-1 tvg-id="21:00-Europa League-Viktoria Plzen-Ferencvaros" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League-Viktoria Plzen-Ferencvaros
-http://127.0.0.1:6878/ace/getstream?id=7274ccecb51b67499c4239eda91d4de6c9af8dd3
-#EXTINF:-1 tvg-id="21:00-Europa League-Viktoria Plzen-Ferencvaros" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League-Viktoria Plzen-Ferencvaros
+#EXTINF:-1 tvg-id="12:00-Champions League-Sorteo Octavos de Final-UEFA TV" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",12:00-Champions League-Sorteo Octavos de Final-UEFA TV
+http://127.0.0.1:6878/ace/getstream?id=42f8705aecde8d1f4c5b7c4086690b62d78a275e
+#EXTINF:-1 tvg-id="12:00-Champions League-Sorteo Octavos de Final-UEFA TV" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",12:00-Champions League-Sorteo Octavos de Final-UEFA TV
+http://127.0.0.1:6878/ace/getstream?id=59e80a6a8295c9365d00bf88f05fba61b0787716
+#EXTINF:-1 tvg-id="12:00-Champions League-Sorteo Octavos de Final-UEFA TV" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",12:00-Champions League-Sorteo Octavos de Final-UEFA TV
+http://127.0.0.1:6878/ace/getstream?id=9373bd982fa6dec7802f7ab2a58d7931638de1a5
+#EXTINF:-1 tvg-id="12:00-Champions League-Sorteo Octavos de Final-UEFA TV" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",12:00-Champions League-Sorteo Octavos de Final-UEFA TV
+http://127.0.0.1:6878/ace/getstream?id=9933a06895aada44029ff72bf04fa09ce2596ca9
+#EXTINF:-1 tvg-id="12:00-Champions League-Sorteo Octavos de Final-UEFA TV" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",12:00-Champions League-Sorteo Octavos de Final-UEFA TV
 http://127.0.0.1:6878/ace/getstream?id=316d845591178e24047678bf67c521c9a9b5c96c
-#EXTINF:-1 tvg-id="21:00-Europa League-Viktoria Plzen-Ferencvaros" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League-Viktoria Plzen-Ferencvaros
+#EXTINF:-1 tvg-id="12:00-Champions League-Sorteo Octavos de Final-UEFA TV" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",12:00-Champions League-Sorteo Octavos de Final-UEFA TV
+http://127.0.0.1:6878/ace/getstream?id=d14c15f63bbfc7ca9dffa0ad259355a7546c6740
+#EXTINF:-1 tvg-id="12:00-Champions League-Sorteo Octavos de Final-UEFA TV" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",12:00-Champions League-Sorteo Octavos de Final-UEFA TV
+http://127.0.0.1:6878/ace/getstream?id=e1d22c7c5f8685496f49308bf00dd2c6906383d7
+#EXTINF:-1 tvg-id="12:00-Champions League-Sorteo Octavos de Final-UEFA TV" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",12:00-Champions League-Sorteo Octavos de Final-UEFA TV
+http://127.0.0.1:6878/ace/getstream?id=3f97b05f6ccfe65ea2ff303ec9efe8e686a7a4da
+#EXTINF:-1 tvg-id="12:00-Champions League-Sorteo Octavos de Final-UEFA TV" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",12:00-Champions League-Sorteo Octavos de Final-UEFA TV
+http://127.0.0.1:6878/ace/getstream?id=06109930932efcc3e0695194ef2f3fb3060caa5c
+#EXTINF:-1 tvg-id="12:00-Champions League-Sorteo Octavos de Final-UEFA TV" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",12:00-Champions League-Sorteo Octavos de Final-UEFA TV
+http://127.0.0.1:6878/ace/getstream?id=e9f016c54f25c74c20b1c7d93ab3beafec99c1ff
+#EXTINF:-1 tvg-id="12:00-Champions League-Sorteo Octavos de Final-UEFA TV" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",12:00-Champions League-Sorteo Octavos de Final-UEFA TV
+http://127.0.0.1:6878/ace/getstream?id=afc498b4f7b6d7587ed076834985a9ea452c9df8
+#EXTINF:-1 tvg-id="12:00-Champions League-Sorteo Octavos de Final-UEFA TV" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",12:00-Champions League-Sorteo Octavos de Final-UEFA TV
 http://127.0.0.1:6878/ace/getstream?id=bf52fd49623e3424ee22211998f885c413e92d19
-#EXTINF:-1 tvg-id="23:00-Torneo de Río de Janeiro-F. Cerúndolo-L. Darderi" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",23:00-Torneo de Río de Janeiro-F. Cerúndolo-L. Darderi
-http://127.0.0.1:6878/ace/getstream?id=7e3eeaa3cd4f0365cd378d2e88a39630aea0ac48
-#EXTINF:-1 tvg-id="23:00-Torneo de Río de Janeiro-F. Cerúndolo-L. Darderi" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",23:00-Torneo de Río de Janeiro-F. Cerúndolo-L. Darderi
-http://127.0.0.1:6878/ace/getstream?id=675a8080982cc34b6d3c7ce38e2c121458b68ebd
+#EXTINF:-1 tvg-id="12:00-Champions League-Sorteo Octavos de Final-UEFA TV" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",12:00-Champions League-Sorteo Octavos de Final-UEFA TV
+http://127.0.0.1:6878/ace/getstream?id=1af33acc7f62006ad2263f1bd084cf8ff1714f15
+#EXTINF:-1 tvg-id="12:00-Champions League-Sorteo Octavos de Final-UEFA TV" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",12:00-Champions League-Sorteo Octavos de Final-UEFA TV
+http://127.0.0.1:6878/ace/getstream?id=ebb1591965b4795a47f00befb47d75f4dfbf70d9
+#EXTINF:-1 tvg-id="12:00-Champions League-Sorteo Octavos de Final-UEFA TV" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",12:00-Champions League-Sorteo Octavos de Final-UEFA TV
+http://127.0.0.1:6878/ace/getstream?id=2ce7d47af336c0ff8b812941d7a1606aa0b26553
+#EXTINF:-1 tvg-id="12:00-Champions League-Sorteo Octavos de Final-UEFA TV" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",12:00-Champions League-Sorteo Octavos de Final-UEFA TV
+http://127.0.0.1:6878/ace/getstream?id=139bbb0b3992f92fb0b0983f491ac6a209614530
+#EXTINF:-1 tvg-id="12:00-Champions League-Sorteo Octavos de Final-UEFA TV" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",12:00-Champions League-Sorteo Octavos de Final-UEFA TV
+http://127.0.0.1:6878/ace/getstream?id=a357cb0f77e39380844dbf93ec647156d7f2ded1
+#EXTINF:-1 tvg-id="12:00-Champions League-Sorteo Octavos de Final-UEFA TV" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",12:00-Champions League-Sorteo Octavos de Final-UEFA TV
+http://127.0.0.1:6878/ace/getstream?id=2c6e4c897661e6b0257bfe931b66d20b2ec763b6
+#EXTINF:-1 tvg-id="12:00-Champions League-Sorteo Octavos de Final-UEFA TV" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",12:00-Champions League-Sorteo Octavos de Final-UEFA TV
+http://127.0.0.1:6878/ace/getstream?id=71eef80158aa8b37f3dc59f6793c6696df9a2dfa
+#EXTINF:-1 tvg-id="12:00-Champions League-Sorteo Octavos de Final-UEFA TV" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",12:00-Champions League-Sorteo Octavos de Final-UEFA TV
+http://127.0.0.1:6878/ace/getstream?id=d6281d4e6310269b416180442a470d23a4a99dc9
+#EXTINF:-1 tvg-id="12:00-Champions League-Sorteo Octavos de Final-UEFA TV" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",12:00-Champions League-Sorteo Octavos de Final-UEFA TV
+http://127.0.0.1:6878/ace/getstream?id=268289e7a3c5209960b53b4d43c8c65fab294b85
+#EXTINF:-1 tvg-id="12:00-Champions League-Sorteo Octavos de Final-UEFA TV" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",12:00-Champions League-Sorteo Octavos de Final-UEFA TV
+http://127.0.0.1:6878/ace/getstream?id=df6c0d5a3c9f95251c0a99d46e945c5cbe3d37b0
+#EXTINF:-1 tvg-id="12:00-Champions League-Sorteo Octavos de Final-UEFA TV" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",12:00-Champions League-Sorteo Octavos de Final-UEFA TV
+http://127.0.0.1:6878/ace/getstream?id=6259b1b33c51d795c90eedfaeaffc87e25a824bf
+#EXTINF:-1 tvg-id="13:00-Europa League-Sorteo Octavos de Final-UEFA TV" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",13:00-Europa League-Sorteo Octavos de Final-UEFA TV
+http://127.0.0.1:6878/ace/getstream?id=608b0faf7d3d25f6fe5dba13d5e4b4142949990e
+#EXTINF:-1 tvg-id="13:00-Europa League-Sorteo Octavos de Final-UEFA TV" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",13:00-Europa League-Sorteo Octavos de Final-UEFA TV
+http://127.0.0.1:6878/ace/getstream?id=10ae32928d1320eb98d4656cd1faa16ad3648e82
+#EXTINF:-1 tvg-id="13:00-Europa League-Sorteo Octavos de Final-UEFA TV" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",13:00-Europa League-Sorteo Octavos de Final-UEFA TV
+http://127.0.0.1:6878/ace/getstream?id=720c2a7afc922d575d658d98285645683dc9d346
+#EXTINF:-1 tvg-id="13:00-Europa League-Sorteo Octavos de Final-UEFA TV" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",13:00-Europa League-Sorteo Octavos de Final-UEFA TV
+http://127.0.0.1:6878/ace/getstream?id=b67ac651bcb2e93fda9dba2a122e083f20394067
+#EXTINF:-1 tvg-id="13:00-Europa League-Sorteo Octavos de Final-UEFA TV" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",13:00-Europa League-Sorteo Octavos de Final-UEFA TV
+http://127.0.0.1:6878/ace/getstream?id=ee5ffa2c47cad5f00276904722e9d234def6f14a
+#EXTINF:-1 tvg-id="13:00-Europa League-Sorteo Octavos de Final-UEFA TV" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",13:00-Europa League-Sorteo Octavos de Final-UEFA TV
+http://127.0.0.1:6878/ace/getstream?id=7fd55d3cfc6b8b9c3195b1c852c0a04145756247
+#EXTINF:-1 tvg-id="13:00-Europa League-Sorteo Octavos de Final-UEFA TV" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",13:00-Europa League-Sorteo Octavos de Final-UEFA TV
+http://127.0.0.1:6878/ace/getstream?id=c691bfa3517ada9c7626c9c82bda7f1a1f6eeac0
+#EXTINF:-1 tvg-id="13:00-Europa League-Sorteo Octavos de Final-UEFA TV" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",13:00-Europa League-Sorteo Octavos de Final-UEFA TV
+http://127.0.0.1:6878/ace/getstream?id=000b384859bf2ec421e27a6ca851afeb160e3712
+#EXTINF:-1 tvg-id="13:00-Europa League-Sorteo Octavos de Final-UEFA TV" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",13:00-Europa League-Sorteo Octavos de Final-UEFA TV
+http://127.0.0.1:6878/ace/getstream?id=17522a1d20641f167bc2c342a2ae584755be6f11
+#EXTINF:-1 tvg-id="13:00-Europa League-Sorteo Octavos de Final-UEFA TV" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",13:00-Europa League-Sorteo Octavos de Final-UEFA TV
+http://127.0.0.1:6878/ace/getstream?id=5c552dda22c9b00a3b7cf8a1a485034f8d90f978
+#EXTINF:-1 tvg-id="13:00-Europa League-Sorteo Octavos de Final-UEFA TV" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",13:00-Europa League-Sorteo Octavos de Final-UEFA TV
+http://127.0.0.1:6878/ace/getstream?id=a60baf4991755b349b588a490918785f0a5a29c3
+#EXTINF:-1 tvg-id="13:00-Europa League-Sorteo Octavos de Final-UEFA TV" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",13:00-Europa League-Sorteo Octavos de Final-UEFA TV
+http://127.0.0.1:6878/ace/getstream?id=abdf9058786a48623d0de51a3adb414ae10b6e72
+#EXTINF:-1 tvg-id="13:00-Europa League-Sorteo Octavos de Final-UEFA TV" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",13:00-Europa League-Sorteo Octavos de Final-UEFA TV
+http://127.0.0.1:6878/ace/getstream?id=29dfa2835d44bcda0a27200cda0416fdb1cfcc98
+#EXTINF:-1 tvg-id="13:00-Europa League-Sorteo Octavos de Final-UEFA TV" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",13:00-Europa League-Sorteo Octavos de Final-UEFA TV
+http://127.0.0.1:6878/ace/getstream?id=4055cb22a44f48f06c0e3ade3bfd9c804bbab7e7
+#EXTINF:-1 tvg-id="13:00-Europa League-Sorteo Octavos de Final-UEFA TV" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",13:00-Europa League-Sorteo Octavos de Final-UEFA TV
+http://127.0.0.1:6878/ace/getstream?id=7274ccecb51b67499c4239eda91d4de6c9af8dd3
+#EXTINF:-1 tvg-id="13:00-Europa League-Sorteo Octavos de Final-UEFA TV" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",13:00-Europa League-Sorteo Octavos de Final-UEFA TV
+http://127.0.0.1:6878/ace/getstream?id=42f8705aecde8d1f4c5b7c4086690b62d78a275e
+#EXTINF:-1 tvg-id="13:00-Europa League-Sorteo Octavos de Final-UEFA TV" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",13:00-Europa League-Sorteo Octavos de Final-UEFA TV
+http://127.0.0.1:6878/ace/getstream?id=59e80a6a8295c9365d00bf88f05fba61b0787716
+#EXTINF:-1 tvg-id="13:00-Europa League-Sorteo Octavos de Final-UEFA TV" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",13:00-Europa League-Sorteo Octavos de Final-UEFA TV
+http://127.0.0.1:6878/ace/getstream?id=9373bd982fa6dec7802f7ab2a58d7931638de1a5
+#EXTINF:-1 tvg-id="13:00-Europa League-Sorteo Octavos de Final-UEFA TV" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",13:00-Europa League-Sorteo Octavos de Final-UEFA TV
+http://127.0.0.1:6878/ace/getstream?id=9933a06895aada44029ff72bf04fa09ce2596ca9
+#EXTINF:-1 tvg-id="13:00-Europa League-Sorteo Octavos de Final-UEFA TV" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",13:00-Europa League-Sorteo Octavos de Final-UEFA TV
+http://127.0.0.1:6878/ace/getstream?id=316d845591178e24047678bf67c521c9a9b5c96c
+#EXTINF:-1 tvg-id="13:00-Europa League-Sorteo Octavos de Final-UEFA TV" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",13:00-Europa League-Sorteo Octavos de Final-UEFA TV
+http://127.0.0.1:6878/ace/getstream?id=d14c15f63bbfc7ca9dffa0ad259355a7546c6740
+#EXTINF:-1 tvg-id="13:00-Europa League-Sorteo Octavos de Final-UEFA TV" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",13:00-Europa League-Sorteo Octavos de Final-UEFA TV
+http://127.0.0.1:6878/ace/getstream?id=e1d22c7c5f8685496f49308bf00dd2c6906383d7
+#EXTINF:-1 tvg-id="13:00-Europa League-Sorteo Octavos de Final-UEFA TV" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",13:00-Europa League-Sorteo Octavos de Final-UEFA TV
+http://127.0.0.1:6878/ace/getstream?id=3f97b05f6ccfe65ea2ff303ec9efe8e686a7a4da
+#EXTINF:-1 tvg-id="13:00-Europa League-Sorteo Octavos de Final-UEFA TV" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",13:00-Europa League-Sorteo Octavos de Final-UEFA TV
+http://127.0.0.1:6878/ace/getstream?id=06109930932efcc3e0695194ef2f3fb3060caa5c
+#EXTINF:-1 tvg-id="13:00-Europa League-Sorteo Octavos de Final-UEFA TV" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",13:00-Europa League-Sorteo Octavos de Final-UEFA TV
+http://127.0.0.1:6878/ace/getstream?id=e9f016c54f25c74c20b1c7d93ab3beafec99c1ff
+#EXTINF:-1 tvg-id="13:00-Europa League-Sorteo Octavos de Final-UEFA TV" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",13:00-Europa League-Sorteo Octavos de Final-UEFA TV
+http://127.0.0.1:6878/ace/getstream?id=afc498b4f7b6d7587ed076834985a9ea452c9df8
+#EXTINF:-1 tvg-id="13:00-Europa League-Sorteo Octavos de Final-UEFA TV" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",13:00-Europa League-Sorteo Octavos de Final-UEFA TV
+http://127.0.0.1:6878/ace/getstream?id=bf52fd49623e3424ee22211998f885c413e92d19
+#EXTINF:-1 tvg-id="13:00-Europa League-Sorteo Octavos de Final-UEFA TV" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",13:00-Europa League-Sorteo Octavos de Final-UEFA TV
+http://127.0.0.1:6878/ace/getstream?id=1af33acc7f62006ad2263f1bd084cf8ff1714f15
+#EXTINF:-1 tvg-id="13:00-Europa League-Sorteo Octavos de Final-UEFA TV" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",13:00-Europa League-Sorteo Octavos de Final-UEFA TV
+http://127.0.0.1:6878/ace/getstream?id=ebb1591965b4795a47f00befb47d75f4dfbf70d9
+#EXTINF:-1 tvg-id="13:00-Europa League-Sorteo Octavos de Final-UEFA TV" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",13:00-Europa League-Sorteo Octavos de Final-UEFA TV
+http://127.0.0.1:6878/ace/getstream?id=2ce7d47af336c0ff8b812941d7a1606aa0b26553
+#EXTINF:-1 tvg-id="13:00-Europa League-Sorteo Octavos de Final-UEFA TV" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",13:00-Europa League-Sorteo Octavos de Final-UEFA TV
+http://127.0.0.1:6878/ace/getstream?id=139bbb0b3992f92fb0b0983f491ac6a209614530
+#EXTINF:-1 tvg-id="13:00-Europa League-Sorteo Octavos de Final-UEFA TV" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",13:00-Europa League-Sorteo Octavos de Final-UEFA TV
+http://127.0.0.1:6878/ace/getstream?id=a357cb0f77e39380844dbf93ec647156d7f2ded1
+#EXTINF:-1 tvg-id="13:00-Europa League-Sorteo Octavos de Final-UEFA TV" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",13:00-Europa League-Sorteo Octavos de Final-UEFA TV
+http://127.0.0.1:6878/ace/getstream?id=ef0cc1d80245e969638d0754314243b6040d46c9
+#EXTINF:-1 tvg-id="13:00-Europa League-Sorteo Octavos de Final-UEFA TV" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",13:00-Europa League-Sorteo Octavos de Final-UEFA TV
+http://127.0.0.1:6878/ace/getstream?id=6259b1b33c51d795c90eedfaeaffc87e25a824bf
+#EXTINF:-1 tvg-id="14:00-Conference League-Sorteo Octavos de Final-UEFA TV" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",14:00-Conference League-Sorteo Octavos de Final-UEFA TV
+http://127.0.0.1:6878/ace/getstream?id=608b0faf7d3d25f6fe5dba13d5e4b4142949990e
+#EXTINF:-1 tvg-id="14:00-Conference League-Sorteo Octavos de Final-UEFA TV" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",14:00-Conference League-Sorteo Octavos de Final-UEFA TV
+http://127.0.0.1:6878/ace/getstream?id=10ae32928d1320eb98d4656cd1faa16ad3648e82
+#EXTINF:-1 tvg-id="14:00-Conference League-Sorteo Octavos de Final-UEFA TV" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",14:00-Conference League-Sorteo Octavos de Final-UEFA TV
+http://127.0.0.1:6878/ace/getstream?id=720c2a7afc922d575d658d98285645683dc9d346
+#EXTINF:-1 tvg-id="14:00-Conference League-Sorteo Octavos de Final-UEFA TV" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",14:00-Conference League-Sorteo Octavos de Final-UEFA TV
+http://127.0.0.1:6878/ace/getstream?id=b67ac651bcb2e93fda9dba2a122e083f20394067
+#EXTINF:-1 tvg-id="14:00-Conference League-Sorteo Octavos de Final-UEFA TV" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",14:00-Conference League-Sorteo Octavos de Final-UEFA TV
+http://127.0.0.1:6878/ace/getstream?id=ee5ffa2c47cad5f00276904722e9d234def6f14a
+#EXTINF:-1 tvg-id="14:00-Conference League-Sorteo Octavos de Final-UEFA TV" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",14:00-Conference League-Sorteo Octavos de Final-UEFA TV
+http://127.0.0.1:6878/ace/getstream?id=7fd55d3cfc6b8b9c3195b1c852c0a04145756247
+#EXTINF:-1 tvg-id="14:00-Conference League-Sorteo Octavos de Final-UEFA TV" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",14:00-Conference League-Sorteo Octavos de Final-UEFA TV
+http://127.0.0.1:6878/ace/getstream?id=c691bfa3517ada9c7626c9c82bda7f1a1f6eeac0
+#EXTINF:-1 tvg-id="14:00-Conference League-Sorteo Octavos de Final-UEFA TV" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",14:00-Conference League-Sorteo Octavos de Final-UEFA TV
+http://127.0.0.1:6878/ace/getstream?id=000b384859bf2ec421e27a6ca851afeb160e3712
+#EXTINF:-1 tvg-id="14:00-Conference League-Sorteo Octavos de Final-UEFA TV" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",14:00-Conference League-Sorteo Octavos de Final-UEFA TV
+http://127.0.0.1:6878/ace/getstream?id=17522a1d20641f167bc2c342a2ae584755be6f11
+#EXTINF:-1 tvg-id="14:00-Conference League-Sorteo Octavos de Final-UEFA TV" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",14:00-Conference League-Sorteo Octavos de Final-UEFA TV
+http://127.0.0.1:6878/ace/getstream?id=5c552dda22c9b00a3b7cf8a1a485034f8d90f978
+#EXTINF:-1 tvg-id="14:00-Conference League-Sorteo Octavos de Final-UEFA TV" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",14:00-Conference League-Sorteo Octavos de Final-UEFA TV
+http://127.0.0.1:6878/ace/getstream?id=a60baf4991755b349b588a490918785f0a5a29c3
+#EXTINF:-1 tvg-id="14:00-Conference League-Sorteo Octavos de Final-UEFA TV" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",14:00-Conference League-Sorteo Octavos de Final-UEFA TV
+http://127.0.0.1:6878/ace/getstream?id=abdf9058786a48623d0de51a3adb414ae10b6e72
+#EXTINF:-1 tvg-id="14:00-Conference League-Sorteo Octavos de Final-UEFA TV" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",14:00-Conference League-Sorteo Octavos de Final-UEFA TV
+http://127.0.0.1:6878/ace/getstream?id=29dfa2835d44bcda0a27200cda0416fdb1cfcc98
+#EXTINF:-1 tvg-id="14:00-Conference League-Sorteo Octavos de Final-UEFA TV" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",14:00-Conference League-Sorteo Octavos de Final-UEFA TV
+http://127.0.0.1:6878/ace/getstream?id=4055cb22a44f48f06c0e3ade3bfd9c804bbab7e7
+#EXTINF:-1 tvg-id="14:00-Conference League-Sorteo Octavos de Final-UEFA TV" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",14:00-Conference League-Sorteo Octavos de Final-UEFA TV
+http://127.0.0.1:6878/ace/getstream?id=7274ccecb51b67499c4239eda91d4de6c9af8dd3
+#EXTINF:-1 tvg-id="14:00-Conference League-Sorteo Octavos de Final-UEFA TV" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",14:00-Conference League-Sorteo Octavos de Final-UEFA TV
+http://127.0.0.1:6878/ace/getstream?id=42f8705aecde8d1f4c5b7c4086690b62d78a275e
+#EXTINF:-1 tvg-id="14:00-Conference League-Sorteo Octavos de Final-UEFA TV" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",14:00-Conference League-Sorteo Octavos de Final-UEFA TV
+http://127.0.0.1:6878/ace/getstream?id=59e80a6a8295c9365d00bf88f05fba61b0787716
+#EXTINF:-1 tvg-id="14:00-Conference League-Sorteo Octavos de Final-UEFA TV" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",14:00-Conference League-Sorteo Octavos de Final-UEFA TV
+http://127.0.0.1:6878/ace/getstream?id=9373bd982fa6dec7802f7ab2a58d7931638de1a5
+#EXTINF:-1 tvg-id="14:00-Conference League-Sorteo Octavos de Final-UEFA TV" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",14:00-Conference League-Sorteo Octavos de Final-UEFA TV
+http://127.0.0.1:6878/ace/getstream?id=9933a06895aada44029ff72bf04fa09ce2596ca9
+#EXTINF:-1 tvg-id="14:00-Conference League-Sorteo Octavos de Final-UEFA TV" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",14:00-Conference League-Sorteo Octavos de Final-UEFA TV
+http://127.0.0.1:6878/ace/getstream?id=316d845591178e24047678bf67c521c9a9b5c96c
+#EXTINF:-1 tvg-id="14:00-Conference League-Sorteo Octavos de Final-UEFA TV" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",14:00-Conference League-Sorteo Octavos de Final-UEFA TV
+http://127.0.0.1:6878/ace/getstream?id=d14c15f63bbfc7ca9dffa0ad259355a7546c6740
+#EXTINF:-1 tvg-id="14:00-Conference League-Sorteo Octavos de Final-UEFA TV" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",14:00-Conference League-Sorteo Octavos de Final-UEFA TV
+http://127.0.0.1:6878/ace/getstream?id=e1d22c7c5f8685496f49308bf00dd2c6906383d7
+#EXTINF:-1 tvg-id="14:00-Conference League-Sorteo Octavos de Final-UEFA TV" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",14:00-Conference League-Sorteo Octavos de Final-UEFA TV
+http://127.0.0.1:6878/ace/getstream?id=3f97b05f6ccfe65ea2ff303ec9efe8e686a7a4da
+#EXTINF:-1 tvg-id="14:00-Conference League-Sorteo Octavos de Final-UEFA TV" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",14:00-Conference League-Sorteo Octavos de Final-UEFA TV
+http://127.0.0.1:6878/ace/getstream?id=06109930932efcc3e0695194ef2f3fb3060caa5c
+#EXTINF:-1 tvg-id="14:00-Conference League-Sorteo Octavos de Final-UEFA TV" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",14:00-Conference League-Sorteo Octavos de Final-UEFA TV
+http://127.0.0.1:6878/ace/getstream?id=e9f016c54f25c74c20b1c7d93ab3beafec99c1ff
+#EXTINF:-1 tvg-id="14:00-Conference League-Sorteo Octavos de Final-UEFA TV" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",14:00-Conference League-Sorteo Octavos de Final-UEFA TV
+http://127.0.0.1:6878/ace/getstream?id=afc498b4f7b6d7587ed076834985a9ea452c9df8
+#EXTINF:-1 tvg-id="14:00-Conference League-Sorteo Octavos de Final-UEFA TV" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",14:00-Conference League-Sorteo Octavos de Final-UEFA TV
+http://127.0.0.1:6878/ace/getstream?id=bf52fd49623e3424ee22211998f885c413e92d19
+#EXTINF:-1 tvg-id="14:00-Conference League-Sorteo Octavos de Final-UEFA TV" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",14:00-Conference League-Sorteo Octavos de Final-UEFA TV
+http://127.0.0.1:6878/ace/getstream?id=1af33acc7f62006ad2263f1bd084cf8ff1714f15
+#EXTINF:-1 tvg-id="14:00-Conference League-Sorteo Octavos de Final-UEFA TV" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",14:00-Conference League-Sorteo Octavos de Final-UEFA TV
+http://127.0.0.1:6878/ace/getstream?id=ebb1591965b4795a47f00befb47d75f4dfbf70d9
+#EXTINF:-1 tvg-id="14:00-Conference League-Sorteo Octavos de Final-UEFA TV" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",14:00-Conference League-Sorteo Octavos de Final-UEFA TV
+http://127.0.0.1:6878/ace/getstream?id=2ce7d47af336c0ff8b812941d7a1606aa0b26553
+#EXTINF:-1 tvg-id="14:00-Conference League-Sorteo Octavos de Final-UEFA TV" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",14:00-Conference League-Sorteo Octavos de Final-UEFA TV
+http://127.0.0.1:6878/ace/getstream?id=139bbb0b3992f92fb0b0983f491ac6a209614530
+#EXTINF:-1 tvg-id="14:00-Conference League-Sorteo Octavos de Final-UEFA TV" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",14:00-Conference League-Sorteo Octavos de Final-UEFA TV
+http://127.0.0.1:6878/ace/getstream?id=a357cb0f77e39380844dbf93ec647156d7f2ded1
+#EXTINF:-1 tvg-id="20:30-Segunda-Málaga-CD Tenerife" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",20:30-Segunda-Málaga-CD Tenerife
+http://127.0.0.1:6878/ace/getstream?id=b2706a7ffbea236a3b398139a3a606ada664c0eb
+#EXTINF:-1 tvg-id="20:30-Segunda-Málaga-CD Tenerife" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",20:30-Segunda-Málaga-CD Tenerife
+http://127.0.0.1:6878/ace/getstream?id=5dbfe26d5486f962466eba41c63a3e1a042d83bb
+#EXTINF:-1 tvg-id="20:30-Segunda-Málaga-CD Tenerife" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",20:30-Segunda-Málaga-CD Tenerife
+http://127.0.0.1:6878/ace/getstream?id=a55df9a3db614b4e92ea7f8612a9624e7a9f226d
+#EXTINF:-1 tvg-id="20:30-Segunda-Málaga-CD Tenerife" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",20:30-Segunda-Málaga-CD Tenerife
+http://127.0.0.1:6878/ace/getstream?id=ef3fe310b5f1687fdedd6672c93f27cbeb586f7e
+#EXTINF:-1 tvg-id="20:30-Segunda-Málaga-CD Tenerife" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",20:30-Segunda-Málaga-CD Tenerife
+http://127.0.0.1:6878/ace/getstream?id=67ea7c1a0e406884dbbbe0f08100de3132ac2cfd
+#EXTINF:-1 tvg-id="20:30-Segunda-Málaga-CD Tenerife" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",20:30-Segunda-Málaga-CD Tenerife
+http://127.0.0.1:6878/ace/getstream?id=12ba546d229bc39f01c3c18988a034b215fe6adb
+#EXTINF:-1 tvg-id="20:30-Segunda-Málaga-CD Tenerife" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",20:30-Segunda-Málaga-CD Tenerife
+http://127.0.0.1:6878/ace/getstream?id=d03c13b6723f66155d7a0df3692a3b073fe630f2
+#EXTINF:-1 tvg-id="21:00-Primera-Celta-Osasuna" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera-Celta-Osasuna
+http://127.0.0.1:6878/ace/getstream?id=6d05b31e5e8fdae312fbd57897363a7b10ddb163
+#EXTINF:-1 tvg-id="21:00-Primera-Celta-Osasuna" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera-Celta-Osasuna
+http://127.0.0.1:6878/ace/getstream?id=d3de78aebe544611a2347f54d5796bd87f16c92d
+#EXTINF:-1 tvg-id="21:00-Primera-Celta-Osasuna" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera-Celta-Osasuna
+http://127.0.0.1:6878/ace/getstream?id=94d34491106e00394835c8cb68aa94481339b53f
+#EXTINF:-1 tvg-id="21:00-Primera-Celta-Osasuna" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera-Celta-Osasuna
+http://127.0.0.1:6878/ace/getstream?id=1bc437bce57b4b0450f6d1f8d818b7e97000745e
+#EXTINF:-1 tvg-id="21:00-Primera-Celta-Osasuna" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera-Celta-Osasuna
+http://127.0.0.1:6878/ace/getstream?id=568c70efeb56e04ee6245d9bcdf88e06bc270a9e
+#EXTINF:-1 tvg-id="21:00-Primera-Celta-Osasuna" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera-Celta-Osasuna
+http://127.0.0.1:6878/ace/getstream?id=784c6a44fa26724945f63080c4a739165d8cde4c
+#EXTINF:-1 tvg-id="21:00-Primera-Celta-Osasuna" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera-Celta-Osasuna
+http://127.0.0.1:6878/ace/getstream?id=1ce2166753aa886e01c6f111e404ca6af0329ce0
+#EXTINF:-1 tvg-id="21:00-Primera-Celta-Osasuna" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera-Celta-Osasuna
+http://127.0.0.1:6878/ace/getstream?id=608b0faf7d3d25f6fe5dba13d5e4b4142949990e
+#EXTINF:-1 tvg-id="21:00-Premier League-Leicester City-Brentford" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Premier League-Leicester City-Brentford
+http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 tvg-id="21:00-Premier League-Leicester City-Brentford" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Premier League-Leicester City-Brentford
+http://127.0.0.1:6878/ace/getstream?id=8aedbf4be7908834a27afd37b4bce6eb44559bde
+#EXTINF:-1 tvg-id="21:00-Premier League-Leicester City-Brentford" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Premier League-Leicester City-Brentford
+http://127.0.0.1:6878/ace/getstream?id=9231dbffec043dfdd44f90025241d684e2c9515b
+#EXTINF:-1 tvg-id="21:00-Premier League-Leicester City-Brentford" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Premier League-Leicester City-Brentford
+http://127.0.0.1:6878/ace/getstream?id=b8b8c3cef92fca5061b9e75da3fbbfa8e94425ed
+#EXTINF:-1 tvg-id="21:00-Premier League-Leicester City-Brentford" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Premier League-Leicester City-Brentford
+http://127.0.0.1:6878/ace/getstream?id=d9c40027c3b10dac0d3cb68906b7cde37132c76c
+#EXTINF:-1 tvg-id="21:00-Premier League-Leicester City-Brentford" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Premier League-Leicester City-Brentford
+http://127.0.0.1:6878/ace/getstream?id=ef1e0c8799b331efe144a91317e35b064c54ec0c
+#EXTINF:-1 tvg-id="21:00-Premier League-Leicester City-Brentford" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Premier League-Leicester City-Brentford
+http://127.0.0.1:6878/ace/getstream?id=446f322c9aefb4f308cc24743d80679ca7a253a8
+#EXTINF:-1 tvg-id="21:00-Premier League-Leicester City-Brentford" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Premier League-Leicester City-Brentford
+http://127.0.0.1:6878/ace/getstream?id=e01a2f055a0e34430add3b9c089711e119e1d0c7
+#EXTINF:-1 tvg-id="21:00-Premier League-Leicester City-Brentford" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Premier League-Leicester City-Brentford
+http://127.0.0.1:6878/ace/getstream?id=35c7f0c966ecde3390f4510bb4caded40018c07a
