@@ -77,6 +77,8 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=a8c2172268eb168dc5ab00a69fed238ca73a0
 http://127.0.0.1:6878/ace/manifest.m3u8?id=b5f549da9cafaffab01fb04567ce8a5ad4416b5c
 #EXTINF:-1 tvg-id="DAZN LaLiga" group-title="New Era",DAZN LaLiga
 http://127.0.0.1:6878/ace/manifest.m3u8?id=6af2f3a87ae20480dea6ef574dbec169fbd1099f
+#EXTINF:-1 tvg-id="DAZN LaLiga" group-title="New Era",DAZN LaLiga
+http://127.0.0.1:6878/ace/manifest.m3u8?id=a5144874f66a0872fd0b5a484cd426eb7d8eaa26
 #EXTINF:-1 tvg-id="DAZN LaLiga" group-title="Elcano",DAZN LaLiga
 http://127.0.0.1:6878/ace/manifest.m3u8?id=110d441ddc9713a7452588770d2bc85504672f47
 #EXTINF:-1 tvg-id="DAZN LaLiga" group-title="Elcano",DAZN LaLiga
