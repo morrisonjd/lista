@@ -47,6 +47,10 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=aff68366395db9735fc1ddb03ed642adb72fc
 http://127.0.0.1:6878/ace/manifest.m3u8?id=a55df9a3db614b4e92ea7f8612a9624e7a9f226d
 #EXTINF:-1 tvg-id="M+ Vamos" group-title="New Era",M+ Vamos
 http://127.0.0.1:6878/ace/manifest.m3u8?id=ab42fb57e3b30d0dac87d1ddc3eaeb7e5b0f2d62
+#EXTINF:-1 tvg-id="M+ LaLiga TV" group-title="New Era",M+ LaLiga TV
+http://127.0.0.1:6878/ace/manifest.m3u8?id=11efea276121f861054d0b1525dda0ff60d5c3d5
+#EXTINF:-1 tvg-id="M+ LaLiga TV" group-title="New Era",M+ LaLiga TV
+http://127.0.0.1:6878/ace/manifest.m3u8?id=7c70daff87373a903d92490ad3dc811723969e08
 #EXTINF:-1 tvg-id="M+ LaLiga TV" group-title="New Loop",M+ LaLiga TV
 http://127.0.0.1:6878/ace/manifest.m3u8?id=cc9b7f5fe416069a2110da0909b0f915043c468b
 #EXTINF:-1 tvg-id="M+ LaLiga TV" group-title="New Loop",M+ LaLiga TV
@@ -89,6 +93,8 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=b2706a7ffbea236a3b398139a3a606ada664c
 http://127.0.0.1:6878/ace/manifest.m3u8?id=121f719ebb94193c6086ef92865cf9b197750980
 #EXTINF:-1 tvg-id="LaLiga TV Hypermotion" group-title="Tronoss",LaLiga TV Hypermotion
 http://127.0.0.1:6878/ace/manifest.m3u8?id=36ddbf6b7374754211eac2ec3aa9519b7abb3041
+#EXTINF:-1 tvg-id="LaLiga TV Hypermotion" group-title="New Era",LaLiga TV Hypermotion
+http://127.0.0.1:6878/ace/manifest.m3u8?id=994c4ab30f6ea98f8199a583fa1049d51ea136af
 #EXTINF:-1 tvg-id="M+ LaLiga TV 2" group-title="Elcano",M+ LaLiga TV 2
 http://127.0.0.1:6878/ace/manifest.m3u8?id=83c6c4942d69f4aa324aa746c5d7dbfd7d1572b3
 #EXTINF:-1 tvg-id="M+ LaLiga TV 2" group-title="Elcano",M+ LaLiga TV 2
@@ -191,6 +197,8 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=468cf58e5725cf1de10771c2aaba450b04b26
 http://127.0.0.1:6878/ace/manifest.m3u8?id=271023d2b2b47f7b1bca8fc742148be971f83ca8
 #EXTINF:-1 tvg-id="F1 TV 55 | Carlos Sainz | Williams" group-title="New Era",F1 TV 55 | Carlos Sainz | Williams
 http://127.0.0.1:6878/ace/manifest.m3u8?id=cffa57823f932a5a8210805b9217d4c54887a7e4
+#EXTINF:-1 tvg-id="Rally TV" group-title="New Era",Rally TV
+http://127.0.0.1:6878/ace/manifest.m3u8?id=1a9085a7b8aa402f317fb86f7243f3736770b325
 #EXTINF:-1 tvg-id="MGPTV | Camara de a bordo 1" group-title="New Era",MGPTV | Camara de a bordo 1
 http://127.0.0.1:6878/ace/manifest.m3u8?id=4d6a550e69d65de4288305b53c9f1e6cfb5103e8
 #EXTINF:-1 tvg-id="MGPTV | Camara de a bordo 2" group-title="New Era",MGPTV | Camara de a bordo 2
