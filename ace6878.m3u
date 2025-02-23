@@ -137,6 +137,8 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=7e90956539f4e1318a63f3960e4f75c7c7c5a
 http://127.0.0.1:6878/ace/manifest.m3u8?id=16ffa1713f42aa27317ee039a2bd0cdbc89a1580
 #EXTINF:-1 tvg-id="AutoMotorSport" group-title="New Loop",AutoMotorSport
 http://127.0.0.1:6878/ace/manifest.m3u8?id=6791a2d1587e8c68eac10815f22aed439b0f6c9f
+#EXTINF:-1 tvg-id="Canal Motor" group-title="New Loop",Canal Motor
+http://127.0.0.1:6878/ace/manifest.m3u8?id=31ef168d43c7cd04e672475f7ec33b99b9fe5a96
 #EXTINF:-1 tvg-id="Motors TV" group-title="New Loop",Motors TV
 http://127.0.0.1:6878/ace/manifest.m3u8?id=8d475e2688519f2c602687b71be54cedbaef9e6b
 #EXTINF:-1 tvg-id="Motorvision TV" group-title="New Loop",Motorvision TV
