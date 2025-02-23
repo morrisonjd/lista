@@ -1,4 +1,14 @@
 #EXTM3U 
+#EXTINF:-1 tvg-id="02:30-NBA-Denver Nuggets-Los Angeles Lakers" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",02:30-NBA-Denver Nuggets-Los Angeles Lakers
+http://127.0.0.1:6878/ace/getstream?id=d08f78bd69c9c5cd927c4431632660bb9994727c
+#EXTINF:-1 tvg-id="02:30-NBA-Denver Nuggets-Los Angeles Lakers" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",02:30-NBA-Denver Nuggets-Los Angeles Lakers
+http://127.0.0.1:6878/ace/getstream?id=55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
+#EXTINF:-1 tvg-id="02:30-NBA-Denver Nuggets-Los Angeles Lakers" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",02:30-NBA-Denver Nuggets-Los Angeles Lakers
+http://127.0.0.1:6878/ace/getstream?id=3a74d9869b13e763476800740c6625e715a39879
+#EXTINF:-1 tvg-id="02:30-NBA-Denver Nuggets-Los Angeles Lakers" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",02:30-NBA-Denver Nuggets-Los Angeles Lakers
+http://127.0.0.1:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3
+#EXTINF:-1 tvg-id="02:30-NBA-Denver Nuggets-Los Angeles Lakers" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",02:30-NBA-Denver Nuggets-Los Angeles Lakers
+http://127.0.0.1:6878/ace/getstream?id=56ac8e227d526e722624675ccdd91b0cc850582f
 #EXTINF:-1 tvg-id="03:00-Superbike-G.P. Australia (Phillip Island)-Carrera Superpole" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",03:00-Superbike-G.P. Australia (Phillip Island)-Carrera Superpole
 http://127.0.0.1:6878/ace/getstream?id=ca923c9873fd206a41c1e83ff8fc40e3cf323c9a
 #EXTINF:-1 tvg-id="03:00-Superbike-G.P. Australia (Phillip Island)-Carrera Superpole" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",03:00-Superbike-G.P. Australia (Phillip Island)-Carrera Superpole
@@ -123,3 +133,9 @@ http://127.0.0.1:6878/ace/getstream?id=608b0faf7d3d25f6fe5dba13d5e4b4142949990e
 http://127.0.0.1:6878/ace/getstream?id=94423f1646ded48f1125a7395815e1a52539c187
 #EXTINF:-1 tvg-id="21:00-Segunda-Cádiz CF-CD Castellón" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Segunda-Cádiz CF-CD Castellón
 http://127.0.0.1:6878/ace/getstream?id=b2706a7ffbea236a3b398139a3a606ada664c0eb
+#EXTINF:-1 tvg-id="21:30-NBA-Golden State Warriors-Dallas Mavericks" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",21:30-NBA-Golden State Warriors-Dallas Mavericks
+http://127.0.0.1:6878/ace/getstream?id=a55df9a3db614b4e92ea7f8612a9624e7a9f226d
+#EXTINF:-1 tvg-id="21:30-NBA-Golden State Warriors-Dallas Mavericks" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",21:30-NBA-Golden State Warriors-Dallas Mavericks
+http://127.0.0.1:6878/ace/getstream?id=d03c13b6723f66155d7a0df3692a3b073fe630f2
+#EXTINF:-1 tvg-id="21:30-NBA-Golden State Warriors-Dallas Mavericks" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",21:30-NBA-Golden State Warriors-Dallas Mavericks
+http://127.0.0.1:6878/ace/getstream?id=12ba546d229bc39f01c3c18988a034b215fe6adb
