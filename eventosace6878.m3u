@@ -1,12 +1,28 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="11:00-Torneo de Dubai-A. Popyrin-H. Habib" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",11:00-Torneo de Dubai-A. Popyrin-H. Habib
+#EXTINF:-1 tvg-id="11:10-Torneo de Dubai-A. Popyrin-H. Habib" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",11:10-Torneo de Dubai-A. Popyrin-H. Habib
 http://127.0.0.1:6878/ace/getstream?id=d8c2ed470e847154a88f011137cc206319f6bed5
-#EXTINF:-1 tvg-id="13:00-Torneo de Dubai-D. Evans-K. Khachanov" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",13:00-Torneo de Dubai-D. Evans-K. Khachanov
+#EXTINF:-1 tvg-id="11:10-Torneo de Dubai-A. Popyrin-H. Habib" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",11:10-Torneo de Dubai-A. Popyrin-H. Habib
+http://127.0.0.1:6878/ace/getstream?id=26e8df994da33f94fdb70347b304631e59cb3282
+#EXTINF:-1 tvg-id="11:10-Torneo de Dubai-A. Popyrin-H. Habib" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",11:10-Torneo de Dubai-A. Popyrin-H. Habib
+http://127.0.0.1:6878/ace/getstream?id=c5a0a86c754e98f04012578d8d03a9c9ac637dad
+#EXTINF:-1 tvg-id="13:10-Torneo de Dubai-D. Evans-K. Khachanov" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",13:10-Torneo de Dubai-D. Evans-K. Khachanov
 http://127.0.0.1:6878/ace/getstream?id=d8c2ed470e847154a88f011137cc206319f6bed5
-#EXTINF:-1 tvg-id="15:30-Torneo de Dubai-S. Tsitsipas-L. Sonego" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:30-Torneo de Dubai-S. Tsitsipas-L. Sonego
+#EXTINF:-1 tvg-id="13:10-Torneo de Dubai-D. Evans-K. Khachanov" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",13:10-Torneo de Dubai-D. Evans-K. Khachanov
+http://127.0.0.1:6878/ace/getstream?id=26e8df994da33f94fdb70347b304631e59cb3282
+#EXTINF:-1 tvg-id="13:10-Torneo de Dubai-D. Evans-K. Khachanov" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",13:10-Torneo de Dubai-D. Evans-K. Khachanov
+http://127.0.0.1:6878/ace/getstream?id=c5a0a86c754e98f04012578d8d03a9c9ac637dad
+#EXTINF:-1 tvg-id="15:40-Torneo de Dubai-S. Tsitsipas-L. Sonego" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:40-Torneo de Dubai-S. Tsitsipas-L. Sonego
 http://127.0.0.1:6878/ace/getstream?id=d8c2ed470e847154a88f011137cc206319f6bed5
-#EXTINF:-1 tvg-id="17:00-Torneo de Dubai-G. Mpetshi Perricard-Zh. Zhang" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:00-Torneo de Dubai-G. Mpetshi Perricard-Zh. Zhang
+#EXTINF:-1 tvg-id="15:40-Torneo de Dubai-S. Tsitsipas-L. Sonego" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:40-Torneo de Dubai-S. Tsitsipas-L. Sonego
+http://127.0.0.1:6878/ace/getstream?id=26e8df994da33f94fdb70347b304631e59cb3282
+#EXTINF:-1 tvg-id="15:40-Torneo de Dubai-S. Tsitsipas-L. Sonego" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:40-Torneo de Dubai-S. Tsitsipas-L. Sonego
+http://127.0.0.1:6878/ace/getstream?id=c5a0a86c754e98f04012578d8d03a9c9ac637dad
+#EXTINF:-1 tvg-id="17:30-Torneo de Dubai-G. Mpetshi Perricard-Zh. Zhang" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:30-Torneo de Dubai-G. Mpetshi Perricard-Zh. Zhang
 http://127.0.0.1:6878/ace/getstream?id=d8c2ed470e847154a88f011137cc206319f6bed5
+#EXTINF:-1 tvg-id="17:30-Torneo de Dubai-G. Mpetshi Perricard-Zh. Zhang" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:30-Torneo de Dubai-G. Mpetshi Perricard-Zh. Zhang
+http://127.0.0.1:6878/ace/getstream?id=26e8df994da33f94fdb70347b304631e59cb3282
+#EXTINF:-1 tvg-id="17:30-Torneo de Dubai-G. Mpetshi Perricard-Zh. Zhang" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:30-Torneo de Dubai-G. Mpetshi Perricard-Zh. Zhang
+http://127.0.0.1:6878/ace/getstream?id=c5a0a86c754e98f04012578d8d03a9c9ac637dad
 #EXTINF:-1 tvg-id="21:00-Primera-Sevilla FC-Mallorca" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera-Sevilla FC-Mallorca
 http://127.0.0.1:6878/ace/getstream?id=110d441ddc9713a7452588770d2bc85504672f47
 #EXTINF:-1 tvg-id="21:00-Primera-Sevilla FC-Mallorca" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera-Sevilla FC-Mallorca
@@ -17,6 +33,12 @@ http://127.0.0.1:6878/ace/getstream?id=6de4794cd02f88f14354b5996823413a59a1de0f
 http://127.0.0.1:6878/ace/getstream?id=8c8c1e047a1c5ed213ba74722a5345dc55c3c0eb
 #EXTINF:-1 tvg-id="21:00-Primera-Sevilla FC-Mallorca" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera-Sevilla FC-Mallorca
 http://127.0.0.1:6878/ace/getstream?id=738adb299639088132d0680b168e30c357f28866
+#EXTINF:-1 tvg-id="21:00-Primera-Sevilla FC-Mallorca" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera-Sevilla FC-Mallorca
+http://127.0.0.1:6878/ace/getstream?id=b2aaaa6957acd2fac4184cf44821bb27eeb61b70
+#EXTINF:-1 tvg-id="21:00-Primera-Sevilla FC-Mallorca" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera-Sevilla FC-Mallorca
+http://127.0.0.1:6878/ace/getstream?id=711e971c2c5fafc8a95f4a70ea16c0cb7da955d9
+#EXTINF:-1 tvg-id="21:00-Primera-Sevilla FC-Mallorca" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera-Sevilla FC-Mallorca
+http://127.0.0.1:6878/ace/getstream?id=c7e5f55d71e02b43f18b22b07a294bdf87822aa4
 #EXTINF:-1 tvg-id="21:00-Primera-Sevilla FC-Mallorca" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera-Sevilla FC-Mallorca
 http://127.0.0.1:6878/ace/getstream?id=a5144874f66a0872fd0b5a484cd426eb7d8eaa26
 #EXTINF:-1 tvg-id="21:00-Primera-Sevilla FC-Mallorca" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera-Sevilla FC-Mallorca
