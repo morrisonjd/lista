@@ -174,6 +174,8 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=17000ca03379418a24ba7bca8ef93192270cd
 #EXTINF:-1 tvg-id="M+ Deportes 3" group-title="Tronoss",M+ Deportes 3
 http://127.0.0.1:6878/ace/manifest.m3u8?id=571bff4d12b1791eb99dbf20bec38e630693a6a3
 #EXTINF:-1 tvg-id="M+ Ellas Vamos" group-title="New Era",M+ Ellas Vamos
+http://127.0.0.1:6878/ace/manifest.m3u8?id=bb8a53e9178d49a4a5f4fd1eb32edb1aad2c5c9d
+#EXTINF:-1 tvg-id="M+ Ellas Vamos" group-title="New Era",M+ Ellas Vamos
 http://127.0.0.1:6878/ace/manifest.m3u8?id=1b265fcd2d4ebeeb5516f838d175a8818e04e298
 #EXTINF:-1 tvg-id="M+ Golf" group-title="New Loop",M+ Golf
 http://127.0.0.1:6878/ace/manifest.m3u8?id=872608e734992db636eb79426802cd08f4029afb
