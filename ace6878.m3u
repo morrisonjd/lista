@@ -116,8 +116,6 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=0a335406bad0b658aeddb2d38f8c0614b2e56
 #EXTINF:-1 tvg-id="LaLiga TV Hypermotion 2" group-title="New Era",LaLiga TV Hypermotion 2
 http://127.0.0.1:6878/ace/manifest.m3u8?id=11b2efc1062a8e0096c923bef49e9cbf5ca92db8
 #EXTINF:-1 tvg-id="M+ Liga de Campeones" group-title="New Loop",M+ Liga de Campeones
-http://127.0.0.1:6878/ace/manifest.m3u8?id=bb5a8bf7752e978460ee1710e5e8950a5c9e1f99
-#EXTINF:-1 tvg-id="M+ Liga de Campeones" group-title="New Loop",M+ Liga de Campeones
 http://127.0.0.1:6878/ace/manifest.m3u8?id=e572a5178ff72eed7d1d751a18b4b3419699f370
 #EXTINF:-1 tvg-id="M+ Liga de Campeones" group-title="New Era",M+ Liga de Campeones
 http://127.0.0.1:6878/ace/manifest.m3u8?id=555e59eafc481f9bace87064ec0a2e1cbff35c46
@@ -197,8 +195,6 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=dea87ce042a085fb892c12d1bf3be428e8242
 http://127.0.0.1:6878/ace/manifest.m3u8?id=f40baf2e9165ce5dec1d4fa1ecb5e0475ab7b3b0
 #EXTINF:-1 tvg-id="F1 TV 55 | Carlos Sainz | Williams" group-title="New Era",F1 TV 55 | Carlos Sainz | Williams
 http://127.0.0.1:6878/ace/manifest.m3u8?id=bdc433cb4fa52c4e66e7258afd12f7aec247814e
-#EXTINF:-1 tvg-id="Rally TV" group-title="New Era",Rally TV
-http://127.0.0.1:6878/ace/manifest.m3u8?id=1a9085a7b8aa402f317fb86f7243f3736770b325
 #EXTINF:-1 tvg-id="MGPTV | Camara de a bordo 1" group-title="New Era",MGPTV | Camara de a bordo 1
 http://127.0.0.1:6878/ace/manifest.m3u8?id=d59e1e43684d27f24348ccd21754b7a438826b42
 #EXTINF:-1 tvg-id="MGPTV | Camara de a bordo 2" group-title="New Era",MGPTV | Camara de a bordo 2
@@ -245,6 +241,8 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=1d735b29ca242360ffe84c677cc02a3817311
 http://127.0.0.1:6878/ace/manifest.m3u8?id=a9f8efad7aa5cd61ddd07f6c3575aed7aa553f49
 #EXTINF:-1 tvg-id="Eurosport 1" group-title="New Loop",Eurosport 1
 http://127.0.0.1:6878/ace/manifest.m3u8?id=23a4937f1484b435af132dbfb3e8fd3aefc9baad
+#EXTINF:-1 tvg-id="Eurosport 1" group-title="New Loop",Eurosport 1
+http://127.0.0.1:6878/ace/manifest.m3u8?id=cfa75ade53810dac64411b22d56c3d4582a221d3
 #EXTINF:-1 tvg-id="Eurosport 1" group-title="Antigua",Eurosport 1
 http://127.0.0.1:6878/ace/manifest.m3u8?id=1b0bc4d4dcd609d3c092712e721392b199f50a62
 #EXTINF:-1 tvg-id="Eurosport 2" group-title="New Era",Eurosport 2
