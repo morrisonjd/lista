@@ -72,7 +72,7 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=608b0faf7d3d25f6fe5dba13d5e4b41429499
 #EXTINF:-1 tvg-id="LaLiga TV BAR" group-title="New Era",LaLiga TV BAR
 http://127.0.0.1:6878/ace/manifest.m3u8?id=18d34608187b84b2ef8b5bbaa075305b247bfb5d
 #EXTINF:-1 tvg-id="LaLiga TV BAR" group-title="New Era",LaLiga TV BAR
-http://127.0.0.1:6878/ace/manifest.m3u8?id=fb01f81ed1210421def37242d8e1f9cb9cabf5db
+http://127.0.0.1:6878/ace/manifest.m3u8?id=edbd01a232af0eff375c6a174e68f28002e7c090
 #EXTINF:-1 tvg-id="DAZN LaLiga" group-title="New Era",DAZN LaLiga
 http://127.0.0.1:6878/ace/manifest.m3u8?id=c7e5f55d71e02b43f18b22b07a294bdf87822aa4
 #EXTINF:-1 tvg-id="DAZN LaLiga" group-title="New Era",DAZN LaLiga
@@ -98,7 +98,7 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=121f719ebb94193c6086ef92865cf9b197750
 #EXTINF:-1 tvg-id="LaLiga TV Hypermotion" group-title="New Era",LaLiga TV Hypermotion
 http://127.0.0.1:6878/ace/manifest.m3u8?id=714e36c758444ec594660149666dc7b642ceb030
 #EXTINF:-1 tvg-id="LaLiga TV Hypermotion" group-title="New Era",LaLiga TV Hypermotion
-http://127.0.0.1:6878/ace/manifest.m3u8?id=129fee3a36e9a668b6d7ad3404bfbef3e914bdc1
+http://127.0.0.1:6878/ace/manifest.m3u8?id=da368e734b639e993b610bcfb779a76e03ad9409
 #EXTINF:-1 tvg-id="M+ LaLiga TV 2" group-title="Elcano",M+ LaLiga TV 2
 http://127.0.0.1:6878/ace/manifest.m3u8?id=83c6c4942d69f4aa324aa746c5d7dbfd7d1572b3
 #EXTINF:-1 tvg-id="M+ LaLiga TV 2" group-title="Elcano",M+ LaLiga TV 2
@@ -259,6 +259,8 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=cfa75ade53810dac64411b22d56c3d4582a22
 http://127.0.0.1:6878/ace/manifest.m3u8?id=1b0bc4d4dcd609d3c092712e721392b199f50a62
 #EXTINF:-1 tvg-id="Eurosport 2" group-title="New Era",Eurosport 2
 http://127.0.0.1:6878/ace/manifest.m3u8?id=87100f6c8f6ffaf78eeb9b7eef0e9b382ffe61ff
+#EXTINF:-1 tvg-id="Eurosport 2" group-title="New Era",Eurosport 2
+http://127.0.0.1:6878/ace/manifest.m3u8?id=b1797c899abe3cbf7a075d2814bfbb0375832c7d
 #EXTINF:-1 tvg-id="Eurosport 2" group-title="Antigua",Eurosport 2
 http://127.0.0.1:6878/ace/manifest.m3u8?id=6176281b9c46a5621a0e88524f8dc621f173b8e0
 #EXTINF:-1 tvg-id="GOL PLAY" group-title="New Era",GOL PLAY
