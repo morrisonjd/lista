@@ -1,69 +1,169 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="01:30-NBA-Atlanta Hawks-Miami Heat" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",01:30-NBA-Atlanta Hawks-Miami Heat
-http://127.0.0.1:6878/ace/getstream?id=d59b3e44af69deb11759f1b4016503ef08d7850f
-#EXTINF:-1 tvg-id="01:30-NBA-Atlanta Hawks-Miami Heat" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",01:30-NBA-Atlanta Hawks-Miami Heat
-http://127.0.0.1:6878/ace/getstream?id=55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
-#EXTINF:-1 tvg-id="01:30-NBA-Atlanta Hawks-Miami Heat" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",01:30-NBA-Atlanta Hawks-Miami Heat
-http://127.0.0.1:6878/ace/getstream?id=3a74d9869b13e763476800740c6625e715a39879
-#EXTINF:-1 tvg-id="01:30-NBA-Atlanta Hawks-Miami Heat" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",01:30-NBA-Atlanta Hawks-Miami Heat
-http://127.0.0.1:6878/ace/getstream?id=43daa66ed37acb82c3b3cd5e597428d23b9d2b88
-#EXTINF:-1 tvg-id="01:30-NBA-Atlanta Hawks-Miami Heat" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",01:30-NBA-Atlanta Hawks-Miami Heat
-http://127.0.0.1:6878/ace/getstream?id=0569aee1644145a026c120019024a61398ecbd97
-#EXTINF:-1 tvg-id="01:30-NBA-Atlanta Hawks-Miami Heat" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",01:30-NBA-Atlanta Hawks-Miami Heat
-http://127.0.0.1:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3
-#EXTINF:-1 tvg-id="19:00-Primera Federación Futsal-AD Sala 10 Zaragoza-Barça FS" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",19:00-Primera Federación Futsal-AD Sala 10 Zaragoza-Barça FS
-http://127.0.0.1:6878/ace/getstream?id=3977c21113c3b89d1ee1a2da7ea5d41769b133f9
-#EXTINF:-1 tvg-id="20:30-Premier League-Brighton-Bournemouth" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",20:30-Premier League-Brighton-Bournemouth
+#EXTINF:-1 tvg-id="01:00-Torneo de Acapulco-H. Rune-R. Carballés" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",01:00-Torneo de Acapulco-H. Rune-R. Carballés
+http://127.0.0.1:6878/ace/getstream?id=d8c2ed470e847154a88f011137cc206319f6bed5
+#EXTINF:-1 tvg-id="01:00-Torneo de Acapulco-H. Rune-R. Carballés" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",01:00-Torneo de Acapulco-H. Rune-R. Carballés
+http://127.0.0.1:6878/ace/getstream?id=26e8df994da33f94fdb70347b304631e59cb3282
+#EXTINF:-1 tvg-id="01:00-Torneo de Acapulco-H. Rune-R. Carballés" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",01:00-Torneo de Acapulco-H. Rune-R. Carballés
+http://127.0.0.1:6878/ace/getstream?id=c5a0a86c754e98f04012578d8d03a9c9ac637dad
+#EXTINF:-1 tvg-id="02:30-Torneo de Acapulco-A. Zverev-M. Arnaldi" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",02:30-Torneo de Acapulco-A. Zverev-M. Arnaldi
+http://127.0.0.1:6878/ace/getstream?id=d8c2ed470e847154a88f011137cc206319f6bed5
+#EXTINF:-1 tvg-id="02:30-Torneo de Acapulco-A. Zverev-M. Arnaldi" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",02:30-Torneo de Acapulco-A. Zverev-M. Arnaldi
+http://127.0.0.1:6878/ace/getstream?id=26e8df994da33f94fdb70347b304631e59cb3282
+#EXTINF:-1 tvg-id="02:30-Torneo de Acapulco-A. Zverev-M. Arnaldi" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",02:30-Torneo de Acapulco-A. Zverev-M. Arnaldi
+http://127.0.0.1:6878/ace/getstream?id=c5a0a86c754e98f04012578d8d03a9c9ac637dad
+#EXTINF:-1 tvg-id="04:00-NBA-Los Angeles Lakers-Dallas Mavericks" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",04:00-NBA-Los Angeles Lakers-Dallas Mavericks
+http://127.0.0.1:6878/ace/getstream?id=915d7ba83810a8039b908b1a2855a1db4d79459d
+#EXTINF:-1 tvg-id="04:00-NBA-Los Angeles Lakers-Dallas Mavericks" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",04:00-NBA-Los Angeles Lakers-Dallas Mavericks
+http://127.0.0.1:6878/ace/getstream?id=d03c13b6723f66155d7a0df3692a3b073fe630f2
+#EXTINF:-1 tvg-id="04:00-NBA-Los Angeles Lakers-Dallas Mavericks" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",04:00-NBA-Los Angeles Lakers-Dallas Mavericks
+http://127.0.0.1:6878/ace/getstream?id=12ba546d229bc39f01c3c18988a034b215fe6adb
+#EXTINF:-1 tvg-id="04:00-NBA-Los Angeles Lakers-Dallas Mavericks" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",04:00-NBA-Los Angeles Lakers-Dallas Mavericks
+http://127.0.0.1:6878/ace/getstream?id=535b56ba59c01069ed4c87235504ecfd84162e0e
+#EXTINF:-1 tvg-id="04:00-NBA-Los Angeles Lakers-Dallas Mavericks" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",04:00-NBA-Los Angeles Lakers-Dallas Mavericks
+http://127.0.0.1:6878/ace/getstream?id=a432081ef17e77c3accf74aa1c4e5009b9f5047e
+#EXTINF:-1 tvg-id="04:00-NBA-Los Angeles Lakers-Dallas Mavericks" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",04:00-NBA-Los Angeles Lakers-Dallas Mavericks
+http://127.0.0.1:6878/ace/getstream?id=62662d67c3c616acceb09d88600dcddb4d59af4a
+#EXTINF:-1 tvg-id="04:00-Torneo de Acapulco-F. Tiafoe-A. Muller" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",04:00-Torneo de Acapulco-F. Tiafoe-A. Muller
+http://127.0.0.1:6878/ace/getstream?id=d8c2ed470e847154a88f011137cc206319f6bed5
+#EXTINF:-1 tvg-id="04:00-Torneo de Acapulco-F. Tiafoe-A. Muller" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",04:00-Torneo de Acapulco-F. Tiafoe-A. Muller
+http://127.0.0.1:6878/ace/getstream?id=26e8df994da33f94fdb70347b304631e59cb3282
+#EXTINF:-1 tvg-id="04:00-Torneo de Acapulco-F. Tiafoe-A. Muller" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",04:00-Torneo de Acapulco-F. Tiafoe-A. Muller
+http://127.0.0.1:6878/ace/getstream?id=c5a0a86c754e98f04012578d8d03a9c9ac637dad
+#EXTINF:-1 tvg-id="08:00-Fórmula 1-Test de pretemporada-Bahrain International Circuit" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",08:00-Fórmula 1-Test de pretemporada-Bahrain International Circuit
+http://127.0.0.1:6878/ace/getstream?id=d6281d4e6310269b416180442a470d23a4a99dc9
+#EXTINF:-1 tvg-id="08:00-Fórmula 1-Test de pretemporada-Bahrain International Circuit" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",08:00-Fórmula 1-Test de pretemporada-Bahrain International Circuit
+http://127.0.0.1:6878/ace/getstream?id=2c6e4c897661e6b0257bfe931b66d20b2ec763b6
+#EXTINF:-1 tvg-id="08:00-Fórmula 1-Test de pretemporada-Bahrain International Circuit" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",08:00-Fórmula 1-Test de pretemporada-Bahrain International Circuit
+http://127.0.0.1:6878/ace/getstream?id=71eef80158aa8b37f3dc59f6793c6696df9a2dfa
+#EXTINF:-1 tvg-id="08:00-Fórmula 1-Test de pretemporada-Bahrain International Circuit" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",08:00-Fórmula 1-Test de pretemporada-Bahrain International Circuit
+http://127.0.0.1:6878/ace/getstream?id=268289e7a3c5209960b53b4d43c8c65fab294b85
+#EXTINF:-1 tvg-id="08:00-Fórmula 1-Test de pretemporada-Bahrain International Circuit" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",08:00-Fórmula 1-Test de pretemporada-Bahrain International Circuit
+http://127.0.0.1:6878/ace/getstream?id=1168fcb4506c60e1281c2443f4f0c4ad4fc494b6
+#EXTINF:-1 tvg-id="08:00-Fórmula 1-Test de pretemporada-Bahrain International Circuit" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",08:00-Fórmula 1-Test de pretemporada-Bahrain International Circuit
+http://127.0.0.1:6878/ace/getstream?id=dea87ce042a085fb892c12d1bf3be428e824237d
+#EXTINF:-1 tvg-id="08:00-Fórmula 1-Test de pretemporada-Bahrain International Circuit" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",08:00-Fórmula 1-Test de pretemporada-Bahrain International Circuit
+http://127.0.0.1:6878/ace/getstream?id=f40baf2e9165ce5dec1d4fa1ecb5e0475ab7b3b0
+#EXTINF:-1 tvg-id="08:00-Fórmula 1-Test de pretemporada-Bahrain International Circuit" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",08:00-Fórmula 1-Test de pretemporada-Bahrain International Circuit
+http://127.0.0.1:6878/ace/getstream?id=bdc433cb4fa52c4e66e7258afd12f7aec247814e
+#EXTINF:-1 tvg-id="08:00-Fórmula 1-Test de pretemporada-Bahrain International Circuit" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",08:00-Fórmula 1-Test de pretemporada-Bahrain International Circuit
+http://127.0.0.1:6878/ace/getstream?id=b2543904857ebc4689f1b6659c09a94c6f661c41
+#EXTINF:-1 tvg-id="08:00-Fórmula 1-Test de pretemporada-Bahrain International Circuit" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",08:00-Fórmula 1-Test de pretemporada-Bahrain International Circuit
+http://127.0.0.1:6878/ace/getstream?id=16d0bc18559f9bf853010c654080123109e4044f
+#EXTINF:-1 tvg-id="08:00-Fórmula 1-Test de pretemporada-Bahrain International Circuit" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",08:00-Fórmula 1-Test de pretemporada-Bahrain International Circuit
+http://127.0.0.1:6878/ace/getstream?id=073d33a5e5270399154bb251fcc95f99c0741264
+#EXTINF:-1 tvg-id="11:00-Torneo de Dubai-N. Borges-F. Auger-Aliassime" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",11:00-Torneo de Dubai-N. Borges-F. Auger-Aliassime
+http://127.0.0.1:6878/ace/getstream?id=d8c2ed470e847154a88f011137cc206319f6bed5
+#EXTINF:-1 tvg-id="11:00-Torneo de Dubai-N. Borges-F. Auger-Aliassime" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",11:00-Torneo de Dubai-N. Borges-F. Auger-Aliassime
+http://127.0.0.1:6878/ace/getstream?id=26e8df994da33f94fdb70347b304631e59cb3282
+#EXTINF:-1 tvg-id="11:00-Torneo de Dubai-N. Borges-F. Auger-Aliassime" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",11:00-Torneo de Dubai-N. Borges-F. Auger-Aliassime
+http://127.0.0.1:6878/ace/getstream?id=c5a0a86c754e98f04012578d8d03a9c9ac637dad
+#EXTINF:-1 tvg-id="13:00-Torneo de Dubai-T. Griekspoor-U. Humbert" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",13:00-Torneo de Dubai-T. Griekspoor-U. Humbert
+http://127.0.0.1:6878/ace/getstream?id=d8c2ed470e847154a88f011137cc206319f6bed5
+#EXTINF:-1 tvg-id="13:00-Torneo de Dubai-T. Griekspoor-U. Humbert" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",13:00-Torneo de Dubai-T. Griekspoor-U. Humbert
+http://127.0.0.1:6878/ace/getstream?id=26e8df994da33f94fdb70347b304631e59cb3282
+#EXTINF:-1 tvg-id="13:00-Torneo de Dubai-T. Griekspoor-U. Humbert" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",13:00-Torneo de Dubai-T. Griekspoor-U. Humbert
+http://127.0.0.1:6878/ace/getstream?id=c5a0a86c754e98f04012578d8d03a9c9ac637dad
+#EXTINF:-1 tvg-id="15:30-Torneo de Dubai-D. Medvedev-G. Mpetshi Perricard" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:30-Torneo de Dubai-D. Medvedev-G. Mpetshi Perricard
+http://127.0.0.1:6878/ace/getstream?id=d8c2ed470e847154a88f011137cc206319f6bed5
+#EXTINF:-1 tvg-id="15:30-Torneo de Dubai-D. Medvedev-G. Mpetshi Perricard" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:30-Torneo de Dubai-D. Medvedev-G. Mpetshi Perricard
+http://127.0.0.1:6878/ace/getstream?id=26e8df994da33f94fdb70347b304631e59cb3282
+#EXTINF:-1 tvg-id="15:30-Torneo de Dubai-D. Medvedev-G. Mpetshi Perricard" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:30-Torneo de Dubai-D. Medvedev-G. Mpetshi Perricard
+http://127.0.0.1:6878/ace/getstream?id=c5a0a86c754e98f04012578d8d03a9c9ac637dad
+#EXTINF:-1 tvg-id="17:00-Torneo de Dubai-S. Tsitsipas-K. Khachanov" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:00-Torneo de Dubai-S. Tsitsipas-K. Khachanov
+http://127.0.0.1:6878/ace/getstream?id=d8c2ed470e847154a88f011137cc206319f6bed5
+#EXTINF:-1 tvg-id="17:00-Torneo de Dubai-S. Tsitsipas-K. Khachanov" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:00-Torneo de Dubai-S. Tsitsipas-K. Khachanov
+http://127.0.0.1:6878/ace/getstream?id=26e8df994da33f94fdb70347b304631e59cb3282
+#EXTINF:-1 tvg-id="17:00-Torneo de Dubai-S. Tsitsipas-K. Khachanov" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:00-Torneo de Dubai-S. Tsitsipas-K. Khachanov
+http://127.0.0.1:6878/ace/getstream?id=c5a0a86c754e98f04012578d8d03a9c9ac637dad
+#EXTINF:-1 tvg-id="20:30-Premier League-Manchester Utd.-Ipswich Town" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",20:30-Premier League-Manchester Utd.-Ipswich Town
 http://127.0.0.1:6878/ace/getstream?id=1b35844ac5f1ca48cbf760c7ed425078e7138aba
-#EXTINF:-1 tvg-id="20:30-Premier League-Brighton-Bournemouth" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",20:30-Premier League-Brighton-Bournemouth
+#EXTINF:-1 tvg-id="20:30-Premier League-Manchester Utd.-Ipswich Town" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",20:30-Premier League-Manchester Utd.-Ipswich Town
 http://127.0.0.1:6878/ace/getstream?id=ce11e4e1a141f5d9538ad0cce452bfc317032ed5
-#EXTINF:-1 tvg-id="20:30-Premier League-Brighton-Bournemouth" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",20:30-Premier League-Brighton-Bournemouth
+#EXTINF:-1 tvg-id="20:30-Premier League-Manchester Utd.-Ipswich Town" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",20:30-Premier League-Manchester Utd.-Ipswich Town
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
-#EXTINF:-1 tvg-id="20:30-Premier League-Crystal Palace-Aston Villa" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",20:30-Premier League-Crystal Palace-Aston Villa
+#EXTINF:-1 tvg-id="20:30-Premier League-Nottingham Forest-Arsenal" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",20:30-Premier League-Nottingham Forest-Arsenal
 http://127.0.0.1:6878/ace/getstream?id=8b1f169fa965eb6fccff8cb78590beba84a8ab56
-#EXTINF:-1 tvg-id="20:30-Premier League-Crystal Palace-Aston Villa" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",20:30-Premier League-Crystal Palace-Aston Villa
+#EXTINF:-1 tvg-id="20:30-Premier League-Nottingham Forest-Arsenal" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",20:30-Premier League-Nottingham Forest-Arsenal
 http://127.0.0.1:6878/ace/getstream?id=4a917dd906465938400c6968e707fe2a768c5c05
-#EXTINF:-1 tvg-id="20:30-Premier League-Crystal Palace-Aston Villa" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",20:30-Premier League-Crystal Palace-Aston Villa
+#EXTINF:-1 tvg-id="20:30-Premier League-Nottingham Forest-Arsenal" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",20:30-Premier League-Nottingham Forest-Arsenal
 http://127.0.0.1:6878/ace/getstream?id=eab9da2d81938c22221ee2043bd6f42691116b6d
-#EXTINF:-1 tvg-id="20:30-Premier League-Crystal Palace-Aston Villa" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",20:30-Premier League-Crystal Palace-Aston Villa
+#EXTINF:-1 tvg-id="20:30-Premier League-Nottingham Forest-Arsenal" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",20:30-Premier League-Nottingham Forest-Arsenal
 http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
-#EXTINF:-1 tvg-id="21:15-Premier League-Chelsea-Southampton" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:15-Premier League-Chelsea-Southampton
+#EXTINF:-1 tvg-id="20:30-Premier League-Tottenham-Manchester City" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",20:30-Premier League-Tottenham-Manchester City
 http://127.0.0.1:6878/ace/getstream?id=35c7f0c966ecde3390f4510bb4caded40018c07a
-#EXTINF:-1 tvg-id="21:15-Premier League-Chelsea-Southampton" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:15-Premier League-Chelsea-Southampton
+#EXTINF:-1 tvg-id="20:30-Premier League-Tottenham-Manchester City" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",20:30-Premier League-Tottenham-Manchester City
 http://127.0.0.1:6878/ace/getstream?id=5cadba9736e0ecc0c0051e07f2339aeaa474e486
-#EXTINF:-1 tvg-id="21:15-Premier League-Chelsea-Southampton" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:15-Premier League-Chelsea-Southampton
+#EXTINF:-1 tvg-id="20:30-Premier League-Tottenham-Manchester City" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",20:30-Premier League-Tottenham-Manchester City
 http://127.0.0.1:6878/ace/getstream?id=744d75861b7961ffc785f6f9edc36396fe610695
-#EXTINF:-1 tvg-id="21:15-Premier League-Chelsea-Southampton" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:15-Premier League-Chelsea-Southampton
+#EXTINF:-1 tvg-id="20:30-Premier League-Tottenham-Manchester City" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",20:30-Premier League-Tottenham-Manchester City
 http://127.0.0.1:6878/ace/getstream?id=46a672a4dfc910eebcf869d48a2efec2af1b54d7
-#EXTINF:-1 tvg-id="21:15-Premier League-Chelsea-Southampton" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:15-Premier League-Chelsea-Southampton
+#EXTINF:-1 tvg-id="20:30-Premier League-Tottenham-Manchester City" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",20:30-Premier League-Tottenham-Manchester City
 http://127.0.0.1:6878/ace/getstream?id=20e01f934e60fe20feac8e14806cce08a2a2bf43
-#EXTINF:-1 tvg-id="21:15-Premier League-Chelsea-Southampton" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:15-Premier League-Chelsea-Southampton
+#EXTINF:-1 tvg-id="20:30-Premier League-Tottenham-Manchester City" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",20:30-Premier League-Tottenham-Manchester City
 http://127.0.0.1:6878/ace/getstream?id=3709d3c2005ba9b407c8babbdaa2439cbe8242ed
-#EXTINF:-1 tvg-id="21:15-Premier League-Chelsea-Southampton" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:15-Premier League-Chelsea-Southampton
+#EXTINF:-1 tvg-id="20:30-Premier League-Tottenham-Manchester City" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",20:30-Premier League-Tottenham-Manchester City
 http://127.0.0.1:6878/ace/getstream?id=719df957aad6dac822ba53a65dd8f78e10faef9a
-#EXTINF:-1 tvg-id="21:15-Premier League-Chelsea-Southampton" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:15-Premier League-Chelsea-Southampton
+#EXTINF:-1 tvg-id="20:30-Premier League-Tottenham-Manchester City" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",20:30-Premier League-Tottenham-Manchester City
 http://127.0.0.1:6878/ace/getstream?id=44c12ecb7b00a961f3c3f80f1edea7f8feedec59
-#EXTINF:-1 tvg-id="21:15-Premier League-Chelsea-Southampton" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:15-Premier League-Chelsea-Southampton
+#EXTINF:-1 tvg-id="20:30-Premier League-Tottenham-Manchester City" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",20:30-Premier League-Tottenham-Manchester City
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
-#EXTINF:-1 tvg-id="21:30-Copa del Rey-FC Barcelona-At. Madrid" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:30-Copa del Rey-FC Barcelona-At. Madrid
+#EXTINF:-1 tvg-id="20:30-Premier League-Tottenham-Manchester City" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",20:30-Premier League-Tottenham-Manchester City
+http://127.0.0.1:6878/ace/getstream?id=94054b2e5e330bfdec93b63db5bbe42d15c3fd88
+#EXTINF:-1 tvg-id="20:30-Premier League-Tottenham-Manchester City" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",20:30-Premier League-Tottenham-Manchester City
+http://127.0.0.1:6878/ace/getstream?id=555e59eafc481f9bace87064ec0a2e1cbff35c46
+#EXTINF:-1 tvg-id="20:30-Premier League-Tottenham-Manchester City" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",20:30-Premier League-Tottenham-Manchester City
+http://127.0.0.1:6878/ace/getstream?id=f51ea08b180c4d916a9cb9f33049cd9644284641
+#EXTINF:-1 tvg-id="20:30-Premier League-Tottenham-Manchester City" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",20:30-Premier League-Tottenham-Manchester City
+http://127.0.0.1:6878/ace/getstream?id=e5c3a8445064b51c99e62abd01a2ba015c914278
+#EXTINF:-1 tvg-id="20:30-Premier League-Tottenham-Manchester City" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",20:30-Premier League-Tottenham-Manchester City
+http://127.0.0.1:6878/ace/getstream?id=87fbb0ddc5920b1953741b99c63f0fd0e5f94814
+#EXTINF:-1 tvg-id="20:30-Premier League-Tottenham-Manchester City" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",20:30-Premier League-Tottenham-Manchester City
+http://127.0.0.1:6878/ace/getstream?id=e572a5178ff72eed7d1d751a18b4b3419699f370
+#EXTINF:-1 tvg-id="20:30-Premier League-Tottenham-Manchester City" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",20:30-Premier League-Tottenham-Manchester City
+http://127.0.0.1:6878/ace/getstream?id=915d7ba83810a8039b908b1a2855a1db4d79459d
+#EXTINF:-1 tvg-id="20:30-Premier League-Tottenham-Manchester City" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",20:30-Premier League-Tottenham-Manchester City
+http://127.0.0.1:6878/ace/getstream?id=d03c13b6723f66155d7a0df3692a3b073fe630f2
+#EXTINF:-1 tvg-id="20:30-Premier League-Tottenham-Manchester City" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",20:30-Premier League-Tottenham-Manchester City
+http://127.0.0.1:6878/ace/getstream?id=12ba546d229bc39f01c3c18988a034b215fe6adb
+#EXTINF:-1 tvg-id="20:30-Premier League-Tottenham-Manchester City" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",20:30-Premier League-Tottenham-Manchester City
+http://127.0.0.1:6878/ace/getstream?id=535b56ba59c01069ed4c87235504ecfd84162e0e
+#EXTINF:-1 tvg-id="20:30-Premier League-Tottenham-Manchester City" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",20:30-Premier League-Tottenham-Manchester City
+http://127.0.0.1:6878/ace/getstream?id=a432081ef17e77c3accf74aa1c4e5009b9f5047e
+#EXTINF:-1 tvg-id="20:30-Premier League-Tottenham-Manchester City" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",20:30-Premier League-Tottenham-Manchester City
+http://127.0.0.1:6878/ace/getstream?id=62662d67c3c616acceb09d88600dcddb4d59af4a
+#EXTINF:-1 tvg-id="21:15-Premier League-Liverpool-Newcastle" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:15-Premier League-Liverpool-Newcastle
+http://127.0.0.1:6878/ace/getstream?id=ca923c9873fd206a41c1e83ff8fc40e3cf323c9a
+#EXTINF:-1 tvg-id="21:15-Premier League-Liverpool-Newcastle" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:15-Premier League-Liverpool-Newcastle
+http://127.0.0.1:6878/ace/getstream?id=a929eeec1268d69d1556a2e3ace793b2577d8810
+#EXTINF:-1 tvg-id="21:15-Premier League-Liverpool-Newcastle" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:15-Premier League-Liverpool-Newcastle
+http://127.0.0.1:6878/ace/getstream?id=d59ad07b387faf6fbb16f17f44cd80ec8f16e96b
+#EXTINF:-1 tvg-id="21:15-Premier League-Liverpool-Newcastle" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:15-Premier League-Liverpool-Newcastle
+http://127.0.0.1:6878/ace/getstream?id=5c406a4af1bb51fdf53bea78e7d7a95b6d1fb9d3
+#EXTINF:-1 tvg-id="21:15-Premier League-Liverpool-Newcastle" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:15-Premier League-Liverpool-Newcastle
+http://127.0.0.1:6878/ace/getstream?id=c72693d177253473288fabc0827b8fefa9d5f7cf
+#EXTINF:-1 tvg-id="21:15-Premier League-Liverpool-Newcastle" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:15-Premier League-Liverpool-Newcastle
+http://127.0.0.1:6878/ace/getstream?id=bf0bad0bb75ff95fa6841ee21adfb0cfe18b8435
+#EXTINF:-1 tvg-id="21:15-Premier League-Liverpool-Newcastle" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:15-Premier League-Liverpool-Newcastle
+http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
+#EXTINF:-1 tvg-id="21:30-Copa del Rey-Real Sociedad-Real Madrid" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:30-Copa del Rey-Real Sociedad-Real Madrid
 http://127.0.0.1:6878/ace/getstream?id=608b0faf7d3d25f6fe5dba13d5e4b4142949990e
-#EXTINF:-1 tvg-id="21:30-Copa del Rey-FC Barcelona-At. Madrid" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:30-Copa del Rey-FC Barcelona-At. Madrid
+#EXTINF:-1 tvg-id="21:30-Copa del Rey-Real Sociedad-Real Madrid" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:30-Copa del Rey-Real Sociedad-Real Madrid
 http://127.0.0.1:6878/ace/getstream?id=edbd01a232af0eff375c6a174e68f28002e7c090
-#EXTINF:-1 tvg-id="21:30-Copa del Rey-FC Barcelona-At. Madrid" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:30-Copa del Rey-FC Barcelona-At. Madrid
+#EXTINF:-1 tvg-id="21:30-Copa del Rey-Real Sociedad-Real Madrid" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:30-Copa del Rey-Real Sociedad-Real Madrid
 http://127.0.0.1:6878/ace/getstream?id=b51f2d9a15b6956a44385b6be531bcabeb099d9d
-#EXTINF:-1 tvg-id="21:30-Copa del Rey-FC Barcelona-At. Madrid" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:30-Copa del Rey-FC Barcelona-At. Madrid
+#EXTINF:-1 tvg-id="21:30-Copa del Rey-Real Sociedad-Real Madrid" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:30-Copa del Rey-Real Sociedad-Real Madrid
 http://127.0.0.1:6878/ace/getstream?id=08bf74b427c432b974712d1d950eacaa513287e5
-#EXTINF:-1 tvg-id="21:30-Copa del Rey-FC Barcelona-At. Madrid" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:30-Copa del Rey-FC Barcelona-At. Madrid
+#EXTINF:-1 tvg-id="21:30-Copa del Rey-Real Sociedad-Real Madrid" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:30-Copa del Rey-Real Sociedad-Real Madrid
 http://127.0.0.1:6878/ace/getstream?id=76eaa5f815461cac46700b5313b84d363297871b
-#EXTINF:-1 tvg-id="21:30-Copa del Rey-FC Barcelona-At. Madrid" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:30-Copa del Rey-FC Barcelona-At. Madrid
+#EXTINF:-1 tvg-id="21:30-Copa del Rey-Real Sociedad-Real Madrid" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:30-Copa del Rey-Real Sociedad-Real Madrid
 http://127.0.0.1:6878/ace/getstream?id=bbd6cd7d0c137aaf2dc6e7c936fd45d7eaea49e2
-#EXTINF:-1 tvg-id="21:30-Copa del Rey-FC Barcelona-At. Madrid" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:30-Copa del Rey-FC Barcelona-At. Madrid
+#EXTINF:-1 tvg-id="21:30-Copa del Rey-Real Sociedad-Real Madrid" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:30-Copa del Rey-Real Sociedad-Real Madrid
 http://127.0.0.1:6878/ace/getstream?id=9fd0ad6591be70c5c31b7659162cf67ae2dff16e
-#EXTINF:-1 tvg-id="21:30-Copa del Rey-FC Barcelona-At. Madrid" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:30-Copa del Rey-FC Barcelona-At. Madrid
+#EXTINF:-1 tvg-id="21:30-Copa del Rey-Real Sociedad-Real Madrid" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:30-Copa del Rey-Real Sociedad-Real Madrid
 http://127.0.0.1:6878/ace/getstream?id=440fc0139d2ea66c7680b6df85512eaf4dee446a
-#EXTINF:-1 tvg-id="21:30-Copa del Rey-FC Barcelona-At. Madrid" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:30-Copa del Rey-FC Barcelona-At. Madrid
+#EXTINF:-1 tvg-id="21:30-Copa del Rey-Real Sociedad-Real Madrid" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:30-Copa del Rey-Real Sociedad-Real Madrid
 http://127.0.0.1:6878/ace/getstream?id=56ac8e227d526e722624675ccdd91b0cc850582f
-#EXTINF:-1 tvg-id="21:30-Copa del Rey-FC Barcelona-At. Madrid" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:30-Copa del Rey-FC Barcelona-At. Madrid
+#EXTINF:-1 tvg-id="21:30-Copa del Rey-Real Sociedad-Real Madrid" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:30-Copa del Rey-Real Sociedad-Real Madrid
 http://127.0.0.1:6878/ace/getstream?id=a6c4e14f373adaf466e9a335f86f604444d059b5
-#EXTINF:-1 tvg-id="21:30-Copa del Rey-FC Barcelona-At. Madrid" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:30-Copa del Rey-FC Barcelona-At. Madrid
+#EXTINF:-1 tvg-id="21:30-Copa del Rey-Real Sociedad-Real Madrid" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:30-Copa del Rey-Real Sociedad-Real Madrid
 http://127.0.0.1:6878/ace/getstream?id=dc913528dfdfdba2d58dfd817bdc1610ab236c4e
