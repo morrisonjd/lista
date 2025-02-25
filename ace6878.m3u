@@ -46,13 +46,13 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=a432081ef17e77c3accf74aa1c4e5009b9f50
 #EXTINF:-1 tvg-id="M+ Vamos" group-title="New Era",M+ Vamos
 http://127.0.0.1:6878/ace/manifest.m3u8?id=915d7ba83810a8039b908b1a2855a1db4d79459d
 #EXTINF:-1 tvg-id="M+ Vamos" group-title="New Era",M+ Vamos
-http://127.0.0.1:6878/ace/manifest.m3u8?id=dccac2d35772b46cf61c20c2318d7c2bd0ac3edc
-#EXTINF:-1 tvg-id="M+ Vamos" group-title="New Era",M+ Vamos
 http://127.0.0.1:6878/ace/manifest.m3u8?id=535b56ba59c01069ed4c87235504ecfd84162e0e
 #EXTINF:-1 tvg-id="M+ LaLiga TV" group-title="New Era",M+ LaLiga TV
 http://127.0.0.1:6878/ace/manifest.m3u8?id=7c70daff87373a903d92490ad3dc811723969e08
 #EXTINF:-1 tvg-id="M+ LaLiga TV" group-title="New Loop",M+ LaLiga TV
 http://127.0.0.1:6878/ace/manifest.m3u8?id=cc9b7f5fe416069a2110da0909b0f915043c468b
+#EXTINF:-1 tvg-id="M+ LaLiga TV" group-title="New Loop",M+ LaLiga TV
+http://127.0.0.1:6878/ace/manifest.m3u8?id=d15a0eaf825b5f8f94259d5209688a7e97e6acde
 #EXTINF:-1 tvg-id="M+ LaLiga TV" group-title="Elcano",M+ LaLiga TV
 http://127.0.0.1:6878/ace/manifest.m3u8?id=6d05b31e5e8fdae312fbd57897363a7b10ddb163
 #EXTINF:-1 tvg-id="M+ LaLiga TV" group-title="Elcano",M+ LaLiga TV
@@ -70,13 +70,9 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=6e7ac91952e5c8f45d38c4b1669221bed4800
 #EXTINF:-1 tvg-id="LaLiga TV BAR" group-title="Elcano",LaLiga TV BAR
 http://127.0.0.1:6878/ace/manifest.m3u8?id=608b0faf7d3d25f6fe5dba13d5e4b4142949990e
 #EXTINF:-1 tvg-id="LaLiga TV BAR" group-title="New Era",LaLiga TV BAR
-http://127.0.0.1:6878/ace/manifest.m3u8?id=18d34608187b84b2ef8b5bbaa075305b247bfb5d
-#EXTINF:-1 tvg-id="LaLiga TV BAR" group-title="New Era",LaLiga TV BAR
 http://127.0.0.1:6878/ace/manifest.m3u8?id=edbd01a232af0eff375c6a174e68f28002e7c090
 #EXTINF:-1 tvg-id="DAZN LaLiga" group-title="New Era",DAZN LaLiga
 http://127.0.0.1:6878/ace/manifest.m3u8?id=c7e5f55d71e02b43f18b22b07a294bdf87822aa4
-#EXTINF:-1 tvg-id="DAZN LaLiga" group-title="New Era",DAZN LaLiga
-http://127.0.0.1:6878/ace/manifest.m3u8?id=738adb299639088132d0680b168e30c357f28866
 #EXTINF:-1 tvg-id="DAZN LaLiga" group-title="New Era",DAZN LaLiga
 http://127.0.0.1:6878/ace/manifest.m3u8?id=b2aaaa6957acd2fac4184cf44821bb27eeb61b70
 #EXTINF:-1 tvg-id="DAZN LaLiga" group-title="New Era",DAZN LaLiga
@@ -128,8 +124,6 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=87fbb0ddc5920b1953741b99c63f0fd0e5f94
 #EXTINF:-1 tvg-id="M+ Liga de Campeones" group-title="New Era",M+ Liga de Campeones
 http://127.0.0.1:6878/ace/manifest.m3u8?id=e5c3a8445064b51c99e62abd01a2ba015c914278
 #EXTINF:-1 tvg-id="M+ Liga de Campeones" group-title="New Era",M+ Liga de Campeones
-http://127.0.0.1:6878/ace/manifest.m3u8?id=9d0e983a628a79ec63ae599d2abc8b787e43aa68
-#EXTINF:-1 tvg-id="M+ Liga de Campeones" group-title="New Era",M+ Liga de Campeones
 http://127.0.0.1:6878/ace/manifest.m3u8?id=94054b2e5e330bfdec93b63db5bbe42d15c3fd88
 #EXTINF:-1 tvg-id="M+ Liga de Campeones" group-title="New Era",M+ Liga de Campeones
 http://127.0.0.1:6878/ace/manifest.m3u8?id=f51ea08b180c4d916a9cb9f33049cd9644284641
@@ -154,8 +148,6 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=0569aee1644145a026c120019024a61398ecb
 #EXTINF:-1 tvg-id="M+ Deportes" group-title="New Era",M+ Deportes
 http://127.0.0.1:6878/ace/manifest.m3u8?id=43daa66ed37acb82c3b3cd5e597428d23b9d2b88
 #EXTINF:-1 tvg-id="M+ Deportes" group-title="New Era",M+ Deportes
-http://127.0.0.1:6878/ace/manifest.m3u8?id=092612609be34a8e9ee61311c5dfc8561c009ccc
-#EXTINF:-1 tvg-id="M+ Deportes" group-title="New Era",M+ Deportes
 http://127.0.0.1:6878/ace/manifest.m3u8?id=d59b3e44af69deb11759f1b4016503ef08d7850f
 #EXTINF:-1 tvg-id="M+ Deportes" group-title="New Loop",M+ Deportes
 http://127.0.0.1:6878/ace/manifest.m3u8?id=acb510858f34c3c6fd5f79395b031abd6885c2b3
@@ -174,9 +166,9 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=17000ca03379418a24ba7bca8ef93192270cd
 #EXTINF:-1 tvg-id="M+ Deportes 3" group-title="Tronoss",M+ Deportes 3
 http://127.0.0.1:6878/ace/manifest.m3u8?id=571bff4d12b1791eb99dbf20bec38e630693a6a3
 #EXTINF:-1 tvg-id="M+ Ellas Vamos" group-title="New Era",M+ Ellas Vamos
-http://127.0.0.1:6878/ace/manifest.m3u8?id=bb8a53e9178d49a4a5f4fd1eb32edb1aad2c5c9d
-#EXTINF:-1 tvg-id="M+ Ellas Vamos" group-title="New Era",M+ Ellas Vamos
 http://127.0.0.1:6878/ace/manifest.m3u8?id=1b265fcd2d4ebeeb5516f838d175a8818e04e298
+#EXTINF:-1 tvg-id="M+ Ellas Vamos" group-title="New Era",M+ Ellas Vamos
+http://127.0.0.1:6878/ace/manifest.m3u8?id=bb8a53e9178d49a4a5f4fd1eb32edb1aad2c5c9d
 #EXTINF:-1 tvg-id="M+ Golf" group-title="New Loop",M+ Golf
 http://127.0.0.1:6878/ace/manifest.m3u8?id=872608e734992db636eb79426802cd08f4029afb
 #EXTINF:-1 tvg-id="M+ Golf" group-title="New Era",M+ Golf
@@ -197,8 +189,6 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=16d0bc18559f9bf853010c654080123109e40
 http://127.0.0.1:6878/ace/manifest.m3u8?id=b2543904857ebc4689f1b6659c09a94c6f661c41
 #EXTINF:-1 tvg-id="DAZN F1" group-title="New Era",DAZN F1
 http://127.0.0.1:6878/ace/manifest.m3u8?id=1168fcb4506c60e1281c2443f4f0c4ad4fc494b6
-#EXTINF:-1 tvg-id="DAZN F1" group-title="New Era",DAZN F1
-http://127.0.0.1:6878/ace/manifest.m3u8?id=d2952671bfd36490c2c51a5efaefb8b263bc7702
 #EXTINF:-1 tvg-id="DAZN F1" group-title="New Era",DAZN F1
 http://127.0.0.1:6878/ace/manifest.m3u8?id=dea87ce042a085fb892c12d1bf3be428e824237d
 #EXTINF:-1 tvg-id="F1 TV 14 | Fernando Alonso | Aston Martin" group-title="New Era",F1 TV 14 | Fernando Alonso | Aston Martin
@@ -221,8 +211,6 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=3709d3c2005ba9b407c8babbdaa2439cbe824
 http://127.0.0.1:6878/ace/manifest.m3u8?id=20e01f934e60fe20feac8e14806cce08a2a2bf43
 #EXTINF:-1 tvg-id="DAZN 1" group-title="New Era",DAZN 1
 http://127.0.0.1:6878/ace/manifest.m3u8?id=719df957aad6dac822ba53a65dd8f78e10faef9a
-#EXTINF:-1 tvg-id="DAZN 1" group-title="New Era",DAZN 1
-http://127.0.0.1:6878/ace/manifest.m3u8?id=66a0863d19f7caa2591a36f2bce86b1878a3d0e3
 #EXTINF:-1 tvg-id="DAZN 1" group-title="New Era",DAZN 1
 http://127.0.0.1:6878/ace/manifest.m3u8?id=46a672a4dfc910eebcf869d48a2efec2af1b54d7
 #EXTINF:-1 tvg-id="DAZN 1" group-title="Tronoss",DAZN 1
