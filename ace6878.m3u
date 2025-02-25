@@ -73,6 +73,8 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=edbd01a232af0eff375c6a174e68f28002e7c
 http://127.0.0.1:6878/ace/manifest.m3u8?id=c7e5f55d71e02b43f18b22b07a294bdf87822aa4
 #EXTINF:-1 tvg-id="DAZN LaLiga" group-title="New Era",DAZN LaLiga
 http://127.0.0.1:6878/ace/manifest.m3u8?id=b2aaaa6957acd2fac4184cf44821bb27eeb61b70
+#EXTINF:-1 tvg-id="DAZN LaLiga" group-title="New Loop",DAZN LaLiga
+http://127.0.0.1:6878/ace/manifest.m3u8?id=a5144874f66a0872fd0b5a484cd426eb7d8eaa26
 #EXTINF:-1 tvg-id="DAZN LaLiga" group-title="Elcano",DAZN LaLiga
 http://127.0.0.1:6878/ace/manifest.m3u8?id=110d441ddc9713a7452588770d2bc85504672f47
 #EXTINF:-1 tvg-id="DAZN LaLiga" group-title="Elcano",DAZN LaLiga
@@ -193,6 +195,8 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=073d33a5e5270399154bb251fcc95f99c0741
 http://127.0.0.1:6878/ace/manifest.m3u8?id=f40baf2e9165ce5dec1d4fa1ecb5e0475ab7b3b0
 #EXTINF:-1 tvg-id="F1 TV 55 | Carlos Sainz | Williams" group-title="New Era",F1 TV 55 | Carlos Sainz | Williams
 http://127.0.0.1:6878/ace/manifest.m3u8?id=bdc433cb4fa52c4e66e7258afd12f7aec247814e
+#EXTINF:-1 tvg-id="Rally TV" group-title="New Era",Rally TV
+http://127.0.0.1:6878/ace/manifest.m3u8?id=4cdab0a6554b9e5a5864fa20f8534d5ccfa661fa
 #EXTINF:-1 tvg-id="MGPTV | Camara de a bordo 1" group-title="New Era",MGPTV | Camara de a bordo 1
 http://127.0.0.1:6878/ace/manifest.m3u8?id=d59e1e43684d27f24348ccd21754b7a438826b42
 #EXTINF:-1 tvg-id="MGPTV | Camara de a bordo 2" group-title="New Era",MGPTV | Camara de a bordo 2
@@ -201,6 +205,8 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=11278b69a588c83592ecbf054cfca1fc45542
 http://127.0.0.1:6878/ace/manifest.m3u8?id=fc9a5087ba3749d67de63607f3b29a42446b5fba
 #EXTINF:-1 tvg-id="MGPTV | Camara de a bordo 4" group-title="New Era",MGPTV | Camara de a bordo 4
 http://127.0.0.1:6878/ace/manifest.m3u8?id=cf6f689178b73bea2dc0f6e206ffa40894ceafe9
+#EXTINF:-1 tvg-id="DAZN 1" group-title="New Era",DAZN 1
+http://127.0.0.1:6878/ace/manifest.m3u8?id=44c12ecb7b00a961f3c3f80f1edea7f8feedec59
 #EXTINF:-1 tvg-id="DAZN 1" group-title="New Era",DAZN 1
 http://127.0.0.1:6878/ace/manifest.m3u8?id=3709d3c2005ba9b407c8babbdaa2439cbe8242ed
 #EXTINF:-1 tvg-id="DAZN 1" group-title="New Era",DAZN 1
