@@ -24,7 +24,7 @@ http://127.0.0.1:6878/ace/getstream?id=a432081ef17e77c3accf74aa1c4e5009b9f5047e&
 #EXTINF:-1 tvg-id="04:00-NBA-Los Angeles Lakers-Dallas Mavericks" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",04:00-NBA-Los Angeles Lakers-Dallas Mavericks
 http://127.0.0.1:6878/ace/getstream?id=62662d67c3c616acceb09d88600dcddb4d59af4a&pid=12
 #EXTINF:-1 tvg-id="04:00-NBA-Los Angeles Lakers-Dallas Mavericks" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",04:00-NBA-Los Angeles Lakers-Dallas Mavericks
-http://127.0.0.1:6878/ace/getstream?id=dccac2d35772b46cf61c20c2318d7c2bd0ac3edc&pid=13
+http://127.0.0.1:6878/ace/getstream?id=2a96482aefa6ce18d2dd05ba0e86008cb637b3bf&pid=13
 #EXTINF:-1 tvg-id="06:30-Torneo de Acapulco-F. Tiafoe-A. Muller" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",06:30-Torneo de Acapulco-F. Tiafoe-A. Muller
 http://127.0.0.1:6878/ace/getstream?id=d8c2ed470e847154a88f011137cc206319f6bed5&pid=14
 #EXTINF:-1 tvg-id="06:30-Torneo de Acapulco-F. Tiafoe-A. Muller" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",06:30-Torneo de Acapulco-F. Tiafoe-A. Muller
@@ -54,7 +54,7 @@ http://127.0.0.1:6878/ace/getstream?id=16d0bc18559f9bf853010c654080123109e4044f&
 #EXTINF:-1 tvg-id="08:00-Fórmula 1-Test de pretemporada-Bahrain International Circuit" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",08:00-Fórmula 1-Test de pretemporada-Bahrain International Circuit
 http://127.0.0.1:6878/ace/getstream?id=073d33a5e5270399154bb251fcc95f99c0741264&pid=27
 #EXTINF:-1 tvg-id="08:00-Fórmula 1-Test de pretemporada-Bahrain International Circuit" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",08:00-Fórmula 1-Test de pretemporada-Bahrain International Circuit
-http://127.0.0.1:6878/ace/getstream?id=d2952671bfd36490c2c51a5efaefb8b263bc7702&pid=28
+http://127.0.0.1:6878/ace/getstream?id=43c07b04b414bfbaaaec1aed58f7157fca277583&pid=28
 #EXTINF:-1 tvg-id="11:00-Torneo de Dubai-N. Borges-F. Auger-Aliassime" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",11:00-Torneo de Dubai-N. Borges-F. Auger-Aliassime
 http://127.0.0.1:6878/ace/getstream?id=d8c2ed470e847154a88f011137cc206319f6bed5&pid=29
 #EXTINF:-1 tvg-id="11:00-Torneo de Dubai-N. Borges-F. Auger-Aliassime" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",11:00-Torneo de Dubai-N. Borges-F. Auger-Aliassime
@@ -74,7 +74,7 @@ http://127.0.0.1:6878/ace/getstream?id=a432081ef17e77c3accf74aa1c4e5009b9f5047e&
 #EXTINF:-1 tvg-id="11:00-Torneo de Dubai-N. Borges-F. Auger-Aliassime" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",11:00-Torneo de Dubai-N. Borges-F. Auger-Aliassime
 http://127.0.0.1:6878/ace/getstream?id=62662d67c3c616acceb09d88600dcddb4d59af4a&pid=37
 #EXTINF:-1 tvg-id="11:00-Torneo de Dubai-N. Borges-F. Auger-Aliassime" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",11:00-Torneo de Dubai-N. Borges-F. Auger-Aliassime
-http://127.0.0.1:6878/ace/getstream?id=dccac2d35772b46cf61c20c2318d7c2bd0ac3edc&pid=38
+http://127.0.0.1:6878/ace/getstream?id=2a96482aefa6ce18d2dd05ba0e86008cb637b3bf&pid=38
 #EXTINF:-1 tvg-id="13:00-Torneo de Dubai-T. Griekspoor-U. Humbert" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",13:00-Torneo de Dubai-T. Griekspoor-U. Humbert
 http://127.0.0.1:6878/ace/getstream?id=d8c2ed470e847154a88f011137cc206319f6bed5&pid=39
 #EXTINF:-1 tvg-id="13:00-Torneo de Dubai-T. Griekspoor-U. Humbert" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",13:00-Torneo de Dubai-T. Griekspoor-U. Humbert
@@ -150,7 +150,7 @@ http://127.0.0.1:6878/ace/getstream?id=a432081ef17e77c3accf74aa1c4e5009b9f5047e&
 #EXTINF:-1 tvg-id="20:30-Premier League White Hart Lane" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",20:30-Premier League White Hart Lane
 http://127.0.0.1:6878/ace/getstream?id=62662d67c3c616acceb09d88600dcddb4d59af4a&pid=75
 #EXTINF:-1 tvg-id="20:30-Premier League White Hart Lane" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",20:30-Premier League White Hart Lane
-http://127.0.0.1:6878/ace/getstream?id=dccac2d35772b46cf61c20c2318d7c2bd0ac3edc&pid=76
+http://127.0.0.1:6878/ace/getstream?id=2a96482aefa6ce18d2dd05ba0e86008cb637b3bf&pid=76
 #EXTINF:-1 tvg-id="21:15-Premier League Anfield Road" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:15-Premier League Anfield Road
 http://127.0.0.1:6878/ace/getstream?id=ca923c9873fd206a41c1e83ff8fc40e3cf323c9a&pid=77
 #EXTINF:-1 tvg-id="21:15-Premier League Anfield Road" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:15-Premier League Anfield Road
@@ -170,7 +170,7 @@ http://127.0.0.1:6878/ace/getstream?id=edbd01a232af0eff375c6a174e68f28002e7c090&
 #EXTINF:-1 tvg-id="21:30-Copa del Rey-Real Sociedad-Real Madrid" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:30-Copa del Rey-Real Sociedad-Real Madrid
 http://127.0.0.1:6878/ace/getstream?id=608b0faf7d3d25f6fe5dba13d5e4b4142949990e&pid=85
 #EXTINF:-1 tvg-id="21:30-Copa del Rey-Real Sociedad-Real Madrid" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:30-Copa del Rey-Real Sociedad-Real Madrid
-http://127.0.0.1:6878/ace/getstream?id=18d34608187b84b2ef8b5bbaa075305b247bfb5d&pid=86
+http://127.0.0.1:6878/ace/getstream?id=d4351e74c8466be658a16b84c933d08507a0a9e5&pid=86
 #EXTINF:-1 tvg-id="21:30-Copa del Rey-Real Sociedad-Real Madrid" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:30-Copa del Rey-Real Sociedad-Real Madrid
 http://127.0.0.1:6878/ace/getstream?id=b51f2d9a15b6956a44385b6be531bcabeb099d9d&pid=87
 #EXTINF:-1 tvg-id="21:30-Copa del Rey-Real Sociedad-Real Madrid" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:30-Copa del Rey-Real Sociedad-Real Madrid
@@ -197,3 +197,5 @@ http://127.0.0.1:6878/ace/getstream?id=71eef80158aa8b37f3dc59f6793c6696df9a2dfa&
 http://127.0.0.1:6878/ace/getstream?id=268289e7a3c5209960b53b4d43c8c65fab294b85&pid=98
 #EXTINF:-1 tvg-id="21:30-Copa del Rey-Real Sociedad-Real Madrid" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:30-Copa del Rey-Real Sociedad-Real Madrid
 http://127.0.0.1:6878/ace/getstream?id=dc913528dfdfdba2d58dfd817bdc1610ab236c4e&pid=99
+#EXTINF:-1 tvg-id="21:30-Copa del Rey-Real Sociedad-Real Madrid" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:30-Copa del Rey-Real Sociedad-Real Madrid
+http://127.0.0.1:6878/ace/getstream?id=821eb83594bac4da4f2877f88e56d05400bb5d1b&pid=100
