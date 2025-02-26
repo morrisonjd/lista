@@ -119,4 +119,51 @@ http://127.0.0.1:6878/ace/getstream?id=e5c3a8445064b51c99e62abd01a2ba015c914278&
 http://127.0.0.1:6878/ace/getstream?id=87fbb0ddc5920b1953741b99c63f0fd0e5f94814&pid=59
 #EXTINF:-1 tvg-id="20:30-Premier League-Tottenham-Manchester City" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",20:30-Premier League-Tottenham-Manchester City
 http://127.0.0.1:6878/ace/getstream?id=e572a5178ff72eed7d1d751a18b4b3419699f370&pid=60
-#EXTINF:-1
+#EXTINF:-1 tvg-id="20:30-Premier League-Tottenham-Manchester City" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",20:30-Premier League-Tottenham-Manchester City
+http://127.0.0.1:6878/ace/getstream?id=915d7ba83810a8039b908b1a2855a1db4d79459d&pid=61
+#EXTINF:-1 tvg-id="20:30-Premier League-Tottenham-Manchester City" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",20:30-Premier League-Tottenham-Manchester City
+http://127.0.0.1:6878/ace/getstream?id=d03c13b6723f66155d7a0df3692a3b073fe630f2&pid=62
+#EXTINF:-1 tvg-id="20:30-Premier League-Tottenham-Manchester City" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",20:30-Premier League-Tottenham-Manchester City
+http://127.0.0.1:6878/ace/getstream?id=12ba546d229bc39f01c3c18988a034b215fe6adb&pid=63
+#EXTINF:-1 tvg-id="20:30-Premier League-Tottenham-Manchester City" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",20:30-Premier League-Tottenham-Manchester City
+http://127.0.0.1:6878/ace/getstream?id=535b56ba59c01069ed4c87235504ecfd84162e0e&pid=64
+#EXTINF:-1 tvg-id="20:30-Premier League-Tottenham-Manchester City" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",20:30-Premier League-Tottenham-Manchester City
+http://127.0.0.1:6878/ace/getstream?id=a432081ef17e77c3accf74aa1c4e5009b9f5047e&pid=65
+#EXTINF:-1 tvg-id="20:30-Premier League-Tottenham-Manchester City" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",20:30-Premier League-Tottenham-Manchester City
+http://127.0.0.1:6878/ace/getstream?id=62662d67c3c616acceb09d88600dcddb4d59af4a&pid=66
+#EXTINF:-1 tvg-id="21:15-Premier League-Liverpool-Newcastle" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:15-Premier League-Liverpool-Newcastle
+http://127.0.0.1:6878/ace/getstream?id=ca923c9873fd206a41c1e83ff8fc40e3cf323c9a&pid=67
+#EXTINF:-1 tvg-id="21:15-Premier League-Liverpool-Newcastle" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:15-Premier League-Liverpool-Newcastle
+http://127.0.0.1:6878/ace/getstream?id=a929eeec1268d69d1556a2e3ace793b2577d8810&pid=68
+#EXTINF:-1 tvg-id="21:15-Premier League-Liverpool-Newcastle" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:15-Premier League-Liverpool-Newcastle
+http://127.0.0.1:6878/ace/getstream?id=d59ad07b387faf6fbb16f17f44cd80ec8f16e96b&pid=69
+#EXTINF:-1 tvg-id="21:15-Premier League-Liverpool-Newcastle" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:15-Premier League-Liverpool-Newcastle
+http://127.0.0.1:6878/ace/getstream?id=5c406a4af1bb51fdf53bea78e7d7a95b6d1fb9d3&pid=70
+#EXTINF:-1 tvg-id="21:15-Premier League-Liverpool-Newcastle" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:15-Premier League-Liverpool-Newcastle
+http://127.0.0.1:6878/ace/getstream?id=c72693d177253473288fabc0827b8fefa9d5f7cf&pid=71
+#EXTINF:-1 tvg-id="21:15-Premier League-Liverpool-Newcastle" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:15-Premier League-Liverpool-Newcastle
+http://127.0.0.1:6878/ace/getstream?id=bf0bad0bb75ff95fa6841ee21adfb0cfe18b8435&pid=72
+#EXTINF:-1 tvg-id="21:15-Premier League-Liverpool-Newcastle" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:15-Premier League-Liverpool-Newcastle
+http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516&pid=73
+#EXTINF:-1 tvg-id="21:30-Copa del Rey-Real Sociedad-Real Madrid" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:30-Copa del Rey-Real Sociedad-Real Madrid
+http://127.0.0.1:6878/ace/getstream?id=608b0faf7d3d25f6fe5dba13d5e4b4142949990e&pid=74
+#EXTINF:-1 tvg-id="21:30-Copa del Rey-Real Sociedad-Real Madrid" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:30-Copa del Rey-Real Sociedad-Real Madrid
+http://127.0.0.1:6878/ace/getstream?id=edbd01a232af0eff375c6a174e68f28002e7c090&pid=75
+#EXTINF:-1 tvg-id="21:30-Copa del Rey-Real Sociedad-Real Madrid" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:30-Copa del Rey-Real Sociedad-Real Madrid
+http://127.0.0.1:6878/ace/getstream?id=b51f2d9a15b6956a44385b6be531bcabeb099d9d&pid=76
+#EXTINF:-1 tvg-id="21:30-Copa del Rey-Real Sociedad-Real Madrid" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:30-Copa del Rey-Real Sociedad-Real Madrid
+http://127.0.0.1:6878/ace/getstream?id=08bf74b427c432b974712d1d950eacaa513287e5&pid=77
+#EXTINF:-1 tvg-id="21:30-Copa del Rey-Real Sociedad-Real Madrid" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:30-Copa del Rey-Real Sociedad-Real Madrid
+http://127.0.0.1:6878/ace/getstream?id=76eaa5f815461cac46700b5313b84d363297871b&pid=78
+#EXTINF:-1 tvg-id="21:30-Copa del Rey-Real Sociedad-Real Madrid" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:30-Copa del Rey-Real Sociedad-Real Madrid
+http://127.0.0.1:6878/ace/getstream?id=bbd6cd7d0c137aaf2dc6e7c936fd45d7eaea49e2&pid=79
+#EXTINF:-1 tvg-id="21:30-Copa del Rey-Real Sociedad-Real Madrid" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:30-Copa del Rey-Real Sociedad-Real Madrid
+http://127.0.0.1:6878/ace/getstream?id=9fd0ad6591be70c5c31b7659162cf67ae2dff16e&pid=80
+#EXTINF:-1 tvg-id="21:30-Copa del Rey-Real Sociedad-Real Madrid" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:30-Copa del Rey-Real Sociedad-Real Madrid
+http://127.0.0.1:6878/ace/getstream?id=440fc0139d2ea66c7680b6df85512eaf4dee446a&pid=81
+#EXTINF:-1 tvg-id="21:30-Copa del Rey-Real Sociedad-Real Madrid" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:30-Copa del Rey-Real Sociedad-Real Madrid
+http://127.0.0.1:6878/ace/getstream?id=56ac8e227d526e722624675ccdd91b0cc850582f&pid=82
+#EXTINF:-1 tvg-id="21:30-Copa del Rey-Real Sociedad-Real Madrid" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:30-Copa del Rey-Real Sociedad-Real Madrid
+http://127.0.0.1:6878/ace/getstream?id=a6c4e14f373adaf466e9a335f86f604444d059b5&pid=83
+#EXTINF:-1 tvg-id="21:30-Copa del Rey-Real Sociedad-Real Madrid" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:30-Copa del Rey-Real Sociedad-Real Madrid
+http://127.0.0.1:6878/ace/getstream?id=dc913528dfdfdba2d58dfd817bdc1610ab236c4e&pid=84
