@@ -188,12 +188,4 @@ http://127.0.0.1:6878/ace/getstream?id=56ac8e227d526e722624675ccdd91b0cc850582f&
 #EXTINF:-1 tvg-id="21:30-Copa del Rey-Real Sociedad-Real Madrid" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:30-Copa del Rey-Real Sociedad-Real Madrid
 http://127.0.0.1:6878/ace/getstream?id=a6c4e14f373adaf466e9a335f86f604444d059b5&pid=94
 #EXTINF:-1 tvg-id="21:30-Copa del Rey-Real Sociedad-Real Madrid" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:30-Copa del Rey-Real Sociedad-Real Madrid
-http://127.0.0.1:6878/ace/getstream?id=d6281d4e6310269b416180442a470d23a4a99dc9&pid=95
-#EXTINF:-1 tvg-id="21:30-Copa del Rey-Real Sociedad-Real Madrid" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:30-Copa del Rey-Real Sociedad-Real Madrid
-http://127.0.0.1:6878/ace/getstream?id=2c6e4c897661e6b0257bfe931b66d20b2ec763b6&pid=96
-#EXTINF:-1 tvg-id="21:30-Copa del Rey-Real Sociedad-Real Madrid" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:30-Copa del Rey-Real Sociedad-Real Madrid
-http://127.0.0.1:6878/ace/getstream?id=71eef80158aa8b37f3dc59f6793c6696df9a2dfa&pid=97
-#EXTINF:-1 tvg-id="21:30-Copa del Rey-Real Sociedad-Real Madrid" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:30-Copa del Rey-Real Sociedad-Real Madrid
-http://127.0.0.1:6878/ace/getstream?id=268289e7a3c5209960b53b4d43c8c65fab294b85&pid=98
-#EXTINF:-1 tvg-id="21:30-Copa del Rey-Real Sociedad-Real Madrid" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:30-Copa del Rey-Real Sociedad-Real Madrid
-http://127.0.0.1:6878/ace/getstream?id=dc913528dfdfdba2d58dfd817bdc1610ab236c4e&pid=99
+http://127.0.0.1:6878/ace/getstream?id=dc913528dfdfdba2d58dfd817bdc1610ab236c4e&pid=95
