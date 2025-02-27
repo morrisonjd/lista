@@ -293,6 +293,8 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=f40baf2e9165ce5dec1d4fa1ecb5e0475ab7b
 http://127.0.0.1:6878/ace/manifest.m3u8?id=7199dc932a08926949778e50c0e10307cdbd8d33
 #EXTINF:-1 tvg-id="F1 TV 55 | Carlos Sainz | Williams" group-title="New Era",F1 TV 55 | Carlos Sainz | Williams
 http://127.0.0.1:6878/ace/manifest.m3u8?id=bdc433cb4fa52c4e66e7258afd12f7aec247814e
+#EXTINF:-1 tvg-id="F1 TV" group-title="New Loop",F1 TV
+http://127.0.0.1:6878/ace/manifest.m3u8?id=821eb83594bac4da4f2877f88e56d05400bb5d1b
 #EXTINF:-1 tvg-id="Rally TV" group-title="New Era",Rally TV
 http://127.0.0.1:6878/ace/manifest.m3u8?id=4cdab0a6554b9e5a5864fa20f8534d5ccfa661fa
 #EXTINF:-1 tvg-id="MGPTV | Camara de a bordo 1" group-title="New Era",MGPTV | Camara de a bordo 1
