@@ -170,9 +170,13 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=e153268daebe815049c03a8b495bb56ec13de
 #EXTINF:-1 tvg-id="F1 TV55 | Carlos Sainz | Williams" group-title="New Era",F1 TV55 | Carlos Sainz | Williams
 http://127.0.0.1:6878/ace/manifest.m3u8?id=7199dc932a08926949778e50c0e10307cdbd8d33
 #EXTINF:-1 tvg-id="F1 TV" group-title="New Loop",F1 TV
+http://127.0.0.1:6878/ace/manifest.m3u8?id=0b7bd581b0eae65396b96a4efe4491a2dd1ba088
+#EXTINF:-1 tvg-id="F1 TV" group-title="New Loop",F1 TV
 http://127.0.0.1:6878/ace/manifest.m3u8?id=413cb4d79842a7a2da420e9f59b00728992730b2
 #EXTINF:-1 tvg-id="F1 TV" group-title="New Loop",F1 TV
 http://127.0.0.1:6878/ace/manifest.m3u8?id=821eb83594bac4da4f2877f88e56d05400bb5d1b
+#EXTINF:-1 tvg-id="F1 TV" group-title="New Loop",F1 TV
+http://127.0.0.1:6878/ace/manifest.m3u8?id=9de13e593cd54c904d26a16aefe098d082335088
 #EXTINF:-1 tvg-id="Rally TV" group-title="New Era",Rally TV
 http://127.0.0.1:6878/ace/manifest.m3u8?id=4cdab0a6554b9e5a5864fa20f8534d5ccfa661fa
 #EXTINF:-1 tvg-id="MGPTV | Camara de a bordo 1" group-title="New Era",MGPTV | Camara de a bordo 1
@@ -321,6 +325,8 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=b8b8c4470d3d27c75302cf49ab6c4b52a660b
 http://127.0.0.1:6878/ace/manifest.m3u8?id=c343621f224b637343c982bdad100a770094e4b9
 #EXTINF:-1 tvg-id="Tennis Channel" group-title="New Loop",Tennis Channel
 http://127.0.0.1:6878/ace/manifest.m3u8?id=039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 tvg-id="Tennis Channel" group-title="New Loop",Tennis Channel
+http://127.0.0.1:6878/ace/manifest.m3u8?id=52a526d748e26ff0827635b3932d9f49aee14a25
 #EXTINF:-1 tvg-id="SuperTennis" group-title="New Loop",SuperTennis
 http://127.0.0.1:6878/ace/manifest.m3u8?id=b58dbf92765976b308695f62dea94b00b40730ee
 #EXTINF:-1 tvg-id="MATCH!" group-title="Antigua",MATCH!
