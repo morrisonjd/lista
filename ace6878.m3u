@@ -90,9 +90,9 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=f31a586422c9244196c810c84b6c85da35031
 #EXTINF:-1 tvg-id="M+ LaLiga TV 2" group-title="New Era",M+ LaLiga TV 2
 http://127.0.0.1:6878/ace/manifest.m3u8?id=ea02dfdaf4bf770f49d99069f4699b24cde3e1bf
 #EXTINF:-1 tvg-id="DAZN LaLiga 2" group-title="New Era",DAZN LaLiga 2
-http://127.0.0.1:6878/ace/manifest.m3u8?id=5a022eaf3e068b8016bb6175843405f41c521ecd
-#EXTINF:-1 tvg-id="DAZN LaLiga 2" group-title="New Era",DAZN LaLiga 2
 http://127.0.0.1:6878/ace/manifest.m3u8?id=fc6064ce439f5146ca8e8b9238e5f0c009daa980
+#EXTINF:-1 tvg-id="DAZN LaLiga 2" group-title="New Era",DAZN LaLiga 2
+http://127.0.0.1:6878/ace/manifest.m3u8?id=5a022eaf3e068b8016bb6175843405f41c521ecd
 #EXTINF:-1 tvg-id="DAZN LaLiga 2" group-title="Tronoss",DAZN LaLiga 2
 http://127.0.0.1:6878/ace/manifest.m3u8?id=51dbbfb42f8091e4ea7a2186b566a40e780953d9
 #EXTINF:-1 tvg-id="DAZN LaLiga 2" group-title="Tronoss",DAZN LaLiga 2
