@@ -285,14 +285,16 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=21511645a5f014cb64f85d445482a8a14bba9
 http://127.0.0.1:6878/ace/manifest.m3u8?id=dea87ce042a085fb892c12d1bf3be428e824237d
 #EXTINF:-1 tvg-id="DAZN F1" group-title="New Era",DAZN F1
 http://127.0.0.1:6878/ace/manifest.m3u8?id=073d33a5e5270399154bb251fcc95f99c0741264
-#EXTINF:-1 tvg-id="F1 TV 14 | Fernando Alonso | Aston Martin" group-title="New Era",F1 TV 14 | Fernando Alonso | Aston Martin
+#EXTINF:-1 tvg-id="F1 TV14 | Fernando Alonso | Aston Martin" group-title="New Era",F1 TV14 | Fernando Alonso | Aston Martin
 http://127.0.0.1:6878/ace/manifest.m3u8?id=e153268daebe815049c03a8b495bb56ec13de1a1
-#EXTINF:-1 tvg-id="F1 TV 14 | Fernando Alonso | Aston Martin" group-title="New Era",F1 TV 14 | Fernando Alonso | Aston Martin
+#EXTINF:-1 tvg-id="F1 TV14 | Fernando Alonso | Aston Martin" group-title="New Era",F1 TV14 | Fernando Alonso | Aston Martin
 http://127.0.0.1:6878/ace/manifest.m3u8?id=f40baf2e9165ce5dec1d4fa1ecb5e0475ab7b3b0
-#EXTINF:-1 tvg-id="F1 TV 55 | Carlos Sainz | Williams" group-title="New Era",F1 TV 55 | Carlos Sainz | Williams
+#EXTINF:-1 tvg-id="F1 TV55 | Carlos Sainz | Williams" group-title="New Era",F1 TV55 | Carlos Sainz | Williams
 http://127.0.0.1:6878/ace/manifest.m3u8?id=7199dc932a08926949778e50c0e10307cdbd8d33
-#EXTINF:-1 tvg-id="F1 TV 55 | Carlos Sainz | Williams" group-title="New Era",F1 TV 55 | Carlos Sainz | Williams
+#EXTINF:-1 tvg-id="F1 TV55 | Carlos Sainz | Williams" group-title="New Era",F1 TV55 | Carlos Sainz | Williams
 http://127.0.0.1:6878/ace/manifest.m3u8?id=bdc433cb4fa52c4e66e7258afd12f7aec247814e
+#EXTINF:-1 tvg-id="F1 TV" group-title="New Loop",F1 TV
+http://127.0.0.1:6878/ace/manifest.m3u8?id=413cb4d79842a7a2da420e9f59b00728992730b2
 #EXTINF:-1 tvg-id="F1 TV" group-title="New Loop",F1 TV
 http://127.0.0.1:6878/ace/manifest.m3u8?id=821eb83594bac4da4f2877f88e56d05400bb5d1b
 #EXTINF:-1 tvg-id="Rally TV" group-title="New Era",Rally TV
