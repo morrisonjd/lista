@@ -515,6 +515,10 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=6ad33feec75d929de54d77b9becfe767ae83f
 http://127.0.0.1:6878/ace/manifest.m3u8?id=c8aac540621d481965791c4442a7e868bcca10ca
 #EXTINF:-1 tvg-id="NBA TV" group-title="Antigua",NBA TV
 http://127.0.0.1:6878/ace/manifest.m3u8?id=e72d03fb9694164317260f684470be9ab781ed95
+#EXTINF:-1 tvg-id="ESPN" group-title="New Loop",ESPN
+http://127.0.0.1:6878/ace/manifest.m3u8?id=4b4907de51ec11087d4bed5876f2a0c68264f442
+#EXTINF:-1 tvg-id="ESPN 2" group-title="New Loop",ESPN 2
+http://127.0.0.1:6878/ace/manifest.m3u8?id=664eb5fe460b96941aed633959a845b185cd8394
 #EXTINF:-1 tvg-id="Eleven Sports 1 POR" group-title="Antigua",Eleven Sports 1 POR
 http://127.0.0.1:6878/ace/manifest.m3u8?id=36cad67fed5a739757a9db844a551aa845a8d51b
 #EXTINF:-1 tvg-id="Eleven Sports 2 POR" group-title="Antigua",Eleven Sports 2 POR
