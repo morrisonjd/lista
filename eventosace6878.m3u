@@ -210,14 +210,4 @@ http://127.0.0.1:6878/ace/getstream?id=cc9b7f5fe416069a2110da0909b0f915043c468b&
 #EXTINF:-1 tvg-id="21:00-Primera-At. Madrid-Athletic Club" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera-At. Madrid-Athletic Club
 http://127.0.0.1:6878/ace/getstream?id=83c6c4942d69f4aa324aa746c5d7dbfd7d1572b3&pid=105
 #EXTINF:-1 tvg-id="21:00-Primera-At. Madrid-Athletic Club" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera-At. Madrid-Athletic Club
-http://127.0.0.1:6878/ace/getstream?id=f31a586422c9244196c810c84b6c85da350318a5&pid=106
-#EXTINF:-1 tvg-id="21:00-Primera-At. Madrid-Athletic Club" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera-At. Madrid-Athletic Club
-http://127.0.0.1:6878/ace/getstream?id=608b0faf7d3d25f6fe5dba13d5e4b4142949990e&pid=107
-#EXTINF:-1 tvg-id="21:00-Primera-At. Madrid-Athletic Club" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera-At. Madrid-Athletic Club
-http://127.0.0.1:6878/ace/getstream?id=56ac8e227d526e722624675ccdd91b0cc850582f&pid=108
-#EXTINF:-1 tvg-id="21:00-Primera-At. Madrid-Athletic Club" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera-At. Madrid-Athletic Club
-http://127.0.0.1:6878/ace/getstream?id=335646e7394ea4eda343c95e57852bb70fc4178f&pid=109
-#EXTINF:-1 tvg-id="21:00-Segunda-UD Almería-Málaga" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Segunda-UD Almería-Málaga
-http://127.0.0.1:6878/ace/getstream?id=b2706a7ffbea236a3b398139a3a606ada664c0eb&pid=110
-#EXTINF:-1 tvg-id="21:00-Primera Federación Futsal-Servigroup Peñiscola FS-Movistar Inter" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera Federación Futsal-Servigroup Peñiscola FS-Movistar Inter
-http://127.0.0.1:6878/ace/getstream?id=c693df0cbccedec130e2b31453bdbfb3ccb7a648&pid=111
+http://127.0.0.1:6878/ace/
