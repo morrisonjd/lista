@@ -52,9 +52,9 @@ http://127.0.0.1:6878/ace/getstream?id=5a8323792bb3d48f71d1f690d3f5ec4ad5b48301&
 #EXTINF:-1 tvg-id="21:00-Champions League-PSV Eindhoven-Arsenal" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League-PSV Eindhoven-Arsenal
 http://127.0.0.1:6878/ace/getstream?id=7a5512d101742eb418dd0e3ffbd2bf6c43c73452&pid=26
 #EXTINF:-1 tvg-id="21:00-Champions League-Real Madrid-At. Madrid" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League-Real Madrid-At. Madrid
-http://127.0.0.1:6878/ace/getstream?id=05214e3471c72f22774490996f533617f4db8dc6&pid=27
+http://127.0.0.1:6878/ace/getstream?id=608b0faf7d3d25f6fe5dba13d5e4b4142949990e&pid=27
 #EXTINF:-1 tvg-id="21:00-Champions League-Real Madrid-At. Madrid" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League-Real Madrid-At. Madrid
-http://127.0.0.1:6878/ace/getstream?id=608b0faf7d3d25f6fe5dba13d5e4b4142949990e&pid=28
+http://127.0.0.1:6878/ace/getstream?id=1b5fdd73ab89ea7198e19a086502fb59c50938f7&pid=28
 #EXTINF:-1 tvg-id="21:00-Champions League-Real Madrid-At. Madrid" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League-Real Madrid-At. Madrid
 http://127.0.0.1:6878/ace/getstream?id=f43a021e8fd63334a4bf3fb11ffe58f89039a1d0&pid=29
 #EXTINF:-1 tvg-id="21:00-Champions League-Real Madrid-At. Madrid" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League-Real Madrid-At. Madrid
