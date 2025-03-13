@@ -527,48 +527,48 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3
 http://127.0.0.1:6878/ace/manifest.m3u8?id=d63d8a57cf471394bfa9f619bbd68b01ae27a801&pid=263
 #EXTINF:-1 tvg-id="BT Sport 3" group-title="New Loop",BT Sport 3
 http://127.0.0.1:6878/ace/manifest.m3u8?id=5f966c123759de46dff29c379266b7a403452033&pid=264
-#EXTINF:-1 tvg-id="BT Sport 4" group-title="Antigua",BT Sport 4
-http://127.0.0.1:6878/ace/manifest.m3u8?id=fc5089d8e1519872fdf951779ccbca913acc9bce&pid=265
 #EXTINF:-1 tvg-id="Premier Sports 1" group-title="New Loop",Premier Sports 1
-http://127.0.0.1:6878/ace/manifest.m3u8?id=75a56863b6fe0407ad4305b4d7ee5643c3923565&pid=266
+http://127.0.0.1:6878/ace/manifest.m3u8?id=75a56863b6fe0407ad4305b4d7ee5643c3923565&pid=265
 #EXTINF:-1 tvg-id="Eleven TR Sport" group-title="Antigua",Eleven TR Sport
-http://127.0.0.1:6878/ace/manifest.m3u8?id=154d111a97b7b18d1f64e9ae697c33c479d01e32&pid=267
+http://127.0.0.1:6878/ace/manifest.m3u8?id=154d111a97b7b18d1f64e9ae697c33c479d01e32&pid=266
 #EXTINF:-1 tvg-id="ReteVeneta" group-title="Antigua",ReteVeneta
-http://127.0.0.1:6878/ace/manifest.m3u8?id=70ba597a6e0f4c6a5868331b11cea6e459ac9f22&pid=268
+http://127.0.0.1:6878/ace/manifest.m3u8?id=70ba597a6e0f4c6a5868331b11cea6e459ac9f22&pid=267
 #EXTINF:-1 tvg-id="ReteVeneta" group-title="Antigua",ReteVeneta
-http://127.0.0.1:6878/ace/manifest.m3u8?id=8f3c2fcd4a6f8c78e3148f871fccaceced5a478e&pid=269
+http://127.0.0.1:6878/ace/manifest.m3u8?id=8f3c2fcd4a6f8c78e3148f871fccaceced5a478e&pid=268
 #EXTINF:-1 tvg-id="ReteVeneta" group-title="Antigua",ReteVeneta
-http://127.0.0.1:6878/ace/manifest.m3u8?id=d2e92dfad22b8258187f622b834b9acedc1e443f&pid=270
+http://127.0.0.1:6878/ace/manifest.m3u8?id=d2e92dfad22b8258187f622b834b9acedc1e443f&pid=269
 #EXTINF:-1 tvg-id="RAI 3" group-title="Antigua",RAI 3
-http://127.0.0.1:6878/ace/manifest.m3u8?id=bbbcbec1b2538fc069f19434185961b1e93ea833&pid=271
+http://127.0.0.1:6878/ace/manifest.m3u8?id=bbbcbec1b2538fc069f19434185961b1e93ea833&pid=270
 #EXTINF:-1 tvg-id="San Marino RTV Sport" group-title="Antigua",San Marino RTV Sport
-http://127.0.0.1:6878/ace/manifest.m3u8?id=753f25945102655dd6fcf856f32695005c912d69&pid=272
+http://127.0.0.1:6878/ace/manifest.m3u8?id=753f25945102655dd6fcf856f32695005c912d69&pid=271
 #EXTINF:-1 tvg-id="San Marino RTV" group-title="Antigua",San Marino RTV
-http://127.0.0.1:6878/ace/manifest.m3u8?id=2016e4b3d77149097b6d842df07b7a364c823b9b&pid=273
+http://127.0.0.1:6878/ace/manifest.m3u8?id=2016e4b3d77149097b6d842df07b7a364c823b9b&pid=272
 #EXTINF:-1 tvg-id="Italia 2 TV" group-title="Antigua",Italia 2 TV
-http://127.0.0.1:6878/ace/manifest.m3u8?id=3bf85216745a2a4577f2226628301fded74287bf&pid=274
+http://127.0.0.1:6878/ace/manifest.m3u8?id=3bf85216745a2a4577f2226628301fded74287bf&pid=273
 #EXTINF:-1 tvg-id="Canale 2" group-title="Antigua",Canale 2
-http://127.0.0.1:6878/ace/manifest.m3u8?id=b65af5e182be8ac7bdf3e1c548e4b7f91e69bf77&pid=275
+http://127.0.0.1:6878/ace/manifest.m3u8?id=b65af5e182be8ac7bdf3e1c548e4b7f91e69bf77&pid=274
 #EXTINF:-1 tvg-id="Canale 7" group-title="Antigua",Canale 7
-http://127.0.0.1:6878/ace/manifest.m3u8?id=8ebf8cded98f3e4c2e3ea83244e7ef3481091c3b&pid=276
+http://127.0.0.1:6878/ace/manifest.m3u8?id=8ebf8cded98f3e4c2e3ea83244e7ef3481091c3b&pid=275
 #EXTINF:-1 tvg-id="Milano Pavia News" group-title="Antigua",Milano Pavia News
-http://127.0.0.1:6878/ace/manifest.m3u8?id=0969a38e2b12d718f09e88e0925aed88f24a957b&pid=277
+http://127.0.0.1:6878/ace/manifest.m3u8?id=0969a38e2b12d718f09e88e0925aed88f24a957b&pid=276
 #EXTINF:-1 tvg-id="UniNettuno University TV" group-title="Antigua",UniNettuno University TV
-http://127.0.0.1:6878/ace/manifest.m3u8?id=4e17bac6b2decc70fd7bd704ce7013072fefd1f0&pid=278
+http://127.0.0.1:6878/ace/manifest.m3u8?id=4e17bac6b2decc70fd7bd704ce7013072fefd1f0&pid=277
 #EXTINF:-1 tvg-id="FOX Sports 1 US" group-title="Antigua",FOX Sports 1 US
-http://127.0.0.1:6878/ace/manifest.m3u8?id=c9c062941fbecb16ce29437f346ea7177d720898&pid=279
+http://127.0.0.1:6878/ace/manifest.m3u8?id=c9c062941fbecb16ce29437f346ea7177d720898&pid=278
 #EXTINF:-1 tvg-id="FOX Sports 2 US" group-title="Antigua",FOX Sports 2 US
-http://127.0.0.1:6878/ace/manifest.m3u8?id=cba8d369eac629b577750edb90370cd1c5fb03b7&pid=280
+http://127.0.0.1:6878/ace/manifest.m3u8?id=cba8d369eac629b577750edb90370cd1c5fb03b7&pid=279
 #EXTINF:-1 tvg-id="beIN SPORTS XTRA ñ" group-title="New Loop",beIN SPORTS XTRA ñ
-http://127.0.0.1:6878/ace/manifest.m3u8?id=fd869f34346154ca7cd78d46cbf7a6b8671beab5&pid=281
+http://127.0.0.1:6878/ace/manifest.m3u8?id=fd869f34346154ca7cd78d46cbf7a6b8671beab5&pid=280
 #EXTINF:-1 tvg-id="beIN SPORTS XTRA ñ" group-title="New Loop",beIN SPORTS XTRA ñ
-http://127.0.0.1:6878/ace/manifest.m3u8?id=92a7dcc55392efc6dd5d012c4ff3878891eb6a6e&pid=282
+http://127.0.0.1:6878/ace/manifest.m3u8?id=92a7dcc55392efc6dd5d012c4ff3878891eb6a6e&pid=281
 #EXTINF:-1 tvg-id="NBA TV" group-title="New Era",NBA TV
-http://127.0.0.1:6878/ace/manifest.m3u8?id=6ad33feec75d929de54d77b9becfe767ae83fcb3&pid=283
+http://127.0.0.1:6878/ace/manifest.m3u8?id=6ad33feec75d929de54d77b9becfe767ae83fcb3&pid=282
 #EXTINF:-1 tvg-id="NBA TV" group-title="New Era",NBA TV
-http://127.0.0.1:6878/ace/manifest.m3u8?id=c8aac540621d481965791c4442a7e868bcca10ca&pid=284
+http://127.0.0.1:6878/ace/manifest.m3u8?id=c8aac540621d481965791c4442a7e868bcca10ca&pid=283
 #EXTINF:-1 tvg-id="NBA TV" group-title="Antigua",NBA TV
-http://127.0.0.1:6878/ace/manifest.m3u8?id=e72d03fb9694164317260f684470be9ab781ed95&pid=285
+http://127.0.0.1:6878/ace/manifest.m3u8?id=e72d03fb9694164317260f684470be9ab781ed95&pid=284
+#EXTINF:-1 tvg-id="ESPN" group-title="New Loop",ESPN
+http://127.0.0.1:6878/ace/manifest.m3u8?id=fc5089d8e1519872fdf951779ccbca913acc9bce&pid=285
 #EXTINF:-1 tvg-id="ESPN" group-title="New Loop",ESPN
 http://127.0.0.1:6878/ace/manifest.m3u8?id=79f10c6c6168e42bfc606f3f7b9e5f3ca79dedab&pid=286
 #EXTINF:-1 tvg-id="ESPN" group-title="New Loop",ESPN
