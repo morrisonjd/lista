@@ -169,8 +169,6 @@ http://127.0.0.1:8080/ace/getstream?id=4f1d222c600e66ef4990b3d7ea13bfa53f7bfea1
 http://127.0.0.1:8080/ace/getstream?id=adab1ca1447108f5dcee688d709bdd372a002c4b
 #EXTINF:-1 tvg-id="F1 TV55 | Carlos Sainz | Williams" group-title="New Era",F1 TV55 | Carlos Sainz | Williams
 http://127.0.0.1:8080/ace/getstream?id=ff6c8b62faf8b5130bea01fe2aa14e7bed8b3950
-#EXTINF:-1 tvg-id="Rally TV" group-title="New Era",Rally TV
-http://127.0.0.1:8080/ace/getstream?id=6e654ee8b7ffde32a507a2ed27086090b68926e8
 #EXTINF:-1 tvg-id="MGPTV | Camara de a bordo 1" group-title="New Era",MGPTV | Camara de a bordo 1
 http://127.0.0.1:8080/ace/getstream?id=1cc1b4aeaae07bc257ed4951a774beb3d3b44c86
 #EXTINF:-1 tvg-id="MGPTV | Camara de a bordo 2" group-title="New Era",MGPTV | Camara de a bordo 2
@@ -218,15 +216,13 @@ http://127.0.0.1:8080/ace/getstream?id=8e8cf5d0da2f30cd3b266344891a18ed6bacaf50
 #EXTINF:-1 tvg-id="Eurosport 1" group-title="New Era",Eurosport 1
 http://127.0.0.1:8080/ace/getstream?id=95120cee8223e9af839994ecc2b96aef05f8a151
 #EXTINF:-1 tvg-id="Eurosport 1" group-title="New Loop",Eurosport 1
+http://127.0.0.1:8080/ace/getstream?id=1b0bc4d4dcd609d3c092712e721392b199f50a62
+#EXTINF:-1 tvg-id="Eurosport 1" group-title="New Loop",Eurosport 1
 http://127.0.0.1:8080/ace/getstream?id=1d04e3b27c2ac3ff52dc949e76f36207fbb235c4
 #EXTINF:-1 tvg-id="Eurosport 1" group-title="New Loop",Eurosport 1
 http://127.0.0.1:8080/ace/getstream?id=6579c8a3441b6c27caf0508b33fd571b76bac538
 #EXTINF:-1 tvg-id="Eurosport 1" group-title="New Loop",Eurosport 1
 http://127.0.0.1:8080/ace/getstream?id=cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 tvg-id="Eurosport 1" group-title="New Loop",Eurosport 1
-http://127.0.0.1:8080/ace/getstream?id=f5a5a5bf9903bde0c865e421f126c42e514ff787
-#EXTINF:-1 tvg-id="Eurosport 1" group-title="Antigua",Eurosport 1
-http://127.0.0.1:8080/ace/getstream?id=1b0bc4d4dcd609d3c092712e721392b199f50a62
 #EXTINF:-1 tvg-id="Eurosport 2" group-title="New Era",Eurosport 2
 http://127.0.0.1:8080/ace/getstream?id=ca4860d9998d63029dcf08c6f5dfc2102c01be4e
 #EXTINF:-1 tvg-id="Eurosport 2" group-title="New Era",Eurosport 2
@@ -319,14 +315,10 @@ http://127.0.0.1:8080/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 http://127.0.0.1:8080/ace/getstream?id=16ffa1713f42aa27317ee039a2bd0cdbc89a1580
 #EXTINF:-1 tvg-id="AutoMotorSport" group-title="New Loop",AutoMotorSport
 http://127.0.0.1:8080/ace/getstream?id=610993aea3a2bfd509594334b7461ce96900f54c
-#EXTINF:-1 tvg-id="AutoMotorSport" group-title="New Loop",AutoMotorSport
-http://127.0.0.1:8080/ace/getstream?id=6791a2d1587e8c68eac10815f22aed439b0f6c9f
 #EXTINF:-1 tvg-id="Canal Motor" group-title="New Loop",Canal Motor
-http://127.0.0.1:8080/ace/getstream?id=31ef168d43c7cd04e672475f7ec33b99b9fe5a96
+http://127.0.0.1:8080/ace/getstream?id=35e17cc84abc5e393b5acd688536a9681105f2d5
 #EXTINF:-1 tvg-id="Motors TV" group-title="New Loop",Motors TV
 http://127.0.0.1:8080/ace/getstream?id=442aeb6643b8836f9d00361c9e48eeb0841ddf98
-#EXTINF:-1 tvg-id="Motors TV" group-title="New Loop",Motors TV
-http://127.0.0.1:8080/ace/getstream?id=8d475e2688519f2c602687b71be54cedbaef9e6b
 #EXTINF:-1 tvg-id="Motorvision TV" group-title="New Loop",Motorvision TV
 http://127.0.0.1:8080/ace/getstream?id=9c75e6ed0671eec6670cb2eabcc7d78267c7f404
 #EXTINF:-1 tvg-id="Retrovision Motor" group-title="New Loop",Retrovision Motor
@@ -347,8 +339,6 @@ http://127.0.0.1:8080/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
 http://127.0.0.1:8080/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="SuperTennis" group-title="New Loop",SuperTennis
 http://127.0.0.1:8080/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee
-#EXTINF:-1 tvg-id="Onetoro" group-title="New Era",Onetoro
-http://127.0.0.1:8080/ace/getstream?id=19940643e22199f378edf30e607ed40257fd4c5c
 #EXTINF:-1 tvg-id="Onetoro" group-title="New Era",Onetoro
 http://127.0.0.1:8080/ace/getstream?id=4da965302d7ce9e6d4bbd9277dfc023ab6ff0721
 #EXTINF:-1 tvg-id="MATCH!" group-title="Antigua",MATCH!
@@ -572,10 +562,10 @@ http://127.0.0.1:8080/ace/getstream?id=c9c062941fbecb16ce29437f346ea7177d720898
 #EXTINF:-1 tvg-id="FOX Sports 2 US" group-title="Antigua",FOX Sports 2 US
 http://127.0.0.1:8080/ace/getstream?id=cba8d369eac629b577750edb90370cd1c5fb03b7
 #EXTINF:-1 tvg-id="beIN SPORTS XTRA ñ" group-title="New Loop",beIN SPORTS XTRA ñ
-http://127.0.0.1:8080/ace/getstream?id=fd869f34346154ca7cd78d46cbf7a6b8671beab5
+http://127.0.0.1:8080/ace/getstream?id=e8e459656f964f601ad4bcda8b81a43ba41c68f9
 #EXTINF:-1 tvg-id="beIN SPORTS XTRA ñ" group-title="New Loop",beIN SPORTS XTRA ñ
 http://127.0.0.1:8080/ace/getstream?id=4922d8414b6d96bcdd36e99483a7077f484b6f71
-#EXTINF:-1 tvg-id="beIN SPORTS XTRA ñ" group-title="New Loop",beIN SPORTS XTRA ñ
+#EXTINF:-1 tvg-id="beIN SPORTS XTRA ñ" group-title="Antigua",beIN SPORTS XTRA ñ
 http://127.0.0.1:8080/ace/getstream?id=92a7dcc55392efc6dd5d012c4ff3878891eb6a6e
 #EXTINF:-1 tvg-id="NBA TV" group-title="New Era",NBA TV
 http://127.0.0.1:8080/ace/getstream?id=6ad33feec75d929de54d77b9becfe767ae83fcb3
