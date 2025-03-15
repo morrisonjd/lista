@@ -225,6 +225,10 @@ http://127.0.0.1:8080/ace/getstream?id=8e9390c1647da151a7bc0e1b37c4b4d21d83049d
 http://127.0.0.1:8080/ace/getstream?id=0358f9db953e5fde91c34d7ed4bc368939b49853
 #EXTINF:-1 tvg-id="Eurosport 2" group-title="Antigua",Eurosport 2
 http://127.0.0.1:8080/ace/getstream?id=6176281b9c46a5621a0e88524f8dc621f173b8e0
+#EXTINF:-1 tvg-id="Canal 1 1RFEF" group-title="New Era",Canal 1 1RFEF
+http://127.0.0.1:8080/ace/getstream?id=c1ee6e1e0ef5928d8261f855c417de21794f437d
+#EXTINF:-1 tvg-id="Canal 2 1RFEF" group-title="New Era",Canal 2 1RFEF
+http://127.0.0.1:8080/ace/getstream?id=8677d339ecddd75165c0015025f598b6215974cf
 #EXTINF:-1 tvg-id="GOL PLAY" group-title="New Era",GOL PLAY
 http://127.0.0.1:8080/ace/getstream?id=3a2bbdbe4cc775c5c75ccb7d2408363d69c94b5d
 #EXTINF:-1 tvg-id="Teledeporte" group-title="New Era",Teledeporte
@@ -323,6 +327,8 @@ http://127.0.0.1:8080/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
 http://127.0.0.1:8080/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="SuperTennis" group-title="New Loop",SuperTennis
 http://127.0.0.1:8080/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee
+#EXTINF:-1 tvg-id="Onetoro" group-title="New Era",Onetoro
+http://127.0.0.1:8080/ace/getstream?id=4da965302d7ce9e6d4bbd9277dfc023ab6ff0721
 #EXTINF:-1 tvg-id="MATCH!" group-title="Antigua",MATCH!
 http://127.0.0.1:8080/ace/getstream?id=a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
 #EXTINF:-1 tvg-id="MATCH! Football" group-title="Antigua",MATCH! Football
