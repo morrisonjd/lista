@@ -315,6 +315,8 @@ http://127.0.0.1:8080/ace/getstream?id=9c75e6ed0671eec6670cb2eabcc7d78267c7f404
 http://127.0.0.1:8080/ace/getstream?id=b8b8c4470d3d27c75302cf49ab6c4b52a660bff3
 #EXTINF:-1 tvg-id="TWITCH HIKKI360ES" group-title="New Era",TWITCH HIKKI360ES
 http://127.0.0.1:8080/ace/getstream?id=33f0fb5f182a731abe2d13acee8a02cdb618c8d5
+#EXTINF:-1 tvg-id="WINTER Hits BARCELONA" group-title="New Era",WINTER Hits BARCELONA
+http://127.0.0.1:8080/ace/getstream?id=bf242abb254854d5b96e8c5f3cddafd8c9be1aca
 #EXTINF:-1 tvg-id="UFC Fight Pass" group-title="New Era",UFC Fight Pass
 http://127.0.0.1:8080/ace/getstream?id=f74dcf44f57fc71cb4b0719b3342e569eba50c51
 #EXTINF:-1 tvg-id="EVENTO UFC 1" group-title="New Era",EVENTO UFC 1
