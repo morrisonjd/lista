@@ -183,6 +183,8 @@ pipe:///usr/bin/ffmpeg -loglevel fatal -reconnect 1 -reconnect_on_network_error 
 pipe:///usr/bin/ffmpeg -loglevel fatal -reconnect 1 -reconnect_on_network_error 1 -reconnect_on_http_error 1 -reconnect_streamed 1 -reconnect_delay_max 4294 -fflags -nobuffer -err_detect ignore_err -i http://127.0.0.1:8080/ace/getstream?id=e7330b2c28af22b081ab509df5aac9672a7e037b -c copy -map 0 -f mpegts -tune zerolatency pipe:1
 #EXTINF:-1 tvg-id="GOL PLAY" group-title="New Era",GOL PLAY
 pipe:///usr/bin/ffmpeg -loglevel fatal -reconnect 1 -reconnect_on_network_error 1 -reconnect_on_http_error 1 -reconnect_streamed 1 -reconnect_delay_max 4294 -fflags -nobuffer -err_detect ignore_err -i http://127.0.0.1:8080/ace/getstream?id=3a2bbdbe4cc775c5c75ccb7d2408363d69c94b5d -c copy -map 0 -f mpegts -tune zerolatency pipe:1
+#EXTINF:-1 tvg-id="Teledeporte" group-title="New Era",Teledeporte
+pipe:///usr/bin/ffmpeg -loglevel fatal -reconnect 1 -reconnect_on_network_error 1 -reconnect_on_http_error 1 -reconnect_streamed 1 -reconnect_delay_max 4294 -fflags -nobuffer -err_detect ignore_err -i http://127.0.0.1:8080/ace/getstream?id=c693df0cbccedec130e2b31453bdbfb3ccb7a648 -c copy -map 0 -f mpegts -tune zerolatency pipe:1
 #EXTINF:-1 tvg-id="Mega" group-title="New Era",Mega
 pipe:///usr/bin/ffmpeg -loglevel fatal -reconnect 1 -reconnect_on_network_error 1 -reconnect_on_http_error 1 -reconnect_streamed 1 -reconnect_delay_max 4294 -fflags -nobuffer -err_detect ignore_err -i http://127.0.0.1:8080/ace/getstream?id=65b66db65acc04f75701f733cab599c375bff645 -c copy -map 0 -f mpegts -tune zerolatency pipe:1
 #EXTINF:-1 tvg-id="Movistar Plus+ 2" group-title="New Era",Movistar Plus+ 2
@@ -417,8 +419,16 @@ pipe:///usr/bin/ffmpeg -loglevel fatal -reconnect 1 -reconnect_on_network_error 
 pipe:///usr/bin/ffmpeg -loglevel fatal -reconnect 1 -reconnect_on_network_error 1 -reconnect_on_http_error 1 -reconnect_streamed 1 -reconnect_delay_max 4294 -fflags -nobuffer -err_detect ignore_err -i http://127.0.0.1:8080/ace/getstream?id=8f4f572005ca2557743474087aa622693ba9b5fe -c copy -map 0 -f mpegts -tune zerolatency pipe:1
 #EXTINF:-1 tvg-id="Eurosport 360 9" group-title="Antigua",Eurosport 360 9
 pipe:///usr/bin/ffmpeg -loglevel fatal -reconnect 1 -reconnect_on_network_error 1 -reconnect_on_http_error 1 -reconnect_streamed 1 -reconnect_delay_max 4294 -fflags -nobuffer -err_detect ignore_err -i http://127.0.0.1:8080/ace/getstream?id=7993cecc31917793e2bfa2fe98faa9fe1ab62d47 -c copy -map 0 -f mpegts -tune zerolatency pipe:1
+#EXTINF:-1 tvg-id="Sky Sports Main Event" group-title="New Loop",Sky Sports Main Event
+pipe:///usr/bin/ffmpeg -loglevel fatal -reconnect 1 -reconnect_on_network_error 1 -reconnect_on_http_error 1 -reconnect_streamed 1 -reconnect_delay_max 4294 -fflags -nobuffer -err_detect ignore_err -i http://127.0.0.1:8080/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e -c copy -map 0 -f mpegts -tune zerolatency pipe:1
 #EXTINF:-1 tvg-id="Sky Sports Premier League" group-title="Antigua",Sky Sports Premier League
 pipe:///usr/bin/ffmpeg -loglevel fatal -reconnect 1 -reconnect_on_network_error 1 -reconnect_on_http_error 1 -reconnect_streamed 1 -reconnect_delay_max 4294 -fflags -nobuffer -err_detect ignore_err -i http://127.0.0.1:8080/ace/getstream?id=ec5eabe0144ccfffc337e1d6708e2afb81d0638e -c copy -map 0 -f mpegts -tune zerolatency pipe:1
+#EXTINF:-1 tvg-id="Sky Sports Football" group-title="New Loop",Sky Sports Football
+pipe:///usr/bin/ffmpeg -loglevel fatal -reconnect 1 -reconnect_on_network_error 1 -reconnect_on_http_error 1 -reconnect_streamed 1 -reconnect_delay_max 4294 -fflags -nobuffer -err_detect ignore_err -i http://127.0.0.1:8080/ace/getstream?id=8dbe2d515e9131fa311353537736f8c94be9b26d -c copy -map 0 -f mpegts -tune zerolatency pipe:1
+#EXTINF:-1 tvg-id="Sky Sports Arena" group-title="New Loop",Sky Sports Arena
+pipe:///usr/bin/ffmpeg -loglevel fatal -reconnect 1 -reconnect_on_network_error 1 -reconnect_on_http_error 1 -reconnect_streamed 1 -reconnect_delay_max 4294 -fflags -nobuffer -err_detect ignore_err -i http://127.0.0.1:8080/ace/getstream?id=d317a003e8047da2c36a2a2bb2289578c9a3b79c -c copy -map 0 -f mpegts -tune zerolatency pipe:1
+#EXTINF:-1 tvg-id="Sky Sports Cricket" group-title="New Loop",Sky Sports Cricket
+pipe:///usr/bin/ffmpeg -loglevel fatal -reconnect 1 -reconnect_on_network_error 1 -reconnect_on_http_error 1 -reconnect_streamed 1 -reconnect_delay_max 4294 -fflags -nobuffer -err_detect ignore_err -i http://127.0.0.1:8080/ace/getstream?id=6d95e4b0893e155cc674b84e0763150c445d3ddd -c copy -map 0 -f mpegts -tune zerolatency pipe:1
 #EXTINF:-1 tvg-id="BT Sport 1" group-title="New Loop",BT Sport 1
 pipe:///usr/bin/ffmpeg -loglevel fatal -reconnect 1 -reconnect_on_network_error 1 -reconnect_on_http_error 1 -reconnect_streamed 1 -reconnect_delay_max 4294 -fflags -nobuffer -err_detect ignore_err -i http://127.0.0.1:8080/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b -c copy -map 0 -f mpegts -tune zerolatency pipe:1
 #EXTINF:-1 tvg-id="BT Sport 1" group-title="New Loop",BT Sport 1
@@ -427,8 +437,6 @@ pipe:///usr/bin/ffmpeg -loglevel fatal -reconnect 1 -reconnect_on_network_error 
 pipe:///usr/bin/ffmpeg -loglevel fatal -reconnect 1 -reconnect_on_network_error 1 -reconnect_on_http_error 1 -reconnect_streamed 1 -reconnect_delay_max 4294 -fflags -nobuffer -err_detect ignore_err -i http://127.0.0.1:8080/ace/getstream?id=d63d8a57cf471394bfa9f619bbd68b01ae27a801 -c copy -map 0 -f mpegts -tune zerolatency pipe:1
 #EXTINF:-1 tvg-id="BT Sport 3" group-title="New Loop",BT Sport 3
 pipe:///usr/bin/ffmpeg -loglevel fatal -reconnect 1 -reconnect_on_network_error 1 -reconnect_on_http_error 1 -reconnect_streamed 1 -reconnect_delay_max 4294 -fflags -nobuffer -err_detect ignore_err -i http://127.0.0.1:8080/ace/getstream?id=5f966c123759de46dff29c379266b7a403452033 -c copy -map 0 -f mpegts -tune zerolatency pipe:1
-#EXTINF:-1 tvg-id="Sky Sport Arena" group-title="New Loop",Sky Sport Arena
-pipe:///usr/bin/ffmpeg -loglevel fatal -reconnect 1 -reconnect_on_network_error 1 -reconnect_on_http_error 1 -reconnect_streamed 1 -reconnect_delay_max 4294 -fflags -nobuffer -err_detect ignore_err -i http://127.0.0.1:8080/ace/getstream?id=d317a003e8047da2c36a2a2bb2289578c9a3b79c -c copy -map 0 -f mpegts -tune zerolatency pipe:1
 #EXTINF:-1 tvg-id="Premier Sports 1" group-title="New Loop",Premier Sports 1
 pipe:///usr/bin/ffmpeg -loglevel fatal -reconnect 1 -reconnect_on_network_error 1 -reconnect_on_http_error 1 -reconnect_streamed 1 -reconnect_delay_max 4294 -fflags -nobuffer -err_detect ignore_err -i http://127.0.0.1:8080/ace/getstream?id=75a56863b6fe0407ad4305b4d7ee5643c3923565 -c copy -map 0 -f mpegts -tune zerolatency pipe:1
 #EXTINF:-1 tvg-id="Eleven TR Sport" group-title="Antigua",Eleven TR Sport
@@ -459,6 +467,8 @@ pipe:///usr/bin/ffmpeg -loglevel fatal -reconnect 1 -reconnect_on_network_error 
 pipe:///usr/bin/ffmpeg -loglevel fatal -reconnect 1 -reconnect_on_network_error 1 -reconnect_on_http_error 1 -reconnect_streamed 1 -reconnect_delay_max 4294 -fflags -nobuffer -err_detect ignore_err -i http://127.0.0.1:8080/ace/getstream?id=c9c062941fbecb16ce29437f346ea7177d720898 -c copy -map 0 -f mpegts -tune zerolatency pipe:1
 #EXTINF:-1 tvg-id="FOX Sports 2 US" group-title="Antigua",FOX Sports 2 US
 pipe:///usr/bin/ffmpeg -loglevel fatal -reconnect 1 -reconnect_on_network_error 1 -reconnect_on_http_error 1 -reconnect_streamed 1 -reconnect_delay_max 4294 -fflags -nobuffer -err_detect ignore_err -i http://127.0.0.1:8080/ace/getstream?id=cba8d369eac629b577750edb90370cd1c5fb03b7 -c copy -map 0 -f mpegts -tune zerolatency pipe:1
+#EXTINF:-1 tvg-id="beIN SPORTS XTRA ñ" group-title="New Loop",beIN SPORTS XTRA ñ
+pipe:///usr/bin/ffmpeg -loglevel fatal -reconnect 1 -reconnect_on_network_error 1 -reconnect_on_http_error 1 -reconnect_streamed 1 -reconnect_delay_max 4294 -fflags -nobuffer -err_detect ignore_err -i http://127.0.0.1:8080/ace/getstream?id=4922d8414b6d96bcdd36e99483a7077f484b6f71 -c copy -map 0 -f mpegts -tune zerolatency pipe:1
 #EXTINF:-1 tvg-id="beIN SPORTS XTRA ñ" group-title="Antigua",beIN SPORTS XTRA ñ
 pipe:///usr/bin/ffmpeg -loglevel fatal -reconnect 1 -reconnect_on_network_error 1 -reconnect_on_http_error 1 -reconnect_streamed 1 -reconnect_delay_max 4294 -fflags -nobuffer -err_detect ignore_err -i http://127.0.0.1:8080/ace/getstream?id=92a7dcc55392efc6dd5d012c4ff3878891eb6a6e -c copy -map 0 -f mpegts -tune zerolatency pipe:1
 #EXTINF:-1 tvg-id="NBA TV" group-title="New Era",NBA TV
@@ -485,9 +495,19 @@ pipe:///usr/bin/ffmpeg -loglevel fatal -reconnect 1 -reconnect_on_network_error 
 pipe:///usr/bin/ffmpeg -loglevel fatal -reconnect 1 -reconnect_on_network_error 1 -reconnect_on_http_error 1 -reconnect_streamed 1 -reconnect_delay_max 4294 -fflags -nobuffer -err_detect ignore_err -i http://127.0.0.1:8080/ace/getstream?id=868a6187d6aeec65ded84bd777814c9f7b7a9027 -c copy -map 0 -f mpegts -tune zerolatency pipe:1
 #EXTINF:-1 tvg-id="Ziggo Sport 6" group-title="New Loop",Ziggo Sport 6
 pipe:///usr/bin/ffmpeg -loglevel fatal -reconnect 1 -reconnect_on_network_error 1 -reconnect_on_http_error 1 -reconnect_streamed 1 -reconnect_delay_max 4294 -fflags -nobuffer -err_detect ignore_err -i http://127.0.0.1:8080/ace/getstream?id=9231f38e71a85ad24b4c11a5e360992e30c916ed -c copy -map 0 -f mpegts -tune zerolatency pipe:1
+#EXTINF:-1 tvg-id="beIN SPORTS HABER" group-title="Antigua",beIN SPORTS HABER
+pipe:///usr/bin/ffmpeg -loglevel fatal -reconnect 1 -reconnect_on_network_error 1 -reconnect_on_http_error 1 -reconnect_streamed 1 -reconnect_delay_max 4294 -fflags -nobuffer -err_detect ignore_err -i http://127.0.0.1:8080/ace/getstream?id=47c1b3a68d03bd190fed521d144ad08fa0f195f3 -c copy -map 0 -f mpegts -tune zerolatency pipe:1
 #EXTINF:-1 tvg-id="beIN SPORTS 1" group-title="New Loop",beIN SPORTS 1
 pipe:///usr/bin/ffmpeg -loglevel fatal -reconnect 1 -reconnect_on_network_error 1 -reconnect_on_http_error 1 -reconnect_streamed 1 -reconnect_delay_max 4294 -fflags -nobuffer -err_detect ignore_err -i http://127.0.0.1:8080/ace/getstream?id=bba1905fcd1c4975aec544047bf8e4cd23ce3fe0 -c copy -map 0 -f mpegts -tune zerolatency pipe:1
+#EXTINF:-1 tvg-id="beIN SPORTS 1" group-title="Antigua",beIN SPORTS 1
+pipe:///usr/bin/ffmpeg -loglevel fatal -reconnect 1 -reconnect_on_network_error 1 -reconnect_on_http_error 1 -reconnect_streamed 1 -reconnect_delay_max 4294 -fflags -nobuffer -err_detect ignore_err -i http://127.0.0.1:8080/ace/getstream?id=118416583faa3fb4f03800173429b6b844b43a52 -c copy -map 0 -f mpegts -tune zerolatency pipe:1
 #EXTINF:-1 tvg-id="beIN SPORTS 2" group-title="New Loop",beIN SPORTS 2
 pipe:///usr/bin/ffmpeg -loglevel fatal -reconnect 1 -reconnect_on_network_error 1 -reconnect_on_http_error 1 -reconnect_streamed 1 -reconnect_delay_max 4294 -fflags -nobuffer -err_detect ignore_err -i http://127.0.0.1:8080/ace/getstream?id=edb507e38394d614c9ff55805c9d354ae13210bc -c copy -map 0 -f mpegts -tune zerolatency pipe:1
+#EXTINF:-1 tvg-id="beIN SPORTS 2" group-title="Antigua",beIN SPORTS 2
+pipe:///usr/bin/ffmpeg -loglevel fatal -reconnect 1 -reconnect_on_network_error 1 -reconnect_on_http_error 1 -reconnect_streamed 1 -reconnect_delay_max 4294 -fflags -nobuffer -err_detect ignore_err -i http://127.0.0.1:8080/ace/getstream?id=48bee10b883f17c7186d60f1e8022dca0ba41a05 -c copy -map 0 -f mpegts -tune zerolatency pipe:1
 #EXTINF:-1 tvg-id="beIN SPORTS 3" group-title="New Loop",beIN SPORTS 3
 pipe:///usr/bin/ffmpeg -loglevel fatal -reconnect 1 -reconnect_on_network_error 1 -reconnect_on_http_error 1 -reconnect_streamed 1 -reconnect_delay_max 4294 -fflags -nobuffer -err_detect ignore_err -i http://127.0.0.1:8080/ace/getstream?id=731bd3336ec0986ff9100efe40dbaf1473a22cf8 -c copy -map 0 -f mpegts -tune zerolatency pipe:1
+#EXTINF:-1 tvg-id="beIN SPORTS 3" group-title="Antigua",beIN SPORTS 3
+pipe:///usr/bin/ffmpeg -loglevel fatal -reconnect 1 -reconnect_on_network_error 1 -reconnect_on_http_error 1 -reconnect_streamed 1 -reconnect_delay_max 4294 -fflags -nobuffer -err_detect ignore_err -i http://127.0.0.1:8080/ace/getstream?id=ed81c333815247536edfcdb2755147e8c4144d62 -c copy -map 0 -f mpegts -tune zerolatency pipe:1
+#EXTINF:-1 tvg-id="beIN SPORTS 4" group-title="Antigua",beIN SPORTS 4
+pipe:///usr/bin/ffmpeg -loglevel fatal -reconnect 1 -reconnect_on_network_error 1 -reconnect_on_http_error 1 -reconnect_streamed 1 -reconnect_delay_max 4294 -fflags -nobuffer -err_detect ignore_err -i http://127.0.0.1:8080/ace/getstream?id=7683cd0cbacf55fa8b39c363219ffba1bc47cf9d -c copy -map 0 -f mpegts -tune zerolatency pipe:1
