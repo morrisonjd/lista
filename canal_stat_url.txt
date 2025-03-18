@@ -185,6 +185,7 @@ SPORTDIGITAL FUSSBALL GER http://192.168.18.75:6878/ace/stat/e8b528ebd16f41d8938
 Sport1+ http://192.168.18.75:6878/ace/stat/ff6a3378d51f3b4d92b8444d72576a6df97dbdc4/bb1a872234cda5e5d1f00a1b15dd7db5
 ServusTV GER http://192.168.18.75:6878/ace/stat/a7e28ff5910c285737503c0ee59cef7a1a19df2d/bb1a872234cda5e5d1f00a1b15dd7db5
 MOTORVISION.TV Error al obtener stat_url después de 5 intentos
+MOTORVISION.TV http://192.168.18.75:6878/ace/stat/74bde30f1dea29e2233a9bd3a0a8c9f1c3625f9d/bb1a872234cda5e5d1f00a1b15dd7db5
 Magenta Sport 1 http://192.168.18.75:6878/ace/stat/1d08eb70e51005f6b52c07c69cbe7ad8b515d174/bb1a872234cda5e5d1f00a1b15dd7db5
 Magenta Sport 2 http://192.168.18.75:6878/ace/stat/0b8dd14fae3fd9f6b4adcec6c26f53490c4c52a6/bb1a872234cda5e5d1f00a1b15dd7db5
 Magenta Sport 3 http://192.168.18.75:6878/ace/stat/eb9ef8cfb7193b087f66c2072ad97d36cd266a9d/bb1a872234cda5e5d1f00a1b15dd7db5
