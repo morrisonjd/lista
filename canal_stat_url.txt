@@ -124,7 +124,7 @@ WINTER Hits BARCELONA http://192.168.18.75:6878/ace/stat/999fba530363e14dd19d006
 UFC Fight Pass http://192.168.18.75:6878/ace/stat/b32b5f7063846a31d6e25f96b109099a3efd2856/bb1a872234cda5e5d1f00a1b15dd7db5
 EVENTO UFC 1 http://192.168.18.75:6878/ace/stat/f022f190ba9c7e15cba288b52273971a669c3b94/bb1a872234cda5e5d1f00a1b15dd7db5
 Tennis Channel http://192.168.18.75:6878/ace/stat/1b348443efc7f0cf4cdf349ac35bbe5d41be6220/bb1a872234cda5e5d1f00a1b15dd7db5
-Tennis Channel Error al obtener stat_url después de 5 intentos
+Tennis Channel http://192.168.18.75:6878/ace/stat/8941762ddb41ff774d02431b7973f759d7c74157/bb1a872234cda5e5d1f00a1b15dd7db5
 SuperTennis http://192.168.18.75:6878/ace/stat/7a57543cb6061648dc44c5d4321bd100bc8a47ca/bb1a872234cda5e5d1f00a1b15dd7db5
 Onetoro http://192.168.18.75:6878/ace/stat/d3be15ffdf8e465e4b156feed3b956b56304df02/bb1a872234cda5e5d1f00a1b15dd7db5
 MATCH! http://192.168.18.75:6878/ace/stat/f69b2859510dce33b992dd1940f95254c6e6f51c/bb1a872234cda5e5d1f00a1b15dd7db5
@@ -184,6 +184,7 @@ Sky Sport F1 GER http://192.168.18.75:6878/ace/stat/b0999d6facfbae2944b9c7bba442
 SPORTDIGITAL FUSSBALL GER http://192.168.18.75:6878/ace/stat/e8b528ebd16f41d89382b59c6fdd4ed67e0a6dc0/bb1a872234cda5e5d1f00a1b15dd7db5
 Sport1+ http://192.168.18.75:6878/ace/stat/ff6a3378d51f3b4d92b8444d72576a6df97dbdc4/bb1a872234cda5e5d1f00a1b15dd7db5
 ServusTV GER http://192.168.18.75:6878/ace/stat/a7e28ff5910c285737503c0ee59cef7a1a19df2d/bb1a872234cda5e5d1f00a1b15dd7db5
+MOTORVISION.TV Error al obtener stat_url después de 5 intentos
 Magenta Sport 1 http://192.168.18.75:6878/ace/stat/1d08eb70e51005f6b52c07c69cbe7ad8b515d174/bb1a872234cda5e5d1f00a1b15dd7db5
 Magenta Sport 2 http://192.168.18.75:6878/ace/stat/0b8dd14fae3fd9f6b4adcec6c26f53490c4c52a6/bb1a872234cda5e5d1f00a1b15dd7db5
 Magenta Sport 3 http://192.168.18.75:6878/ace/stat/eb9ef8cfb7193b087f66c2072ad97d36cd266a9d/bb1a872234cda5e5d1f00a1b15dd7db5
@@ -215,7 +216,7 @@ BT Sport 1 http://192.168.18.75:6878/ace/stat/19c5c13a8e7273d78d53fdaea3deaf1b80
 BT Sport 2 http://192.168.18.75:6878/ace/stat/01dcc1ea3387c2b73953efe3f52286a770737d7c/bb1a872234cda5e5d1f00a1b15dd7db5
 BT Sport 3 http://192.168.18.75:6878/ace/stat/d57ebd44296b0c92c0661cc964e737a54b852cec/bb1a872234cda5e5d1f00a1b15dd7db5
 Premier Sports 1 http://192.168.18.75:6878/ace/stat/13ddaf59c0f2d760fd3775acc254e13825206eac/bb1a872234cda5e5d1f00a1b15dd7db5
-Eleven TR Sport Error al obtener stat_url después de 5 intentos
+Eleven TR Sport http://192.168.18.75:6878/ace/stat/27a48bba07983857c3b2591d9286dda9b4c2bb88/bb1a872234cda5e5d1f00a1b15dd7db5
 ReteVeneta http://192.168.18.75:6878/ace/stat/18e78940bc8f918a2bef5a5f9e75b326755726a7/bb1a872234cda5e5d1f00a1b15dd7db5
 ReteVeneta http://192.168.18.75:6878/ace/stat/1678638530b51fc67198e61a85e7313e895c0cd9/bb1a872234cda5e5d1f00a1b15dd7db5
 ReteVeneta http://192.168.18.75:6878/ace/stat/38e3ef0fc8fc34c2d88e7001004e4ab6c05c39d9/bb1a872234cda5e5d1f00a1b15dd7db5
