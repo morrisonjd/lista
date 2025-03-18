@@ -241,6 +241,8 @@ pipe:///usr/bin/ffmpeg -loglevel fatal -reconnect 1 -reconnect_on_network_error 
 pipe:///usr/bin/ffmpeg -loglevel fatal -reconnect 1 -reconnect_on_network_error 1 -reconnect_on_http_error 1 -reconnect_streamed 1 -reconnect_delay_max 4294 -fflags -nobuffer -err_detect ignore_err -i http://127.0.0.1:8080/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a -c copy -map 0 -f mpegts -tune zerolatency pipe:1
 #EXTINF:-1 tvg-id="DAZN 6" group-title="New Loop",DAZN 6
 pipe:///usr/bin/ffmpeg -loglevel fatal -reconnect 1 -reconnect_on_network_error 1 -reconnect_on_http_error 1 -reconnect_streamed 1 -reconnect_delay_max 4294 -fflags -nobuffer -err_detect ignore_err -i http://127.0.0.1:8080/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80 -c copy -map 0 -f mpegts -tune zerolatency pipe:1
+#EXTINF:-1 tvg-id="Motorvision TV" group-title="New Loop",Motorvision TV
+pipe:///usr/bin/ffmpeg -loglevel fatal -reconnect 1 -reconnect_on_network_error 1 -reconnect_on_http_error 1 -reconnect_streamed 1 -reconnect_delay_max 4294 -fflags -nobuffer -err_detect ignore_err -i http://127.0.0.1:8080/ace/getstream?id=9c75e6ed0671eec6670cb2eabcc7d78267c7f404 -c copy -map 0 -f mpegts -tune zerolatency pipe:1
 #EXTINF:-1 tvg-id="TWITCH HIKKI360ES" group-title="New Era",TWITCH HIKKI360ES
 pipe:///usr/bin/ffmpeg -loglevel fatal -reconnect 1 -reconnect_on_network_error 1 -reconnect_on_http_error 1 -reconnect_streamed 1 -reconnect_delay_max 4294 -fflags -nobuffer -err_detect ignore_err -i http://127.0.0.1:8080/ace/getstream?id=33f0fb5f182a731abe2d13acee8a02cdb618c8d5 -c copy -map 0 -f mpegts -tune zerolatency pipe:1
 #EXTINF:-1 tvg-id="WINTER Hits BARCELONA" group-title="New Era",WINTER Hits BARCELONA
@@ -371,8 +373,6 @@ pipe:///usr/bin/ffmpeg -loglevel fatal -reconnect 1 -reconnect_on_network_error 
 pipe:///usr/bin/ffmpeg -loglevel fatal -reconnect 1 -reconnect_on_network_error 1 -reconnect_on_http_error 1 -reconnect_streamed 1 -reconnect_delay_max 4294 -fflags -nobuffer -err_detect ignore_err -i http://127.0.0.1:8080/ace/getstream?id=e61b6538df35e5016635dfa2b3073f5b82ee4c2b -c copy -map 0 -f mpegts -tune zerolatency pipe:1
 #EXTINF:-1 tvg-id="ServusTV GER" group-title="Antigua",ServusTV GER
 pipe:///usr/bin/ffmpeg -loglevel fatal -reconnect 1 -reconnect_on_network_error 1 -reconnect_on_http_error 1 -reconnect_streamed 1 -reconnect_delay_max 4294 -fflags -nobuffer -err_detect ignore_err -i http://127.0.0.1:8080/ace/getstream?id=988f4d88d74ec0d2b3584f6c7e067fcbdb501115 -c copy -map 0 -f mpegts -tune zerolatency pipe:1
-#EXTINF:-1 tvg-id="MOTORVISION.TV" group-title="Antigua",MOTORVISION.TV
-pipe:///usr/bin/ffmpeg -loglevel fatal -reconnect 1 -reconnect_on_network_error 1 -reconnect_on_http_error 1 -reconnect_streamed 1 -reconnect_delay_max 4294 -fflags -nobuffer -err_detect ignore_err -i http://127.0.0.1:8080/ace/getstream?id=acd7e3ae185a376e6596e60a414bebbf3321b37f -c copy -map 0 -f mpegts -tune zerolatency pipe:1
 #EXTINF:-1 tvg-id="Magenta Sport 1" group-title="Antigua",Magenta Sport 1
 pipe:///usr/bin/ffmpeg -loglevel fatal -reconnect 1 -reconnect_on_network_error 1 -reconnect_on_http_error 1 -reconnect_streamed 1 -reconnect_delay_max 4294 -fflags -nobuffer -err_detect ignore_err -i http://127.0.0.1:8080/ace/getstream?id=501141c649a2b78c4965cbf3257224181cc55072 -c copy -map 0 -f mpegts -tune zerolatency pipe:1
 #EXTINF:-1 tvg-id="Magenta Sport 2" group-title="Antigua",Magenta Sport 2
