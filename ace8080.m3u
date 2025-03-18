@@ -1,12 +1,12 @@
 #EXTM3U 
 #EXTINF:-1 tvg-id="La 1" group-title="New Era",La 1
-http://127.0.0.1:8080/ace/getstream?id=7225e4b281975f1a36d61dfd9724b669d7747b70
+pipe:///usr/bin/ffmpeg -loglevel fatal -re -i http://127.0.0.1:8080/ace/getstream?id=7225e4b281975f1a36d61dfd9724b669d7747b70 -map 0 -c copy -f mpegts pipe:1
 #EXTINF:-1 tvg-id="La 1" group-title="Antigua",La 1
 http://127.0.0.1:8080/ace/getstream?id=b897de3e62d7c6bee9ef1107d972f3d1075e03ff
 #EXTINF:-1 tvg-id="La 2" group-title="New Era",La 2
 http://127.0.0.1:8080/ace/getstream?id=56d98cef21d9e242a8c32f36259c850c467e9748
 #EXTINF:-1 tvg-id="Antena 3" group-title="New Era",Antena 3
-http://127.0.0.1:8080/ace/getstream?id=c5b1bb99bdee549885d4d680cafbdd0a026239f5
+pipe:///usr/bin/ffmpeg -loglevel fatal -re -i http://127.0.0.1:8080/ace/getstream?id=c5b1bb99bdee549885d4d680cafbdd0a026239f5 -map 0 -c copy -f mpegts pipe:1
 #EXTINF:-1 tvg-id="Cuatro" group-title="New Era",Cuatro
 http://127.0.0.1:8080/ace/getstream?id=da60cf19fab0b9e23aab83bb37d61e8b8c3b7655
 #EXTINF:-1 tvg-id="Telecinco" group-title="New Era",Telecinco
