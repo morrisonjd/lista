@@ -1,21 +1,9 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="01:00-NBA-Houston Rockets-Philadelphia 76ers" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",01:00-NBA-Houston Rockets-Philadelphia 76ers
+#EXTINF:-1 tvg-id="00:00-NBA-Charlotte Hornets-Atlanta Hawks" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",00:00-NBA-Charlotte Hornets-Atlanta Hawks
 http://127.0.0.1:6878/ace/getstream?id=0f771c30336a0506c74f4aa86762edcb94d21fac&pid=1
-#EXTINF:-1 tvg-id="01:00-NBA-Houston Rockets-Philadelphia 76ers" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",01:00-NBA-Houston Rockets-Philadelphia 76ers
+#EXTINF:-1 tvg-id="00:00-NBA-Charlotte Hornets-Atlanta Hawks" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",00:00-NBA-Charlotte Hornets-Atlanta Hawks
 http://127.0.0.1:6878/ace/getstream?id=a8745bd07dc60413a4fc05caf2cabbfb11952232&pid=2
-#EXTINF:-1 tvg-id="01:00-NBA-Houston Rockets-Philadelphia 76ers" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",01:00-NBA-Houston Rockets-Philadelphia 76ers
+#EXTINF:-1 tvg-id="00:00-NBA-Charlotte Hornets-Atlanta Hawks" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",00:00-NBA-Charlotte Hornets-Atlanta Hawks
 http://127.0.0.1:6878/ace/getstream?id=fe134ae09f9643ea9bfdd75ff1f121ba8c58e5c1&pid=3
-#EXTINF:-1 tvg-id="01:00-NBA-Houston Rockets-Philadelphia 76ers" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",01:00-NBA-Houston Rockets-Philadelphia 76ers
+#EXTINF:-1 tvg-id="00:00-NBA-Charlotte Hornets-Atlanta Hawks" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",00:00-NBA-Charlotte Hornets-Atlanta Hawks
 http://127.0.0.1:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3&pid=4
-#EXTINF:-1 tvg-id="18:00-Basketball Champions League-Manisa BBSK-Unicaja Málaga" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:00-Basketball Champions League-Manisa BBSK-Unicaja Málaga
-http://127.0.0.1:6878/ace/getstream?id=c693df0cbccedec130e2b31453bdbfb3ccb7a648&pid=5
-#EXTINF:-1 tvg-id="20:30-Euroliga-Paris Basketball-AX Olimpia Milano" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:30-Euroliga-Paris Basketball-AX Olimpia Milano
-http://127.0.0.1:6878/ace/getstream?id=0f771c30336a0506c74f4aa86762edcb94d21fac&pid=6
-#EXTINF:-1 tvg-id="20:30-Euroliga-Paris Basketball-AX Olimpia Milano" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:30-Euroliga-Paris Basketball-AX Olimpia Milano
-http://127.0.0.1:6878/ace/getstream?id=a8745bd07dc60413a4fc05caf2cabbfb11952232&pid=7
-#EXTINF:-1 tvg-id="20:30-Euroliga-Paris Basketball-AX Olimpia Milano" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:30-Euroliga-Paris Basketball-AX Olimpia Milano
-http://127.0.0.1:6878/ace/getstream?id=fe134ae09f9643ea9bfdd75ff1f121ba8c58e5c1&pid=8
-#EXTINF:-1 tvg-id="20:30-Euroliga-Paris Basketball-AX Olimpia Milano" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:30-Euroliga-Paris Basketball-AX Olimpia Milano
-http://127.0.0.1:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3&pid=9
-#EXTINF:-1 tvg-id="20:45-Basketball Champions League-BAXI Manresa-Reggio Emilia" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",20:45-Basketball Champions League-BAXI Manresa-Reggio Emilia
-http://127.0.0.1:6878/ace/getstream?id=c693df0cbccedec130e2b31453bdbfb3ccb7a648&pid=10
