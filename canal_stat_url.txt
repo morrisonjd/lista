@@ -53,7 +53,7 @@ DAZN F1 http://192.168.18.75:6878/ace/stat/0c48a8b1b69a6001f35237e69a9ccb3316d2e
 DAZN F1 http://192.168.18.75:6878/ace/stat/598724b78b74226412c123bfaa83333a63a6f0b6/bb1a872234cda5e5d1f00a1b15dd7db5
 F1 TV14 | Fernando Alonso | Aston Martin http://192.168.18.75:6878/ace/stat/388e63f08df3ece0447157a1cb443d850ecae171/bb1a872234cda5e5d1f00a1b15dd7db5
 F1 TV55 | Carlos Sainz | Williams http://192.168.18.75:6878/ace/stat/90164a72683454c049a328dc3a5ab59fddb83455/bb1a872234cda5e5d1f00a1b15dd7db5
-Rally TV Error al obtener stat_url después de 5 intentos
+Rally TV http://192.168.18.75:6878/ace/stat/825a5b77c23a5f96df6fd096d5391f7de2653fcf/bb1a872234cda5e5d1f00a1b15dd7db5
 Rally TV http://192.168.18.75:6878/ace/stat/22b250ce7a16dce785b2e1ee6d4e13bdfa7354cc/bb1a872234cda5e5d1f00a1b15dd7db5
 Rally TV http://192.168.18.75:6878/ace/stat/f43e4177d6ede225b8a25ad3b8b3e4776c353aa3/bb1a872234cda5e5d1f00a1b15dd7db5
 MGPTV | Camara de a bordo 1 http://192.168.18.75:6878/ace/stat/f55371d4f6671126d72bc742ebbda0210f3962c1/bb1a872234cda5e5d1f00a1b15dd7db5
@@ -184,7 +184,7 @@ Sky Sport F1 GER http://192.168.18.75:6878/ace/stat/b0999d6facfbae2944b9c7bba442
 SPORTDIGITAL FUSSBALL GER http://192.168.18.75:6878/ace/stat/e8b528ebd16f41d89382b59c6fdd4ed67e0a6dc0/bb1a872234cda5e5d1f00a1b15dd7db5
 Sport1+ http://192.168.18.75:6878/ace/stat/ff6a3378d51f3b4d92b8444d72576a6df97dbdc4/bb1a872234cda5e5d1f00a1b15dd7db5
 ServusTV GER http://192.168.18.75:6878/ace/stat/a7e28ff5910c285737503c0ee59cef7a1a19df2d/bb1a872234cda5e5d1f00a1b15dd7db5
-MOTORVISION.TV Error al obtener stat_url después de 5 intentos
+MOTORVISION.TV http://192.168.18.75:6878/ace/stat/3a9f3c8b5ff1ef9cbdff95e171b36ff9affe03cd/bb1a872234cda5e5d1f00a1b15dd7db5
 MOTORVISION.TV http://192.168.18.75:6878/ace/stat/74bde30f1dea29e2233a9bd3a0a8c9f1c3625f9d/bb1a872234cda5e5d1f00a1b15dd7db5
 Magenta Sport 1 http://192.168.18.75:6878/ace/stat/1d08eb70e51005f6b52c07c69cbe7ad8b515d174/bb1a872234cda5e5d1f00a1b15dd7db5
 Magenta Sport 2 http://192.168.18.75:6878/ace/stat/0b8dd14fae3fd9f6b4adcec6c26f53490c4c52a6/bb1a872234cda5e5d1f00a1b15dd7db5
@@ -231,7 +231,7 @@ Milano Pavia News http://192.168.18.75:6878/ace/stat/8e6f2f9b708da5b215a3ff197cd
 UniNettuno University TV http://192.168.18.75:6878/ace/stat/1757a57be6167142726e9cf9593cb16dbb0e7409/bb1a872234cda5e5d1f00a1b15dd7db5
 FOX Sports 1 US http://192.168.18.75:6878/ace/stat/df23d9ca9275b354e23156d59b8bc1122441fa47/bb1a872234cda5e5d1f00a1b15dd7db5
 FOX Sports 2 US http://192.168.18.75:6878/ace/stat/e765303108614af0f9a42da7b45a147195982796/bb1a872234cda5e5d1f00a1b15dd7db5
-beIN SPORTS XTRA ñ http://192.168.18.75:6878/ace/stat/33aa6331066d7796fcab74bed23206f16bded398/bb1a872234cda5e5d1f00a1b15dd7db5
+beIN SPORTS XTRA ñ Error al obtener stat_url después de 5 intentos
 beIN SPORTS XTRA ñ http://192.168.18.75:6878/ace/stat/ac033bf7bf6eb4efa5ca3f8070742093eab47685/bb1a872234cda5e5d1f00a1b15dd7db5
 NBA TV http://192.168.18.75:6878/ace/stat/938a48ccad9dbd7bce6eda91d7ecb0d742e1dabd/bb1a872234cda5e5d1f00a1b15dd7db5
 NBA TV http://192.168.18.75:6878/ace/stat/64cb695c735b1fd3522e1db835e3c0757d65e376/bb1a872234cda5e5d1f00a1b15dd7db5
@@ -247,9 +247,12 @@ Ziggo Sport 2 http://192.168.18.75:6878/ace/stat/fca28f51d5500d131770230b033c5da
 Ziggo Sport 6 http://192.168.18.75:6878/ace/stat/c81fe6504175b77b4345a3e8b740aba1e3bf60dc/bb1a872234cda5e5d1f00a1b15dd7db5
 beIN SPORTS HABER http://192.168.18.75:6878/ace/stat/22d5b3999d11a4f1bad9da8fdaa9034935fb2706/bb1a872234cda5e5d1f00a1b15dd7db5
 beIN SPORTS 1 http://192.168.18.75:6878/ace/stat/58e454d067b9e25e40f3c62b3430b55ef6fead09/bb1a872234cda5e5d1f00a1b15dd7db5
+beIN SPORTS 1 http://192.168.18.75:6878/ace/stat/480d7826187fb55491f4cb598d0e7228b083412d/bb1a872234cda5e5d1f00a1b15dd7db5
 beIN SPORTS 1 http://192.168.18.75:6878/ace/stat/071b49a1c52d304cae6300e2776022eec7ebe6cd/bb1a872234cda5e5d1f00a1b15dd7db5
 beIN SPORTS 2 http://192.168.18.75:6878/ace/stat/fa0a5dd9ecc3febbda8b6e1805c539a93fe515ac/bb1a872234cda5e5d1f00a1b15dd7db5
+beIN SPORTS 2 http://192.168.18.75:6878/ace/stat/1517833e21691d02a7b769de6b6f94ce527e9b6d/bb1a872234cda5e5d1f00a1b15dd7db5
 beIN SPORTS 2 http://192.168.18.75:6878/ace/stat/36e9427b55dd3574f9f40eab30aef8e0f34f477e/bb1a872234cda5e5d1f00a1b15dd7db5
 beIN SPORTS 3 http://192.168.18.75:6878/ace/stat/519c2159e9228bfe2f94911dfa111b01d0a896e2/bb1a872234cda5e5d1f00a1b15dd7db5
+beIN SPORTS 3 http://192.168.18.75:6878/ace/stat/d61d56a8856df2a8b0dd289215d32065d4ae0927/bb1a872234cda5e5d1f00a1b15dd7db5
 beIN SPORTS 3 http://192.168.18.75:6878/ace/stat/7fee896143ae89590d97793a0be7ad8ec6fa4552/bb1a872234cda5e5d1f00a1b15dd7db5
 beIN SPORTS 4 http://192.168.18.75:6878/ace/stat/26c1fe91207fb2a1cfa6271970081d4c2009b6fa/bb1a872234cda5e5d1f00a1b15dd7db5
