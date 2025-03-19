@@ -7,3 +7,33 @@ http://127.0.0.1:6878/ace/getstream?id=a8745bd07dc60413a4fc05caf2cabbfb11952232&
 http://127.0.0.1:6878/ace/getstream?id=fe134ae09f9643ea9bfdd75ff1f121ba8c58e5c1&pid=3
 #EXTINF:-1 tvg-id="00:00-NBA-Charlotte Hornets-Atlanta Hawks" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",00:00-NBA-Charlotte Hornets-Atlanta Hawks
 http://127.0.0.1:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3&pid=4
+#EXTINF:-1 tvg-id="16:00-Masters Miami-A. Bublik-S. Báez" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:00-Masters Miami-A. Bublik-S. Báez
+http://127.0.0.1:6878/ace/getstream?id=d8c2ed470e847154a88f011137cc206319f6bed5&pid=5
+#EXTINF:-1 tvg-id="16:00-Masters Miami-A. Bublik-S. Báez" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:00-Masters Miami-A. Bublik-S. Báez
+http://127.0.0.1:6878/ace/getstream?id=d225087e30f6efe4c6d9b5ae3c2f3829368cd637&pid=6
+#EXTINF:-1 tvg-id="17:30-Masters Miami-C. Tseng-M. Bellucci" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:30-Masters Miami-C. Tseng-M. Bellucci
+http://127.0.0.1:6878/ace/getstream?id=23d1bcceacb7606d4ee6deaf9e6034c54eeedd2f&pid=7
+#EXTINF:-1 tvg-id="18:30-Masters Miami-G. Monfils-F. Marozsan" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:30-Masters Miami-G. Monfils-F. Marozsan
+http://127.0.0.1:6878/ace/getstream?id=d8c2ed470e847154a88f011137cc206319f6bed5&pid=8
+#EXTINF:-1 tvg-id="18:30-Masters Miami-G. Monfils-F. Marozsan" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:30-Masters Miami-G. Monfils-F. Marozsan
+http://127.0.0.1:6878/ace/getstream?id=d225087e30f6efe4c6d9b5ae3c2f3829368cd637&pid=9
+#EXTINF:-1 tvg-id="19:00-Masters Miami-A. Blockx-C. Moutet" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",19:00-Masters Miami-A. Blockx-C. Moutet
+http://127.0.0.1:6878/ace/getstream?id=23d1bcceacb7606d4ee6deaf9e6034c54eeedd2f&pid=10
+#EXTINF:-1 tvg-id="20:00-Masters Miami-M. McDonald-N. Kyrgios" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:00-Masters Miami-M. McDonald-N. Kyrgios
+http://127.0.0.1:6878/ace/getstream?id=d8c2ed470e847154a88f011137cc206319f6bed5&pid=11
+#EXTINF:-1 tvg-id="20:00-Masters Miami-M. McDonald-N. Kyrgios" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:00-Masters Miami-M. McDonald-N. Kyrgios
+http://127.0.0.1:6878/ace/getstream?id=d225087e30f6efe4c6d9b5ae3c2f3829368cd637&pid=12
+#EXTINF:-1 tvg-id="20:30-Masters Miami-A. Kovacevic-M. Kecmanovic" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:30-Masters Miami-A. Kovacevic-M. Kecmanovic
+http://127.0.0.1:6878/ace/getstream?id=d8c2ed470e847154a88f011137cc206319f6bed5&pid=13
+#EXTINF:-1 tvg-id="20:30-Masters Miami-A. Kovacevic-M. Kecmanovic" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:30-Masters Miami-A. Kovacevic-M. Kecmanovic
+http://127.0.0.1:6878/ace/getstream?id=d225087e30f6efe4c6d9b5ae3c2f3829368cd637&pid=14
+#EXTINF:-1 tvg-id="20:30-Masters Miami-A. Kovacevic-M. Kecmanovic" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:30-Masters Miami-A. Kovacevic-M. Kecmanovic
+http://127.0.0.1:6878/ace/getstream?id=985896872c52d04030c112ca99584046d022a349&pid=15
+#EXTINF:-1 tvg-id="20:30-Masters Miami-A. Muller-R. Sakamoto" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:30-Masters Miami-A. Muller-R. Sakamoto
+http://127.0.0.1:6878/ace/getstream?id=23d1bcceacb7606d4ee6deaf9e6034c54eeedd2f&pid=16
+#EXTINF:-1 tvg-id="22:00-Masters Miami-A. Rinderknech-J. Munar" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",22:00-Masters Miami-A. Rinderknech-J. Munar
+http://127.0.0.1:6878/ace/getstream?id=d8c2ed470e847154a88f011137cc206319f6bed5&pid=17
+#EXTINF:-1 tvg-id="22:00-Masters Miami-A. Rinderknech-J. Munar" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",22:00-Masters Miami-A. Rinderknech-J. Munar
+http://127.0.0.1:6878/ace/getstream?id=d225087e30f6efe4c6d9b5ae3c2f3829368cd637&pid=18
+#EXTINF:-1 tvg-id="22:00-Masters Miami-A. Rinderknech-J. Munar" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",22:00-Masters Miami-A. Rinderknech-J. Munar
+http://127.0.0.1:6878/ace/getstream?id=985896872c52d04030c112ca99584046d022a349&pid=19
