@@ -109,6 +109,8 @@ pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=c367738691c
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=d65257bb934b73647374224fd62d836815804be2
 #EXTINF:-1 tvg-id="ONBOARD FERNANDO ALONSO" group-title="New Era",ONBOARD FERNANDO ALONSO
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=adab1ca1447108f5dcee688d709bdd372a002c4b
+#EXTINF:-1 tvg-id="ONBOARD CARLOS SAINZ" group-title="New Era",ONBOARD CARLOS SAINZ
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=ff6c8b62faf8b5130bea01fe2aa14e7bed8b3950
 #EXTINF:-1 tvg-id="MGPTV | CAMARA DE A BORDO 1" group-title="New Era",MGPTV | CAMARA DE A BORDO 1
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=1cc1b4aeaae07bc257ed4951a774beb3d3b44c86
 #EXTINF:-1 tvg-id="MGPTV | CAMARA DE A BORDO 2" group-title="New Era",MGPTV | CAMARA DE A BORDO 2
@@ -229,14 +231,22 @@ pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=5e5b670d44e
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=b4b48a6028aa05ca32f583d3019dc2e3e6bd9988
 #EXTINF:-1 tvg-id="DAZN 4" group-title="New Loop",DAZN 4
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
+#EXTINF:-1 tvg-id="AutoMotorSport" group-title="New Loop",AutoMotorSport
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=610993aea3a2bfd509594334b7461ce96900f54c
+#EXTINF:-1 tvg-id="Canal Motor" group-title="New Loop",Canal Motor
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=35e17cc84abc5e393b5acd688536a9681105f2d5
 #EXTINF:-1 tvg-id="Motors TV" group-title="New Loop",Motors TV
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=442aeb6643b8836f9d00361c9e48eeb0841ddf98
+#EXTINF:-1 tvg-id="Retrovision Motor" group-title="New Loop",Retrovision Motor
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=b8b8c4470d3d27c75302cf49ab6c4b52a660bff3
 #EXTINF:-1 tvg-id="TWITCH HIKKI360ES" group-title="New Era",TWITCH HIKKI360ES
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=33f0fb5f182a731abe2d13acee8a02cdb618c8d5
 #EXTINF:-1 tvg-id="WINTER Hits BARCELONA" group-title="New Era",WINTER Hits BARCELONA
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=bf242abb254854d5b96e8c5f3cddafd8c9be1aca
 #EXTINF:-1 tvg-id="UFC Fight Pass" group-title="New Era",UFC Fight Pass
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=f74dcf44f57fc71cb4b0719b3342e569eba50c51
+#EXTINF:-1 tvg-id="UFC 1" group-title="Desconocido",UFC 1
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=916888d956caf960cc8456eb46a12775a858124c
 #EXTINF:-1 tvg-id="Tennis Channel" group-title="New Loop",Tennis Channel
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="Tennis Channel" group-title="New Loop",Tennis Channel
@@ -337,6 +347,10 @@ pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=12ea555d431
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=c71fb593810ce837545e8d8b384e50a42c35a316
 #EXTINF:-1 tvg-id="Sky Sport Bundesliga 1" group-title="New Era",Sky Sport Bundesliga 1
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=f2b903b4b286c2cfecc23ebea66a412ec887da45
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 2" group-title="New Era",Sky Sport Bundesliga 2
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=e720d8fef514c63468bdae65d7c20d48e22d7df9
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 3" group-title="New Era",Sky Sport Bundesliga 3
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=f2dc625a32ba3437100b1261fd0751d83d64ce91
 #EXTINF:-1 tvg-id="ATV" group-title="Antigua",ATV
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=7d50d90895f44e97039eca21ae6bc17172acc9ef
 #EXTINF:-1 tvg-id="ORF 1" group-title="Antigua",ORF 1
