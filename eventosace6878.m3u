@@ -1,39 +1,39 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="00:00-NBA-Charlotte Hornets-Atlanta Hawks" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",00:00-NBA-Charlotte Hornets-Atlanta Hawks
-http://127.0.0.1:6878/ace/getstream?id=0f771c30336a0506c74f4aa86762edcb94d21fac&pid=1
-#EXTINF:-1 tvg-id="00:00-NBA-Charlotte Hornets-Atlanta Hawks" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",00:00-NBA-Charlotte Hornets-Atlanta Hawks
-http://127.0.0.1:6878/ace/getstream?id=a8745bd07dc60413a4fc05caf2cabbfb11952232&pid=2
-#EXTINF:-1 tvg-id="00:00-NBA-Charlotte Hornets-Atlanta Hawks" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",00:00-NBA-Charlotte Hornets-Atlanta Hawks
-http://127.0.0.1:6878/ace/getstream?id=fe134ae09f9643ea9bfdd75ff1f121ba8c58e5c1&pid=3
-#EXTINF:-1 tvg-id="00:00-NBA-Charlotte Hornets-Atlanta Hawks" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",00:00-NBA-Charlotte Hornets-Atlanta Hawks
-http://127.0.0.1:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3&pid=4
-#EXTINF:-1 tvg-id="16:00-Masters Miami-A. Bublik-S. Báez" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:00-Masters Miami-A. Bublik-S. Báez
-http://127.0.0.1:6878/ace/getstream?id=d225087e30f6efe4c6d9b5ae3c2f3829368cd637&pid=5
-#EXTINF:-1 tvg-id="16:00-Masters Miami-A. Bublik-S. Báez" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:00-Masters Miami-A. Bublik-S. Báez
-http://127.0.0.1:6878/ace/getstream?id=d8c2ed470e847154a88f011137cc206319f6bed5&pid=6
-#EXTINF:-1 tvg-id="17:30-Masters Miami-C. Tseng-M. Bellucci" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:30-Masters Miami-C. Tseng-M. Bellucci
-http://127.0.0.1:6878/ace/getstream?id=23d1bcceacb7606d4ee6deaf9e6034c54eeedd2f&pid=7
-#EXTINF:-1 tvg-id="18:30-Masters Miami-G. Monfils-F. Marozsan" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:30-Masters Miami-G. Monfils-F. Marozsan
+#EXTINF:-1 tvg-id="00:00-Masters Miami-E. Spizzirri-B. Harris" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",00:00-Masters Miami-E. Spizzirri-B. Harris
+http://127.0.0.1:6878/ace/getstream?id=23d1bcceacb7606d4ee6deaf9e6034c54eeedd2f&pid=1
+#EXTINF:-1 tvg-id="00:00-Masters Miami-E. Spizzirri-B. Harris" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",00:00-Masters Miami-E. Spizzirri-B. Harris
+http://127.0.0.1:6878/ace/getstream?id=14aa86be2b451cd4f5ee6d12e7479885373ea9b3&pid=2
+#EXTINF:-1 tvg-id="00:00-Masters Miami-E. Spizzirri-B. Harris" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",00:00-Masters Miami-E. Spizzirri-B. Harris
+http://127.0.0.1:6878/ace/getstream?id=fcc0fd75bf1dba40b108fcf0d3514e0e549bfbac&pid=3
+#EXTINF:-1 tvg-id="01:00-NBA-Oklahoma C. Thunder-Philadelphia 76ers" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",01:00-NBA-Oklahoma C. Thunder-Philadelphia 76ers
+http://127.0.0.1:6878/ace/getstream?id=0f771c30336a0506c74f4aa86762edcb94d21fac&pid=4
+#EXTINF:-1 tvg-id="01:00-NBA-Oklahoma C. Thunder-Philadelphia 76ers" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",01:00-NBA-Oklahoma C. Thunder-Philadelphia 76ers
+http://127.0.0.1:6878/ace/getstream?id=a8745bd07dc60413a4fc05caf2cabbfb11952232&pid=5
+#EXTINF:-1 tvg-id="01:00-NBA-Oklahoma C. Thunder-Philadelphia 76ers" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",01:00-NBA-Oklahoma C. Thunder-Philadelphia 76ers
+http://127.0.0.1:6878/ace/getstream?id=fe134ae09f9643ea9bfdd75ff1f121ba8c58e5c1&pid=6
+#EXTINF:-1 tvg-id="01:00-NBA-Oklahoma C. Thunder-Philadelphia 76ers" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",01:00-NBA-Oklahoma C. Thunder-Philadelphia 76ers
+http://127.0.0.1:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3&pid=7
+#EXTINF:-1 tvg-id="01:30-Masters Miami-T. Seyboth-Wild-Q. Halys" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",01:30-Masters Miami-T. Seyboth-Wild-Q. Halys
 http://127.0.0.1:6878/ace/getstream?id=d225087e30f6efe4c6d9b5ae3c2f3829368cd637&pid=8
-#EXTINF:-1 tvg-id="18:30-Masters Miami-G. Monfils-F. Marozsan" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:30-Masters Miami-G. Monfils-F. Marozsan
+#EXTINF:-1 tvg-id="01:30-Masters Miami-T. Seyboth-Wild-Q. Halys" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",01:30-Masters Miami-T. Seyboth-Wild-Q. Halys
 http://127.0.0.1:6878/ace/getstream?id=d8c2ed470e847154a88f011137cc206319f6bed5&pid=9
-#EXTINF:-1 tvg-id="19:00-Masters Miami-A. Blockx-C. Moutet" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",19:00-Masters Miami-A. Blockx-C. Moutet
-http://127.0.0.1:6878/ace/getstream?id=23d1bcceacb7606d4ee6deaf9e6034c54eeedd2f&pid=10
-#EXTINF:-1 tvg-id="20:00-Masters Miami-M. McDonald-N. Kyrgios" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:00-Masters Miami-M. McDonald-N. Kyrgios
-http://127.0.0.1:6878/ace/getstream?id=d225087e30f6efe4c6d9b5ae3c2f3829368cd637&pid=11
-#EXTINF:-1 tvg-id="20:00-Masters Miami-M. McDonald-N. Kyrgios" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:00-Masters Miami-M. McDonald-N. Kyrgios
-http://127.0.0.1:6878/ace/getstream?id=d8c2ed470e847154a88f011137cc206319f6bed5&pid=12
-#EXTINF:-1 tvg-id="20:30-Masters Miami-A. Kovacevic-M. Kecmanovic" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:30-Masters Miami-A. Kovacevic-M. Kecmanovic
-http://127.0.0.1:6878/ace/getstream?id=d225087e30f6efe4c6d9b5ae3c2f3829368cd637&pid=13
-#EXTINF:-1 tvg-id="20:30-Masters Miami-A. Kovacevic-M. Kecmanovic" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:30-Masters Miami-A. Kovacevic-M. Kecmanovic
-http://127.0.0.1:6878/ace/getstream?id=d8c2ed470e847154a88f011137cc206319f6bed5&pid=14
-#EXTINF:-1 tvg-id="20:30-Masters Miami-A. Kovacevic-M. Kecmanovic" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:30-Masters Miami-A. Kovacevic-M. Kecmanovic
-http://127.0.0.1:6878/ace/getstream?id=985896872c52d04030c112ca99584046d022a349&pid=15
-#EXTINF:-1 tvg-id="20:30-Masters Miami-A. Muller-R. Sakamoto" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:30-Masters Miami-A. Muller-R. Sakamoto
-http://127.0.0.1:6878/ace/getstream?id=23d1bcceacb7606d4ee6deaf9e6034c54eeedd2f&pid=16
-#EXTINF:-1 tvg-id="22:00-Masters Miami-A. Rinderknech-J. Munar" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",22:00-Masters Miami-A. Rinderknech-J. Munar
-http://127.0.0.1:6878/ace/getstream?id=d225087e30f6efe4c6d9b5ae3c2f3829368cd637&pid=17
-#EXTINF:-1 tvg-id="22:00-Masters Miami-A. Rinderknech-J. Munar" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",22:00-Masters Miami-A. Rinderknech-J. Munar
-http://127.0.0.1:6878/ace/getstream?id=d8c2ed470e847154a88f011137cc206319f6bed5&pid=18
-#EXTINF:-1 tvg-id="22:00-Masters Miami-A. Rinderknech-J. Munar" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",22:00-Masters Miami-A. Rinderknech-J. Munar
-http://127.0.0.1:6878/ace/getstream?id=985896872c52d04030c112ca99584046d022a349&pid=19
+#EXTINF:-1 tvg-id="01:30-Masters Miami-T. Seyboth-Wild-Q. Halys" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",01:30-Masters Miami-T. Seyboth-Wild-Q. Halys
+http://127.0.0.1:6878/ace/getstream?id=cc5782d37ae6b6e0bab396dd64074982d0879046&pid=10
+#EXTINF:-1 tvg-id="19:00-Copa de España-Movistar Inter-Jaén FS" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",19:00-Copa de España-Movistar Inter-Jaén FS
+http://127.0.0.1:6878/ace/getstream?id=c693df0cbccedec130e2b31453bdbfb3ccb7a648&pid=11
+#EXTINF:-1 tvg-id="19:00-Euroliga-AS Monaco Basket-Fenerbahce Istanbul" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",19:00-Euroliga-AS Monaco Basket-Fenerbahce Istanbul
+http://127.0.0.1:6878/ace/getstream?id=985896872c52d04030c112ca99584046d022a349&pid=12
+#EXTINF:-1 tvg-id="19:00-Euroliga-Olympiacos Piraeus-Crvena Zvezda MTS Belgrade" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",19:00-Euroliga-Olympiacos Piraeus-Crvena Zvezda MTS Belgrade
+http://127.0.0.1:6878/ace/getstream?id=23d1bcceacb7606d4ee6deaf9e6034c54eeedd2f&pid=13
+#EXTINF:-1 tvg-id="20:15-Euroliga-Maccabi Tel Aviv BC-Virtus Bologna" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:15-Euroliga-Maccabi Tel Aviv BC-Virtus Bologna
+http://127.0.0.1:6878/ace/getstream?id=070f82d6443a52962d6a2ed9954c979b29404932&pid=14
+#EXTINF:-1 tvg-id="20:30-Euroliga-Baskonia-FC Bayern Basketball" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:30-Euroliga-Baskonia-FC Bayern Basketball
+http://127.0.0.1:6878/ace/getstream?id=0f771c30336a0506c74f4aa86762edcb94d21fac&pid=15
+#EXTINF:-1 tvg-id="20:30-Euroliga-Baskonia-FC Bayern Basketball" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:30-Euroliga-Baskonia-FC Bayern Basketball
+http://127.0.0.1:6878/ace/getstream?id=a8745bd07dc60413a4fc05caf2cabbfb11952232&pid=16
+#EXTINF:-1 tvg-id="20:30-Euroliga-Baskonia-FC Bayern Basketball" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:30-Euroliga-Baskonia-FC Bayern Basketball
+http://127.0.0.1:6878/ace/getstream?id=fe134ae09f9643ea9bfdd75ff1f121ba8c58e5c1&pid=17
+#EXTINF:-1 tvg-id="20:30-Euroliga-Baskonia-FC Bayern Basketball" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:30-Euroliga-Baskonia-FC Bayern Basketball
+http://127.0.0.1:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3&pid=18
+#EXTINF:-1 tvg-id="21:00-Copa de la Reina-Valencia Basket-CB Jairis" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Copa de la Reina-Valencia Basket-CB Jairis
+http://127.0.0.1:6878/ace/getstream?id=c693df0cbccedec130e2b31453bdbfb3ccb7a648&pid=19
