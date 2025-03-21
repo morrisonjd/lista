@@ -1,45 +1,45 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id=""" " tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",""
+#EXTINF:-1 tvg-id="" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",
 http://127.0.0.1:6878/ace/getstream?id=c693df0cbccedec130e2b31453bdbfb3ccb7a648&pid=1
-#EXTINF:-1 tvg-id=""" " tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",""
+#EXTINF:-1 tvg-id="" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",
 http://127.0.0.1:6878/ace/getstream?id=d225087e30f6efe4c6d9b5ae3c2f3829368cd637&pid=2
-#EXTINF:-1 tvg-id=""" " tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",""
+#EXTINF:-1 tvg-id="" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",
 http://127.0.0.1:6878/ace/getstream?id=d8c2ed470e847154a88f011137cc206319f6bed5&pid=3
-#EXTINF:-1 tvg-id=""" " tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",""
+#EXTINF:-1 tvg-id="" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",
 http://127.0.0.1:6878/ace/getstream?id=cc5782d37ae6b6e0bab396dd64074982d0879046&pid=4
-#EXTINF:-1 tvg-id=""" " tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",""
+#EXTINF:-1 tvg-id="" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",
 http://127.0.0.1:6878/ace/getstream?id=14aa86be2b451cd4f5ee6d12e7479885373ea9b3&pid=5
-#EXTINF:-1 tvg-id=""" " tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",""
+#EXTINF:-1 tvg-id="" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",
 http://127.0.0.1:6878/ace/getstream?id=fcc0fd75bf1dba40b108fcf0d3514e0e549bfbac&pid=6
-#EXTINF:-1 tvg-id=""" " tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",""
+#EXTINF:-1 tvg-id="" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",
 http://127.0.0.1:6878/ace/getstream?id=0f771c30336a0506c74f4aa86762edcb94d21fac&pid=7
-#EXTINF:-1 tvg-id=""" " tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",""
+#EXTINF:-1 tvg-id="" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",
 http://127.0.0.1:6878/ace/getstream?id=a8745bd07dc60413a4fc05caf2cabbfb11952232&pid=8
-#EXTINF:-1 tvg-id=""" " tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",""
+#EXTINF:-1 tvg-id="" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",
 http://127.0.0.1:6878/ace/getstream?id=fe134ae09f9643ea9bfdd75ff1f121ba8c58e5c1&pid=9
-#EXTINF:-1 tvg-id=""" " tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",""
+#EXTINF:-1 tvg-id="" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",
 http://127.0.0.1:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3&pid=10
-#EXTINF:-1 tvg-id=""" " tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",""
+#EXTINF:-1 tvg-id="" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",
 http://127.0.0.1:6878/ace/getstream?id=335646e7394ea4eda343c95e57852bb70fc4178f&pid=11
-#EXTINF:-1 tvg-id=""" " tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",""
+#EXTINF:-1 tvg-id="" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",
 http://127.0.0.1:6878/ace/getstream?id=985896872c52d04030c112ca99584046d022a349&pid=12
-#EXTINF:-1 tvg-id=""" " tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",""
+#EXTINF:-1 tvg-id="" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",
 http://127.0.0.1:6878/ace/getstream?id=23d1bcceacb7606d4ee6deaf9e6034c54eeedd2f&pid=13
-#EXTINF:-1 tvg-id=""" " tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",""
+#EXTINF:-1 tvg-id="" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",
 http://127.0.0.1:6878/ace/getstream?id=9f04b67904bf5ec6782ab34e8105bca264c10b62&pid=14
-#EXTINF:-1 tvg-id=""" " tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",""
+#EXTINF:-1 tvg-id="" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",
 http://127.0.0.1:6878/ace/getstream?id=4f1d222c600e66ef4990b3d7ea13bfa53f7bfea1&pid=15
-#EXTINF:-1 tvg-id=""" " tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",""
+#EXTINF:-1 tvg-id="" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",
 http://127.0.0.1:6878/ace/getstream?id=5d8613b5fde87f366bb5e41ac8011007a4c6bd3c&pid=16
-#EXTINF:-1 tvg-id=""" " tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",""
+#EXTINF:-1 tvg-id="" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",
 http://127.0.0.1:6878/ace/getstream?id=751aa1f2429dfb9484b67a3ede00d859c6212994&pid=17
-#EXTINF:-1 tvg-id=""" " tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",""
+#EXTINF:-1 tvg-id="" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",
 http://127.0.0.1:6878/ace/getstream?id=c367738691c63896679e523d4c1c7933729acc7b&pid=18
-#EXTINF:-1 tvg-id=""" " tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",""
+#EXTINF:-1 tvg-id="" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",
 http://127.0.0.1:6878/ace/getstream?id=d6281d4e6310269b416180442a470d23a4a99dc9&pid=19
-#EXTINF:-1 tvg-id=""" " tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",""
+#EXTINF:-1 tvg-id="" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",
 http://127.0.0.1:6878/ace/getstream?id=2c6e4c897661e6b0257bfe931b66d20b2ec763b6&pid=20
-#EXTINF:-1 tvg-id=""" " tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",""
+#EXTINF:-1 tvg-id="" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",
 http://127.0.0.1:6878/ace/getstream?id=71eef80158aa8b37f3dc59f6793c6696df9a2dfa&pid=21
-#EXTINF:-1 tvg-id=""" " tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",""
+#EXTINF:-1 tvg-id="" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",
 http://127.0.0.1:6878/ace/getstream?id=268289e7a3c5209960b53b4d43c8c65fab294b85&pid=22
