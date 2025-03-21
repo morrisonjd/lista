@@ -105,6 +105,8 @@ pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=751aa1f2429
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=9f04b67904bf5ec6782ab34e8105bca264c10b62
 #EXTINF:-1 tvg-id="DAZN F1" group-title="New Era",DAZN F1
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=c367738691c63896679e523d4c1c7933729acc7b
+#EXTINF:-1 tvg-id="DAZN F1" group-title="New Loop",DAZN F1
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=d65257bb934b73647374224fd62d836815804be2
 #EXTINF:-1 tvg-id="ONBOARD FERNANDO ALONSO" group-title="New Era",ONBOARD FERNANDO ALONSO
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=adab1ca1447108f5dcee688d709bdd372a002c4b
 #EXTINF:-1 tvg-id="ONBOARD CARLOS SAINZ" group-title="New Era",ONBOARD CARLOS SAINZ
@@ -487,7 +489,7 @@ pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=79f10c6c616
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=4b4907de51ec11087d4bed5876f2a0c68264f442
 #EXTINF:-1 tvg-id="ESPN 2" group-title="New Loop",ESPN 2
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=3e0ba6867173f345d482d80c771f1a5dc3b37e63
-#EXTINF:-1 tvg-id="ESPN 2" group-title="Antigua",ESPN 2
+#EXTINF:-1 tvg-id="ESPN 2" group-title="New Loop",ESPN 2
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=664eb5fe460b96941aed633959a845b185cd8394
 #EXTINF:-1 tvg-id="ESPN 4" group-title="New Loop",ESPN 4
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=5f9b19c57195cc28ab81e0ec8cad03b55118687a
