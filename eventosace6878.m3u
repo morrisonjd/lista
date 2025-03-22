@@ -1,85 +1,113 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="19:15-Copa de España-Semifinales-Teledeporte" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",19:15-Copa de España-Semifinales-Teledeporte
+#EXTINF:-1 tvg-id="17:00-Copa de la Reina-Perfumerías Avenida-Casademont Zaragoza" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:00-Copa de la Reina-Perfumerías Avenida-Casademont Zaragoza
 http://127.0.0.1:6878/ace/getstream?id=c693df0cbccedec130e2b31453bdbfb3ccb7a648&pid=1
+#EXTINF:-1 tvg-id="18:00-ACB-Basquet Girona-Dreamland Gran Canaria" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",18:00-ACB-Basquet Girona-Dreamland Gran Canaria
+http://127.0.0.1:6878/ace/getstream?id=985896872c52d04030c112ca99584046d022a349&pid=2
+#EXTINF:-1 tvg-id="18:00-ACB-Valencia Basket-Básquet Coruña" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",18:00-ACB-Valencia Basket-Básquet Coruña
+http://127.0.0.1:6878/ace/getstream?id=0f771c30336a0506c74f4aa86762edcb94d21fac&pid=3
+#EXTINF:-1 tvg-id="18:00-ACB-Valencia Basket-Básquet Coruña" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",18:00-ACB-Valencia Basket-Básquet Coruña
+http://127.0.0.1:6878/ace/getstream?id=a8745bd07dc60413a4fc05caf2cabbfb11952232&pid=4
+#EXTINF:-1 tvg-id="18:00-ACB-Valencia Basket-Básquet Coruña" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",18:00-ACB-Valencia Basket-Básquet Coruña
+http://127.0.0.1:6878/ace/getstream?id=fe134ae09f9643ea9bfdd75ff1f121ba8c58e5c1&pid=5
+#EXTINF:-1 tvg-id="18:00-ACB-Valencia Basket-Básquet Coruña" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",18:00-ACB-Valencia Basket-Básquet Coruña
+http://127.0.0.1:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3&pid=6
+#EXTINF:-1 tvg-id="18:30-Segunda-Málaga-Racing Ferrol" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:30-Segunda-Málaga-Racing Ferrol
+http://127.0.0.1:6878/ace/getstream?id=0cfdfde1b70623b8c210b0f7301be2a87456481d&pid=7
+#EXTINF:-1 tvg-id="18:30-Segunda-Málaga-Racing Ferrol" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:30-Segunda-Málaga-Racing Ferrol
+http://127.0.0.1:6878/ace/getstream?id=0a335406bad0b658aeddb2d38f8c0614b2e5623a&pid=8
+#EXTINF:-1 tvg-id="18:30-Primera FEB-Monbus Obradoiro-Movistar Estudiantes" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:30-Primera FEB-Monbus Obradoiro-Movistar Estudiantes
+http://127.0.0.1:6878/ace/getstream?id=14aa86be2b451cd4f5ee6d12e7479885373ea9b3&pid=9
+#EXTINF:-1 tvg-id="18:30-Primera FEB-Monbus Obradoiro-Movistar Estudiantes" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:30-Primera FEB-Monbus Obradoiro-Movistar Estudiantes
+http://127.0.0.1:6878/ace/getstream?id=fcc0fd75bf1dba40b108fcf0d3514e0e549bfbac&pid=10
+#EXTINF:-1 tvg-id="19:15-Copa de España-Semifinales-Teledeporte" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",19:15-Copa de España-Semifinales-Teledeporte
+http://127.0.0.1:6878/ace/getstream?id=c693df0cbccedec130e2b31453bdbfb3ccb7a648&pid=11
+#EXTINF:-1 tvg-id="20:45-ACB-Baskonia-BAXI Manresa" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:45-ACB-Baskonia-BAXI Manresa
+http://127.0.0.1:6878/ace/getstream?id=0f771c30336a0506c74f4aa86762edcb94d21fac&pid=12
+#EXTINF:-1 tvg-id="20:45-ACB-Baskonia-BAXI Manresa" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:45-ACB-Baskonia-BAXI Manresa
+http://127.0.0.1:6878/ace/getstream?id=a8745bd07dc60413a4fc05caf2cabbfb11952232&pid=13
+#EXTINF:-1 tvg-id="20:45-ACB-Baskonia-BAXI Manresa" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:45-ACB-Baskonia-BAXI Manresa
+http://127.0.0.1:6878/ace/getstream?id=fe134ae09f9643ea9bfdd75ff1f121ba8c58e5c1&pid=14
+#EXTINF:-1 tvg-id="20:45-ACB-Baskonia-BAXI Manresa" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:45-ACB-Baskonia-BAXI Manresa
+http://127.0.0.1:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3&pid=15
+#EXTINF:-1 tvg-id="20:45-ACB-Río Breogán-UCAM Murcia CB" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:45-ACB-Río Breogán-UCAM Murcia CB
+http://127.0.0.1:6878/ace/getstream?id=985896872c52d04030c112ca99584046d022a349&pid=16
+#EXTINF:-1 tvg-id="00:00-Masters Miami-A. Bublik-T. Paul" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",00:00-Masters Miami-A. Bublik-T. Paul
+http://127.0.0.1:6878/ace/getstream?id=d225087e30f6efe4c6d9b5ae3c2f3829368cd637&pid=17
+#EXTINF:-1 tvg-id="00:00-Masters Miami-A. Bublik-T. Paul" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",00:00-Masters Miami-A. Bublik-T. Paul
+http://127.0.0.1:6878/ace/getstream?id=d8c2ed470e847154a88f011137cc206319f6bed5&pid=18
+#EXTINF:-1 tvg-id="00:00-Masters Miami-A. Bublik-T. Paul" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",00:00-Masters Miami-A. Bublik-T. Paul
+http://127.0.0.1:6878/ace/getstream?id=985896872c52d04030c112ca99584046d022a349&pid=19
 #EXTINF:-1 tvg-id="21:30-Copa de España-Semifinales-Teledeporte" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:30-Copa de España-Semifinales-Teledeporte
-http://127.0.0.1:6878/ace/getstream?id=c693df0cbccedec130e2b31453bdbfb3ccb7a648&pid=2
+http://127.0.0.1:6878/ace/getstream?id=c693df0cbccedec130e2b31453bdbfb3ccb7a648&pid=20
 #EXTINF:-1 tvg-id="22:00-IndyCar-Thermal Club ($1 Million Challenge)-Clasificación" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",22:00-IndyCar-Thermal Club ($1 Million Challenge)-Clasificación
-http://127.0.0.1:6878/ace/getstream?id=070f82d6443a52962d6a2ed9954c979b29404932&pid=3
-#EXTINF:-1 tvg-id="00:00-Masters Miami-A. Bublik-T. Paul" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",00:00-Masters Miami-A. Bublik-T. Paul
-http://127.0.0.1:6878/ace/getstream?id=d225087e30f6efe4c6d9b5ae3c2f3829368cd637&pid=4
-#EXTINF:-1 tvg-id="00:00-Masters Miami-A. Bublik-T. Paul" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",00:00-Masters Miami-A. Bublik-T. Paul
-http://127.0.0.1:6878/ace/getstream?id=d8c2ed470e847154a88f011137cc206319f6bed5&pid=5
-#EXTINF:-1 tvg-id="00:00-Masters Miami-A. Bublik-T. Paul" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",00:00-Masters Miami-A. Bublik-T. Paul
-http://127.0.0.1:6878/ace/getstream?id=985896872c52d04030c112ca99584046d022a349&pid=6
+http://127.0.0.1:6878/ace/getstream?id=070f82d6443a52962d6a2ed9954c979b29404932&pid=21
 #EXTINF:-1 tvg-id="01:30-Masters Miami-D. Goffin-C. Alcaraz" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",01:30-Masters Miami-D. Goffin-C. Alcaraz
-http://127.0.0.1:6878/ace/getstream?id=d225087e30f6efe4c6d9b5ae3c2f3829368cd637&pid=7
+http://127.0.0.1:6878/ace/getstream?id=d225087e30f6efe4c6d9b5ae3c2f3829368cd637&pid=22
 #EXTINF:-1 tvg-id="01:30-Masters Miami-D. Goffin-C. Alcaraz" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",01:30-Masters Miami-D. Goffin-C. Alcaraz
-http://127.0.0.1:6878/ace/getstream?id=d8c2ed470e847154a88f011137cc206319f6bed5&pid=8
+http://127.0.0.1:6878/ace/getstream?id=d8c2ed470e847154a88f011137cc206319f6bed5&pid=23
 #EXTINF:-1 tvg-id="01:30-Masters Miami-D. Goffin-C. Alcaraz" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",01:30-Masters Miami-D. Goffin-C. Alcaraz
-http://127.0.0.1:6878/ace/getstream?id=335646e7394ea4eda343c95e57852bb70fc4178f&pid=9
+http://127.0.0.1:6878/ace/getstream?id=335646e7394ea4eda343c95e57852bb70fc4178f&pid=24
 #EXTINF:-1 tvg-id="04:00-Fórmula 1-G.P. China (Shangai)-Sprint" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",04:00-Fórmula 1-G.P. China (Shangai)-Sprint
-http://127.0.0.1:6878/ace/getstream?id=9f04b67904bf5ec6782ab34e8105bca264c10b62&pid=10
+http://127.0.0.1:6878/ace/getstream?id=9f04b67904bf5ec6782ab34e8105bca264c10b62&pid=25
 #EXTINF:-1 tvg-id="04:00-Fórmula 1-G.P. China (Shangai)-Sprint" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",04:00-Fórmula 1-G.P. China (Shangai)-Sprint
-http://127.0.0.1:6878/ace/getstream?id=4f1d222c600e66ef4990b3d7ea13bfa53f7bfea1&pid=11
+http://127.0.0.1:6878/ace/getstream?id=4f1d222c600e66ef4990b3d7ea13bfa53f7bfea1&pid=26
 #EXTINF:-1 tvg-id="04:00-Fórmula 1-G.P. China (Shangai)-Sprint" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",04:00-Fórmula 1-G.P. China (Shangai)-Sprint
-http://127.0.0.1:6878/ace/getstream?id=5d8613b5fde87f366bb5e41ac8011007a4c6bd3c&pid=12
+http://127.0.0.1:6878/ace/getstream?id=5d8613b5fde87f366bb5e41ac8011007a4c6bd3c&pid=27
 #EXTINF:-1 tvg-id="04:00-Fórmula 1-G.P. China (Shangai)-Sprint" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",04:00-Fórmula 1-G.P. China (Shangai)-Sprint
-http://127.0.0.1:6878/ace/getstream?id=751aa1f2429dfb9484b67a3ede00d859c6212994&pid=13
+http://127.0.0.1:6878/ace/getstream?id=751aa1f2429dfb9484b67a3ede00d859c6212994&pid=28
 #EXTINF:-1 tvg-id="04:00-Fórmula 1-G.P. China (Shangai)-Sprint" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",04:00-Fórmula 1-G.P. China (Shangai)-Sprint
-http://127.0.0.1:6878/ace/getstream?id=c367738691c63896679e523d4c1c7933729acc7b&pid=14
+http://127.0.0.1:6878/ace/getstream?id=c367738691c63896679e523d4c1c7933729acc7b&pid=29
 #EXTINF:-1 tvg-id="04:00-Fórmula 1-G.P. China (Shangai)-Sprint" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",04:00-Fórmula 1-G.P. China (Shangai)-Sprint
-http://127.0.0.1:6878/ace/getstream?id=d6281d4e6310269b416180442a470d23a4a99dc9&pid=15
+http://127.0.0.1:6878/ace/getstream?id=d6281d4e6310269b416180442a470d23a4a99dc9&pid=30
 #EXTINF:-1 tvg-id="04:00-Fórmula 1-G.P. China (Shangai)-Sprint" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",04:00-Fórmula 1-G.P. China (Shangai)-Sprint
-http://127.0.0.1:6878/ace/getstream?id=2c6e4c897661e6b0257bfe931b66d20b2ec763b6&pid=16
+http://127.0.0.1:6878/ace/getstream?id=2c6e4c897661e6b0257bfe931b66d20b2ec763b6&pid=31
 #EXTINF:-1 tvg-id="04:00-Fórmula 1-G.P. China (Shangai)-Sprint" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",04:00-Fórmula 1-G.P. China (Shangai)-Sprint
-http://127.0.0.1:6878/ace/getstream?id=71eef80158aa8b37f3dc59f6793c6696df9a2dfa&pid=17
+http://127.0.0.1:6878/ace/getstream?id=71eef80158aa8b37f3dc59f6793c6696df9a2dfa&pid=32
 #EXTINF:-1 tvg-id="04:00-Fórmula 1-G.P. China (Shangai)-Sprint" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",04:00-Fórmula 1-G.P. China (Shangai)-Sprint
-http://127.0.0.1:6878/ace/getstream?id=268289e7a3c5209960b53b4d43c8c65fab294b85&pid=18
+http://127.0.0.1:6878/ace/getstream?id=268289e7a3c5209960b53b4d43c8c65fab294b85&pid=33
 #EXTINF:-1 tvg-id="06:55-F1 Academy-G.P. China (Shangai)-Carrera 1" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",06:55-F1 Academy-G.P. China (Shangai)-Carrera 1
-http://127.0.0.1:6878/ace/getstream?id=9f04b67904bf5ec6782ab34e8105bca264c10b62&pid=19
+http://127.0.0.1:6878/ace/getstream?id=9f04b67904bf5ec6782ab34e8105bca264c10b62&pid=34
 #EXTINF:-1 tvg-id="06:55-F1 Academy-G.P. China (Shangai)-Carrera 1" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",06:55-F1 Academy-G.P. China (Shangai)-Carrera 1
-http://127.0.0.1:6878/ace/getstream?id=4f1d222c600e66ef4990b3d7ea13bfa53f7bfea1&pid=20
+http://127.0.0.1:6878/ace/getstream?id=4f1d222c600e66ef4990b3d7ea13bfa53f7bfea1&pid=35
 #EXTINF:-1 tvg-id="06:55-F1 Academy-G.P. China (Shangai)-Carrera 1" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",06:55-F1 Academy-G.P. China (Shangai)-Carrera 1
-http://127.0.0.1:6878/ace/getstream?id=5d8613b5fde87f366bb5e41ac8011007a4c6bd3c&pid=21
+http://127.0.0.1:6878/ace/getstream?id=5d8613b5fde87f366bb5e41ac8011007a4c6bd3c&pid=36
 #EXTINF:-1 tvg-id="06:55-F1 Academy-G.P. China (Shangai)-Carrera 1" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",06:55-F1 Academy-G.P. China (Shangai)-Carrera 1
-http://127.0.0.1:6878/ace/getstream?id=751aa1f2429dfb9484b67a3ede00d859c6212994&pid=22
+http://127.0.0.1:6878/ace/getstream?id=751aa1f2429dfb9484b67a3ede00d859c6212994&pid=37
 #EXTINF:-1 tvg-id="06:55-F1 Academy-G.P. China (Shangai)-Carrera 1" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",06:55-F1 Academy-G.P. China (Shangai)-Carrera 1
-http://127.0.0.1:6878/ace/getstream?id=c367738691c63896679e523d4c1c7933729acc7b&pid=23
+http://127.0.0.1:6878/ace/getstream?id=c367738691c63896679e523d4c1c7933729acc7b&pid=38
 #EXTINF:-1 tvg-id="06:55-F1 Academy-G.P. China (Shangai)-Carrera 1" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",06:55-F1 Academy-G.P. China (Shangai)-Carrera 1
-http://127.0.0.1:6878/ace/getstream?id=d6281d4e6310269b416180442a470d23a4a99dc9&pid=24
+http://127.0.0.1:6878/ace/getstream?id=d6281d4e6310269b416180442a470d23a4a99dc9&pid=39
 #EXTINF:-1 tvg-id="06:55-F1 Academy-G.P. China (Shangai)-Carrera 1" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",06:55-F1 Academy-G.P. China (Shangai)-Carrera 1
-http://127.0.0.1:6878/ace/getstream?id=2c6e4c897661e6b0257bfe931b66d20b2ec763b6&pid=25
+http://127.0.0.1:6878/ace/getstream?id=2c6e4c897661e6b0257bfe931b66d20b2ec763b6&pid=40
 #EXTINF:-1 tvg-id="06:55-F1 Academy-G.P. China (Shangai)-Carrera 1" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",06:55-F1 Academy-G.P. China (Shangai)-Carrera 1
-http://127.0.0.1:6878/ace/getstream?id=71eef80158aa8b37f3dc59f6793c6696df9a2dfa&pid=26
+http://127.0.0.1:6878/ace/getstream?id=71eef80158aa8b37f3dc59f6793c6696df9a2dfa&pid=41
 #EXTINF:-1 tvg-id="06:55-F1 Academy-G.P. China (Shangai)-Carrera 1" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",06:55-F1 Academy-G.P. China (Shangai)-Carrera 1
-http://127.0.0.1:6878/ace/getstream?id=268289e7a3c5209960b53b4d43c8c65fab294b85&pid=27
+http://127.0.0.1:6878/ace/getstream?id=268289e7a3c5209960b53b4d43c8c65fab294b85&pid=42
 #EXTINF:-1 tvg-id="08:00-Fórmula 1-G.P. China (Shangai)-Clasificación" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",08:00-Fórmula 1-G.P. China (Shangai)-Clasificación
-http://127.0.0.1:6878/ace/getstream?id=9f04b67904bf5ec6782ab34e8105bca264c10b62&pid=28
+http://127.0.0.1:6878/ace/getstream?id=9f04b67904bf5ec6782ab34e8105bca264c10b62&pid=43
 #EXTINF:-1 tvg-id="08:00-Fórmula 1-G.P. China (Shangai)-Clasificación" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",08:00-Fórmula 1-G.P. China (Shangai)-Clasificación
-http://127.0.0.1:6878/ace/getstream?id=4f1d222c600e66ef4990b3d7ea13bfa53f7bfea1&pid=29
+http://127.0.0.1:6878/ace/getstream?id=4f1d222c600e66ef4990b3d7ea13bfa53f7bfea1&pid=44
 #EXTINF:-1 tvg-id="08:00-Fórmula 1-G.P. China (Shangai)-Clasificación" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",08:00-Fórmula 1-G.P. China (Shangai)-Clasificación
-http://127.0.0.1:6878/ace/getstream?id=5d8613b5fde87f366bb5e41ac8011007a4c6bd3c&pid=30
+http://127.0.0.1:6878/ace/getstream?id=5d8613b5fde87f366bb5e41ac8011007a4c6bd3c&pid=45
 #EXTINF:-1 tvg-id="08:00-Fórmula 1-G.P. China (Shangai)-Clasificación" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",08:00-Fórmula 1-G.P. China (Shangai)-Clasificación
-http://127.0.0.1:6878/ace/getstream?id=751aa1f2429dfb9484b67a3ede00d859c6212994&pid=31
+http://127.0.0.1:6878/ace/getstream?id=751aa1f2429dfb9484b67a3ede00d859c6212994&pid=46
 #EXTINF:-1 tvg-id="08:00-Fórmula 1-G.P. China (Shangai)-Clasificación" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",08:00-Fórmula 1-G.P. China (Shangai)-Clasificación
-http://127.0.0.1:6878/ace/getstream?id=c367738691c63896679e523d4c1c7933729acc7b&pid=32
+http://127.0.0.1:6878/ace/getstream?id=c367738691c63896679e523d4c1c7933729acc7b&pid=47
 #EXTINF:-1 tvg-id="08:00-Fórmula 1-G.P. China (Shangai)-Clasificación" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",08:00-Fórmula 1-G.P. China (Shangai)-Clasificación
-http://127.0.0.1:6878/ace/getstream?id=d6281d4e6310269b416180442a470d23a4a99dc9&pid=33
+http://127.0.0.1:6878/ace/getstream?id=d6281d4e6310269b416180442a470d23a4a99dc9&pid=48
 #EXTINF:-1 tvg-id="08:00-Fórmula 1-G.P. China (Shangai)-Clasificación" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",08:00-Fórmula 1-G.P. China (Shangai)-Clasificación
-http://127.0.0.1:6878/ace/getstream?id=2c6e4c897661e6b0257bfe931b66d20b2ec763b6&pid=34
+http://127.0.0.1:6878/ace/getstream?id=2c6e4c897661e6b0257bfe931b66d20b2ec763b6&pid=49
 #EXTINF:-1 tvg-id="08:00-Fórmula 1-G.P. China (Shangai)-Clasificación" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",08:00-Fórmula 1-G.P. China (Shangai)-Clasificación
-http://127.0.0.1:6878/ace/getstream?id=71eef80158aa8b37f3dc59f6793c6696df9a2dfa&pid=35
+http://127.0.0.1:6878/ace/getstream?id=71eef80158aa8b37f3dc59f6793c6696df9a2dfa&pid=50
 #EXTINF:-1 tvg-id="08:00-Fórmula 1-G.P. China (Shangai)-Clasificación" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",08:00-Fórmula 1-G.P. China (Shangai)-Clasificación
-http://127.0.0.1:6878/ace/getstream?id=268289e7a3c5209960b53b4d43c8c65fab294b85&pid=36
+http://127.0.0.1:6878/ace/getstream?id=268289e7a3c5209960b53b4d43c8c65fab294b85&pid=51
 #EXTINF:-1 tvg-id="09:00-Velada-G. Kambosos Jr.-D. Yordan" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",09:00-Velada-G. Kambosos Jr.-D. Yordan
-http://127.0.0.1:6878/ace/getstream?id=5e5b670d44e4f23a49ebe1770458066ac2cf58e3&pid=37
+http://127.0.0.1:6878/ace/getstream?id=5e5b670d44e4f23a49ebe1770458066ac2cf58e3&pid=52
 #EXTINF:-1 tvg-id="09:00-Velada-G. Kambosos Jr.-D. Yordan" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",09:00-Velada-G. Kambosos Jr.-D. Yordan
-http://127.0.0.1:6878/ace/getstream?id=b4b48a6028aa05ca32f583d3019dc2e3e6bd9988&pid=38
+http://127.0.0.1:6878/ace/getstream?id=b4b48a6028aa05ca32f583d3019dc2e3e6bd9988&pid=53
 #EXTINF:-1 tvg-id="09:00-Velada-G. Kambosos Jr.-D. Yordan" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",09:00-Velada-G. Kambosos Jr.-D. Yordan
-http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8&pid=39
+http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8&pid=54
 #EXTINF:-1 tvg-id="09:00-Velada-G. Kambosos Jr.-D. Yordan" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",09:00-Velada-G. Kambosos Jr.-D. Yordan
-http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98&pid=40
-#EXTINF:-1 tvg-id="18:30-Segunda-Málaga-Racing Ferrol" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:30-Segunda-Málaga-Racing Ferrol
-http://127.0.0.1:6878/ace/getstream?id=0cfdfde1b70623b8c210b0f7301be2a87456481d&pid=41
-#EXTINF:-1 tvg-id="18:30-Segunda-Málaga-Racing Ferrol" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:30-Segunda-Málaga-Racing Ferrol
-http://127.0.0.1:6878/ace/getstream?id=0a335406bad0b658aeddb2d38f8c0614b2e5623a&pid=42
+http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98&pid=55
+#EXTINF:-1 tvg-id="14:30-Copa de la Reina-Spar Girona-CB Jairis" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:30-Copa de la Reina-Spar Girona-CB Jairis
+http://127.0.0.1:6878/ace/getstream?id=c693df0cbccedec130e2b31453bdbfb3ccb7a648&pid=56
