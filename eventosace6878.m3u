@@ -85,5 +85,5 @@ http://127.0.0.1:6878/ace/getstream?id=a8745bd07dc60413a4fc05caf2cabbfb11952232&
 http://127.0.0.1:6878/ace/getstream?id=fe134ae09f9643ea9bfdd75ff1f121ba8c58e5c1&pid=42
 #EXTINF:-1 tvg-id="12:30-ACB-Força Lleida-Joventut Badalona" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",12:30-ACB-Força Lleida-Joventut Badalona
 http://127.0.0.1:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3&pid=43
-#EXTINF:-1 tvg-id="16:00-Copa de la Reina-Final-Twitch baloncestoesp" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:00-Copa de la Reina-Final-Twitch baloncestoesp
+#EXTINF:-1 tvg-id="16:00-Copa de la Reina-CB Jairis-Perfumerías Avenida" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:00-Copa de la Reina-CB Jairis-Perfumerías Avenida
 http://127.0.0.1:6878/ace/getstream?id=c693df0cbccedec130e2b31453bdbfb3ccb7a648&pid=44
