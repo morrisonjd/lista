@@ -213,8 +213,6 @@ pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=ddb69a119ab
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=7a90838e67f415e70fd7c9bb87edeb2da5db1725
 #EXTINF:-1 tvg-id="DAZN 2" group-title="New Loop",DAZN 2
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
-#EXTINF:-1 tvg-id="Eurosport 1" group-title="New Loop",Eurosport 1
-pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=1d04e3b27c2ac3ff52dc949e76f36207fbb235c4
 #EXTINF:-1 tvg-id="Eurosport 1" group-title="Elcano",Eurosport 1
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=16ffa1713f42aa27317ee039a2bd0cdbc89a1580
 #EXTINF:-1 tvg-id="Eurosport 1" group-title="New Era",Eurosport 1
@@ -319,6 +317,8 @@ pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=f74dcf44f57
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=916888d956caf960cc8456eb46a12775a858124c
 #EXTINF:-1 tvg-id="Tennis Channel" group-title="New Loop",Tennis Channel
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 tvg-id="SuperTennis" group-title="New Loop",SuperTennis
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee
 #EXTINF:-1 tvg-id="MATCH!" group-title="Antigua",MATCH!
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
 #EXTINF:-1 tvg-id="MATCH! Football" group-title="Antigua",MATCH! Football
@@ -489,7 +489,7 @@ pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=eab7aeef021
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=ec5eabe0144ccfffc337e1d6708e2afb81d0638e
 #EXTINF:-1 tvg-id="Sky Sports Football" group-title="New Loop",Sky Sports Football
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=8dbe2d515e9131fa311353537736f8c94be9b26d
-#EXTINF:-1 tvg-id="Sky Sports Arena" group-title="Antigua",Sky Sports Arena
+#EXTINF:-1 tvg-id="Sky Sports Arena" group-title="New Loop",Sky Sports Arena
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=d317a003e8047da2c36a2a2bb2289578c9a3b79c
 #EXTINF:-1 tvg-id="Sky Sports Cricket" group-title="New Loop",Sky Sports Cricket
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=6d95e4b0893e155cc674b84e0763150c445d3ddd
