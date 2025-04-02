@@ -517,6 +517,8 @@ pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=d63d8a57cf4
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=5f966c123759de46dff29c379266b7a403452033
 #EXTINF:-1 tvg-id="Premier Sports 1" group-title="New Loop",Premier Sports 1
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=75a56863b6fe0407ad4305b4d7ee5643c3923565
+#EXTINF:-1 tvg-id="Premier Sports 2" group-title="New Loop",Premier Sports 2
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=4903ca695edb64bc72ae29eb85a5333ba0139537
 #EXTINF:-1 tvg-id="Eleven TR Sport" group-title="Antigua",Eleven TR Sport
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=154d111a97b7b18d1f64e9ae697c33c479d01e32
 #EXTINF:-1 tvg-id="ReteVeneta" group-title="Antigua",ReteVeneta
@@ -559,6 +561,8 @@ pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=e72d03fb969
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=79f10c6c6168e42bfc606f3f7b9e5f3ca79dedab
 #EXTINF:-1 tvg-id="ESPN" group-title="New Loop",ESPN
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=4b4907de51ec11087d4bed5876f2a0c68264f442
+#EXTINF:-1 tvg-id="ESPN 2" group-title="New Loop",ESPN 2
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=3e0ba6867173f345d482d80c771f1a5dc3b37e63
 #EXTINF:-1 tvg-id="ESPN 2" group-title="New Loop",ESPN 2
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=664eb5fe460b96941aed633959a845b185cd8394
 #EXTINF:-1 tvg-id="ESPN 4" group-title="New Loop",ESPN 4
