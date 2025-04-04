@@ -35,3 +35,13 @@ http://127.0.0.1:6878/ace/getstream?id=2c6e4c897661e6b0257bfe931b66d20b2ec763b6&
 http://127.0.0.1:6878/ace/getstream?id=71eef80158aa8b37f3dc59f6793c6696df9a2dfa&pid=17
 #EXTINF:-1 tvg-id="08:00-Fórmula 1-G.P. Japón (Suzuka)-Libres 2" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",08:00-Fórmula 1-G.P. Japón (Suzuka)-Libres 2
 http://127.0.0.1:6878/ace/getstream?id=268289e7a3c5209960b53b4d43c8c65fab294b85&pid=18
+#EXTINF:-1 tvg-id="21:00-Primera-Rayo Vallecano-Espanyol" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera-Rayo Vallecano-Espanyol
+http://127.0.0.1:6878/ace/getstream?id=110d441ddc9713a7452588770d2bc85504672f47&pid=19
+#EXTINF:-1 tvg-id="21:00-Primera-Rayo Vallecano-Espanyol" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera-Rayo Vallecano-Espanyol
+http://127.0.0.1:6878/ace/getstream?id=ec29289b0b14756e686c03a501bae1efa05be70c&pid=20
+#EXTINF:-1 tvg-id="21:00-Primera-Rayo Vallecano-Espanyol" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera-Rayo Vallecano-Espanyol
+http://127.0.0.1:6878/ace/getstream?id=6de4794cd02f88f14354b5996823413a59a1de0f&pid=21
+#EXTINF:-1 tvg-id="21:00-Primera-Rayo Vallecano-Espanyol" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera-Rayo Vallecano-Espanyol
+http://127.0.0.1:6878/ace/getstream?id=608b0faf7d3d25f6fe5dba13d5e4b4142949990e&pid=22
+#EXTINF:-1 tvg-id="21:00-Primera-Rayo Vallecano-Espanyol" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera-Rayo Vallecano-Espanyol
+http://127.0.0.1:6878/ace/getstream?id=94d34491106e00394835c8cb68aa94481339b53f&pid=23
