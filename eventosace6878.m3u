@@ -1,219 +1,257 @@
 #EXTM3U 
+#EXTINF:-1 tvg-id="14:10-Torneo de Marrakech-R. Carballés-L. Darderi" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:10-Torneo de Marrakech-R. Carballés-L. Darderi
+http://127.0.0.1:6878/ace/getstream?id=58a4c880ab18486d914751db32a12760e74b75a4&pid=1
+#EXTINF:-1 tvg-id="16:00-Premier League-Crystal Palace-Brighton" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",16:00-Premier League-Crystal Palace-Brighton
+http://127.0.0.1:6878/ace/getstream?id=8b081c8afbd9beafc8c5fbf0115eb36eadb07a35&pid=2
+#EXTINF:-1 tvg-id="16:00-Premier League-Crystal Palace-Brighton" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",16:00-Premier League-Crystal Palace-Brighton
+http://127.0.0.1:6878/ace/getstream?id=0f5402f75107112d59d924a5f381cfed33dbe6d2&pid=3
+#EXTINF:-1 tvg-id="16:00-Premier League-Crystal Palace-Brighton" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",16:00-Premier League-Crystal Palace-Brighton
+http://127.0.0.1:6878/ace/getstream?id=ca923c9873fd206a41c1e83ff8fc40e3cf323c9a&pid=4
+#EXTINF:-1 tvg-id="16:00-Premier League-Crystal Palace-Brighton" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",16:00-Premier League-Crystal Palace-Brighton
+http://127.0.0.1:6878/ace/getstream?id=a929eeec1268d69d1556a2e3ace793b2577d8810&pid=5
+#EXTINF:-1 tvg-id="16:00-Premier League-Crystal Palace-Brighton" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",16:00-Premier League-Crystal Palace-Brighton
+http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516&pid=6
+#EXTINF:-1 tvg-id="16:00-Premier League-Crystal Palace-Brighton" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",16:00-Premier League-Crystal Palace-Brighton
+http://127.0.0.1:6878/ace/getstream?id=2f9211669499f413dab1a490198afab2a9b4b57c&pid=7
+#EXTINF:-1 tvg-id="16:00-Premier League-Ipswich Town-Wolverhampton" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",16:00-Premier League-Ipswich Town-Wolverhampton
+http://127.0.0.1:6878/ace/getstream?id=d641cd0fca0f467b3130754a091e2f4d22e68eb1&pid=8
+#EXTINF:-1 tvg-id="16:00-Premier League-Ipswich Town-Wolverhampton" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",16:00-Premier League-Ipswich Town-Wolverhampton
+http://127.0.0.1:6878/ace/getstream?id=3785f04aa15a5e6ef1484f0bea7f4664f2c1a4ea&pid=9
+#EXTINF:-1 tvg-id="16:00-Premier League-Ipswich Town-Wolverhampton" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",16:00-Premier League-Ipswich Town-Wolverhampton
+http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9&pid=10
+#EXTINF:-1 tvg-id="16:00-Premier League-West Ham-Bournemouth" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",16:00-Premier League-West Ham-Bournemouth
+http://127.0.0.1:6878/ace/getstream?id=6538b79ce0da657d8455d1da6a5f342398899a0e&pid=11
+#EXTINF:-1 tvg-id="16:00-Premier League-West Ham-Bournemouth" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",16:00-Premier League-West Ham-Bournemouth
+http://127.0.0.1:6878/ace/getstream?id=50a8a13c474848d1efbd5586efdb5b6cdd173fa9&pid=12
+#EXTINF:-1 tvg-id="16:00-Premier League-West Ham-Bournemouth" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",16:00-Premier League-West Ham-Bournemouth
+http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928&pid=13
+#EXTINF:-1 tvg-id="16:00-Premier League-West Ham-Bournemouth" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",16:00-Premier League-West Ham-Bournemouth
+http://127.0.0.1:6878/ace/getstream?id=6a1703a6bbe6110a1d27f35a41c88661e1740bfa&pid=14
+#EXTINF:-1 tvg-id="16:00-Premier League-West Ham-Bournemouth" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",16:00-Premier League-West Ham-Bournemouth
+http://127.0.0.1:6878/ace/getstream?id=35c7f0c966ecde3390f4510bb4caded40018c07a&pid=15
+#EXTINF:-1 tvg-id="16:00-Premier League-West Ham-Bournemouth" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",16:00-Premier League-West Ham-Bournemouth
+http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151&pid=16
+#EXTINF:-1 tvg-id="16:00-Premier League-West Ham-Bournemouth" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",16:00-Premier League-West Ham-Bournemouth
+http://127.0.0.1:6878/ace/getstream?id=688e785893b50acc1d00cb37f15bfc42e72f5ae3&pid=17
+#EXTINF:-1 tvg-id="16:00-Premier League-West Ham-Bournemouth" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",16:00-Premier League-West Ham-Bournemouth
+http://127.0.0.1:6878/ace/getstream?id=448a647ba8cd8885588572d609ce02b961238121&pid=18
+#EXTINF:-1 tvg-id="16:00-Torneo de Marrakech-T. Griekspoor-K. Majchrzak" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:00-Torneo de Marrakech-T. Griekspoor-K. Majchrzak
+http://127.0.0.1:6878/ace/getstream?id=58a4c880ab18486d914751db32a12760e74b75a4&pid=19
+#EXTINF:-1 tvg-id="16:15-Primera-Real Madrid-Valencia CF" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",16:15-Primera-Real Madrid-Valencia CF
+http://127.0.0.1:6878/ace/getstream?id=110d441ddc9713a7452588770d2bc85504672f47&pid=20
+#EXTINF:-1 tvg-id="16:15-Primera-Real Madrid-Valencia CF" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",16:15-Primera-Real Madrid-Valencia CF
+http://127.0.0.1:6878/ace/getstream?id=ec29289b0b14756e686c03a501bae1efa05be70c&pid=21
+#EXTINF:-1 tvg-id="16:15-Primera-Real Madrid-Valencia CF" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",16:15-Primera-Real Madrid-Valencia CF
+http://127.0.0.1:6878/ace/getstream?id=6de4794cd02f88f14354b5996823413a59a1de0f&pid=22
+#EXTINF:-1 tvg-id="16:15-Primera-Real Madrid-Valencia CF" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",16:15-Primera-Real Madrid-Valencia CF
+http://127.0.0.1:6878/ace/getstream?id=608b0faf7d3d25f6fe5dba13d5e4b4142949990e&pid=23
+#EXTINF:-1 tvg-id="16:15-Primera-Real Madrid-Valencia CF" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",16:15-Primera-Real Madrid-Valencia CF
+http://127.0.0.1:6878/ace/getstream?id=94d34491106e00394835c8cb68aa94481339b53f&pid=24
 #EXTINF:-1 tvg-id="16:15-Segunda-Eibar-Real Oviedo" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",16:15-Segunda-Eibar-Real Oviedo
-http://127.0.0.1:6878/ace/getstream?id=fe289ab20d8f9dcb426fc6d56ce9dbbddb66e3b3&pid=1
+http://127.0.0.1:6878/ace/getstream?id=fe289ab20d8f9dcb426fc6d56ce9dbbddb66e3b3&pid=25
 #EXTINF:-1 tvg-id="16:15-Segunda-Eibar-Real Oviedo" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",16:15-Segunda-Eibar-Real Oviedo
-http://127.0.0.1:6878/ace/getstream?id=83e8a605ffebe2062f15dad76b6ffe9486a28eb3&pid=2
+http://127.0.0.1:6878/ace/getstream?id=83e8a605ffebe2062f15dad76b6ffe9486a28eb3&pid=26
 #EXTINF:-1 tvg-id="16:15-Segunda-Eibar-Real Oviedo" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",16:15-Segunda-Eibar-Real Oviedo
-http://127.0.0.1:6878/ace/getstream?id=b2706a7ffbea236a3b398139a3a606ada664c0eb&pid=3
+http://127.0.0.1:6878/ace/getstream?id=b2706a7ffbea236a3b398139a3a606ada664c0eb&pid=27
 #EXTINF:-1 tvg-id="16:15-Segunda-Eibar-Real Oviedo" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",16:15-Segunda-Eibar-Real Oviedo
-http://127.0.0.1:6878/ace/getstream?id=121f719ebb94193c6086ef92865cf9b197750980&pid=4
+http://127.0.0.1:6878/ace/getstream?id=121f719ebb94193c6086ef92865cf9b197750980&pid=28
 #EXTINF:-1 tvg-id="18:00-ACB-Força Lleida-Río Breogán" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",18:00-ACB-Força Lleida-Río Breogán
-http://127.0.0.1:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&pid=5
+http://127.0.0.1:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&pid=29
 #EXTINF:-1 tvg-id="18:00-ACB-Força Lleida-Río Breogán" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",18:00-ACB-Força Lleida-Río Breogán
-http://127.0.0.1:6878/ace/getstream?id=639c561dd57fa3fc91fde715caeb696c5efb7ce7&pid=6
+http://127.0.0.1:6878/ace/getstream?id=639c561dd57fa3fc91fde715caeb696c5efb7ce7&pid=30
 #EXTINF:-1 tvg-id="18:00-ACB-MoraBanc Andorra-Joventut Badalona" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",18:00-ACB-MoraBanc Andorra-Joventut Badalona
-http://127.0.0.1:6878/ace/getstream?id=ef9dcc4eaac36a0f608b52a31f8ab237859e071a&pid=7
+http://127.0.0.1:6878/ace/getstream?id=ef9dcc4eaac36a0f608b52a31f8ab237859e071a&pid=31
 #EXTINF:-1 tvg-id="18:00-ACB-MoraBanc Andorra-Joventut Badalona" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",18:00-ACB-MoraBanc Andorra-Joventut Badalona
-http://127.0.0.1:6878/ace/getstream?id=b5842718859345a596107ab8e6b24d7bfa2d617e&pid=8
+http://127.0.0.1:6878/ace/getstream?id=b5842718859345a596107ab8e6b24d7bfa2d617e&pid=32
 #EXTINF:-1 tvg-id="18:00-ACB-MoraBanc Andorra-Joventut Badalona" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",18:00-ACB-MoraBanc Andorra-Joventut Badalona
-http://127.0.0.1:6878/ace/getstream?id=be02b9918b8fe7224cfa9af1e37856760f95b1b8&pid=9
+http://127.0.0.1:6878/ace/getstream?id=be02b9918b8fe7224cfa9af1e37856760f95b1b8&pid=33
 #EXTINF:-1 tvg-id="18:00-ACB-MoraBanc Andorra-Joventut Badalona" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",18:00-ACB-MoraBanc Andorra-Joventut Badalona
-http://127.0.0.1:6878/ace/getstream?id=67a33c3f74956eed14b9b400523462fe362e0e66&pid=10
+http://127.0.0.1:6878/ace/getstream?id=67a33c3f74956eed14b9b400523462fe362e0e66&pid=34
 #EXTINF:-1 tvg-id="18:00-ACB-MoraBanc Andorra-Joventut Badalona" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",18:00-ACB-MoraBanc Andorra-Joventut Badalona
-http://127.0.0.1:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3&pid=11
+http://127.0.0.1:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3&pid=35
 #EXTINF:-1 tvg-id="18:30-Primera-Mallorca-Celta" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:30-Primera-Mallorca-Celta
-http://127.0.0.1:6878/ace/getstream?id=51dbbfb42f8091e4ea7a2186b566a40e780953d9&pid=12
+http://127.0.0.1:6878/ace/getstream?id=51dbbfb42f8091e4ea7a2186b566a40e780953d9&pid=36
 #EXTINF:-1 tvg-id="18:30-Primera-Mallorca-Celta" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:30-Primera-Mallorca-Celta
-http://127.0.0.1:6878/ace/getstream?id=97ba38d47680954be40e48bd8f43e17222fefecb&pid=13
+http://127.0.0.1:6878/ace/getstream?id=97ba38d47680954be40e48bd8f43e17222fefecb&pid=37
 #EXTINF:-1 tvg-id="18:30-Primera-Mallorca-Celta" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:30-Primera-Mallorca-Celta
-http://127.0.0.1:6878/ace/getstream?id=608b0faf7d3d25f6fe5dba13d5e4b4142949990e&pid=14
+http://127.0.0.1:6878/ace/getstream?id=608b0faf7d3d25f6fe5dba13d5e4b4142949990e&pid=38
 #EXTINF:-1 tvg-id="18:30-Primera-Mallorca-Celta" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:30-Primera-Mallorca-Celta
-http://127.0.0.1:6878/ace/getstream?id=94d34491106e00394835c8cb68aa94481339b53f&pid=15
+http://127.0.0.1:6878/ace/getstream?id=94d34491106e00394835c8cb68aa94481339b53f&pid=39
+#EXTINF:-1 tvg-id="02:00-NBA-San Antonio Spurs-Cleveland Cavaliers" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",02:00-NBA-San Antonio Spurs-Cleveland Cavaliers
+http://127.0.0.1:6878/ace/getstream?id=b2a4d1eba9b46df5f52a87105df779f9d39abeb4&pid=40
+#EXTINF:-1 tvg-id="02:00-NBA-San Antonio Spurs-Cleveland Cavaliers" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",02:00-NBA-San Antonio Spurs-Cleveland Cavaliers
+http://127.0.0.1:6878/ace/getstream?id=3b2a8b41e7097c16b0468b42d7de0320886fa933&pid=41
+#EXTINF:-1 tvg-id="02:00-NBA-San Antonio Spurs-Cleveland Cavaliers" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",02:00-NBA-San Antonio Spurs-Cleveland Cavaliers
+http://127.0.0.1:6878/ace/getstream?id=2940120bf034db79a7f5849846ccea0255172eae&pid=42
+#EXTINF:-1 tvg-id="02:00-NBA-San Antonio Spurs-Cleveland Cavaliers" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",02:00-NBA-San Antonio Spurs-Cleveland Cavaliers
+http://127.0.0.1:6878/ace/getstream?id=57313e1ef438538df4feb5a6028dc78ee4f66b6a&pid=43
+#EXTINF:-1 tvg-id="02:00-NBA-San Antonio Spurs-Cleveland Cavaliers" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",02:00-NBA-San Antonio Spurs-Cleveland Cavaliers
+http://127.0.0.1:6878/ace/getstream?id=1205151f6fa5d95c0eeb543cbce43ccfa6a1b216&pid=44
+#EXTINF:-1 tvg-id="02:00-NBA-San Antonio Spurs-Cleveland Cavaliers" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",02:00-NBA-San Antonio Spurs-Cleveland Cavaliers
+http://127.0.0.1:6878/ace/getstream?id=d03c13b6723f66155d7a0df3692a3b073fe630f2&pid=45
+#EXTINF:-1 tvg-id="02:00-NBA-San Antonio Spurs-Cleveland Cavaliers" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",02:00-NBA-San Antonio Spurs-Cleveland Cavaliers
+http://127.0.0.1:6878/ace/getstream?id=12ba546d229bc39f01c3c18988a034b215fe6adb&pid=46
 #EXTINF:-1 tvg-id="18:30-Segunda-FC Cartagena-Eldense" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:30-Segunda-FC Cartagena-Eldense
-http://127.0.0.1:6878/ace/getstream?id=0cfdfde1b70623b8c210b0f7301be2a87456481d&pid=16
+http://127.0.0.1:6878/ace/getstream?id=0cfdfde1b70623b8c210b0f7301be2a87456481d&pid=47
 #EXTINF:-1 tvg-id="18:30-Segunda-FC Cartagena-Eldense" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:30-Segunda-FC Cartagena-Eldense
-http://127.0.0.1:6878/ace/getstream?id=0a335406bad0b658aeddb2d38f8c0614b2e5623a&pid=17
+http://127.0.0.1:6878/ace/getstream?id=0a335406bad0b658aeddb2d38f8c0614b2e5623a&pid=48
 #EXTINF:-1 tvg-id="18:30-Segunda-Granada CF-UD Almería" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:30-Segunda-Granada CF-UD Almería
-http://127.0.0.1:6878/ace/getstream?id=fe289ab20d8f9dcb426fc6d56ce9dbbddb66e3b3&pid=18
+http://127.0.0.1:6878/ace/getstream?id=fe289ab20d8f9dcb426fc6d56ce9dbbddb66e3b3&pid=49
 #EXTINF:-1 tvg-id="18:30-Segunda-Granada CF-UD Almería" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:30-Segunda-Granada CF-UD Almería
-http://127.0.0.1:6878/ace/getstream?id=83e8a605ffebe2062f15dad76b6ffe9486a28eb3&pid=19
+http://127.0.0.1:6878/ace/getstream?id=83e8a605ffebe2062f15dad76b6ffe9486a28eb3&pid=50
 #EXTINF:-1 tvg-id="18:30-Segunda-Granada CF-UD Almería" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:30-Segunda-Granada CF-UD Almería
-http://127.0.0.1:6878/ace/getstream?id=b2706a7ffbea236a3b398139a3a606ada664c0eb&pid=20
+http://127.0.0.1:6878/ace/getstream?id=b2706a7ffbea236a3b398139a3a606ada664c0eb&pid=51
 #EXTINF:-1 tvg-id="18:30-Segunda-Granada CF-UD Almería" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:30-Segunda-Granada CF-UD Almería
-http://127.0.0.1:6878/ace/getstream?id=121f719ebb94193c6086ef92865cf9b197750980&pid=21
+http://127.0.0.1:6878/ace/getstream?id=121f719ebb94193c6086ef92865cf9b197750980&pid=52
 #EXTINF:-1 tvg-id="18:30-Segunda-Granada CF-UD Almería" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:30-Segunda-Granada CF-UD Almería
-http://127.0.0.1:6878/ace/getstream?id=b2a4d1eba9b46df5f52a87105df779f9d39abeb4&pid=22
+http://127.0.0.1:6878/ace/getstream?id=b2a4d1eba9b46df5f52a87105df779f9d39abeb4&pid=53
 #EXTINF:-1 tvg-id="18:30-Premier League-Aston Villa-Nottingham Forest" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:30-Premier League-Aston Villa-Nottingham Forest
-http://127.0.0.1:6878/ace/getstream?id=6538b79ce0da657d8455d1da6a5f342398899a0e&pid=23
+http://127.0.0.1:6878/ace/getstream?id=6538b79ce0da657d8455d1da6a5f342398899a0e&pid=54
 #EXTINF:-1 tvg-id="18:30-Premier League-Aston Villa-Nottingham Forest" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:30-Premier League-Aston Villa-Nottingham Forest
-http://127.0.0.1:6878/ace/getstream?id=50a8a13c474848d1efbd5586efdb5b6cdd173fa9&pid=24
+http://127.0.0.1:6878/ace/getstream?id=50a8a13c474848d1efbd5586efdb5b6cdd173fa9&pid=55
 #EXTINF:-1 tvg-id="18:30-Premier League-Aston Villa-Nottingham Forest" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:30-Premier League-Aston Villa-Nottingham Forest
-http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928&pid=25
+http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928&pid=56
 #EXTINF:-1 tvg-id="18:30-Premier League-Aston Villa-Nottingham Forest" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:30-Premier League-Aston Villa-Nottingham Forest
-http://127.0.0.1:6878/ace/getstream?id=6a1703a6bbe6110a1d27f35a41c88661e1740bfa&pid=26
+http://127.0.0.1:6878/ace/getstream?id=6a1703a6bbe6110a1d27f35a41c88661e1740bfa&pid=57
 #EXTINF:-1 tvg-id="18:30-Premier League-Aston Villa-Nottingham Forest" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:30-Premier League-Aston Villa-Nottingham Forest
-http://127.0.0.1:6878/ace/getstream?id=35c7f0c966ecde3390f4510bb4caded40018c07a&pid=27
+http://127.0.0.1:6878/ace/getstream?id=35c7f0c966ecde3390f4510bb4caded40018c07a&pid=58
 #EXTINF:-1 tvg-id="18:30-Premier League-Aston Villa-Nottingham Forest" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:30-Premier League-Aston Villa-Nottingham Forest
-http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151&pid=28
+http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151&pid=59
 #EXTINF:-1 tvg-id="18:30-Premier League-Aston Villa-Nottingham Forest" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:30-Premier League-Aston Villa-Nottingham Forest
-http://127.0.0.1:6878/ace/getstream?id=688e785893b50acc1d00cb37f15bfc42e72f5ae3&pid=29
+http://127.0.0.1:6878/ace/getstream?id=688e785893b50acc1d00cb37f15bfc42e72f5ae3&pid=60
 #EXTINF:-1 tvg-id="18:30-Premier League-Aston Villa-Nottingham Forest" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:30-Premier League-Aston Villa-Nottingham Forest
-http://127.0.0.1:6878/ace/getstream?id=448a647ba8cd8885588572d609ce02b961238121&pid=30
+http://127.0.0.1:6878/ace/getstream?id=448a647ba8cd8885588572d609ce02b961238121&pid=61
 #EXTINF:-1 tvg-id="20:00-Velada-J. Joyce-F. Hrgovic" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:00-Velada-J. Joyce-F. Hrgovic
-http://127.0.0.1:6878/ace/getstream?id=8b081c8afbd9beafc8c5fbf0115eb36eadb07a35&pid=31
+http://127.0.0.1:6878/ace/getstream?id=8b081c8afbd9beafc8c5fbf0115eb36eadb07a35&pid=62
 #EXTINF:-1 tvg-id="20:00-Velada-J. Joyce-F. Hrgovic" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:00-Velada-J. Joyce-F. Hrgovic
-http://127.0.0.1:6878/ace/getstream?id=0f5402f75107112d59d924a5f381cfed33dbe6d2&pid=32
+http://127.0.0.1:6878/ace/getstream?id=0f5402f75107112d59d924a5f381cfed33dbe6d2&pid=63
 #EXTINF:-1 tvg-id="20:00-Velada-J. Joyce-F. Hrgovic" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:00-Velada-J. Joyce-F. Hrgovic
-http://127.0.0.1:6878/ace/getstream?id=ca923c9873fd206a41c1e83ff8fc40e3cf323c9a&pid=33
+http://127.0.0.1:6878/ace/getstream?id=ca923c9873fd206a41c1e83ff8fc40e3cf323c9a&pid=64
 #EXTINF:-1 tvg-id="20:00-Velada-J. Joyce-F. Hrgovic" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:00-Velada-J. Joyce-F. Hrgovic
-http://127.0.0.1:6878/ace/getstream?id=a929eeec1268d69d1556a2e3ace793b2577d8810&pid=34
+http://127.0.0.1:6878/ace/getstream?id=a929eeec1268d69d1556a2e3ace793b2577d8810&pid=65
 #EXTINF:-1 tvg-id="20:00-Velada-J. Joyce-F. Hrgovic" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:00-Velada-J. Joyce-F. Hrgovic
-http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516&pid=35
+http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516&pid=66
 #EXTINF:-1 tvg-id="20:00-Velada-J. Joyce-F. Hrgovic" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:00-Velada-J. Joyce-F. Hrgovic
-http://127.0.0.1:6878/ace/getstream?id=2f9211669499f413dab1a490198afab2a9b4b57c&pid=36
+http://127.0.0.1:6878/ace/getstream?id=2f9211669499f413dab1a490198afab2a9b4b57c&pid=67
 #EXTINF:-1 tvg-id="20:45-ACB-Bilbao Basket-Dreamland Gran Canaria" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:45-ACB-Bilbao Basket-Dreamland Gran Canaria
-http://127.0.0.1:6878/ace/getstream?id=ef9dcc4eaac36a0f608b52a31f8ab237859e071a&pid=37
+http://127.0.0.1:6878/ace/getstream?id=ef9dcc4eaac36a0f608b52a31f8ab237859e071a&pid=68
 #EXTINF:-1 tvg-id="20:45-ACB-Bilbao Basket-Dreamland Gran Canaria" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:45-ACB-Bilbao Basket-Dreamland Gran Canaria
-http://127.0.0.1:6878/ace/getstream?id=b5842718859345a596107ab8e6b24d7bfa2d617e&pid=38
+http://127.0.0.1:6878/ace/getstream?id=b5842718859345a596107ab8e6b24d7bfa2d617e&pid=69
 #EXTINF:-1 tvg-id="20:45-ACB-Bilbao Basket-Dreamland Gran Canaria" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:45-ACB-Bilbao Basket-Dreamland Gran Canaria
-http://127.0.0.1:6878/ace/getstream?id=be02b9918b8fe7224cfa9af1e37856760f95b1b8&pid=39
+http://127.0.0.1:6878/ace/getstream?id=be02b9918b8fe7224cfa9af1e37856760f95b1b8&pid=70
 #EXTINF:-1 tvg-id="20:45-ACB-Bilbao Basket-Dreamland Gran Canaria" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:45-ACB-Bilbao Basket-Dreamland Gran Canaria
-http://127.0.0.1:6878/ace/getstream?id=67a33c3f74956eed14b9b400523462fe362e0e66&pid=40
+http://127.0.0.1:6878/ace/getstream?id=67a33c3f74956eed14b9b400523462fe362e0e66&pid=71
 #EXTINF:-1 tvg-id="20:45-ACB-Bilbao Basket-Dreamland Gran Canaria" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:45-ACB-Bilbao Basket-Dreamland Gran Canaria
-http://127.0.0.1:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3&pid=41
+http://127.0.0.1:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3&pid=72
 #EXTINF:-1 tvg-id="20:45-ACB-Valencia Basket-UCAM Murcia CB" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:45-ACB-Valencia Basket-UCAM Murcia CB
-http://127.0.0.1:6878/ace/getstream?id=b2a4d1eba9b46df5f52a87105df779f9d39abeb4&pid=42
+http://127.0.0.1:6878/ace/getstream?id=b2a4d1eba9b46df5f52a87105df779f9d39abeb4&pid=73
 #EXTINF:-1 tvg-id="20:45-ACB-Valencia Basket-UCAM Murcia CB" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:45-ACB-Valencia Basket-UCAM Murcia CB
-http://127.0.0.1:6878/ace/getstream?id=3b2a8b41e7097c16b0468b42d7de0320886fa933&pid=43
+http://127.0.0.1:6878/ace/getstream?id=3b2a8b41e7097c16b0468b42d7de0320886fa933&pid=74
 #EXTINF:-1 tvg-id="20:45-ACB-Valencia Basket-UCAM Murcia CB" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:45-ACB-Valencia Basket-UCAM Murcia CB
-http://127.0.0.1:6878/ace/getstream?id=2940120bf034db79a7f5849846ccea0255172eae&pid=44
+http://127.0.0.1:6878/ace/getstream?id=2940120bf034db79a7f5849846ccea0255172eae&pid=75
 #EXTINF:-1 tvg-id="20:45-ACB-Valencia Basket-UCAM Murcia CB" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:45-ACB-Valencia Basket-UCAM Murcia CB
-http://127.0.0.1:6878/ace/getstream?id=57313e1ef438538df4feb5a6028dc78ee4f66b6a&pid=45
+http://127.0.0.1:6878/ace/getstream?id=57313e1ef438538df4feb5a6028dc78ee4f66b6a&pid=76
 #EXTINF:-1 tvg-id="20:45-ACB-Valencia Basket-UCAM Murcia CB" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:45-ACB-Valencia Basket-UCAM Murcia CB
-http://127.0.0.1:6878/ace/getstream?id=1205151f6fa5d95c0eeb543cbce43ccfa6a1b216&pid=46
+http://127.0.0.1:6878/ace/getstream?id=1205151f6fa5d95c0eeb543cbce43ccfa6a1b216&pid=77
 #EXTINF:-1 tvg-id="20:45-ACB-Valencia Basket-UCAM Murcia CB" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:45-ACB-Valencia Basket-UCAM Murcia CB
-http://127.0.0.1:6878/ace/getstream?id=d03c13b6723f66155d7a0df3692a3b073fe630f2&pid=47
+http://127.0.0.1:6878/ace/getstream?id=d03c13b6723f66155d7a0df3692a3b073fe630f2&pid=78
 #EXTINF:-1 tvg-id="20:45-ACB-Valencia Basket-UCAM Murcia CB" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:45-ACB-Valencia Basket-UCAM Murcia CB
-http://127.0.0.1:6878/ace/getstream?id=12ba546d229bc39f01c3c18988a034b215fe6adb&pid=48
-#EXTINF:-1 tvg-id="02:00-NBA-San Antonio Spurs-Cleveland Cavaliers" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",02:00-NBA-San Antonio Spurs-Cleveland Cavaliers
-http://127.0.0.1:6878/ace/getstream?id=b2a4d1eba9b46df5f52a87105df779f9d39abeb4&pid=49
-#EXTINF:-1 tvg-id="02:00-NBA-San Antonio Spurs-Cleveland Cavaliers" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",02:00-NBA-San Antonio Spurs-Cleveland Cavaliers
-http://127.0.0.1:6878/ace/getstream?id=3b2a8b41e7097c16b0468b42d7de0320886fa933&pid=50
-#EXTINF:-1 tvg-id="02:00-NBA-San Antonio Spurs-Cleveland Cavaliers" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",02:00-NBA-San Antonio Spurs-Cleveland Cavaliers
-http://127.0.0.1:6878/ace/getstream?id=2940120bf034db79a7f5849846ccea0255172eae&pid=51
-#EXTINF:-1 tvg-id="02:00-NBA-San Antonio Spurs-Cleveland Cavaliers" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",02:00-NBA-San Antonio Spurs-Cleveland Cavaliers
-http://127.0.0.1:6878/ace/getstream?id=57313e1ef438538df4feb5a6028dc78ee4f66b6a&pid=52
-#EXTINF:-1 tvg-id="02:00-NBA-San Antonio Spurs-Cleveland Cavaliers" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",02:00-NBA-San Antonio Spurs-Cleveland Cavaliers
-http://127.0.0.1:6878/ace/getstream?id=1205151f6fa5d95c0eeb543cbce43ccfa6a1b216&pid=53
-#EXTINF:-1 tvg-id="02:00-NBA-San Antonio Spurs-Cleveland Cavaliers" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",02:00-NBA-San Antonio Spurs-Cleveland Cavaliers
-http://127.0.0.1:6878/ace/getstream?id=d03c13b6723f66155d7a0df3692a3b073fe630f2&pid=54
-#EXTINF:-1 tvg-id="02:00-NBA-San Antonio Spurs-Cleveland Cavaliers" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",02:00-NBA-San Antonio Spurs-Cleveland Cavaliers
-http://127.0.0.1:6878/ace/getstream?id=12ba546d229bc39f01c3c18988a034b215fe6adb&pid=55
+http://127.0.0.1:6878/ace/getstream?id=12ba546d229bc39f01c3c18988a034b215fe6adb&pid=79
 #EXTINF:-1 tvg-id="21:00-Primera-FC Barcelona-Real Betis" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera-FC Barcelona-Real Betis
-http://127.0.0.1:6878/ace/getstream?id=d3de78aebe544611a2347f54d5796bd87f16c92d&pid=56
+http://127.0.0.1:6878/ace/getstream?id=d3de78aebe544611a2347f54d5796bd87f16c92d&pid=80
 #EXTINF:-1 tvg-id="21:00-Primera-FC Barcelona-Real Betis" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera-FC Barcelona-Real Betis
-http://127.0.0.1:6878/ace/getstream?id=6d05b31e5e8fdae312fbd57897363a7b10ddb163&pid=57
+http://127.0.0.1:6878/ace/getstream?id=6d05b31e5e8fdae312fbd57897363a7b10ddb163&pid=81
 #EXTINF:-1 tvg-id="21:00-Primera-FC Barcelona-Real Betis" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera-FC Barcelona-Real Betis
-http://127.0.0.1:6878/ace/getstream?id=cc9b7f5fe416069a2110da0909b0f915043c468b&pid=58
+http://127.0.0.1:6878/ace/getstream?id=cc9b7f5fe416069a2110da0909b0f915043c468b&pid=82
 #EXTINF:-1 tvg-id="21:00-Primera-FC Barcelona-Real Betis" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera-FC Barcelona-Real Betis
-http://127.0.0.1:6878/ace/getstream?id=83c6c4942d69f4aa324aa746c5d7dbfd7d1572b3&pid=59
+http://127.0.0.1:6878/ace/getstream?id=83c6c4942d69f4aa324aa746c5d7dbfd7d1572b3&pid=83
 #EXTINF:-1 tvg-id="21:00-Primera-FC Barcelona-Real Betis" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera-FC Barcelona-Real Betis
-http://127.0.0.1:6878/ace/getstream?id=f31a586422c9244196c810c84b6c85da350318a5&pid=60
+http://127.0.0.1:6878/ace/getstream?id=f31a586422c9244196c810c84b6c85da350318a5&pid=84
 #EXTINF:-1 tvg-id="21:00-Primera-FC Barcelona-Real Betis" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera-FC Barcelona-Real Betis
-http://127.0.0.1:6878/ace/getstream?id=608b0faf7d3d25f6fe5dba13d5e4b4142949990e&pid=61
+http://127.0.0.1:6878/ace/getstream?id=608b0faf7d3d25f6fe5dba13d5e4b4142949990e&pid=85
 #EXTINF:-1 tvg-id="21:00-Primera-FC Barcelona-Real Betis" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera-FC Barcelona-Real Betis
-http://127.0.0.1:6878/ace/getstream?id=94d34491106e00394835c8cb68aa94481339b53f&pid=62
+http://127.0.0.1:6878/ace/getstream?id=94d34491106e00394835c8cb68aa94481339b53f&pid=86
 #EXTINF:-1 tvg-id="21:00-Segunda-Sporting Gijón-CD Tenerife" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Segunda-Sporting Gijón-CD Tenerife
-http://127.0.0.1:6878/ace/getstream?id=fe289ab20d8f9dcb426fc6d56ce9dbbddb66e3b3&pid=63
+http://127.0.0.1:6878/ace/getstream?id=fe289ab20d8f9dcb426fc6d56ce9dbbddb66e3b3&pid=87
 #EXTINF:-1 tvg-id="21:00-Segunda-Sporting Gijón-CD Tenerife" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Segunda-Sporting Gijón-CD Tenerife
-http://127.0.0.1:6878/ace/getstream?id=83e8a605ffebe2062f15dad76b6ffe9486a28eb3&pid=64
+http://127.0.0.1:6878/ace/getstream?id=83e8a605ffebe2062f15dad76b6ffe9486a28eb3&pid=88
 #EXTINF:-1 tvg-id="21:00-Segunda-Sporting Gijón-CD Tenerife" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Segunda-Sporting Gijón-CD Tenerife
-http://127.0.0.1:6878/ace/getstream?id=b2706a7ffbea236a3b398139a3a606ada664c0eb&pid=65
+http://127.0.0.1:6878/ace/getstream?id=b2706a7ffbea236a3b398139a3a606ada664c0eb&pid=89
 #EXTINF:-1 tvg-id="21:00-Segunda-Sporting Gijón-CD Tenerife" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Segunda-Sporting Gijón-CD Tenerife
-http://127.0.0.1:6878/ace/getstream?id=121f719ebb94193c6086ef92865cf9b197750980&pid=66
+http://127.0.0.1:6878/ace/getstream?id=121f719ebb94193c6086ef92865cf9b197750980&pid=90
 #EXTINF:-1 tvg-id="04:30-Fórmula 1-G.P. Japón (Suzuka)-Libres 3" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",04:30-Fórmula 1-G.P. Japón (Suzuka)-Libres 3
-http://127.0.0.1:6878/ace/getstream?id=6422e8bc34282871634c81947be093c04ad1bb29&pid=67
+http://127.0.0.1:6878/ace/getstream?id=6422e8bc34282871634c81947be093c04ad1bb29&pid=91
 #EXTINF:-1 tvg-id="04:30-Fórmula 1-G.P. Japón (Suzuka)-Libres 3" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",04:30-Fórmula 1-G.P. Japón (Suzuka)-Libres 3
-http://127.0.0.1:6878/ace/getstream?id=c9c18ae7a9dafba1caae5beb22060f9c92bba553&pid=68
+http://127.0.0.1:6878/ace/getstream?id=c9c18ae7a9dafba1caae5beb22060f9c92bba553&pid=92
 #EXTINF:-1 tvg-id="04:30-Fórmula 1-G.P. Japón (Suzuka)-Libres 3" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",04:30-Fórmula 1-G.P. Japón (Suzuka)-Libres 3
-http://127.0.0.1:6878/ace/getstream?id=515efd8115482bda8d92aa6df9a882a5e5797494&pid=69
+http://127.0.0.1:6878/ace/getstream?id=515efd8115482bda8d92aa6df9a882a5e5797494&pid=93
 #EXTINF:-1 tvg-id="04:30-Fórmula 1-G.P. Japón (Suzuka)-Libres 3" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",04:30-Fórmula 1-G.P. Japón (Suzuka)-Libres 3
-http://127.0.0.1:6878/ace/getstream?id=d27584ebe5128c8033cb6fdc806a994fbd17b790&pid=70
+http://127.0.0.1:6878/ace/getstream?id=d27584ebe5128c8033cb6fdc806a994fbd17b790&pid=94
 #EXTINF:-1 tvg-id="04:30-Fórmula 1-G.P. Japón (Suzuka)-Libres 3" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",04:30-Fórmula 1-G.P. Japón (Suzuka)-Libres 3
-http://127.0.0.1:6878/ace/getstream?id=d8068894248c1f21eea31e538917276a8c49ec06&pid=71
+http://127.0.0.1:6878/ace/getstream?id=d8068894248c1f21eea31e538917276a8c49ec06&pid=95
 #EXTINF:-1 tvg-id="04:30-Fórmula 1-G.P. Japón (Suzuka)-Libres 3" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",04:30-Fórmula 1-G.P. Japón (Suzuka)-Libres 3
-http://127.0.0.1:6878/ace/getstream?id=d6281d4e6310269b416180442a470d23a4a99dc9&pid=72
+http://127.0.0.1:6878/ace/getstream?id=d6281d4e6310269b416180442a470d23a4a99dc9&pid=96
 #EXTINF:-1 tvg-id="04:30-Fórmula 1-G.P. Japón (Suzuka)-Libres 3" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",04:30-Fórmula 1-G.P. Japón (Suzuka)-Libres 3
-http://127.0.0.1:6878/ace/getstream?id=2c6e4c897661e6b0257bfe931b66d20b2ec763b6&pid=73
+http://127.0.0.1:6878/ace/getstream?id=2c6e4c897661e6b0257bfe931b66d20b2ec763b6&pid=97
 #EXTINF:-1 tvg-id="04:30-Fórmula 1-G.P. Japón (Suzuka)-Libres 3" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",04:30-Fórmula 1-G.P. Japón (Suzuka)-Libres 3
-http://127.0.0.1:6878/ace/getstream?id=71eef80158aa8b37f3dc59f6793c6696df9a2dfa&pid=74
+http://127.0.0.1:6878/ace/getstream?id=71eef80158aa8b37f3dc59f6793c6696df9a2dfa&pid=98
 #EXTINF:-1 tvg-id="04:30-Fórmula 1-G.P. Japón (Suzuka)-Libres 3" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",04:30-Fórmula 1-G.P. Japón (Suzuka)-Libres 3
-http://127.0.0.1:6878/ace/getstream?id=268289e7a3c5209960b53b4d43c8c65fab294b85&pid=75
+http://127.0.0.1:6878/ace/getstream?id=268289e7a3c5209960b53b4d43c8c65fab294b85&pid=99
 #EXTINF:-1 tvg-id="08:00-Fórmula 1-G.P. Japón (Suzuka)-Clasificación" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",08:00-Fórmula 1-G.P. Japón (Suzuka)-Clasificación
-http://127.0.0.1:6878/ace/getstream?id=6422e8bc34282871634c81947be093c04ad1bb29&pid=76
+http://127.0.0.1:6878/ace/getstream?id=6422e8bc34282871634c81947be093c04ad1bb29&pid=100
 #EXTINF:-1 tvg-id="08:00-Fórmula 1-G.P. Japón (Suzuka)-Clasificación" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",08:00-Fórmula 1-G.P. Japón (Suzuka)-Clasificación
-http://127.0.0.1:6878/ace/getstream?id=c9c18ae7a9dafba1caae5beb22060f9c92bba553&pid=77
+http://127.0.0.1:6878/ace/getstream?id=c9c18ae7a9dafba1caae5beb22060f9c92bba553&pid=101
 #EXTINF:-1 tvg-id="08:00-Fórmula 1-G.P. Japón (Suzuka)-Clasificación" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",08:00-Fórmula 1-G.P. Japón (Suzuka)-Clasificación
-http://127.0.0.1:6878/ace/getstream?id=515efd8115482bda8d92aa6df9a882a5e5797494&pid=78
+http://127.0.0.1:6878/ace/getstream?id=515efd8115482bda8d92aa6df9a882a5e5797494&pid=102
 #EXTINF:-1 tvg-id="08:00-Fórmula 1-G.P. Japón (Suzuka)-Clasificación" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",08:00-Fórmula 1-G.P. Japón (Suzuka)-Clasificación
-http://127.0.0.1:6878/ace/getstream?id=d27584ebe5128c8033cb6fdc806a994fbd17b790&pid=79
+http://127.0.0.1:6878/ace/getstream?id=d27584ebe5128c8033cb6fdc806a994fbd17b790&pid=103
 #EXTINF:-1 tvg-id="08:00-Fórmula 1-G.P. Japón (Suzuka)-Clasificación" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",08:00-Fórmula 1-G.P. Japón (Suzuka)-Clasificación
-http://127.0.0.1:6878/ace/getstream?id=d8068894248c1f21eea31e538917276a8c49ec06&pid=80
+http://127.0.0.1:6878/ace/getstream?id=d8068894248c1f21eea31e538917276a8c49ec06&pid=104
 #EXTINF:-1 tvg-id="08:00-Fórmula 1-G.P. Japón (Suzuka)-Clasificación" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",08:00-Fórmula 1-G.P. Japón (Suzuka)-Clasificación
-http://127.0.0.1:6878/ace/getstream?id=d6281d4e6310269b416180442a470d23a4a99dc9&pid=81
+http://127.0.0.1:6878/ace/getstream?id=d6281d4e6310269b416180442a470d23a4a99dc9&pid=105
 #EXTINF:-1 tvg-id="08:00-Fórmula 1-G.P. Japón (Suzuka)-Clasificación" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",08:00-Fórmula 1-G.P. Japón (Suzuka)-Clasificación
-http://127.0.0.1:6878/ace/getstream?id=2c6e4c897661e6b0257bfe931b66d20b2ec763b6&pid=82
+http://127.0.0.1:6878/ace/getstream?id=2c6e4c897661e6b0257bfe931b66d20b2ec763b6&pid=106
 #EXTINF:-1 tvg-id="08:00-Fórmula 1-G.P. Japón (Suzuka)-Clasificación" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",08:00-Fórmula 1-G.P. Japón (Suzuka)-Clasificación
-http://127.0.0.1:6878/ace/getstream?id=71eef80158aa8b37f3dc59f6793c6696df9a2dfa&pid=83
+http://127.0.0.1:6878/ace/getstream?id=71eef80158aa8b37f3dc59f6793c6696df9a2dfa&pid=107
 #EXTINF:-1 tvg-id="08:00-Fórmula 1-G.P. Japón (Suzuka)-Clasificación" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",08:00-Fórmula 1-G.P. Japón (Suzuka)-Clasificación
-http://127.0.0.1:6878/ace/getstream?id=268289e7a3c5209960b53b4d43c8c65fab294b85&pid=84
+http://127.0.0.1:6878/ace/getstream?id=268289e7a3c5209960b53b4d43c8c65fab294b85&pid=108
+#EXTINF:-1 tvg-id="11:10-WTA Torneo de La Bisbal-D. Semenistaja-A. Bolsova" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",11:10-WTA Torneo de La Bisbal-D. Semenistaja-A. Bolsova
+http://127.0.0.1:6878/ace/getstream?id=b2a4d1eba9b46df5f52a87105df779f9d39abeb4&pid=109
+#EXTINF:-1 tvg-id="11:10-WTA Torneo de La Bisbal-D. Semenistaja-A. Bolsova" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",11:10-WTA Torneo de La Bisbal-D. Semenistaja-A. Bolsova
+http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230&pid=110
+#EXTINF:-1 tvg-id="12:10-Torneo de Bucarest-S. Báez-M. Fucsovics" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",12:10-Torneo de Bucarest-S. Báez-M. Fucsovics
+http://127.0.0.1:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&pid=111
+#EXTINF:-1 tvg-id="12:10-Torneo de Bucarest-S. Báez-M. Fucsovics" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",12:10-Torneo de Bucarest-S. Báez-M. Fucsovics
+http://127.0.0.1:6878/ace/getstream?id=639c561dd57fa3fc91fde715caeb696c5efb7ce7&pid=112
 #EXTINF:-1 tvg-id="13:30-Premier League-Everton-Arsenal" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",13:30-Premier League-Everton-Arsenal
-http://127.0.0.1:6878/ace/getstream?id=6538b79ce0da657d8455d1da6a5f342398899a0e&pid=85
+http://127.0.0.1:6878/ace/getstream?id=6538b79ce0da657d8455d1da6a5f342398899a0e&pid=113
 #EXTINF:-1 tvg-id="13:30-Premier League-Everton-Arsenal" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",13:30-Premier League-Everton-Arsenal
-http://127.0.0.1:6878/ace/getstream?id=50a8a13c474848d1efbd5586efdb5b6cdd173fa9&pid=86
+http://127.0.0.1:6878/ace/getstream?id=50a8a13c474848d1efbd5586efdb5b6cdd173fa9&pid=114
 #EXTINF:-1 tvg-id="13:30-Premier League-Everton-Arsenal" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",13:30-Premier League-Everton-Arsenal
-http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928&pid=87
+http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928&pid=115
 #EXTINF:-1 tvg-id="13:30-Premier League-Everton-Arsenal" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",13:30-Premier League-Everton-Arsenal
-http://127.0.0.1:6878/ace/getstream?id=6a1703a6bbe6110a1d27f35a41c88661e1740bfa&pid=88
+http://127.0.0.1:6878/ace/getstream?id=6a1703a6bbe6110a1d27f35a41c88661e1740bfa&pid=116
 #EXTINF:-1 tvg-id="13:30-Premier League-Everton-Arsenal" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",13:30-Premier League-Everton-Arsenal
-http://127.0.0.1:6878/ace/getstream?id=35c7f0c966ecde3390f4510bb4caded40018c07a&pid=89
+http://127.0.0.1:6878/ace/getstream?id=35c7f0c966ecde3390f4510bb4caded40018c07a&pid=117
 #EXTINF:-1 tvg-id="13:30-Premier League-Everton-Arsenal" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",13:30-Premier League-Everton-Arsenal
-http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151&pid=90
+http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151&pid=118
 #EXTINF:-1 tvg-id="13:30-Premier League-Everton-Arsenal" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",13:30-Premier League-Everton-Arsenal
-http://127.0.0.1:6878/ace/getstream?id=688e785893b50acc1d00cb37f15bfc42e72f5ae3&pid=91
+http://127.0.0.1:6878/ace/getstream?id=688e785893b50acc1d00cb37f15bfc42e72f5ae3&pid=119
 #EXTINF:-1 tvg-id="13:30-Premier League-Everton-Arsenal" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",13:30-Premier League-Everton-Arsenal
-http://127.0.0.1:6878/ace/getstream?id=448a647ba8cd8885588572d609ce02b961238121&pid=92
+http://127.0.0.1:6878/ace/getstream?id=448a647ba8cd8885588572d609ce02b961238121&pid=120
 #EXTINF:-1 tvg-id="14:00-Primera-Girona-Alavés" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",14:00-Primera-Girona-Alavés
-http://127.0.0.1:6878/ace/getstream?id=d3de78aebe544611a2347f54d5796bd87f16c92d&pid=93
+http://127.0.0.1:6878/ace/getstream?id=d3de78aebe544611a2347f54d5796bd87f16c92d&pid=121
 #EXTINF:-1 tvg-id="14:00-Primera-Girona-Alavés" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",14:00-Primera-Girona-Alavés
-http://127.0.0.1:6878/ace/getstream?id=6d05b31e5e8fdae312fbd57897363a7b10ddb163&pid=94
+http://127.0.0.1:6878/ace/getstream?id=6d05b31e5e8fdae312fbd57897363a7b10ddb163&pid=122
 #EXTINF:-1 tvg-id="14:00-Primera-Girona-Alavés" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",14:00-Primera-Girona-Alavés
-http://127.0.0.1:6878/ace/getstream?id=cc9b7f5fe416069a2110da0909b0f915043c468b&pid=95
+http://127.0.0.1:6878/ace/getstream?id=cc9b7f5fe416069a2110da0909b0f915043c468b&pid=123
 #EXTINF:-1 tvg-id="14:00-Primera-Girona-Alavés" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",14:00-Primera-Girona-Alavés
-http://127.0.0.1:6878/ace/getstream?id=608b0faf7d3d25f6fe5dba13d5e4b4142949990e&pid=96
+http://127.0.0.1:6878/ace/getstream?id=608b0faf7d3d25f6fe5dba13d5e4b4142949990e&pid=124
 #EXTINF:-1 tvg-id="14:00-Primera-Girona-Alavés" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",14:00-Primera-Girona-Alavés
-http://127.0.0.1:6878/ace/getstream?id=94d34491106e00394835c8cb68aa94481339b53f&pid=97
-#EXTINF:-1 tvg-id="16:00-Premier League-Crystal Palace-Brighton" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",16:00-Premier League-Crystal Palace-Brighton
-http://127.0.0.1:6878/ace/getstream?id=8b081c8afbd9beafc8c5fbf0115eb36eadb07a35&pid=98
-#EXTINF:-1 tvg-id="16:00-Premier League-Crystal Palace-Brighton" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",16:00-Premier League-Crystal Palace-Brighton
-http://127.0.0.1:6878/ace/getstream?id=0f5402f75107112d59d924a5f381cfed33dbe6d2&pid=99
-#EXTINF:-1 tvg-id="16:00-Premier League-Crystal Palace-Brighton" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",16:00-Premier League-Crystal Palace-Brighton
-http://127.0.0.1:6878/ace/getstream?id=ca923c9873fd206a41c1e83ff8fc40e3cf323c9a&pid=100
-#EXTINF:-1 tvg-id="16:00-Premier League-Crystal Palace-Brighton" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",16:00-Premier League-Crystal Palace-Brighton
-http://127.0.0.1:6878/ace/getstream?id=a929eeec1268d69d1556a2e3ace793b2577d8810&pid=101
-#EXTINF:-1 tvg-id="16:00-Premier League-Crystal Palace-Brighton" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",16:00-Premier League-Crystal Palace-Brighton
-http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516&pid=102
-#EXTINF:-1 tvg-id="16:00-Premier League-Crystal Palace-Brighton" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",16:00-Premier League-Crystal Palace-Brighton
-http://127.0.0.1:6878/ace/getstream?id=2f9211669499f413dab1a490198afab2a9b4b57c&pid=103
-#EXTINF:-1 tvg-id="16:00-Premier League-Ipswich Town-Wolverhampton" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",16:00-Premier League-Ipswich Town-Wolverhampton
-http://127.0.0.1:6878/ace/getstream?id=d641cd0fca0f467b3130754a091e2f4d22e68eb1&pid=104
-#EXTINF:-1 tvg-id="16:00-Premier League-Ipswich Town-Wolverhampton" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",16:00-Premier League-Ipswich Town-Wolverhampton
-http://127.0.0.1:6878/ace/getstream?id=3785f04aa15a5e6ef1484f0bea7f4664f2c1a4ea&pid=105
-#EXTINF:-1 tvg-id="16:00-Premier League-Ipswich Town-Wolverhampton" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",16:00-Premier League-Ipswich Town-Wolverhampton
-http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9&pid=106
-#EXTINF:-1 tvg-id="16:00-Premier League-West Ham-Bournemouth" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",16:00-Premier League-West Ham-Bournemouth
-http://127.0.0.1:6878/ace/getstream?id=6538b79ce0da657d8455d1da6a5f342398899a0e&pid=107
-#EXTINF:-1 tvg-id="16:00-Premier League-West Ham-Bournemouth" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",16:00-Premier League-West Ham-Bournemouth
-http://127.0.0.1:6878/ace/getstream?id=50a8a13c474848d1efbd5586efdb5b6cdd173fa9&pid=108
-#EXTINF:-1 tvg-id="16:00-Premier League-West Ham-Bournemouth" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",16:00-Premier League-West Ham-Bournemouth
-http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279&pid=109
+http://127.0.0.1:6878/ace/getstream?id=94d34491106e00394835c8cb68aa94481339b53f&pid=125
+#EXTINF:-1 tvg-id="14:05-WTA Torneo de La Bisbal-P. Udvardy-D. Galfi" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:05-WTA Torneo de La Bisbal-P. Udvardy-D. Galfi
+http://127.0.0.1:6878/ace/getstream?id=b2a4d1eba9b46df5f52a87105df779f9d39abeb4&pid=126
+#EXTINF:-1 tvg-id="14:10-Torneo de Bucarest-F. Cobolli-D. Dzumhur" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:10-Torneo de Bucarest-F. Cobolli-D. Dzumhur
+http://127.0.0.1:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&pid=127
+#EXTINF:-1 tvg-id="14:10-Torneo de Bucarest-F. Cobolli-D. Dzumhur" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:10-Torneo de Bucarest-F. Cobolli-D. Dzumhur
+http://127.0.0.1:6878/ace/getstream?id=639c561dd57fa3fc91fde715caeb696c5efb7ce7&pid=128
