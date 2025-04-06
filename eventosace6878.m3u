@@ -235,27 +235,25 @@ http://127.0.0.1:6878/ace/getstream?id=2c6e4c897661e6b0257bfe931b66d20b2ec763b6&
 http://127.0.0.1:6878/ace/getstream?id=71eef80158aa8b37f3dc59f6793c6696df9a2dfa&pid=117
 #EXTINF:-1 tvg-id="07:00-Fórmula 1-G.P. Japón (Suzuka)-Carrera" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",07:00-Fórmula 1-G.P. Japón (Suzuka)-Carrera
 http://127.0.0.1:6878/ace/getstream?id=268289e7a3c5209960b53b4d43c8c65fab294b85&pid=118
-#EXTINF:-1 tvg-id="07:00-Fórmula 1-G.P. Japón (Suzuka)-Carrera" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",07:00-Fórmula 1-G.P. Japón (Suzuka)-Carrera
-http://127.0.0.1:6878/ace/getstream?id=fd470015055caaf2b5c46b195889d3db22326d3a&pid=119
 #EXTINF:-1 tvg-id="11:00-WTA Torneo de La Bisbal-D. Galfi-D. Semenistaja" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",11:00-WTA Torneo de La Bisbal-D. Galfi-D. Semenistaja
-http://127.0.0.1:6878/ace/getstream?id=b2a4d1eba9b46df5f52a87105df779f9d39abeb4&pid=120
+http://127.0.0.1:6878/ace/getstream?id=b2a4d1eba9b46df5f52a87105df779f9d39abeb4&pid=119
 #EXTINF:-1 tvg-id="11:00-WTA Torneo de La Bisbal-D. Galfi-D. Semenistaja" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",11:00-WTA Torneo de La Bisbal-D. Galfi-D. Semenistaja
-http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230&pid=121
+http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230&pid=120
 #EXTINF:-1 tvg-id="12:30-ACB-BAXI Manresa-Casademont Zaragoza" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",12:30-ACB-BAXI Manresa-Casademont Zaragoza
-http://127.0.0.1:6878/ace/getstream?id=753d4b1f7c4ef43238b5cf23b05572b550a44eee&pid=122
+http://127.0.0.1:6878/ace/getstream?id=753d4b1f7c4ef43238b5cf23b05572b550a44eee&pid=121
 #EXTINF:-1 tvg-id="13:00-ACB-La Laguna Tenerife-Coviran Granada" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",13:00-ACB-La Laguna Tenerife-Coviran Granada
-http://127.0.0.1:6878/ace/getstream?id=ef9dcc4eaac36a0f608b52a31f8ab237859e071a&pid=123
+http://127.0.0.1:6878/ace/getstream?id=ef9dcc4eaac36a0f608b52a31f8ab237859e071a&pid=122
 #EXTINF:-1 tvg-id="13:00-ACB-La Laguna Tenerife-Coviran Granada" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",13:00-ACB-La Laguna Tenerife-Coviran Granada
-http://127.0.0.1:6878/ace/getstream?id=b5842718859345a596107ab8e6b24d7bfa2d617e&pid=124
+http://127.0.0.1:6878/ace/getstream?id=b5842718859345a596107ab8e6b24d7bfa2d617e&pid=123
 #EXTINF:-1 tvg-id="13:00-ACB-La Laguna Tenerife-Coviran Granada" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",13:00-ACB-La Laguna Tenerife-Coviran Granada
-http://127.0.0.1:6878/ace/getstream?id=be02b9918b8fe7224cfa9af1e37856760f95b1b8&pid=125
+http://127.0.0.1:6878/ace/getstream?id=be02b9918b8fe7224cfa9af1e37856760f95b1b8&pid=124
 #EXTINF:-1 tvg-id="13:00-ACB-La Laguna Tenerife-Coviran Granada" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",13:00-ACB-La Laguna Tenerife-Coviran Granada
-http://127.0.0.1:6878/ace/getstream?id=67a33c3f74956eed14b9b400523462fe362e0e66&pid=126
+http://127.0.0.1:6878/ace/getstream?id=67a33c3f74956eed14b9b400523462fe362e0e66&pid=125
 #EXTINF:-1 tvg-id="13:00-ACB-La Laguna Tenerife-Coviran Granada" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",13:00-ACB-La Laguna Tenerife-Coviran Granada
-http://127.0.0.1:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3&pid=127
+http://127.0.0.1:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3&pid=126
 #EXTINF:-1 tvg-id="13:00-Primera Federación Futsal-Jimbee Cartagena FS-Barça FS" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",13:00-Primera Federación Futsal-Jimbee Cartagena FS-Barça FS
-http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230&pid=128
+http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230&pid=127
 #EXTINF:-1 tvg-id="13:00-Torneo de Bucarest-S. Báez-F. Cobolli" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",13:00-Torneo de Bucarest-S. Báez-F. Cobolli
-http://127.0.0.1:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&pid=129
+http://127.0.0.1:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&pid=128
 #EXTINF:-1 tvg-id="13:00-Torneo de Bucarest-S. Báez-F. Cobolli" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",13:00-Torneo de Bucarest-S. Báez-F. Cobolli
-http://127.0.0.1:6878/ace/getstream?id=639c561dd57fa3fc91fde715caeb696c5efb7ce7&pid=130
+http://127.0.0.1:6878/ace/getstream?id=639c561dd57fa3fc91fde715caeb696c5efb7ce7&pid=129
