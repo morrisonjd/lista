@@ -15,13 +15,13 @@ http://127.0.0.1:6878/ace/getstream?id=639c561dd57fa3fc91fde715caeb696c5efb7ce7&
 http://127.0.0.1:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&pid=7
 #EXTINF:-1 tvg-id="15:30-Masters Montecarlo-F. Fognini-F. Cerúndolo" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:30-Masters Montecarlo-F. Fognini-F. Cerúndolo
 http://127.0.0.1:6878/ace/getstream?id=639c561dd57fa3fc91fde715caeb696c5efb7ce7&pid=8
-#EXTINF:-1 tvg-id="20:30-Segunda-Elche-Racing Ferrol" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",20:30-Segunda-Elche-Racing Ferrol
+#EXTINF:-1 tvg-id="20:30-Segunda Estadio Martínez Valero" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",20:30-Segunda Estadio Martínez Valero
 http://127.0.0.1:6878/ace/getstream?id=fe289ab20d8f9dcb426fc6d56ce9dbbddb66e3b3&pid=9
-#EXTINF:-1 tvg-id="20:30-Segunda-Elche-Racing Ferrol" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",20:30-Segunda-Elche-Racing Ferrol
+#EXTINF:-1 tvg-id="20:30-Segunda Estadio Martínez Valero" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",20:30-Segunda Estadio Martínez Valero
 http://127.0.0.1:6878/ace/getstream?id=83e8a605ffebe2062f15dad76b6ffe9486a28eb3&pid=10
-#EXTINF:-1 tvg-id="20:30-Segunda-Elche-Racing Ferrol" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",20:30-Segunda-Elche-Racing Ferrol
+#EXTINF:-1 tvg-id="20:30-Segunda Estadio Martínez Valero" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",20:30-Segunda Estadio Martínez Valero
 http://127.0.0.1:6878/ace/getstream?id=b2706a7ffbea236a3b398139a3a606ada664c0eb&pid=11
-#EXTINF:-1 tvg-id="20:30-Segunda-Elche-Racing Ferrol" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",20:30-Segunda-Elche-Racing Ferrol
+#EXTINF:-1 tvg-id="20:30-Segunda Estadio Martínez Valero" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",20:30-Segunda Estadio Martínez Valero
 http://127.0.0.1:6878/ace/getstream?id=121f719ebb94193c6086ef92865cf9b197750980&pid=12
 #EXTINF:-1 tvg-id="21:00-Primera-Leganés-Osasuna" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera-Leganés-Osasuna
 http://127.0.0.1:6878/ace/getstream?id=d3de78aebe544611a2347f54d5796bd87f16c92d&pid=13
