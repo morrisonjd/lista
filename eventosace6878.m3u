@@ -1,89 +1,157 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="16:05-Masters Montecarlo-N. Djokovic-A. Tabilo" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:05-Masters Montecarlo-N. Djokovic-A. Tabilo
-http://127.0.0.1:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&pid=1
-#EXTINF:-1 tvg-id="16:05-Masters Montecarlo-N. Djokovic-A. Tabilo" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:05-Masters Montecarlo-N. Djokovic-A. Tabilo
-http://127.0.0.1:6878/ace/getstream?id=639c561dd57fa3fc91fde715caeb696c5efb7ce7&pid=2
-#EXTINF:-1 tvg-id="17:15-Masters Montecarlo-V. Vacherot-G. Dimitrov" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:15-Masters Montecarlo-V. Vacherot-G. Dimitrov
-http://127.0.0.1:6878/ace/getstream?id=753d4b1f7c4ef43238b5cf23b05572b550a44eee&pid=3
-#EXTINF:-1 tvg-id="17:55-Masters Montecarlo-D. Medvedev-A. Muller" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:55-Masters Montecarlo-D. Medvedev-A. Muller
-http://127.0.0.1:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&pid=4
-#EXTINF:-1 tvg-id="17:55-Masters Montecarlo-D. Medvedev-A. Muller" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:55-Masters Montecarlo-D. Medvedev-A. Muller
-http://127.0.0.1:6878/ace/getstream?id=639c561dd57fa3fc91fde715caeb696c5efb7ce7&pid=5
-#EXTINF:-1 tvg-id="20:00-Basketball Champions League-Unicaja Málaga-Reggio Emilia" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",20:00-Basketball Champions League-Unicaja Málaga-Reggio Emilia
-http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230&pid=6
-#EXTINF:-1 tvg-id="21:00-Champions League-FC Barcelona-Borussia Dortmund" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League-FC Barcelona-Borussia Dortmund
-http://127.0.0.1:6878/ace/getstream?id=608b0faf7d3d25f6fe5dba13d5e4b4142949990e&pid=7
-#EXTINF:-1 tvg-id="21:00-Champions League-FC Barcelona-Borussia Dortmund" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League-FC Barcelona-Borussia Dortmund
-http://127.0.0.1:6878/ace/getstream?id=94d34491106e00394835c8cb68aa94481339b53f&pid=8
-#EXTINF:-1 tvg-id="21:00-Champions League-FC Barcelona-Borussia Dortmund" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League-FC Barcelona-Borussia Dortmund
-http://127.0.0.1:6878/ace/getstream?id=c16b4fab1f724c94cad92081cbb7fc7c6fe8a2cc&pid=9
-#EXTINF:-1 tvg-id="21:00-Champions League-FC Barcelona-Borussia Dortmund" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League-FC Barcelona-Borussia Dortmund
-http://127.0.0.1:6878/ace/getstream?id=778f08cbae9596ed9e8b2ae0af33ee7a6fe24c6a&pid=10
-#EXTINF:-1 tvg-id="21:00-Champions League-FC Barcelona-Borussia Dortmund" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League-FC Barcelona-Borussia Dortmund
-http://127.0.0.1:6878/ace/getstream?id=afbf2a479c5a5072698139f0f556ef3e77a99bd0&pid=11
-#EXTINF:-1 tvg-id="21:00-Champions League-FC Barcelona-Borussia Dortmund" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League-FC Barcelona-Borussia Dortmund
-http://127.0.0.1:6878/ace/getstream?id=6d88c66c89f3dbe1e6dacb5a8f7c9a98b12e6c63&pid=12
-#EXTINF:-1 tvg-id="21:00-Champions League-FC Barcelona-Borussia Dortmund" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League-FC Barcelona-Borussia Dortmund
-http://127.0.0.1:6878/ace/getstream?id=a9025d4e168764248d33129c30940502cea0e1c2&pid=13
-#EXTINF:-1 tvg-id="21:00-Champions League-FC Barcelona-Borussia Dortmund" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League-FC Barcelona-Borussia Dortmund
-http://127.0.0.1:6878/ace/getstream?id=47223e64a576c21bd61e818a42397a753d34fba5&pid=14
-#EXTINF:-1 tvg-id="21:00-Champions League-FC Barcelona-Borussia Dortmund" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League-FC Barcelona-Borussia Dortmund
-http://127.0.0.1:6878/ace/getstream?id=e572a5178ff72eed7d1d751a18b4b3419699f370&pid=15
-#EXTINF:-1 tvg-id="21:00-Champions League-FC Barcelona-Borussia Dortmund" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League-FC Barcelona-Borussia Dortmund
-http://127.0.0.1:6878/ace/getstream?id=17b8bc4bf8e29547b0071c742e3d7da3bcbc484d&pid=16
-#EXTINF:-1 tvg-id="21:00-Champions League-FC Barcelona-Borussia Dortmund" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League-FC Barcelona-Borussia Dortmund
-http://127.0.0.1:6878/ace/getstream?id=4fc2fce0d019bdb622164bba3cff84c120fb9243&pid=17
-#EXTINF:-1 tvg-id="21:00-Champions League-FC Barcelona-Borussia Dortmund" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League-FC Barcelona-Borussia Dortmund
-http://127.0.0.1:6878/ace/getstream?id=15127320406cf6a072c4f485f31c841d7d3e62f3&pid=18
-#EXTINF:-1 tvg-id="21:00-Champions League-FC Barcelona-Borussia Dortmund" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League-FC Barcelona-Borussia Dortmund
-http://127.0.0.1:6878/ace/getstream?id=b2a4d1eba9b46df5f52a87105df779f9d39abeb4&pid=19
-#EXTINF:-1 tvg-id="21:00-Champions League-PSG-Aston Villa" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League-PSG-Aston Villa
-http://127.0.0.1:6878/ace/getstream?id=c6a3673f6a37b1bd3cf31fdd6404dd33d48cfccb&pid=20
-#EXTINF:-1 tvg-id="21:00-Champions League-PSG-Aston Villa" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League-PSG-Aston Villa
-http://127.0.0.1:6878/ace/getstream?id=4fc6d0331830ad8743abab2fe2473b63bdfbc49f&pid=21
-#EXTINF:-1 tvg-id="21:00-Champions League-PSG-Aston Villa" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League-PSG-Aston Villa
-http://127.0.0.1:6878/ace/getstream?id=3bb6c5f346369d4f2a6bde45ec0bfe100d0e1f42&pid=22
-#EXTINF:-1 tvg-id="21:00-Champions League-PSG-Aston Villa" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League-PSG-Aston Villa
-http://127.0.0.1:6878/ace/getstream?id=4c6ed0cd87c090f3cf85b2c8adbe8b37dba08565&pid=23
-#EXTINF:-1 tvg-id="21:00-Champions League-PSG-Aston Villa" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League-PSG-Aston Villa
-http://127.0.0.1:6878/ace/getstream?id=abdf9058786a48623d0de51a3adb414ae10b6e72&pid=24
-#EXTINF:-1 tvg-id="21:00-Champions League-PSG-Aston Villa" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League-PSG-Aston Villa
-http://127.0.0.1:6878/ace/getstream?id=17b8bc4bf8e29547b0071c742e3d7da3bcbc484d&pid=25
-#EXTINF:-1 tvg-id="21:00-Champions League-PSG-Aston Villa" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League-PSG-Aston Villa
-http://127.0.0.1:6878/ace/getstream?id=4fc2fce0d019bdb622164bba3cff84c120fb9243&pid=26
-#EXTINF:-1 tvg-id="21:00-Champions League-PSG-Aston Villa" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League-PSG-Aston Villa
-http://127.0.0.1:6878/ace/getstream?id=15127320406cf6a072c4f485f31c841d7d3e62f3&pid=27
-#EXTINF:-1 tvg-id="21:45-Basketball Champions League-La Laguna Tenerife-Derthona Basket" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:45-Basketball Champions League-La Laguna Tenerife-Derthona Basket
-http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230&pid=28
-#EXTINF:-1 tvg-id="02:00-NBA-Milwaukee Bucks-Minnesota Timberwolves" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",02:00-NBA-Milwaukee Bucks-Minnesota Timberwolves
-http://127.0.0.1:6878/ace/getstream?id=ef9dcc4eaac36a0f608b52a31f8ab237859e071a&pid=29
-#EXTINF:-1 tvg-id="02:00-NBA-Milwaukee Bucks-Minnesota Timberwolves" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",02:00-NBA-Milwaukee Bucks-Minnesota Timberwolves
-http://127.0.0.1:6878/ace/getstream?id=b5842718859345a596107ab8e6b24d7bfa2d617e&pid=30
-#EXTINF:-1 tvg-id="02:00-NBA-Milwaukee Bucks-Minnesota Timberwolves" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",02:00-NBA-Milwaukee Bucks-Minnesota Timberwolves
-http://127.0.0.1:6878/ace/getstream?id=be02b9918b8fe7224cfa9af1e37856760f95b1b8&pid=31
-#EXTINF:-1 tvg-id="02:00-NBA-Milwaukee Bucks-Minnesota Timberwolves" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",02:00-NBA-Milwaukee Bucks-Minnesota Timberwolves
-http://127.0.0.1:6878/ace/getstream?id=67a33c3f74956eed14b9b400523462fe362e0e66&pid=32
-#EXTINF:-1 tvg-id="02:00-NBA-Milwaukee Bucks-Minnesota Timberwolves" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",02:00-NBA-Milwaukee Bucks-Minnesota Timberwolves
-http://127.0.0.1:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3&pid=33
-#EXTINF:-1 tvg-id="11:10-Masters Montecarlo-D. Altmaier-R. Gasquet" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",11:10-Masters Montecarlo-D. Altmaier-R. Gasquet
-http://127.0.0.1:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&pid=34
-#EXTINF:-1 tvg-id="11:10-Masters Montecarlo-D. Altmaier-R. Gasquet" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",11:10-Masters Montecarlo-D. Altmaier-R. Gasquet
-http://127.0.0.1:6878/ace/getstream?id=639c561dd57fa3fc91fde715caeb696c5efb7ce7&pid=35
-#EXTINF:-1 tvg-id="11:10-Masters Montecarlo-J. Lehecka-L. Musetti" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",11:10-Masters Montecarlo-J. Lehecka-L. Musetti
-http://127.0.0.1:6878/ace/getstream?id=753d4b1f7c4ef43238b5cf23b05572b550a44eee&pid=36
-#EXTINF:-1 tvg-id="11:10-Masters Montecarlo-TM. Etcheverry-A. Davidovich" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",11:10-Masters Montecarlo-TM. Etcheverry-A. Davidovich
-http://127.0.0.1:6878/ace/getstream?id=58a4c880ab18486d914751db32a12760e74b75a4&pid=37
-#EXTINF:-1 tvg-id="13:20-Masters Montecarlo-F. Cobolli-A. Fils" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",13:20-Masters Montecarlo-F. Cobolli-A. Fils
-http://127.0.0.1:6878/ace/getstream?id=58a4c880ab18486d914751db32a12760e74b75a4&pid=38
-#EXTINF:-1 tvg-id="13:45-Masters Montecarlo-A. Rublev-G. Monfils" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",13:45-Masters Montecarlo-A. Rublev-G. Monfils
-http://127.0.0.1:6878/ace/getstream?id=753d4b1f7c4ef43238b5cf23b05572b550a44eee&pid=39
-#EXTINF:-1 tvg-id="14:10-Masters Montecarlo-F. Cerúndolo-C. Alcaraz" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:10-Masters Montecarlo-F. Cerúndolo-C. Alcaraz
-http://127.0.0.1:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&pid=40
-#EXTINF:-1 tvg-id="14:10-Masters Montecarlo-F. Cerúndolo-C. Alcaraz" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:10-Masters Montecarlo-F. Cerúndolo-C. Alcaraz
-http://127.0.0.1:6878/ace/getstream?id=639c561dd57fa3fc91fde715caeb696c5efb7ce7&pid=41
-#EXTINF:-1 tvg-id="14:10-Masters Montecarlo-F. Cerúndolo-C. Alcaraz" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:10-Masters Montecarlo-F. Cerúndolo-C. Alcaraz
-http://127.0.0.1:6878/ace/getstream?id=b2a4d1eba9b46df5f52a87105df779f9d39abeb4&pid=42
-#EXTINF:-1 tvg-id="14:50-Masters Montecarlo-T. Machac-A. De Miñaur" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:50-Masters Montecarlo-T. Machac-A. De Miñaur
-http://127.0.0.1:6878/ace/getstream?id=58a4c880ab18486d914751db32a12760e74b75a4&pid=43
-#EXTINF:-1 tvg-id="15:50-Masters Montecarlo-R. Bautista-Agut-C. Ruud" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:50-Masters Montecarlo-R. Bautista-Agut-C. Ruud
-http://127.0.0.1:6878/ace/getstream?id=753d4b1f7c4ef43238b5cf23b05572b550a44eee&pid=44
+#EXTINF:-1 tvg-id="21:00-Conference League-Djurgårdens IF-Rapid Wien" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League-Djurgårdens IF-Rapid Wien
+http://127.0.0.1:6878/ace/getstream?id=17b8bc4bf8e29547b0071c742e3d7da3bcbc484d&pid=1
+#EXTINF:-1 tvg-id="21:00-Conference League-Djurgårdens IF-Rapid Wien" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League-Djurgårdens IF-Rapid Wien
+http://127.0.0.1:6878/ace/getstream?id=4fc2fce0d019bdb622164bba3cff84c120fb9243&pid=2
+#EXTINF:-1 tvg-id="21:00-Conference League-Djurgårdens IF-Rapid Wien" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League-Djurgårdens IF-Rapid Wien
+http://127.0.0.1:6878/ace/getstream?id=15127320406cf6a072c4f485f31c841d7d3e62f3&pid=3
+#EXTINF:-1 tvg-id="21:00-Conference League-Djurgårdens IF-Rapid Wien" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League-Djurgårdens IF-Rapid Wien
+http://127.0.0.1:6878/ace/getstream?id=83c02982581a536d1321e38a77dc0c520b1cb842&pid=4
+#EXTINF:-1 tvg-id="21:00-Conference League-NK Celje-Fiorentina" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League-NK Celje-Fiorentina
+http://127.0.0.1:6878/ace/getstream?id=17b8bc4bf8e29547b0071c742e3d7da3bcbc484d&pid=5
+#EXTINF:-1 tvg-id="21:00-Conference League-NK Celje-Fiorentina" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League-NK Celje-Fiorentina
+http://127.0.0.1:6878/ace/getstream?id=4fc2fce0d019bdb622164bba3cff84c120fb9243&pid=6
+#EXTINF:-1 tvg-id="21:00-Conference League-NK Celje-Fiorentina" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League-NK Celje-Fiorentina
+http://127.0.0.1:6878/ace/getstream?id=15127320406cf6a072c4f485f31c841d7d3e62f3&pid=7
+#EXTINF:-1 tvg-id="21:00-Conference League-NK Celje-Fiorentina" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League-NK Celje-Fiorentina
+http://127.0.0.1:6878/ace/getstream?id=976983697790ab8a07b764b08843529d38bc6444&pid=8
+#EXTINF:-1 tvg-id="21:00-Conference League-Real Betis-Jagiellonia Bialystok" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League-Real Betis-Jagiellonia Bialystok
+http://127.0.0.1:6878/ace/getstream?id=c6a3673f6a37b1bd3cf31fdd6404dd33d48cfccb&pid=9
+#EXTINF:-1 tvg-id="21:00-Conference League-Real Betis-Jagiellonia Bialystok" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League-Real Betis-Jagiellonia Bialystok
+http://127.0.0.1:6878/ace/getstream?id=4fc6d0331830ad8743abab2fe2473b63bdfbc49f&pid=10
+#EXTINF:-1 tvg-id="21:00-Conference League-Real Betis-Jagiellonia Bialystok" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League-Real Betis-Jagiellonia Bialystok
+http://127.0.0.1:6878/ace/getstream?id=3bb6c5f346369d4f2a6bde45ec0bfe100d0e1f42&pid=11
+#EXTINF:-1 tvg-id="21:00-Conference League-Real Betis-Jagiellonia Bialystok" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League-Real Betis-Jagiellonia Bialystok
+http://127.0.0.1:6878/ace/getstream?id=4c6ed0cd87c090f3cf85b2c8adbe8b37dba08565&pid=12
+#EXTINF:-1 tvg-id="21:00-Conference League-Real Betis-Jagiellonia Bialystok" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League-Real Betis-Jagiellonia Bialystok
+http://127.0.0.1:6878/ace/getstream?id=abdf9058786a48623d0de51a3adb414ae10b6e72&pid=13
+#EXTINF:-1 tvg-id="21:00-Conference League-Real Betis-Jagiellonia Bialystok" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League-Real Betis-Jagiellonia Bialystok
+http://127.0.0.1:6878/ace/getstream?id=17b8bc4bf8e29547b0071c742e3d7da3bcbc484d&pid=14
+#EXTINF:-1 tvg-id="21:00-Conference League-Real Betis-Jagiellonia Bialystok" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League-Real Betis-Jagiellonia Bialystok
+http://127.0.0.1:6878/ace/getstream?id=4fc2fce0d019bdb622164bba3cff84c120fb9243&pid=15
+#EXTINF:-1 tvg-id="21:00-Conference League-Real Betis-Jagiellonia Bialystok" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League-Real Betis-Jagiellonia Bialystok
+http://127.0.0.1:6878/ace/getstream?id=15127320406cf6a072c4f485f31c841d7d3e62f3&pid=16
+#EXTINF:-1 tvg-id="21:00-Europa League-O. Lyonnais-Manchester Utd." tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League-O. Lyonnais-Manchester Utd.
+http://127.0.0.1:6878/ace/getstream?id=17b8bc4bf8e29547b0071c742e3d7da3bcbc484d&pid=17
+#EXTINF:-1 tvg-id="21:00-Europa League-O. Lyonnais-Manchester Utd." tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League-O. Lyonnais-Manchester Utd.
+http://127.0.0.1:6878/ace/getstream?id=4fc2fce0d019bdb622164bba3cff84c120fb9243&pid=18
+#EXTINF:-1 tvg-id="21:00-Europa League-O. Lyonnais-Manchester Utd." tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League-O. Lyonnais-Manchester Utd.
+http://127.0.0.1:6878/ace/getstream?id=15127320406cf6a072c4f485f31c841d7d3e62f3&pid=19
+#EXTINF:-1 tvg-id="21:00-Europa League-O. Lyonnais-Manchester Utd." tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League-O. Lyonnais-Manchester Utd.
+http://127.0.0.1:6878/ace/getstream?id=152169ce99e1fd27f2249c18384a121079cdef29&pid=20
+#EXTINF:-1 tvg-id="21:00-Europa League-O. Lyonnais-Manchester Utd." tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League-O. Lyonnais-Manchester Utd.
+http://127.0.0.1:6878/ace/getstream?id=7b8d9d280e8a3a9ccbdf560a63b3652b4f0d6f13&pid=21
+#EXTINF:-1 tvg-id="21:00-Europa League-O. Lyonnais-Manchester Utd." tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League-O. Lyonnais-Manchester Utd.
+http://127.0.0.1:6878/ace/getstream?id=77998f8161373611ff6b348e7eda5b4e97d3ec29&pid=22
+#EXTINF:-1 tvg-id="21:00-Europa League-O. Lyonnais-Manchester Utd." tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League-O. Lyonnais-Manchester Utd.
+http://127.0.0.1:6878/ace/getstream?id=f1219582a3059e7fff2db22e69475c45cbc84356&pid=23
+#EXTINF:-1 tvg-id="21:00-Europa League-Rangers FC-Athletic Club" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League-Rangers FC-Athletic Club
+http://127.0.0.1:6878/ace/getstream?id=608b0faf7d3d25f6fe5dba13d5e4b4142949990e&pid=24
+#EXTINF:-1 tvg-id="21:00-Europa League-Rangers FC-Athletic Club" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League-Rangers FC-Athletic Club
+http://127.0.0.1:6878/ace/getstream?id=94d34491106e00394835c8cb68aa94481339b53f&pid=25
+#EXTINF:-1 tvg-id="21:00-Europa League-Rangers FC-Athletic Club" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League-Rangers FC-Athletic Club
+http://127.0.0.1:6878/ace/getstream?id=c16b4fab1f724c94cad92081cbb7fc7c6fe8a2cc&pid=26
+#EXTINF:-1 tvg-id="21:00-Europa League-Rangers FC-Athletic Club" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League-Rangers FC-Athletic Club
+http://127.0.0.1:6878/ace/getstream?id=778f08cbae9596ed9e8b2ae0af33ee7a6fe24c6a&pid=27
+#EXTINF:-1 tvg-id="21:00-Europa League-Rangers FC-Athletic Club" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League-Rangers FC-Athletic Club
+http://127.0.0.1:6878/ace/getstream?id=afbf2a479c5a5072698139f0f556ef3e77a99bd0&pid=28
+#EXTINF:-1 tvg-id="21:00-Europa League-Rangers FC-Athletic Club" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League-Rangers FC-Athletic Club
+http://127.0.0.1:6878/ace/getstream?id=6d88c66c89f3dbe1e6dacb5a8f7c9a98b12e6c63&pid=29
+#EXTINF:-1 tvg-id="21:00-Europa League-Rangers FC-Athletic Club" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League-Rangers FC-Athletic Club
+http://127.0.0.1:6878/ace/getstream?id=a9025d4e168764248d33129c30940502cea0e1c2&pid=30
+#EXTINF:-1 tvg-id="21:00-Europa League-Rangers FC-Athletic Club" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League-Rangers FC-Athletic Club
+http://127.0.0.1:6878/ace/getstream?id=47223e64a576c21bd61e818a42397a753d34fba5&pid=31
+#EXTINF:-1 tvg-id="21:00-Europa League-Rangers FC-Athletic Club" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League-Rangers FC-Athletic Club
+http://127.0.0.1:6878/ace/getstream?id=e572a5178ff72eed7d1d751a18b4b3419699f370&pid=32
+#EXTINF:-1 tvg-id="21:00-Europa League-Rangers FC-Athletic Club" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League-Rangers FC-Athletic Club
+http://127.0.0.1:6878/ace/getstream?id=17b8bc4bf8e29547b0071c742e3d7da3bcbc484d&pid=33
+#EXTINF:-1 tvg-id="21:00-Europa League-Rangers FC-Athletic Club" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League-Rangers FC-Athletic Club
+http://127.0.0.1:6878/ace/getstream?id=4fc2fce0d019bdb622164bba3cff84c120fb9243&pid=34
+#EXTINF:-1 tvg-id="21:00-Europa League-Rangers FC-Athletic Club" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League-Rangers FC-Athletic Club
+http://127.0.0.1:6878/ace/getstream?id=15127320406cf6a072c4f485f31c841d7d3e62f3&pid=35
+#EXTINF:-1 tvg-id="21:00-Europa League-Rangers FC-Athletic Club" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League-Rangers FC-Athletic Club
+http://127.0.0.1:6878/ace/getstream?id=b2a4d1eba9b46df5f52a87105df779f9d39abeb4&pid=36
+#EXTINF:-1 tvg-id="21:00-Europa League-Tottenham-Eintracht Frankfurt" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League-Tottenham-Eintracht Frankfurt
+http://127.0.0.1:6878/ace/getstream?id=17b8bc4bf8e29547b0071c742e3d7da3bcbc484d&pid=37
+#EXTINF:-1 tvg-id="21:00-Europa League-Tottenham-Eintracht Frankfurt" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League-Tottenham-Eintracht Frankfurt
+http://127.0.0.1:6878/ace/getstream?id=4fc2fce0d019bdb622164bba3cff84c120fb9243&pid=38
+#EXTINF:-1 tvg-id="21:00-Europa League-Tottenham-Eintracht Frankfurt" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League-Tottenham-Eintracht Frankfurt
+http://127.0.0.1:6878/ace/getstream?id=15127320406cf6a072c4f485f31c841d7d3e62f3&pid=39
+#EXTINF:-1 tvg-id="21:00-Europa League-Tottenham-Eintracht Frankfurt" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League-Tottenham-Eintracht Frankfurt
+http://127.0.0.1:6878/ace/getstream?id=cb6410a6355a645cfc6f6f5a7c7d71298fcbc2c5&pid=40
+#EXTINF:-1 tvg-id="21:00-Europa League-Tottenham-Eintracht Frankfurt" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League-Tottenham-Eintracht Frankfurt
+http://127.0.0.1:6878/ace/getstream?id=d2cf12b65c8a540a50bd74c3db1ce59ae8d05623&pid=41
+#EXTINF:-1 tvg-id="01:30-NBA-Dallas Mavericks-Los Angeles Lakers" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",01:30-NBA-Dallas Mavericks-Los Angeles Lakers
+http://127.0.0.1:6878/ace/getstream?id=ef9dcc4eaac36a0f608b52a31f8ab237859e071a&pid=42
+#EXTINF:-1 tvg-id="01:30-NBA-Dallas Mavericks-Los Angeles Lakers" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",01:30-NBA-Dallas Mavericks-Los Angeles Lakers
+http://127.0.0.1:6878/ace/getstream?id=b5842718859345a596107ab8e6b24d7bfa2d617e&pid=43
+#EXTINF:-1 tvg-id="01:30-NBA-Dallas Mavericks-Los Angeles Lakers" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",01:30-NBA-Dallas Mavericks-Los Angeles Lakers
+http://127.0.0.1:6878/ace/getstream?id=be02b9918b8fe7224cfa9af1e37856760f95b1b8&pid=44
+#EXTINF:-1 tvg-id="01:30-NBA-Dallas Mavericks-Los Angeles Lakers" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",01:30-NBA-Dallas Mavericks-Los Angeles Lakers
+http://127.0.0.1:6878/ace/getstream?id=67a33c3f74956eed14b9b400523462fe362e0e66&pid=45
+#EXTINF:-1 tvg-id="01:30-NBA-Dallas Mavericks-Los Angeles Lakers" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",01:30-NBA-Dallas Mavericks-Los Angeles Lakers
+http://127.0.0.1:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3&pid=46
+#EXTINF:-1 tvg-id="01:30-NBA-Dallas Mavericks-Los Angeles Lakers" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",01:30-NBA-Dallas Mavericks-Los Angeles Lakers
+http://127.0.0.1:6878/ace/getstream?id=b2a4d1eba9b46df5f52a87105df779f9d39abeb4&pid=47
+#EXTINF:-1 tvg-id="18:45-Conference League-Legia Warszawa-Chelsea" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League-Legia Warszawa-Chelsea
+http://127.0.0.1:6878/ace/getstream?id=c6a3673f6a37b1bd3cf31fdd6404dd33d48cfccb&pid=48
+#EXTINF:-1 tvg-id="18:45-Conference League-Legia Warszawa-Chelsea" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League-Legia Warszawa-Chelsea
+http://127.0.0.1:6878/ace/getstream?id=4fc6d0331830ad8743abab2fe2473b63bdfbc49f&pid=49
+#EXTINF:-1 tvg-id="18:45-Conference League-Legia Warszawa-Chelsea" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League-Legia Warszawa-Chelsea
+http://127.0.0.1:6878/ace/getstream?id=3bb6c5f346369d4f2a6bde45ec0bfe100d0e1f42&pid=50
+#EXTINF:-1 tvg-id="18:45-Conference League-Legia Warszawa-Chelsea" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League-Legia Warszawa-Chelsea
+http://127.0.0.1:6878/ace/getstream?id=4c6ed0cd87c090f3cf85b2c8adbe8b37dba08565&pid=51
+#EXTINF:-1 tvg-id="18:45-Conference League-Legia Warszawa-Chelsea" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League-Legia Warszawa-Chelsea
+http://127.0.0.1:6878/ace/getstream?id=abdf9058786a48623d0de51a3adb414ae10b6e72&pid=52
+#EXTINF:-1 tvg-id="18:45-Europa League-Bodø Glimt-Lazio" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Europa League-Bodø Glimt-Lazio
+http://127.0.0.1:6878/ace/getstream?id=608b0faf7d3d25f6fe5dba13d5e4b4142949990e&pid=53
+#EXTINF:-1 tvg-id="18:45-Europa League-Bodø Glimt-Lazio" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Europa League-Bodø Glimt-Lazio
+http://127.0.0.1:6878/ace/getstream?id=94d34491106e00394835c8cb68aa94481339b53f&pid=54
+#EXTINF:-1 tvg-id="18:45-Europa League-Bodø Glimt-Lazio" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Europa League-Bodø Glimt-Lazio
+http://127.0.0.1:6878/ace/getstream?id=c16b4fab1f724c94cad92081cbb7fc7c6fe8a2cc&pid=55
+#EXTINF:-1 tvg-id="18:45-Europa League-Bodø Glimt-Lazio" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Europa League-Bodø Glimt-Lazio
+http://127.0.0.1:6878/ace/getstream?id=778f08cbae9596ed9e8b2ae0af33ee7a6fe24c6a&pid=56
+#EXTINF:-1 tvg-id="18:45-Europa League-Bodø Glimt-Lazio" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Europa League-Bodø Glimt-Lazio
+http://127.0.0.1:6878/ace/getstream?id=afbf2a479c5a5072698139f0f556ef3e77a99bd0&pid=57
+#EXTINF:-1 tvg-id="18:45-Europa League-Bodø Glimt-Lazio" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Europa League-Bodø Glimt-Lazio
+http://127.0.0.1:6878/ace/getstream?id=6d88c66c89f3dbe1e6dacb5a8f7c9a98b12e6c63&pid=58
+#EXTINF:-1 tvg-id="18:45-Europa League-Bodø Glimt-Lazio" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Europa League-Bodø Glimt-Lazio
+http://127.0.0.1:6878/ace/getstream?id=a9025d4e168764248d33129c30940502cea0e1c2&pid=59
+#EXTINF:-1 tvg-id="18:45-Europa League-Bodø Glimt-Lazio" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Europa League-Bodø Glimt-Lazio
+http://127.0.0.1:6878/ace/getstream?id=47223e64a576c21bd61e818a42397a753d34fba5&pid=60
+#EXTINF:-1 tvg-id="18:45-Europa League-Bodø Glimt-Lazio" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Europa League-Bodø Glimt-Lazio
+http://127.0.0.1:6878/ace/getstream?id=e572a5178ff72eed7d1d751a18b4b3419699f370&pid=61
+#EXTINF:-1 tvg-id="20:00-Euroliga-ASVEL Lyon-Villeurbanne-AS Monaco Basket" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:00-Euroliga-ASVEL Lyon-Villeurbanne-AS Monaco Basket
+http://127.0.0.1:6878/ace/getstream?id=070f82d6443a52962d6a2ed9954c979b29404932&pid=62
+#EXTINF:-1 tvg-id="20:00-Euroliga-FC Bayern Basketball-Fenerbahce Istanbul" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:00-Euroliga-FC Bayern Basketball-Fenerbahce Istanbul
+http://127.0.0.1:6878/ace/getstream?id=58a4c880ab18486d914751db32a12760e74b75a4&pid=63
+#EXTINF:-1 tvg-id="20:15-Euroliga-Olympiacos Piraeus-Maccabi Tel Aviv BC" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:15-Euroliga-Olympiacos Piraeus-Maccabi Tel Aviv BC
+http://127.0.0.1:6878/ace/getstream?id=f6961e0dbf9b6ede4f5be93b72dc15533b4063d4&pid=64
+#EXTINF:-1 tvg-id="20:15-Euroliga-Olympiacos Piraeus-Maccabi Tel Aviv BC" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:15-Euroliga-Olympiacos Piraeus-Maccabi Tel Aviv BC
+http://127.0.0.1:6878/ace/getstream?id=fcc0fd75bf1dba40b108fcf0d3514e0e549bfbac&pid=65
+#EXTINF:-1 tvg-id="20:30-Euroliga-AX Olimpia Milano-Baskonia" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:30-Euroliga-AX Olimpia Milano-Baskonia
+http://127.0.0.1:6878/ace/getstream?id=ef9dcc4eaac36a0f608b52a31f8ab237859e071a&pid=66
+#EXTINF:-1 tvg-id="20:30-Euroliga-AX Olimpia Milano-Baskonia" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:30-Euroliga-AX Olimpia Milano-Baskonia
+http://127.0.0.1:6878/ace/getstream?id=b5842718859345a596107ab8e6b24d7bfa2d617e&pid=67
+#EXTINF:-1 tvg-id="20:30-Euroliga-AX Olimpia Milano-Baskonia" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:30-Euroliga-AX Olimpia Milano-Baskonia
+http://127.0.0.1:6878/ace/getstream?id=be02b9918b8fe7224cfa9af1e37856760f95b1b8&pid=68
+#EXTINF:-1 tvg-id="20:30-Euroliga-AX Olimpia Milano-Baskonia" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:30-Euroliga-AX Olimpia Milano-Baskonia
+http://127.0.0.1:6878/ace/getstream?id=67a33c3f74956eed14b9b400523462fe362e0e66&pid=69
+#EXTINF:-1 tvg-id="20:30-Euroliga-AX Olimpia Milano-Baskonia" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:30-Euroliga-AX Olimpia Milano-Baskonia
+http://127.0.0.1:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3&pid=70
+#EXTINF:-1 tvg-id="20:30-Euroliga-BC Partizan Beograd-Real Madrid Baloncesto" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:30-Euroliga-BC Partizan Beograd-Real Madrid Baloncesto
+http://127.0.0.1:6878/ace/getstream?id=b2a4d1eba9b46df5f52a87105df779f9d39abeb4&pid=71
+#EXTINF:-1 tvg-id="20:30-Euroliga-BC Partizan Beograd-Real Madrid Baloncesto" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:30-Euroliga-BC Partizan Beograd-Real Madrid Baloncesto
+http://127.0.0.1:6878/ace/getstream?id=3b2a8b41e7097c16b0468b42d7de0320886fa933&pid=72
+#EXTINF:-1 tvg-id="20:30-Euroliga-BC Partizan Beograd-Real Madrid Baloncesto" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:30-Euroliga-BC Partizan Beograd-Real Madrid Baloncesto
+http://127.0.0.1:6878/ace/getstream?id=2940120bf034db79a7f5849846ccea0255172eae&pid=73
+#EXTINF:-1 tvg-id="20:30-Euroliga-BC Partizan Beograd-Real Madrid Baloncesto" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:30-Euroliga-BC Partizan Beograd-Real Madrid Baloncesto
+http://127.0.0.1:6878/ace/getstream?id=57313e1ef438538df4feb5a6028dc78ee4f66b6a&pid=74
+#EXTINF:-1 tvg-id="20:30-Euroliga-BC Partizan Beograd-Real Madrid Baloncesto" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:30-Euroliga-BC Partizan Beograd-Real Madrid Baloncesto
+http://127.0.0.1:6878/ace/getstream?id=1205151f6fa5d95c0eeb543cbce43ccfa6a1b216&pid=75
+#EXTINF:-1 tvg-id="20:30-Euroliga-BC Partizan Beograd-Real Madrid Baloncesto" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:30-Euroliga-BC Partizan Beograd-Real Madrid Baloncesto
+http://127.0.0.1:6878/ace/getstream?id=d03c13b6723f66155d7a0df3692a3b073fe630f2&pid=76
+#EXTINF:-1 tvg-id="20:30-Euroliga-BC Partizan Beograd-Real Madrid Baloncesto" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:30-Euroliga-BC Partizan Beograd-Real Madrid Baloncesto
+http://127.0.0.1:6878/ace/getstream?id=12ba546d229bc39f01c3c18988a034b215fe6adb&pid=77
+#EXTINF:-1 tvg-id="20:45-Euroliga-Paris Basketball-ALBA Berlin" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:45-Euroliga-Paris Basketball-ALBA Berlin
+http://127.0.0.1:6878/ace/getstream?id=cc5782d37ae6b6e0bab396dd64074982d0879046&pid=78
