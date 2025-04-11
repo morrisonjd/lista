@@ -166,36 +166,4 @@ http://127.0.0.1:6878/ace/getstream?id=c9c18ae7a9dafba1caae5beb22060f9c92bba553&
 #EXTINF:-1 tvg-id="13:30-Fórmula 1-G.P. Bahrein (Sakhir)-Libres 1" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",13:30-Fórmula 1-G.P. Bahrein (Sakhir)-Libres 1
 http://127.0.0.1:6878/ace/getstream?id=515efd8115482bda8d92aa6df9a882a5e5797494&pid=83
 #EXTINF:-1 tvg-id="13:30-Fórmula 1-G.P. Bahrein (Sakhir)-Libres 1" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",13:30-Fórmula 1-G.P. Bahrein (Sakhir)-Libres 1
-http://127.0.0.1:6878/ace/getstream?id=d27584ebe5128c8033cb6fdc806a994fbd17b790&pid=84
-#EXTINF:-1 tvg-id="13:30-Fórmula 1-G.P. Bahrein (Sakhir)-Libres 1" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",13:30-Fórmula 1-G.P. Bahrein (Sakhir)-Libres 1
-http://127.0.0.1:6878/ace/getstream?id=d8068894248c1f21eea31e538917276a8c49ec06&pid=85
-#EXTINF:-1 tvg-id="13:30-Fórmula 1-G.P. Bahrein (Sakhir)-Libres 1" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",13:30-Fórmula 1-G.P. Bahrein (Sakhir)-Libres 1
-http://127.0.0.1:6878/ace/getstream?id=d6281d4e6310269b416180442a470d23a4a99dc9&pid=86
-#EXTINF:-1 tvg-id="13:30-Fórmula 1-G.P. Bahrein (Sakhir)-Libres 1" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",13:30-Fórmula 1-G.P. Bahrein (Sakhir)-Libres 1
-http://127.0.0.1:6878/ace/getstream?id=2c6e4c897661e6b0257bfe931b66d20b2ec763b6&pid=87
-#EXTINF:-1 tvg-id="13:30-Fórmula 1-G.P. Bahrein (Sakhir)-Libres 1" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",13:30-Fórmula 1-G.P. Bahrein (Sakhir)-Libres 1
-http://127.0.0.1:6878/ace/getstream?id=71eef80158aa8b37f3dc59f6793c6696df9a2dfa&pid=88
-#EXTINF:-1 tvg-id="13:30-Fórmula 1-G.P. Bahrein (Sakhir)-Libres 1" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",13:30-Fórmula 1-G.P. Bahrein (Sakhir)-Libres 1
-http://127.0.0.1:6878/ace/getstream?id=268289e7a3c5209960b53b4d43c8c65fab294b85&pid=89
-#EXTINF:-1 tvg-id="14:00-Masters Montecarlo-G. Dimitrov-A. De Miñaur" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:00-Masters Montecarlo-G. Dimitrov-A. De Miñaur
-http://127.0.0.1:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&pid=90
-#EXTINF:-1 tvg-id="14:00-Masters Montecarlo-G. Dimitrov-A. De Miñaur" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:00-Masters Montecarlo-G. Dimitrov-A. De Miñaur
-http://127.0.0.1:6878/ace/getstream?id=639c561dd57fa3fc91fde715caeb696c5efb7ce7&pid=91
-#EXTINF:-1 tvg-id="14:45-MotoGP-G.P. Catar (Losail)-Libres 1" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:45-MotoGP-G.P. Catar (Losail)-Libres 1
-http://127.0.0.1:6878/ace/getstream?id=6538b79ce0da657d8455d1da6a5f342398899a0e&pid=92
-#EXTINF:-1 tvg-id="14:45-MotoGP-G.P. Catar (Losail)-Libres 1" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:45-MotoGP-G.P. Catar (Losail)-Libres 1
-http://127.0.0.1:6878/ace/getstream?id=50a8a13c474848d1efbd5586efdb5b6cdd173fa9&pid=93
-#EXTINF:-1 tvg-id="14:45-MotoGP-G.P. Catar (Losail)-Libres 1" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:45-MotoGP-G.P. Catar (Losail)-Libres 1
-http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928&pid=94
-#EXTINF:-1 tvg-id="14:45-MotoGP-G.P. Catar (Losail)-Libres 1" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:45-MotoGP-G.P. Catar (Losail)-Libres 1
-http://127.0.0.1:6878/ace/getstream?id=6a1703a6bbe6110a1d27f35a41c88661e1740bfa&pid=95
-#EXTINF:-1 tvg-id="14:45-MotoGP-G.P. Catar (Losail)-Libres 1" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:45-MotoGP-G.P. Catar (Losail)-Libres 1
-http://127.0.0.1:6878/ace/getstream?id=35c7f0c966ecde3390f4510bb4caded40018c07a&pid=96
-#EXTINF:-1 tvg-id="14:45-MotoGP-G.P. Catar (Losail)-Libres 1" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:45-MotoGP-G.P. Catar (Losail)-Libres 1
-http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151&pid=97
-#EXTINF:-1 tvg-id="14:45-MotoGP-G.P. Catar (Losail)-Libres 1" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:45-MotoGP-G.P. Catar (Losail)-Libres 1
-http://127.0.0.1:6878/ace/getstream?id=688e785893b50acc1d00cb37f15bfc42e72f5ae3&pid=98
-#EXTINF:-1 tvg-id="14:45-MotoGP-G.P. Catar (Losail)-Libres 1" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:45-MotoGP-G.P. Catar (Losail)-Libres 1
-http://127.0.0.1:6878/ace/getstream?id=448a647ba8cd8885588572d609ce02b961238121&pid=99
-#EXTINF:-1 tvg-id="15:00-Billie Jean King Cup-España-Brasil" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:00-Billie Jean King Cup-España-Brasil
-http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230&pid=100
+http://127.0.0.1:6878/ace/getstream?id=d&pid=84
