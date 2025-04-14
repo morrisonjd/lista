@@ -75,11 +75,11 @@ http://127.0.0.1:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&
 http://127.0.0.1:6878/ace/getstream?id=639c561dd57fa3fc91fde715caeb696c5efb7ce7&pid=37
 #EXTINF:-1 tvg-id="17:30-Barcelona Open-J. De Jong-A. Rublev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:30-Barcelona Open-J. De Jong-A. Rublev
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230&pid=38
-#EXTINF:-1 tvg-id="20:30-Segunda Estadio El Alcoraz" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",20:30-Segunda Estadio El Alcoraz
+#EXTINF:-1 tvg-id="20:30-Segunda-Huesca-Málaga" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",20:30-Segunda-Huesca-Málaga
 http://127.0.0.1:6878/ace/getstream?id=fe289ab20d8f9dcb426fc6d56ce9dbbddb66e3b3&pid=39
-#EXTINF:-1 tvg-id="20:30-Segunda Estadio El Alcoraz" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",20:30-Segunda Estadio El Alcoraz
+#EXTINF:-1 tvg-id="20:30-Segunda-Huesca-Málaga" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",20:30-Segunda-Huesca-Málaga
 http://127.0.0.1:6878/ace/getstream?id=83e8a605ffebe2062f15dad76b6ffe9486a28eb3&pid=40
-#EXTINF:-1 tvg-id="20:30-Segunda Estadio El Alcoraz" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",20:30-Segunda Estadio El Alcoraz
+#EXTINF:-1 tvg-id="20:30-Segunda-Huesca-Málaga" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",20:30-Segunda-Huesca-Málaga
 http://127.0.0.1:6878/ace/getstream?id=b2706a7ffbea236a3b398139a3a606ada664c0eb&pid=41
-#EXTINF:-1 tvg-id="20:30-Segunda Estadio El Alcoraz" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",20:30-Segunda Estadio El Alcoraz
+#EXTINF:-1 tvg-id="20:30-Segunda-Huesca-Málaga" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",20:30-Segunda-Huesca-Málaga
 http://127.0.0.1:6878/ace/getstream?id=121f719ebb94193c6086ef92865cf9b197750980&pid=42
