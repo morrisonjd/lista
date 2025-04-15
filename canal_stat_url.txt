@@ -1,207 +1,116 @@
-La 1 http://192.168.18.75:6878/ace/stat/dd3b41ad4e2add62aef977900b06363c1bc48bab/1378dab36a50a0bf547f553e003cca18
 La 1 Error al obtener stat_url después de 5 intentos
-La 2 http://192.168.18.75:6878/ace/stat/96a7222ddbf21a504afcf9ec316eb74d395cc19b/1378dab36a50a0bf547f553e003cca18
-Antena 3 http://192.168.18.75:6878/ace/stat/fb829bf8ac847de913e003f6ff28fa0861b6d0ae/1378dab36a50a0bf547f553e003cca18
-Cuatro http://192.168.18.75:6878/ace/stat/57f77a58c5ac8ee43713aec4940c3de247af850f/1378dab36a50a0bf547f553e003cca18
-Telecinco http://192.168.18.75:6878/ace/stat/a48c3dae2c7abb72e3491ced207f16ce39e1327e/1378dab36a50a0bf547f553e003cca18
-La Sexta http://192.168.18.75:6878/ace/stat/a65717c40e61b3be039d4140d0dfd1956c504ae9/1378dab36a50a0bf547f553e003cca18
-Movistar Plus+ http://192.168.18.75:6878/ace/stat/87354dbac45d9dfdc639c513d60f7186df7f7b5a/1378dab36a50a0bf547f553e003cca18
-Movistar Plus+ http://192.168.18.75:6878/ace/stat/cc6fb7c11f8d8622fed9d4c04c7d722c54f32463/1378dab36a50a0bf547f553e003cca18
-M+ Hits http://192.168.18.75:6878/ace/stat/0242a0f91e3c6c8e4e5499c8b7b9dd3f2c20660a/1378dab36a50a0bf547f553e003cca18
-M+ Clásicos http://192.168.18.75:6878/ace/stat/75a582992d7cd8d41908e90dc34e8a19cbc93985/1378dab36a50a0bf547f553e003cca18
-M+ Acción http://192.168.18.75:6878/ace/stat/6ce3095c10d4510e27fc769b2ae5428c478fa25f/1378dab36a50a0bf547f553e003cca18
-M+ Comedia http://192.168.18.75:6878/ace/stat/4573bc5ba0e206b515dc03e96d07e054254593f4/1378dab36a50a0bf547f553e003cca18
-Canal Hollywood http://192.168.18.75:6878/ace/stat/db6db1193308c6ff71c2926dfb661e11669ad31f/1378dab36a50a0bf547f553e003cca18
-STAR Channel http://192.168.18.75:6878/ace/stat/879c0d721804c7261db5d83ef510287bdb7df96b/1378dab36a50a0bf547f553e003cca18
-M+ Copa del Rey http://192.168.18.75:6878/ace/stat/e13927381be00384a22254467639ebb9bb6c52fb/1378dab36a50a0bf547f553e003cca18
-M+ Copa del Rey http://192.168.18.75:6878/ace/stat/e19f12f170d07a41271108b1fd0b0662912cce43/1378dab36a50a0bf547f553e003cca18
-M+ Copa del Rey http://192.168.18.75:6878/ace/stat/791a8e5eed292609e2b6c89b3dc914ae64dac650/1378dab36a50a0bf547f553e003cca18
-M+ Copa del Rey http://192.168.18.75:6878/ace/stat/baf40b6a745164070c5184e70ff237c027173dad/1378dab36a50a0bf547f553e003cca18
-M+ Copa del Rey http://192.168.18.75:6878/ace/stat/84e5a395a507ab2c77b55577e98a393c77cc7a0e/1378dab36a50a0bf547f553e003cca18
-M+ Vamos http://192.168.18.75:6878/ace/stat/510ad973e26b07fb652448e7085a2d2f351b29a6/1378dab36a50a0bf547f553e003cca18
-M+ Vamos http://192.168.18.75:6878/ace/stat/2a011c4f3aedf20543adf7040dc67b12d13ca6db/1378dab36a50a0bf547f553e003cca18
-M+ Vamos http://192.168.18.75:6878/ace/stat/20db14f6e9cd048c12006e7f9e5e8326390eaff1/1378dab36a50a0bf547f553e003cca18
-M+ Vamos http://192.168.18.75:6878/ace/stat/0e95fe98b5cb2f1937ca846ba40f647e7fbcd585/1378dab36a50a0bf547f553e003cca18
-M+ Vamos http://192.168.18.75:6878/ace/stat/982b3891b245ef63cb3a2a098be9e0a3e863b927/1378dab36a50a0bf547f553e003cca18
-M+ Vamos http://192.168.18.75:6878/ace/stat/404a0e938b7b37de755daf2c203500746a67610f/1378dab36a50a0bf547f553e003cca18
-M+ LaLiga TV http://192.168.18.75:6878/ace/stat/83d43d89061d3790c1a9938a967ce8734a0bd6ce/1378dab36a50a0bf547f553e003cca18
-M+ LaLiga TV http://192.168.18.75:6878/ace/stat/d9dd8c4d00c8b9947544f4c7125cfe5c6a3d115c/1378dab36a50a0bf547f553e003cca18
-M+ LaLiga TV http://192.168.18.75:6878/ace/stat/ae9701876687a261e7080361272a17bbbcca8e44/1378dab36a50a0bf547f553e003cca18
-M+ LaLiga TV http://192.168.18.75:6878/ace/stat/c83b5c813bc9ac04b3df12a7af905a0a6ff6764a/1378dab36a50a0bf547f553e003cca18
-LaLiga TV BAR http://192.168.18.75:6878/ace/stat/fc91c1be96e4c81f30889e11fb1c8aa7ad17725f/1378dab36a50a0bf547f553e003cca18
-LaLiga TV BAR http://192.168.18.75:6878/ace/stat/5a13e5c152e2f6b3b523a29a7b87c8ec192cf1f9/1378dab36a50a0bf547f553e003cca18
-DAZN LaLiga http://192.168.18.75:6878/ace/stat/b954aa36d50c16b85569343215dcfabbbf1c0664/1378dab36a50a0bf547f553e003cca18
-DAZN LaLiga http://192.168.18.75:6878/ace/stat/be0fff0cbd2da9f7e877844c9f3072ec3f14a8a3/1378dab36a50a0bf547f553e003cca18
-DAZN LaLiga http://192.168.18.75:6878/ace/stat/a9a5150b3993ac2958af77f92e4f2abbc69e380a/1378dab36a50a0bf547f553e003cca18
-DAZN LaLiga http://192.168.18.75:6878/ace/stat/9de84cd99b2882bada8ea2102a712974ea33fcbc/1378dab36a50a0bf547f553e003cca18
-LaLiga TV Hypermotion http://192.168.18.75:6878/ace/stat/651e2b52b39ad1bb37027dfbf6d7f4ea2c21f38d/1378dab36a50a0bf547f553e003cca18
-LaLiga TV Hypermotion http://192.168.18.75:6878/ace/stat/4887ebad9c74ee9014e2596a7943d4068ec4f9fa/1378dab36a50a0bf547f553e003cca18
-LaLiga TV Hypermotion http://192.168.18.75:6878/ace/stat/81fcba45ad5292d3a8b4c6e10aa3ce59c72c6ff5/1378dab36a50a0bf547f553e003cca18
-LaLiga TV Hypermotion http://192.168.18.75:6878/ace/stat/a7b2e797c1f3b1945de53bf8af19f99387124397/1378dab36a50a0bf547f553e003cca18
-M+ LaLiga TV 2 http://192.168.18.75:6878/ace/stat/3cac616486ea68d91029bdbb3f1261761374c1d1/1378dab36a50a0bf547f553e003cca18
-M+ LaLiga TV 2 http://192.168.18.75:6878/ace/stat/e8a5c270cb33f864b7334d3defef752767289731/1378dab36a50a0bf547f553e003cca18
-DAZN LaLiga 2 http://192.168.18.75:6878/ace/stat/d0471ad3f545b77d029a1b25d3a10494708c6d6a/1378dab36a50a0bf547f553e003cca18
-DAZN LaLiga 2 http://192.168.18.75:6878/ace/stat/dcd4d06c6fb00b88073118b84cea0a1b3d6d488e/1378dab36a50a0bf547f553e003cca18
-LaLiga TV Hypermotion 2 http://192.168.18.75:6878/ace/stat/63da47c09f59a85833bf89933360b2ea65319938/1378dab36a50a0bf547f553e003cca18
-LaLiga TV Hypermotion 2 http://192.168.18.75:6878/ace/stat/0222d50c8f1119709d0560bd47c81845386332cc/1378dab36a50a0bf547f553e003cca18
-LaLiga TV Hypermotion 2 http://192.168.18.75:6878/ace/stat/bcf3f47d10d52ea8e639fc44da7f4e5445a5ab25/1378dab36a50a0bf547f553e003cca18
-M+ Liga de Campeones http://192.168.18.75:6878/ace/stat/87e15617cbf6a04499e89409423cc294004b8a18/1378dab36a50a0bf547f553e003cca18
-M+ Liga de Campeones http://192.168.18.75:6878/ace/stat/ce74a82099412f80a8a2a84f135dac1c61f1130a/1378dab36a50a0bf547f553e003cca18
-M+ Liga de Campeones http://192.168.18.75:6878/ace/stat/283db9ca7b1f71f1f4e18f25bbe92356ad3cc96e/1378dab36a50a0bf547f553e003cca18
-M+ Liga de Campeones http://192.168.18.75:6878/ace/stat/f8bbba6c29285d50935afcf60a6ed0344641d5ce/1378dab36a50a0bf547f553e003cca18
-M+ Liga de Campeones http://192.168.18.75:6878/ace/stat/ea29aa822837196c14297bf207dca565dff6ea67/1378dab36a50a0bf547f553e003cca18
-M+ Liga de Campeones http://192.168.18.75:6878/ace/stat/81924da0d05bdbd23ce0f5d0b0cd153ae697f13d/1378dab36a50a0bf547f553e003cca18
-M+ Liga de Campeones http://192.168.18.75:6878/ace/stat/32cd9fcaf7702abd27e6f89f1c48fbe958855f8c/1378dab36a50a0bf547f553e003cca18
-M+ Liga de Campeones http://192.168.18.75:6878/ace/stat/deab41fff6f3ccbfa61b812b9bb108f3957d6e26/1378dab36a50a0bf547f553e003cca18
-M+ Liga de Campeones http://192.168.18.75:6878/ace/stat/8c1c3eae077f3a786ed2f0a426197ea93fdf7373/1378dab36a50a0bf547f553e003cca18
-M+ Liga de Campeones 2 http://192.168.18.75:6878/ace/stat/5b4fac630b671c5321bc2be5098d3ad57fc762a6/1378dab36a50a0bf547f553e003cca18
-M+ Liga de Campeones 2 http://192.168.18.75:6878/ace/stat/a2ace9923289758b2c366a6c84b32e0bdc072186/1378dab36a50a0bf547f553e003cca18
-M+ Liga de Campeones 2 http://192.168.18.75:6878/ace/stat/f823e85bc9778ff044c179900b3ac87a174426f6/1378dab36a50a0bf547f553e003cca18
-M+ Liga de Campeones 2 http://192.168.18.75:6878/ace/stat/86a071ecb6418de62c21ad3587e755e2cec330c9/1378dab36a50a0bf547f553e003cca18
-M+ Liga de Campeones 2 http://192.168.18.75:6878/ace/stat/2c911e08952eeeb1f24ad4289fa1c495a086d8ec/1378dab36a50a0bf547f553e003cca18
-M+ Liga de Campeones 3 http://192.168.18.75:6878/ace/stat/92d1c04181778b58cfd103c2301a6a4d79a1a4ec/1378dab36a50a0bf547f553e003cca18
-M+ Liga de Campeones 3 http://192.168.18.75:6878/ace/stat/c78c1893cd5d9e7b79fe8b1961fa04a59817714c/1378dab36a50a0bf547f553e003cca18
-M+ Liga de Campeones 3 http://192.168.18.75:6878/ace/stat/f7a9a7ddad4e148180497ed36303819352e9717e/1378dab36a50a0bf547f553e003cca18
-M+ Deportes http://192.168.18.75:6878/ace/stat/e5a52031cedeff5c9729f378846951ff032a7a12/1378dab36a50a0bf547f553e003cca18
-M+ Deportes http://192.168.18.75:6878/ace/stat/33e30be427c5e39f0b806bee70676c7281666f66/1378dab36a50a0bf547f553e003cca18
-M+ Deportes http://192.168.18.75:6878/ace/stat/67384c04d0b53efb1e58a626796e9d5c76819c72/1378dab36a50a0bf547f553e003cca18
-M+ Deportes http://192.168.18.75:6878/ace/stat/cd4ea5b013d4d67123743a105f9de296de9cd1b2/1378dab36a50a0bf547f553e003cca18
-M+ Deportes http://192.168.18.75:6878/ace/stat/85d5caef472a24d4db10d8d52769f3bd83b55ad5/1378dab36a50a0bf547f553e003cca18
-M+ Deportes http://192.168.18.75:6878/ace/stat/bad3b09222b7ba91a074919915dfffed8999ae02/1378dab36a50a0bf547f553e003cca18
-M+ Deportes http://192.168.18.75:6878/ace/stat/8aba55f4f1f47def54447e845518109d797339e7/1378dab36a50a0bf547f553e003cca18
-M+ Deportes 2 http://192.168.18.75:6878/ace/stat/6d9c62d59f8cc64f474ab79d0b1b63e00740a59b/1378dab36a50a0bf547f553e003cca18
-M+ Deportes 2 http://192.168.18.75:6878/ace/stat/eebed46bb5743f5477328f3fb50d23b6cb545a5b/1378dab36a50a0bf547f553e003cca18
-M+ Deportes 3 http://192.168.18.75:6878/ace/stat/15addebb1bfb0a8fc0ac50a15e0c2a60c98dc1b1/1378dab36a50a0bf547f553e003cca18
-M+ Ellas Vamos http://192.168.18.75:6878/ace/stat/90c11baea00bd891d4b2dbaafac7d7331e974b66/1378dab36a50a0bf547f553e003cca18
-M+ Ellas Vamos http://192.168.18.75:6878/ace/stat/7cf7cf436627820d2d91f483f652af6a81020c65/1378dab36a50a0bf547f553e003cca18
-M+ Ellas Vamos http://192.168.18.75:6878/ace/stat/db2f9ad197657d75de562ebd8c1453d70fa74e58/1378dab36a50a0bf547f553e003cca18
-M+ Golf http://192.168.18.75:6878/ace/stat/cbc88ef863424765d32f64741c3bedc94f579ad1/1378dab36a50a0bf547f553e003cca18
-M+ Golf http://192.168.18.75:6878/ace/stat/b715ba3d23d3dca6736ac86990efe105087c3401/1378dab36a50a0bf547f553e003cca18
-M+ Golf 2 http://192.168.18.75:6878/ace/stat/196bf0811c7b0899bf24992271a6e41d4de31ab4/1378dab36a50a0bf547f553e003cca18
-DAZN F1 http://192.168.18.75:6878/ace/stat/f955ccfcc5a2b62238ff73a8030eeb035c38aaa2/1378dab36a50a0bf547f553e003cca18
-DAZN F1 http://192.168.18.75:6878/ace/stat/e3fa883a65b7441fcae25b061c710e8c92de9c87/1378dab36a50a0bf547f553e003cca18
-DAZN F1 http://192.168.18.75:6878/ace/stat/eb85b6eddb906e9745384586c02b5f061bf3ea77/1378dab36a50a0bf547f553e003cca18
-DAZN F1 http://192.168.18.75:6878/ace/stat/648bba63051a31d5b0e49ec4a9707ea65835e35d/1378dab36a50a0bf547f553e003cca18
-DAZN F1 http://192.168.18.75:6878/ace/stat/d301629e2772e0d85ab39f377dea8c3526d8e542/1378dab36a50a0bf547f553e003cca18
-DAZN F1 http://192.168.18.75:6878/ace/stat/efbe4ac13c0c2dc37da7ecfda53c407a0ca5a034/1378dab36a50a0bf547f553e003cca18
-DAZN F1 http://192.168.18.75:6878/ace/stat/5c7e4b300107afd311a194f2910937c9e64b24dd/1378dab36a50a0bf547f553e003cca18
-DAZN F1 http://192.168.18.75:6878/ace/stat/6b553f125be252904bf95ed6fdc26df5fe7e75ed/1378dab36a50a0bf547f553e003cca18
-DAZN F1 http://192.168.18.75:6878/ace/stat/8efc390fb5a0f28375365760ae8c4333a7e17c21/1378dab36a50a0bf547f553e003cca18
-DAZN F1 http://192.168.18.75:6878/ace/stat/5a5f3ab886114f526250c47f1c96a4e297040d7d/1378dab36a50a0bf547f553e003cca18
-ONBOARD FERNANDO ALONSO http://192.168.18.75:6878/ace/stat/f81d6813ead582f4602171e3d2104139c4e76cfa/1378dab36a50a0bf547f553e003cca18
-ONBOARD CARLOS SAINZ http://192.168.18.75:6878/ace/stat/66c3e472b3fd1bcd9ce59d8d86a0f42a83b825f6/1378dab36a50a0bf547f553e003cca18
-Rally TV http://192.168.18.75:6878/ace/stat/42f58d08b3bfb2bcd9ba9f6cd835876a943cf473/1378dab36a50a0bf547f553e003cca18
-MGPTV | CAMARA DE A BORDO 1 http://192.168.18.75:6878/ace/stat/4a2533f08122a9403eeab56dc740fc34686c53e5/1378dab36a50a0bf547f553e003cca18
-MGPTV | CAMARA DE A BORDO 2 http://192.168.18.75:6878/ace/stat/88defb9eb0c3a1dd099dcaa1a80586841bb970ba/1378dab36a50a0bf547f553e003cca18
-MGPTV | CAMARA DE A BORDO 3 http://192.168.18.75:6878/ace/stat/6f1adec58c2d14b0647bd7836a75de1f6ede915f/1378dab36a50a0bf547f553e003cca18
-MGPTV | CAMARA DE A BORDO 4 http://192.168.18.75:6878/ace/stat/bd0276dd6ba86248aaebeb9e627a745c1ad1c035/1378dab36a50a0bf547f553e003cca18
-DAZN 1 http://192.168.18.75:6878/ace/stat/0560234787945a17522e284c4c22bb4df29f33b0/1378dab36a50a0bf547f553e003cca18
-DAZN 1 http://192.168.18.75:6878/ace/stat/9498cf7ab16606d4a2dd3736880fe8151a03dc6c/1378dab36a50a0bf547f553e003cca18
-DAZN 1 http://192.168.18.75:6878/ace/stat/43b5645cff5cc7f6afa5a7269d6cd4d8c0a0ab46/1378dab36a50a0bf547f553e003cca18
-DAZN 1 http://192.168.18.75:6878/ace/stat/162efd7572532d353fdc1a79f0146574e9b7d8ec/1378dab36a50a0bf547f553e003cca18
-DAZN 1 http://192.168.18.75:6878/ace/stat/a3a4b739f5b81d938c5c83d3861b1ab4aeab11cf/1378dab36a50a0bf547f553e003cca18
-DAZN 1 http://192.168.18.75:6878/ace/stat/cda3779a08946c6a1e8e07be2cbccde83d32b731/1378dab36a50a0bf547f553e003cca18
-DAZN 1 http://192.168.18.75:6878/ace/stat/6c9aa39f691df9019fa4a8c260064fb0e93f752c/1378dab36a50a0bf547f553e003cca18
-DAZN 1 http://192.168.18.75:6878/ace/stat/a9bb233998484d0900cfc9f6c96343ad87f18830/1378dab36a50a0bf547f553e003cca18
-DAZN 1 http://192.168.18.75:6878/ace/stat/79cff11b6dcfa8fd87a2c3706c82ce80ace9c3b6/1378dab36a50a0bf547f553e003cca18
-DAZN 1 http://192.168.18.75:6878/ace/stat/969e14989a98c62518a7640741dbf15d90212d1a/1378dab36a50a0bf547f553e003cca18
-DAZN 2 http://192.168.18.75:6878/ace/stat/c93a0d4914713db942fbb210bac467b0224c63a6/1378dab36a50a0bf547f553e003cca18
-DAZN 2 http://192.168.18.75:6878/ace/stat/3c0d0eed9f5ffe8b4168161ef00e1b6be3035817/1378dab36a50a0bf547f553e003cca18
-DAZN 2 http://192.168.18.75:6878/ace/stat/14a899024c58c78f4be53c7919bb799a25392566/1378dab36a50a0bf547f553e003cca18
-DAZN 2 http://192.168.18.75:6878/ace/stat/ef923c9fbbd33a36ea8317f55b5278d2d18f609e/1378dab36a50a0bf547f553e003cca18
-DAZN 2 http://192.168.18.75:6878/ace/stat/c2c1130e8e91a29cac7e5ab3432eede77230ed3a/1378dab36a50a0bf547f553e003cca18
-DAZN 2 http://192.168.18.75:6878/ace/stat/44f9ca64537648b3951c64bbc5d7c16fd38cceda/1378dab36a50a0bf547f553e003cca18
-DAZN 2 http://192.168.18.75:6878/ace/stat/3e332611b24e1e196702a50396377585ae7205ea/1378dab36a50a0bf547f553e003cca18
-DAZN 2 http://192.168.18.75:6878/ace/stat/27573fb01690fd55b25c07ae2180ee44b1ad8a7c/1378dab36a50a0bf547f553e003cca18
-Eurosport 1 http://192.168.18.75:6878/ace/stat/6c73915db061edb8dd691a628b642d5c031c370f/1378dab36a50a0bf547f553e003cca18
-Eurosport 1 http://192.168.18.75:6878/ace/stat/d2b667622aa85564fad42e5a0a6f6103118d9c58/1378dab36a50a0bf547f553e003cca18
-Eurosport 1 http://192.168.18.75:6878/ace/stat/0a4cdd0edd85fbb7bc53e23c6282e77d0d256450/1378dab36a50a0bf547f553e003cca18
-Eurosport 1 http://192.168.18.75:6878/ace/stat/7d4f8888acd26364f54a0011f20841e6c7beb942/1378dab36a50a0bf547f553e003cca18
-Eurosport 1 http://192.168.18.75:6878/ace/stat/42e959bffd0dd0f138dd03abf387b4284ece7e30/1378dab36a50a0bf547f553e003cca18
-Eurosport 2 http://192.168.18.75:6878/ace/stat/2712292a58c6b4fc8abd165eb8c46da99c628dff/1378dab36a50a0bf547f553e003cca18
-Eurosport 2 http://192.168.18.75:6878/ace/stat/6fd5ae151a1eb0c4992fa61cf242b6bfb980dbc0/1378dab36a50a0bf547f553e003cca18
-Eurosport 2 http://192.168.18.75:6878/ace/stat/3fee4ce1dbc079ff3f302535070d9547988a407c/1378dab36a50a0bf547f553e003cca18
-Canal 1 1RFEF http://192.168.18.75:6878/ace/stat/69158b4a9e08efec520aa71630ac361524b0647e/1378dab36a50a0bf547f553e003cca18
-Canal 2 1RFEF http://192.168.18.75:6878/ace/stat/c1eadc1f695b46a4775c18442e6a8e780c5f9de7/1378dab36a50a0bf547f553e003cca18
-GOL PLAY http://192.168.18.75:6878/ace/stat/e0cbc2bdf9765afb8bcbc3401a2bfaea27e61e44/1378dab36a50a0bf547f553e003cca18
-Teledeporte http://192.168.18.75:6878/ace/stat/50529f9a4b83ffd5d873b3a7278596c7fb565a7d/1378dab36a50a0bf547f553e003cca18
-Mega http://192.168.18.75:6878/ace/stat/4f7ba7c9f093bcd98dfd35209720ad6b129562a0/1378dab36a50a0bf547f553e003cca18
-M+ LaLiga TV 3 http://192.168.18.75:6878/ace/stat/d4ce87389687721bf378c64761b791254961e343/1378dab36a50a0bf547f553e003cca18
-M+ LaLiga TV 3 http://192.168.18.75:6878/ace/stat/ae8e43b96c4799206f064353e2f7bc619195aa4e/1378dab36a50a0bf547f553e003cca18
-M+ LaLiga TV 4 http://192.168.18.75:6878/ace/stat/7144a1189ecc4aaf3cd44765070eb12c84798903/1378dab36a50a0bf547f553e003cca18
-Movistar Plus+ 2 http://192.168.18.75:6878/ace/stat/1a0c4b6fe876dad68009898f05456c71b1076f7c/1378dab36a50a0bf547f553e003cca18
-LaLiga TV Hypermotion 3 http://192.168.18.75:6878/ace/stat/4c2dd0bd8ef9a791a545158bc1bd5482eaab6e2f/1378dab36a50a0bf547f553e003cca18
-LaLiga TV Hypermotion 3 http://192.168.18.75:6878/ace/stat/95ac9665943e29d97794bef67e7c91c2167b0ab6/1378dab36a50a0bf547f553e003cca18
-M+ Liga de Campeones 4 http://192.168.18.75:6878/ace/stat/aa29ca147c5ae7271bf83c23ca2e77fe1c632c82/1378dab36a50a0bf547f553e003cca18
-M+ Liga de Campeones 4 http://192.168.18.75:6878/ace/stat/b0d5737bbba6f5dce2486b8850605ef8f1634c47/1378dab36a50a0bf547f553e003cca18
-M+ Liga de Campeones 5 http://192.168.18.75:6878/ace/stat/90ed151957e8198fa993c6cdb4bacb59481c3e09/1378dab36a50a0bf547f553e003cca18
-M+ Liga de Campeones 5 http://192.168.18.75:6878/ace/stat/25f5b8180427efa2d735b73fb27fee748d2cf73d/1378dab36a50a0bf547f553e003cca18
-M+ Liga de Campeones 6 http://192.168.18.75:6878/ace/stat/49dcdc4b8843e2fc04a47d585bd001a95ae92bd0/1378dab36a50a0bf547f553e003cca18
-M+ Liga de Campeones 7 http://192.168.18.75:6878/ace/stat/ea94bf61a22beb1710e618cad038b38e5d223b6d/1378dab36a50a0bf547f553e003cca18
-M+ Liga de Campeones 8 http://192.168.18.75:6878/ace/stat/f9a53a6a969cdd00747465a51a92b2bb748737af/1378dab36a50a0bf547f553e003cca18
-M+ Liga de Campeones 9 http://192.168.18.75:6878/ace/stat/8e2eb7e60bbb8d69dd9496650926d12a7ad204d4/1378dab36a50a0bf547f553e003cca18
-M+ Liga de Campeones 10 http://192.168.18.75:6878/ace/stat/5dc42e8ab91226dc562750fd0f26eb1c0fda87f3/1378dab36a50a0bf547f553e003cca18
-M+ Liga de Campeones 11 http://192.168.18.75:6878/ace/stat/403c6466abdfec720f5763536e9096d317709256/1378dab36a50a0bf547f553e003cca18
-M+ Liga de Campeones 12 http://192.168.18.75:6878/ace/stat/114718d9c2351097f4167e4fd99e2a118ff9a9f0/1378dab36a50a0bf547f553e003cca18
-M+ Liga de Campeones 13 http://192.168.18.75:6878/ace/stat/8776e142c50ca5773a9b49c16cc81ca0d3a601fe/1378dab36a50a0bf547f553e003cca18
-M+ Liga de Campeones 14 http://192.168.18.75:6878/ace/stat/f29a5bff901f74ae4541f15cf6f53d7ac1ed6de8/1378dab36a50a0bf547f553e003cca18
-M+ Liga de Campeones 15 http://192.168.18.75:6878/ace/stat/9ff6c609701b27158f284b0282f38b6b26f941b2/1378dab36a50a0bf547f553e003cca18
-M+ Liga de Campeones 16 http://192.168.18.75:6878/ace/stat/2c3233a7d9868a9e9ba9979a369ca41e91ce1926/1378dab36a50a0bf547f553e003cca18
-M+ Liga de Campeones 17 http://192.168.18.75:6878/ace/stat/9fd828c833b98c5f7b34b6664d9a0dbd1ec0fca0/1378dab36a50a0bf547f553e003cca18
-M+ Deportes 4 http://192.168.18.75:6878/ace/stat/78d773b65cb501399f523162830a446495cf05e9/1378dab36a50a0bf547f553e003cca18
-M+ Deportes 5 http://192.168.18.75:6878/ace/stat/6cc2dfe0172bf8ff00ace25ba9150ab1d4537bd9/1378dab36a50a0bf547f553e003cca18
-M+ Deportes 5 http://192.168.18.75:6878/ace/stat/112a3270d6a0479161f7053266487e92c9597fe5/1378dab36a50a0bf547f553e003cca18
-M+ Deportes 6 http://192.168.18.75:6878/ace/stat/7f1390364f1b1b52da37f420eb2666a2925b8d50/1378dab36a50a0bf547f553e003cca18
-M+ Deportes 7 http://192.168.18.75:6878/ace/stat/54073e7f7b1715e090804c671104365e722627ab/1378dab36a50a0bf547f553e003cca18
-DAZN 3 http://192.168.18.75:6878/ace/stat/98fba924421aa1e4bd28e74d74a2726d0459b594/1378dab36a50a0bf547f553e003cca18
-DAZN 3 http://192.168.18.75:6878/ace/stat/a1f37d3dd21f686a1846877e49567f0c9d71cf46/1378dab36a50a0bf547f553e003cca18
-DAZN 3 http://192.168.18.75:6878/ace/stat/e85009c3e0e6893bb74323f52b2757e9769afb21/1378dab36a50a0bf547f553e003cca18
-DAZN 3 http://192.168.18.75:6878/ace/stat/78113da4e9d95ddb5b3c52040e653db4b3f43bdd/1378dab36a50a0bf547f553e003cca18
-DAZN 3 http://192.168.18.75:6878/ace/stat/33246d7ad41db9ad7654f0d553b5e7500363d1b8/1378dab36a50a0bf547f553e003cca18
-DAZN 4 http://192.168.18.75:6878/ace/stat/c8022644b4cfcec391ff10efee1a45871a1f0898/1378dab36a50a0bf547f553e003cca18
-DAZN 4 http://192.168.18.75:6878/ace/stat/42c06bfb1d222830c8e36b4576108c21b2160dc1/1378dab36a50a0bf547f553e003cca18
-DAZN 4 http://192.168.18.75:6878/ace/stat/3c0cfbeb4075be58baa32e41dabee3c75b8a80e6/1378dab36a50a0bf547f553e003cca18
-DAZN 5 http://192.168.18.75:6878/ace/stat/2c9a996c060d157ff63109c5b999d55bbc2ffd95/1378dab36a50a0bf547f553e003cca18
-DAZN 6 http://192.168.18.75:6878/ace/stat/471f21a1eb3453e9b70e90228f016ad1142d581d/1378dab36a50a0bf547f553e003cca18
-AutoMotorSport http://192.168.18.75:6878/ace/stat/f43e4177d6ede225b8a25ad3b8b3e4776c353aa3/1378dab36a50a0bf547f553e003cca18
-Canal Motor http://192.168.18.75:6878/ace/stat/22b250ce7a16dce785b2e1ee6d4e13bdfa7354cc/1378dab36a50a0bf547f553e003cca18
-Motors TV http://192.168.18.75:6878/ace/stat/a6044ffdb11c0349253f35386c23e994c28cf997/1378dab36a50a0bf547f553e003cca18
-Retrovision Motor http://192.168.18.75:6878/ace/stat/825a5b77c23a5f96df6fd096d5391f7de2653fcf/1378dab36a50a0bf547f553e003cca18
-UFC Fight Pass http://192.168.18.75:6878/ace/stat/1ac613650301e279f57f8ba7d83661bbf02e1220/1378dab36a50a0bf547f553e003cca18
-UFC 1 http://192.168.18.75:6878/ace/stat/7ef011ed512705f60d00cea2594713f1890b36df/1378dab36a50a0bf547f553e003cca18
-SuperTennis http://192.168.18.75:6878/ace/stat/7a57543cb6061648dc44c5d4321bd100bc8a47ca/1378dab36a50a0bf547f553e003cca18
-MATCH! http://192.168.18.75:6878/ace/stat/f69b2859510dce33b992dd1940f95254c6e6f51c/1378dab36a50a0bf547f553e003cca18
-MATCH! Football http://192.168.18.75:6878/ace/stat/0bb7252a2a8dd3704b3a6c0538478450b8987012/1378dab36a50a0bf547f553e003cca18
-MATCH! Football 2 http://192.168.18.75:6878/ace/stat/fc5e35ba19a015dc14fa4060fb922f7cbc026f96/1378dab36a50a0bf547f553e003cca18
-MATCH! Football 3 http://192.168.18.75:6878/ace/stat/7f6ceda82b964c416983ab233787cee4e2333435/1378dab36a50a0bf547f553e003cca18
-MATCH! Premier http://192.168.18.75:6878/ace/stat/88c482d9e57b1a031c032344f9c00cf7b36da8d9/1378dab36a50a0bf547f553e003cca18
-MATCH! Boxeo http://192.168.18.75:6878/ace/stat/e84c8f3896a843b7fb272a6e3a18bba6b198db04/1378dab36a50a0bf547f553e003cca18
-MATCH! Arena http://192.168.18.75:6878/ace/stat/3a6ebb9eb0012bbd563e710c0c7e7ce2a8e4239a/1378dab36a50a0bf547f553e003cca18
-MATCH! Juegos http://192.168.18.75:6878/ace/stat/20be180e057ac43660627ca9fe66eaa6bd6c1aee/1378dab36a50a0bf547f553e003cca18
-Fight Box HD http://192.168.18.75:6878/ace/stat/80b395de2f07983ac324d1160711487aefaa7eaa/1378dab36a50a0bf547f553e003cca18
-CTAPT Live http://192.168.18.75:6878/ace/stat/fc5c69847a489f2e0984926534205627989f1896/1378dab36a50a0bf547f553e003cca18
-KHL http://192.168.18.75:6878/ace/stat/38c98858c0fc5e670820d2e1d308c71efcaa2ddc/1378dab36a50a0bf547f553e003cca18
-KHL Prime http://192.168.18.75:6878/ace/stat/242553daf687872eca8e184c238dc11ab712e9ac/1378dab36a50a0bf547f553e003cca18
-Viju+ Sport http://192.168.18.75:6878/ace/stat/f6b7553df66ac4bffd4b3ead443b647322d1a7e0/1378dab36a50a0bf547f553e003cca18
-Футбол futbol http://192.168.18.75:6878/ace/stat/9d4b38b7218803e1d877b01b3a6c6db1a494bb6a/1378dab36a50a0bf547f553e003cca18
-Astrakhan ru Sport http://192.168.18.75:6878/ace/stat/81d7702e3cf545ceabaf458d4548758772a8fddc/1378dab36a50a0bf547f553e003cca18
-Astrakhan ru Sport http://192.168.18.75:6878/ace/stat/034961aee33540dc08c8a6146d5605eb24e61f47/1378dab36a50a0bf547f553e003cca18
-FOX Life RU http://192.168.18.75:6878/ace/stat/d8b7a3f67305d65d0c75602eb7ec8e7f1df6b8b7/1378dab36a50a0bf547f553e003cca18
-FOX RU http://192.168.18.75:6878/ace/stat/5e40d94899925654ba5baf7f9ede7db5e0c10ad7/1378dab36a50a0bf547f553e003cca18
-Setanta Sports 1 http://192.168.18.75:6878/ace/stat/626c5326f29984bbedceee04c9694a0447ba0a9a/1378dab36a50a0bf547f553e003cca18
-Setanta Sports 2 http://192.168.18.75:6878/ace/stat/fded295edff9d57adb77cf02a08c5f2fcb9e608b/1378dab36a50a0bf547f553e003cca18
-TVP Sport http://192.168.18.75:6878/ace/stat/8356abd054c23015cfc1b1f187f8a7e30940b3f5/1378dab36a50a0bf547f553e003cca18
-Eleven Sports 1 http://192.168.18.75:6878/ace/stat/73d24aeff6515abb236ea8a3e77d89fe0b04b665/1378dab36a50a0bf547f553e003cca18
-Eleven Sports 2 http://192.168.18.75:6878/ace/stat/ae964a3fb5009d462ceb6e60dd56b3cfa8159620/1378dab36a50a0bf547f553e003cca18
-Eleven Sports 3 http://192.168.18.75:6878/ace/stat/95bf662561dba1859c9e4763f4ae7d9d1918fb0d/1378dab36a50a0bf547f553e003cca18
-Eleven Sports 4 http://192.168.18.75:6878/ace/stat/a2a02182ab8fec713cbaf5a45d92c5cd5a499c42/1378dab36a50a0bf547f553e003cca18
-Extreme Sp http://192.168.18.75:6878/ace/stat/dab6702ce4c71a26db6f0bda262a3d4f34bb54e5/1378dab36a50a0bf547f553e003cca18
-FightKlub http://192.168.18.75:6878/ace/stat/be9d751f2e5323a49d4aad66a0ff2f5c0318d8e2/1378dab36a50a0bf547f553e003cca18
-TVP 1 http://192.168.18.75:6878/ace/stat/eeaa185d0305a21a8fa388f79adaf9b1677628da/1378dab36a50a0bf547f553e003cca18
-SportKlub http://192.168.18.75:6878/ace/stat/14594b3c9520715e48756cb7258e102c5e48c29c/1378dab36a50a0bf547f553e003cca18
-Polsat Sport Premium 1 http://192.168.18.75:6878/ace/stat/58b193890946b099a7d2c7dca37a48b36a12467f/1378dab36a50a0bf547f553e003cca18
-Polsat Sport Premium 2 http://192.168.18.75:6878/ace/stat/70ba32a661dc71ac3008f2bcb8aa202c5514f4e3/1378dab36a50a0bf547f553e003cca18
-Polsat Sport http://192.168.18.75:6878/ace/stat/5fc250f907b3bce0eda3caeb5cf86888e600b262/1378dab36a50a0bf547f553e003cca18
+La 2 Error al obtener stat_url después de 5 intentos
+Antena 3 Error al obtener stat_url después de 5 intentos
+Cuatro Error al obtener stat_url después de 5 intentos
+Telecinco Error al obtener stat_url después de 5 intentos
+La Sexta Error al obtener stat_url después de 5 intentos
+Movistar Plus+ Error al obtener stat_url después de 5 intentos
+M+ Hits Error al obtener stat_url después de 5 intentos
+M+ Clásicos Error al obtener stat_url después de 5 intentos
+M+ Acción Error al obtener stat_url después de 5 intentos
+M+ Comedia Error al obtener stat_url después de 5 intentos
+Canal Hollywood Error al obtener stat_url después de 5 intentos
+STAR Channel Error al obtener stat_url después de 5 intentos
+M+ Copa del Rey Error al obtener stat_url después de 5 intentos
+M+ Vamos Error al obtener stat_url después de 5 intentos
+M+ LaLiga TV Error al obtener stat_url después de 5 intentos
+LaLiga TV BAR Error al obtener stat_url después de 5 intentos
+DAZN LaLiga Error al obtener stat_url después de 5 intentos
+LaLiga TV Hypermotion Error al obtener stat_url después de 5 intentos
+M+ LaLiga TV 2 Error al obtener stat_url después de 5 intentos
+DAZN LaLiga 2 Error al obtener stat_url después de 5 intentos
+LaLiga TV Hypermotion 2 Error al obtener stat_url después de 5 intentos
+M+ Liga de Campeones Error al obtener stat_url después de 5 intentos
+M+ Liga de Campeones 2 Error al obtener stat_url después de 5 intentos
+M+ Liga de Campeones 3 Error al obtener stat_url después de 5 intentos
+M+ Deportes Error al obtener stat_url después de 5 intentos
+M+ Deportes 2 Error al obtener stat_url después de 5 intentos
+M+ Deportes 3 Error al obtener stat_url después de 5 intentos
+M+ Ellas Vamos Error al obtener stat_url después de 5 intentos
+M+ Golf Error al obtener stat_url después de 5 intentos
+M+ Golf 2 Error al obtener stat_url después de 5 intentos
+DAZN F1 Error al obtener stat_url después de 5 intentos
+ONBOARD FERNANDO ALONSO Error al obtener stat_url después de 5 intentos
+ONBOARD CARLOS SAINZ Error al obtener stat_url después de 5 intentos
+Rally TV Error al obtener stat_url después de 5 intentos
+MGPTV | CAMARA DE A BORDO 1 Error al obtener stat_url después de 5 intentos
+MGPTV | CAMARA DE A BORDO 2 Error al obtener stat_url después de 5 intentos
+MGPTV | CAMARA DE A BORDO 3 Error al obtener stat_url después de 5 intentos
+MGPTV | CAMARA DE A BORDO 4 Error al obtener stat_url después de 5 intentos
+DAZN 1 Error al obtener stat_url después de 5 intentos
+DAZN 2 Error al obtener stat_url después de 5 intentos
+Eurosport 1 Error al obtener stat_url después de 5 intentos
+Eurosport 2 Error al obtener stat_url después de 5 intentos
+Canal 1 1RFEF Error al obtener stat_url después de 5 intentos
+Canal 2 1RFEF Error al obtener stat_url después de 5 intentos
+GOL PLAY Error al obtener stat_url después de 5 intentos
+Teledeporte Error al obtener stat_url después de 5 intentos
+Mega Error al obtener stat_url después de 5 intentos
+M+ LaLiga TV 3 Error al obtener stat_url después de 5 intentos
+M+ LaLiga TV 4 Error al obtener stat_url después de 5 intentos
+Movistar Plus+ 2 Error al obtener stat_url después de 5 intentos
+LaLiga TV Hypermotion 3 Error al obtener stat_url después de 5 intentos
+M+ Liga de Campeones 4 Error al obtener stat_url después de 5 intentos
+M+ Liga de Campeones 5 Error al obtener stat_url después de 5 intentos
+M+ Liga de Campeones 6 Error al obtener stat_url después de 5 intentos
+M+ Liga de Campeones 7 Error al obtener stat_url después de 5 intentos
+M+ Liga de Campeones 8 Error al obtener stat_url después de 5 intentos
+M+ Liga de Campeones 9 Error al obtener stat_url después de 5 intentos
+M+ Liga de Campeones 10 Error al obtener stat_url después de 5 intentos
+M+ Liga de Campeones 11 Error al obtener stat_url después de 5 intentos
+M+ Liga de Campeones 12 Error al obtener stat_url después de 5 intentos
+M+ Liga de Campeones 13 Error al obtener stat_url después de 5 intentos
+M+ Liga de Campeones 14 Error al obtener stat_url después de 5 intentos
+M+ Liga de Campeones 15 Error al obtener stat_url después de 5 intentos
+M+ Liga de Campeones 16 Error al obtener stat_url después de 5 intentos
+M+ Liga de Campeones 17 Error al obtener stat_url después de 5 intentos
+M+ Deportes 4 Error al obtener stat_url después de 5 intentos
+M+ Deportes 5 Error al obtener stat_url después de 5 intentos
+M+ Deportes 6 Error al obtener stat_url después de 5 intentos
+M+ Deportes 7 Error al obtener stat_url después de 5 intentos
+DAZN 3 Error al obtener stat_url después de 5 intentos
+DAZN 4 Error al obtener stat_url después de 5 intentos
+DAZN 5 Error al obtener stat_url después de 5 intentos
+DAZN 6 Error al obtener stat_url después de 5 intentos
+AutoMotorSport Error al obtener stat_url después de 5 intentos
+Canal Motor Error al obtener stat_url después de 5 intentos
+Motors TV Error al obtener stat_url después de 5 intentos
+Retrovision Motor Error al obtener stat_url después de 5 intentos
+UFC Fight Pass Error al obtener stat_url después de 5 intentos
+UFC 1 Error al obtener stat_url después de 5 intentos
+Tennis Channel Error al obtener stat_url después de 5 intentos
+SuperTennis Error al obtener stat_url después de 5 intentos
+MATCH! Error al obtener stat_url después de 5 intentos
+MATCH! Football Error al obtener stat_url después de 5 intentos
+MATCH! Football 2 Error al obtener stat_url después de 5 intentos
+MATCH! Football 3 Error al obtener stat_url después de 5 intentos
+MATCH! Premier Error al obtener stat_url después de 5 intentos
+MATCH! Boxeo Error al obtener stat_url después de 5 intentos
+MATCH! Arena Error al obtener stat_url después de 5 intentos
+MATCH! Juegos Error al obtener stat_url después de 5 intentos
+Fight Box HD Error al obtener stat_url después de 5 intentos
+CTAPT Live Error al obtener stat_url después de 5 intentos
+KHL Error al obtener stat_url después de 5 intentos
+KHL Prime Error al obtener stat_url después de 5 intentos
+Viju+ Sport Error al obtener stat_url después de 5 intentos
+Футбол futbol Error al obtener stat_url después de 5 intentos
+Astrakhan ru Sport Error al obtener stat_url después de 5 intentos
+FOX Life RU Error al obtener stat_url después de 5 intentos
+FOX RU Error al obtener stat_url después de 5 intentos
+Setanta Sports 1 Error al obtener stat_url después de 5 intentos
+Setanta Sports 2 Error al obtener stat_url después de 5 intentos
+TVP Sport Error al obtener stat_url después de 5 intentos
+Eleven Sports 1 Error al obtener stat_url después de 5 intentos
+Eleven Sports 2 Error al obtener stat_url después de 5 intentos
+Eleven Sports 3 Error al obtener stat_url después de 5 intentos
+Eleven Sports 4 Error al obtener stat_url después de 5 intentos
+Extreme Sp Error al obtener stat_url después de 5 intentos
+FightKlub Error al obtener stat_url después de 5 intentos
+TVP 1 Error al obtener stat_url después de 5 intentos
+SportKlub Error al obtener stat_url después de 5 intentos
+Polsat Sport Premium 1 Error al obtener stat_url después de 5 intentos
+Polsat Sport Premium 2 Error al obtener stat_url después de 5 intentos
+Polsat Sport Error al obtener stat_url después de 5 intentos
 Polsat Sport Extra http://192.168.18.75:6878/ace/stat/f0beebc90853dc8342691a85539b5efbe0e94c1e/1378dab36a50a0bf547f553e003cca18
 Polsat Sport Fight http://192.168.18.75:6878/ace/stat/7438702963ad27eab81ee25634eac24f541083a4/1378dab36a50a0bf547f553e003cca18
 Canal+ Sports http://192.168.18.75:6878/ace/stat/b28785877e0ba9ac50266cb71fc0702c94034cf1/1378dab36a50a0bf547f553e003cca18
@@ -287,11 +196,18 @@ ESPN http://192.168.18.75:6878/ace/stat/0dca83a7cc9184893ff96ee2355874342fc8fd45
 ESPN 2 http://192.168.18.75:6878/ace/stat/1114c803ee0f7dd7b5af5be42e49b5cdc64db2b5/1378dab36a50a0bf547f553e003cca18
 ESPN 2 http://192.168.18.75:6878/ace/stat/437692bc0dedcf1c27c2ab2c1c7e58b0806244fe/1378dab36a50a0bf547f553e003cca18
 ESPN 4 http://192.168.18.75:6878/ace/stat/d18e752ade97d8be74a99887fec550472335b99f/1378dab36a50a0bf547f553e003cca18
+Ziggo Sport http://192.168.18.75:6878/ace/stat/8e475c8b9f12270c524f88f5659cc6811fc1399c/1378dab36a50a0bf547f553e003cca18
 Ziggo Sport 2 http://192.168.18.75:6878/ace/stat/fca28f51d5500d131770230b033c5da2b36ebf9c/1378dab36a50a0bf547f553e003cca18
 Ziggo Sport 6 http://192.168.18.75:6878/ace/stat/c81fe6504175b77b4345a3e8b740aba1e3bf60dc/1378dab36a50a0bf547f553e003cca18
 beIN SPORTS HABER http://192.168.18.75:6878/ace/stat/22d5b3999d11a4f1bad9da8fdaa9034935fb2706/1378dab36a50a0bf547f553e003cca18
 beIN SPORTS 1 http://192.168.18.75:6878/ace/stat/58e454d067b9e25e40f3c62b3430b55ef6fead09/1378dab36a50a0bf547f553e003cca18
-beIN SPORTS 1 Error al obtener stat_url después de 5 intentos
-beIN SPORTS 2 Error al obtener stat_url después de 5 intentos
-beIN SPORTS 3 Error al obtener stat_url después de 5 intentos
-beIN SPORTS 4 Error al obtener stat_url después de 5 intentos
+beIN SPORTS 1 http://192.168.18.75:6878/ace/stat/3a5265f1dced58403970763e2e5c712ecd9fab7b/1378dab36a50a0bf547f553e003cca18
+beIN SPORTS 1 http://192.168.18.75:6878/ace/stat/071b49a1c52d304cae6300e2776022eec7ebe6cd/1378dab36a50a0bf547f553e003cca18
+beIN SPORTS 2 http://192.168.18.75:6878/ace/stat/fa0a5dd9ecc3febbda8b6e1805c539a93fe515ac/1378dab36a50a0bf547f553e003cca18
+beIN SPORTS 2 http://192.168.18.75:6878/ace/stat/24b9f98b13e5b0740465d6e15b7bbb967617eccf/1378dab36a50a0bf547f553e003cca18
+beIN SPORTS 2 http://192.168.18.75:6878/ace/stat/36e9427b55dd3574f9f40eab30aef8e0f34f477e/1378dab36a50a0bf547f553e003cca18
+beIN SPORTS 3 http://192.168.18.75:6878/ace/stat/519c2159e9228bfe2f94911dfa111b01d0a896e2/1378dab36a50a0bf547f553e003cca18
+beIN SPORTS 3 http://192.168.18.75:6878/ace/stat/422b07b4645394c69de38e48a25f4c8bcebf1f6e/1378dab36a50a0bf547f553e003cca18
+beIN SPORTS 3 http://192.168.18.75:6878/ace/stat/7fee896143ae89590d97793a0be7ad8ec6fa4552/1378dab36a50a0bf547f553e003cca18
+beIN SPORTS 4 http://192.168.18.75:6878/ace/stat/ce7986fc8970c77278026b117fd06ec18d3eeb1b/1378dab36a50a0bf547f553e003cca18
+beIN SPORTS 4 http://192.168.18.75:6878/ace/stat/26c1fe91207fb2a1cfa6271970081d4c2009b6fa/1378dab36a50a0bf547f553e003cca18
