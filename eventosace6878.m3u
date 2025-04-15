@@ -67,37 +67,37 @@ http://127.0.0.1:6878/ace/getstream?id=1205151f6fa5d95c0eeb543cbce43ccfa6a1b216&
 http://127.0.0.1:6878/ace/getstream?id=d03c13b6723f66155d7a0df3692a3b073fe630f2&pid=33
 #EXTINF:-1 tvg-id="21:00-Euroliga-Real Madrid Baloncesto-Paris Basketball" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",21:00-Euroliga-Real Madrid Baloncesto-Paris Basketball
 http://127.0.0.1:6878/ace/getstream?id=12ba546d229bc39f01c3c18988a034b215fe6adb&pid=34
-#EXTINF:-1 tvg-id="11:00-Barcelona Open-S. Tsitsipas-R. Opelka" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",11:00-Barcelona Open-S. Tsitsipas-R. Opelka
-http://127.0.0.1:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&pid=35
-#EXTINF:-1 tvg-id="11:00-Barcelona Open-S. Tsitsipas-R. Opelka" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",11:00-Barcelona Open-S. Tsitsipas-R. Opelka
-http://127.0.0.1:6878/ace/getstream?id=639c561dd57fa3fc91fde715caeb696c5efb7ce7&pid=36
-#EXTINF:-1 tvg-id="11:00-Barcelona Open-S. Tsitsipas-R. Opelka" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",11:00-Barcelona Open-S. Tsitsipas-R. Opelka
-http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230&pid=37
-#EXTINF:-1 tvg-id="11:00-Torneo de Múnich-Y. Hanfmann-J. Mensik" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",11:00-Torneo de Múnich-Y. Hanfmann-J. Mensik
-http://127.0.0.1:6878/ace/getstream?id=753d4b1f7c4ef43238b5cf23b05572b550a44eee&pid=38
-#EXTINF:-1 tvg-id="12:30-Barcelona Open-D. Galán-C. Ruud" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",12:30-Barcelona Open-D. Galán-C. Ruud
+#EXTINF:-1 tvg-id="11:05-Torneo de Múnich-Y. Hanfmann-J. Mensik" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",11:05-Torneo de Múnich-Y. Hanfmann-J. Mensik
+http://127.0.0.1:6878/ace/getstream?id=753d4b1f7c4ef43238b5cf23b05572b550a44eee&pid=35
+#EXTINF:-1 tvg-id="11:10-Barcelona Open-S. Tsitsipas-R. Opelka" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",11:10-Barcelona Open-S. Tsitsipas-R. Opelka
+http://127.0.0.1:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&pid=36
+#EXTINF:-1 tvg-id="11:10-Barcelona Open-S. Tsitsipas-R. Opelka" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",11:10-Barcelona Open-S. Tsitsipas-R. Opelka
+http://127.0.0.1:6878/ace/getstream?id=639c561dd57fa3fc91fde715caeb696c5efb7ce7&pid=37
+#EXTINF:-1 tvg-id="11:10-Barcelona Open-S. Tsitsipas-R. Opelka" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",11:10-Barcelona Open-S. Tsitsipas-R. Opelka
+http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230&pid=38
+#EXTINF:-1 tvg-id="12:40-Barcelona Open-D. Galán-C. Ruud" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",12:40-Barcelona Open-D. Galán-C. Ruud
 http://127.0.0.1:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&pid=39
-#EXTINF:-1 tvg-id="12:30-Barcelona Open-D. Galán-C. Ruud" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",12:30-Barcelona Open-D. Galán-C. Ruud
+#EXTINF:-1 tvg-id="12:40-Barcelona Open-D. Galán-C. Ruud" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",12:40-Barcelona Open-D. Galán-C. Ruud
 http://127.0.0.1:6878/ace/getstream?id=639c561dd57fa3fc91fde715caeb696c5efb7ce7&pid=40
-#EXTINF:-1 tvg-id="12:30-Barcelona Open-D. Galán-C. Ruud" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",12:30-Barcelona Open-D. Galán-C. Ruud
+#EXTINF:-1 tvg-id="12:40-Barcelona Open-D. Galán-C. Ruud" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",12:40-Barcelona Open-D. Galán-C. Ruud
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230&pid=41
-#EXTINF:-1 tvg-id="12:30-Torneo de Múnich-F. Cerúndolo-JL. Struff" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",12:30-Torneo de Múnich-F. Cerúndolo-JL. Struff
+#EXTINF:-1 tvg-id="14:05-Torneo de Múnich-F. Cerúndolo-JL. Struff" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:05-Torneo de Múnich-F. Cerúndolo-JL. Struff
 http://127.0.0.1:6878/ace/getstream?id=753d4b1f7c4ef43238b5cf23b05572b550a44eee&pid=42
-#EXTINF:-1 tvg-id="14:00-Torneo de Múnich-D. Dedura-Palomero-D. Shapovalov" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:00-Torneo de Múnich-D. Dedura-Palomero-D. Shapovalov
+#EXTINF:-1 tvg-id="15:15-Torneo de Múnich-D. Dedura-Palomero-D. Shapovalov" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:15-Torneo de Múnich-D. Dedura-Palomero-D. Shapovalov
 http://127.0.0.1:6878/ace/getstream?id=753d4b1f7c4ef43238b5cf23b05572b550a44eee&pid=43
-#EXTINF:-1 tvg-id="15:30-Torneo de Múnich-M. Navone-F. Auger-Aliassime" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:30-Torneo de Múnich-M. Navone-F. Auger-Aliassime
-http://127.0.0.1:6878/ace/getstream?id=753d4b1f7c4ef43238b5cf23b05572b550a44eee&pid=44
-#EXTINF:-1 tvg-id="16:00-Barcelona Open-C. Alcaraz-E. Quinn" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:00-Barcelona Open-C. Alcaraz-E. Quinn
-http://127.0.0.1:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&pid=45
-#EXTINF:-1 tvg-id="16:00-Barcelona Open-C. Alcaraz-E. Quinn" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:00-Barcelona Open-C. Alcaraz-E. Quinn
-http://127.0.0.1:6878/ace/getstream?id=639c561dd57fa3fc91fde715caeb696c5efb7ce7&pid=46
-#EXTINF:-1 tvg-id="16:00-Barcelona Open-C. Alcaraz-E. Quinn" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:00-Barcelona Open-C. Alcaraz-E. Quinn
-http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230&pid=47
-#EXTINF:-1 tvg-id="17:30-Barcelona Open-S. Wawrinka-A. Davidovich" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:30-Barcelona Open-S. Wawrinka-A. Davidovich
-http://127.0.0.1:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&pid=48
-#EXTINF:-1 tvg-id="17:30-Barcelona Open-S. Wawrinka-A. Davidovich" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:30-Barcelona Open-S. Wawrinka-A. Davidovich
-http://127.0.0.1:6878/ace/getstream?id=639c561dd57fa3fc91fde715caeb696c5efb7ce7&pid=49
-#EXTINF:-1 tvg-id="17:30-Barcelona Open-S. Wawrinka-A. Davidovich" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:30-Barcelona Open-S. Wawrinka-A. Davidovich
-http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230&pid=50
+#EXTINF:-1 tvg-id="16:10-Barcelona Open-C. Alcaraz-E. Quinn" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:10-Barcelona Open-C. Alcaraz-E. Quinn
+http://127.0.0.1:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&pid=44
+#EXTINF:-1 tvg-id="16:10-Barcelona Open-C. Alcaraz-E. Quinn" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:10-Barcelona Open-C. Alcaraz-E. Quinn
+http://127.0.0.1:6878/ace/getstream?id=639c561dd57fa3fc91fde715caeb696c5efb7ce7&pid=45
+#EXTINF:-1 tvg-id="16:10-Barcelona Open-C. Alcaraz-E. Quinn" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:10-Barcelona Open-C. Alcaraz-E. Quinn
+http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230&pid=46
+#EXTINF:-1 tvg-id="16:40-Torneo de Múnich-M. Navone-F. Auger-Aliassime" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:40-Torneo de Múnich-M. Navone-F. Auger-Aliassime
+http://127.0.0.1:6878/ace/getstream?id=753d4b1f7c4ef43238b5cf23b05572b550a44eee&pid=47
 #EXTINF:-1 tvg-id="18:00-Eurocopa-Bosnia-España" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:00-Eurocopa-Bosnia-España
+http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230&pid=48
+#EXTINF:-1 tvg-id="18:20-Barcelona Open-S. Wawrinka-A. Davidovich" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:20-Barcelona Open-S. Wawrinka-A. Davidovich
+http://127.0.0.1:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&pid=49
+#EXTINF:-1 tvg-id="18:20-Barcelona Open-S. Wawrinka-A. Davidovich" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:20-Barcelona Open-S. Wawrinka-A. Davidovich
+http://127.0.0.1:6878/ace/getstream?id=639c561dd57fa3fc91fde715caeb696c5efb7ce7&pid=50
+#EXTINF:-1 tvg-id="18:20-Barcelona Open-S. Wawrinka-A. Davidovich" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:20-Barcelona Open-S. Wawrinka-A. Davidovich
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230&pid=51
