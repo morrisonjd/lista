@@ -61,25 +61,25 @@ http://127.0.0.1:6878/ace/getstream?id=4fc2fce0d019bdb622164bba3cff84c120fb9243&
 http://127.0.0.1:6878/ace/getstream?id=15127320406cf6a072c4f485f31c841d7d3e62f3&pid=30
 #EXTINF:-1 tvg-id="21:00-Champions League-Real Madrid-Arsenal" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League-Real Madrid-Arsenal
 http://127.0.0.1:6878/ace/getstream?id=b2a4d1eba9b46df5f52a87105df779f9d39abeb4&pid=31
-#EXTINF:-1 tvg-id="01:30-NBA-Atlanta Hawks-Orlando Magic" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",01:30-NBA-Atlanta Hawks-Orlando Magic
+#EXTINF:-1 tvg-id="01:30-NBA-Orlando Magic-Atlanta Hawks" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",01:30-NBA-Orlando Magic-Atlanta Hawks
 http://127.0.0.1:6878/ace/getstream?id=ef9dcc4eaac36a0f608b52a31f8ab237859e071a&pid=32
-#EXTINF:-1 tvg-id="01:30-NBA-Atlanta Hawks-Orlando Magic" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",01:30-NBA-Atlanta Hawks-Orlando Magic
+#EXTINF:-1 tvg-id="01:30-NBA-Orlando Magic-Atlanta Hawks" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",01:30-NBA-Orlando Magic-Atlanta Hawks
 http://127.0.0.1:6878/ace/getstream?id=b5842718859345a596107ab8e6b24d7bfa2d617e&pid=33
-#EXTINF:-1 tvg-id="01:30-NBA-Atlanta Hawks-Orlando Magic" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",01:30-NBA-Atlanta Hawks-Orlando Magic
+#EXTINF:-1 tvg-id="01:30-NBA-Orlando Magic-Atlanta Hawks" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",01:30-NBA-Orlando Magic-Atlanta Hawks
 http://127.0.0.1:6878/ace/getstream?id=be02b9918b8fe7224cfa9af1e37856760f95b1b8&pid=34
-#EXTINF:-1 tvg-id="01:30-NBA-Atlanta Hawks-Orlando Magic" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",01:30-NBA-Atlanta Hawks-Orlando Magic
+#EXTINF:-1 tvg-id="01:30-NBA-Orlando Magic-Atlanta Hawks" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",01:30-NBA-Orlando Magic-Atlanta Hawks
 http://127.0.0.1:6878/ace/getstream?id=67a33c3f74956eed14b9b400523462fe362e0e66&pid=35
-#EXTINF:-1 tvg-id="01:30-NBA-Atlanta Hawks-Orlando Magic" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",01:30-NBA-Atlanta Hawks-Orlando Magic
+#EXTINF:-1 tvg-id="01:30-NBA-Orlando Magic-Atlanta Hawks" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",01:30-NBA-Orlando Magic-Atlanta Hawks
 http://127.0.0.1:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3&pid=36
-#EXTINF:-1 tvg-id="04:00-NBA-Memphis Grizzlies-Golden State Warriors" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",04:00-NBA-Memphis Grizzlies-Golden State Warriors
+#EXTINF:-1 tvg-id="04:00-NBA-Golden State Warriors-Memphis Grizzlies" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",04:00-NBA-Golden State Warriors-Memphis Grizzlies
 http://127.0.0.1:6878/ace/getstream?id=ef9dcc4eaac36a0f608b52a31f8ab237859e071a&pid=37
-#EXTINF:-1 tvg-id="04:00-NBA-Memphis Grizzlies-Golden State Warriors" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",04:00-NBA-Memphis Grizzlies-Golden State Warriors
+#EXTINF:-1 tvg-id="04:00-NBA-Golden State Warriors-Memphis Grizzlies" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",04:00-NBA-Golden State Warriors-Memphis Grizzlies
 http://127.0.0.1:6878/ace/getstream?id=b5842718859345a596107ab8e6b24d7bfa2d617e&pid=38
-#EXTINF:-1 tvg-id="04:00-NBA-Memphis Grizzlies-Golden State Warriors" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",04:00-NBA-Memphis Grizzlies-Golden State Warriors
+#EXTINF:-1 tvg-id="04:00-NBA-Golden State Warriors-Memphis Grizzlies" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",04:00-NBA-Golden State Warriors-Memphis Grizzlies
 http://127.0.0.1:6878/ace/getstream?id=be02b9918b8fe7224cfa9af1e37856760f95b1b8&pid=39
-#EXTINF:-1 tvg-id="04:00-NBA-Memphis Grizzlies-Golden State Warriors" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",04:00-NBA-Memphis Grizzlies-Golden State Warriors
+#EXTINF:-1 tvg-id="04:00-NBA-Golden State Warriors-Memphis Grizzlies" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",04:00-NBA-Golden State Warriors-Memphis Grizzlies
 http://127.0.0.1:6878/ace/getstream?id=67a33c3f74956eed14b9b400523462fe362e0e66&pid=40
-#EXTINF:-1 tvg-id="04:00-NBA-Memphis Grizzlies-Golden State Warriors" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",04:00-NBA-Memphis Grizzlies-Golden State Warriors
+#EXTINF:-1 tvg-id="04:00-NBA-Golden State Warriors-Memphis Grizzlies" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",04:00-NBA-Golden State Warriors-Memphis Grizzlies
 http://127.0.0.1:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3&pid=41
 #EXTINF:-1 tvg-id="11:00-Barcelona Open-P. Martínez-A. Fils" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",11:00-Barcelona Open-P. Martínez-A. Fils
 http://127.0.0.1:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&pid=42
