@@ -1,157 +1,111 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="17:45-Barcelona Open-J. Fearnley-A. De Miñaur" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:45-Barcelona Open-J. Fearnley-A. De Miñaur
-http://127.0.0.1:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&pid=1
-#EXTINF:-1 tvg-id="17:45-Barcelona Open-J. Fearnley-A. De Miñaur" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:45-Barcelona Open-J. Fearnley-A. De Miñaur
-http://127.0.0.1:6878/ace/getstream?id=639c561dd57fa3fc91fde715caeb696c5efb7ce7&pid=2
-#EXTINF:-1 tvg-id="17:45-Barcelona Open-J. Fearnley-A. De Miñaur" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:45-Barcelona Open-J. Fearnley-A. De Miñaur
-http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230&pid=3
-#EXTINF:-1 tvg-id="18:45-Conference League-Fiorentina-NK Celje" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League-Fiorentina-NK Celje
-http://127.0.0.1:6878/ace/getstream?id=152169ce99e1fd27f2249c18384a121079cdef29&pid=4
-#EXTINF:-1 tvg-id="18:45-Conference League-Fiorentina-NK Celje" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League-Fiorentina-NK Celje
-http://127.0.0.1:6878/ace/getstream?id=7b8d9d280e8a3a9ccbdf560a63b3652b4f0d6f13&pid=5
-#EXTINF:-1 tvg-id="18:45-Conference League-Fiorentina-NK Celje" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League-Fiorentina-NK Celje
-http://127.0.0.1:6878/ace/getstream?id=77998f8161373611ff6b348e7eda5b4e97d3ec29&pid=6
-#EXTINF:-1 tvg-id="18:45-Conference League-Fiorentina-NK Celje" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League-Fiorentina-NK Celje
-http://127.0.0.1:6878/ace/getstream?id=f1219582a3059e7fff2db22e69475c45cbc84356&pid=7
-#EXTINF:-1 tvg-id="18:45-Conference League-Jagiellonia Bialystok-Real Betis" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League-Jagiellonia Bialystok-Real Betis
-http://127.0.0.1:6878/ace/getstream?id=608b0faf7d3d25f6fe5dba13d5e4b4142949990e&pid=8
-#EXTINF:-1 tvg-id="18:45-Conference League-Jagiellonia Bialystok-Real Betis" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League-Jagiellonia Bialystok-Real Betis
-http://127.0.0.1:6878/ace/getstream?id=94d34491106e00394835c8cb68aa94481339b53f&pid=9
-#EXTINF:-1 tvg-id="18:45-Conference League-Jagiellonia Bialystok-Real Betis" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League-Jagiellonia Bialystok-Real Betis
-http://127.0.0.1:6878/ace/getstream?id=c16b4fab1f724c94cad92081cbb7fc7c6fe8a2cc&pid=10
-#EXTINF:-1 tvg-id="18:45-Conference League-Jagiellonia Bialystok-Real Betis" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League-Jagiellonia Bialystok-Real Betis
-http://127.0.0.1:6878/ace/getstream?id=778f08cbae9596ed9e8b2ae0af33ee7a6fe24c6a&pid=11
-#EXTINF:-1 tvg-id="18:45-Conference League-Jagiellonia Bialystok-Real Betis" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League-Jagiellonia Bialystok-Real Betis
-http://127.0.0.1:6878/ace/getstream?id=afbf2a479c5a5072698139f0f556ef3e77a99bd0&pid=12
-#EXTINF:-1 tvg-id="18:45-Conference League-Jagiellonia Bialystok-Real Betis" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League-Jagiellonia Bialystok-Real Betis
-http://127.0.0.1:6878/ace/getstream?id=6d88c66c89f3dbe1e6dacb5a8f7c9a98b12e6c63&pid=13
-#EXTINF:-1 tvg-id="18:45-Conference League-Jagiellonia Bialystok-Real Betis" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League-Jagiellonia Bialystok-Real Betis
-http://127.0.0.1:6878/ace/getstream?id=a9025d4e168764248d33129c30940502cea0e1c2&pid=14
-#EXTINF:-1 tvg-id="18:45-Conference League-Jagiellonia Bialystok-Real Betis" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League-Jagiellonia Bialystok-Real Betis
-http://127.0.0.1:6878/ace/getstream?id=47223e64a576c21bd61e818a42397a753d34fba5&pid=15
-#EXTINF:-1 tvg-id="18:45-Conference League-Jagiellonia Bialystok-Real Betis" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League-Jagiellonia Bialystok-Real Betis
-http://127.0.0.1:6878/ace/getstream?id=e572a5178ff72eed7d1d751a18b4b3419699f370&pid=16
-#EXTINF:-1 tvg-id="21:00-Conference League-Chelsea-Legia Warszawa" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League-Chelsea-Legia Warszawa
-http://127.0.0.1:6878/ace/getstream?id=17b8bc4bf8e29547b0071c742e3d7da3bcbc484d&pid=17
-#EXTINF:-1 tvg-id="21:00-Conference League-Chelsea-Legia Warszawa" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League-Chelsea-Legia Warszawa
-http://127.0.0.1:6878/ace/getstream?id=4fc2fce0d019bdb622164bba3cff84c120fb9243&pid=18
-#EXTINF:-1 tvg-id="21:00-Conference League-Chelsea-Legia Warszawa" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League-Chelsea-Legia Warszawa
-http://127.0.0.1:6878/ace/getstream?id=15127320406cf6a072c4f485f31c841d7d3e62f3&pid=19
-#EXTINF:-1 tvg-id="21:00-Conference League-Chelsea-Legia Warszawa" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League-Chelsea-Legia Warszawa
-http://127.0.0.1:6878/ace/getstream?id=97f8a84212fe6b3d2ab15aadc83c7b5e6af656c9&pid=20
-#EXTINF:-1 tvg-id="21:00-Conference League-Chelsea-Legia Warszawa" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League-Chelsea-Legia Warszawa
-http://127.0.0.1:6878/ace/getstream?id=80abcb38122c25fefb4dffeb57086998447ff49b&pid=21
-#EXTINF:-1 tvg-id="21:00-Conference League-Rapid Wien-Djurgårdens IF" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League-Rapid Wien-Djurgårdens IF
-http://127.0.0.1:6878/ace/getstream?id=17b8bc4bf8e29547b0071c742e3d7da3bcbc484d&pid=22
-#EXTINF:-1 tvg-id="21:00-Conference League-Rapid Wien-Djurgårdens IF" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League-Rapid Wien-Djurgårdens IF
-http://127.0.0.1:6878/ace/getstream?id=4fc2fce0d019bdb622164bba3cff84c120fb9243&pid=23
-#EXTINF:-1 tvg-id="21:00-Conference League-Rapid Wien-Djurgårdens IF" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League-Rapid Wien-Djurgårdens IF
-http://127.0.0.1:6878/ace/getstream?id=15127320406cf6a072c4f485f31c841d7d3e62f3&pid=24
-#EXTINF:-1 tvg-id="21:00-Conference League-Rapid Wien-Djurgårdens IF" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League-Rapid Wien-Djurgårdens IF
-http://127.0.0.1:6878/ace/getstream?id=80abcb38122c25fefb4dffeb57086998447ff49b&pid=25
-#EXTINF:-1 tvg-id="21:00-Conference League-Rapid Wien-Djurgårdens IF" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League-Rapid Wien-Djurgårdens IF
-http://127.0.0.1:6878/ace/getstream?id=0103373118989085dd0d02667c629ee36d462cb1&pid=26
-#EXTINF:-1 tvg-id="21:00-Europa League-Athletic Club-Rangers FC" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League-Athletic Club-Rangers FC
-http://127.0.0.1:6878/ace/getstream?id=608b0faf7d3d25f6fe5dba13d5e4b4142949990e&pid=27
-#EXTINF:-1 tvg-id="21:00-Europa League-Athletic Club-Rangers FC" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League-Athletic Club-Rangers FC
-http://127.0.0.1:6878/ace/getstream?id=94d34491106e00394835c8cb68aa94481339b53f&pid=28
-#EXTINF:-1 tvg-id="21:00-Europa League-Athletic Club-Rangers FC" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League-Athletic Club-Rangers FC
-http://127.0.0.1:6878/ace/getstream?id=c6a3673f6a37b1bd3cf31fdd6404dd33d48cfccb&pid=29
-#EXTINF:-1 tvg-id="21:00-Europa League-Athletic Club-Rangers FC" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League-Athletic Club-Rangers FC
-http://127.0.0.1:6878/ace/getstream?id=4fc6d0331830ad8743abab2fe2473b63bdfbc49f&pid=30
-#EXTINF:-1 tvg-id="21:00-Europa League-Athletic Club-Rangers FC" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League-Athletic Club-Rangers FC
-http://127.0.0.1:6878/ace/getstream?id=3bb6c5f346369d4f2a6bde45ec0bfe100d0e1f42&pid=31
-#EXTINF:-1 tvg-id="21:00-Europa League-Athletic Club-Rangers FC" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League-Athletic Club-Rangers FC
-http://127.0.0.1:6878/ace/getstream?id=4c6ed0cd87c090f3cf85b2c8adbe8b37dba08565&pid=32
-#EXTINF:-1 tvg-id="21:00-Europa League-Athletic Club-Rangers FC" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League-Athletic Club-Rangers FC
-http://127.0.0.1:6878/ace/getstream?id=abdf9058786a48623d0de51a3adb414ae10b6e72&pid=33
-#EXTINF:-1 tvg-id="21:00-Europa League-Athletic Club-Rangers FC" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League-Athletic Club-Rangers FC
-http://127.0.0.1:6878/ace/getstream?id=17b8bc4bf8e29547b0071c742e3d7da3bcbc484d&pid=34
-#EXTINF:-1 tvg-id="21:00-Europa League-Athletic Club-Rangers FC" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League-Athletic Club-Rangers FC
-http://127.0.0.1:6878/ace/getstream?id=4fc2fce0d019bdb622164bba3cff84c120fb9243&pid=35
-#EXTINF:-1 tvg-id="21:00-Europa League-Athletic Club-Rangers FC" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League-Athletic Club-Rangers FC
-http://127.0.0.1:6878/ace/getstream?id=15127320406cf6a072c4f485f31c841d7d3e62f3&pid=36
-#EXTINF:-1 tvg-id="21:00-Europa League-Athletic Club-Rangers FC" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League-Athletic Club-Rangers FC
-http://127.0.0.1:6878/ace/getstream?id=b2a4d1eba9b46df5f52a87105df779f9d39abeb4&pid=37
-#EXTINF:-1 tvg-id="21:00-Europa League-Eintracht Frankfurt-Tottenham" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League-Eintracht Frankfurt-Tottenham
-http://127.0.0.1:6878/ace/getstream?id=17b8bc4bf8e29547b0071c742e3d7da3bcbc484d&pid=38
-#EXTINF:-1 tvg-id="21:00-Europa League-Eintracht Frankfurt-Tottenham" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League-Eintracht Frankfurt-Tottenham
-http://127.0.0.1:6878/ace/getstream?id=4fc2fce0d019bdb622164bba3cff84c120fb9243&pid=39
-#EXTINF:-1 tvg-id="21:00-Europa League-Eintracht Frankfurt-Tottenham" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League-Eintracht Frankfurt-Tottenham
-http://127.0.0.1:6878/ace/getstream?id=15127320406cf6a072c4f485f31c841d7d3e62f3&pid=40
-#EXTINF:-1 tvg-id="21:00-Europa League-Eintracht Frankfurt-Tottenham" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League-Eintracht Frankfurt-Tottenham
-http://127.0.0.1:6878/ace/getstream?id=976983697790ab8a07b764b08843529d38bc6444&pid=41
-#EXTINF:-1 tvg-id="21:00-Europa League-Lazio-Bodø Glimt" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League-Lazio-Bodø Glimt
-http://127.0.0.1:6878/ace/getstream?id=17b8bc4bf8e29547b0071c742e3d7da3bcbc484d&pid=42
-#EXTINF:-1 tvg-id="21:00-Europa League-Lazio-Bodø Glimt" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League-Lazio-Bodø Glimt
-http://127.0.0.1:6878/ace/getstream?id=4fc2fce0d019bdb622164bba3cff84c120fb9243&pid=43
-#EXTINF:-1 tvg-id="21:00-Europa League-Lazio-Bodø Glimt" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League-Lazio-Bodø Glimt
-http://127.0.0.1:6878/ace/getstream?id=15127320406cf6a072c4f485f31c841d7d3e62f3&pid=44
-#EXTINF:-1 tvg-id="21:00-Europa League-Lazio-Bodø Glimt" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League-Lazio-Bodø Glimt
-http://127.0.0.1:6878/ace/getstream?id=83c02982581a536d1321e38a77dc0c520b1cb842&pid=45
-#EXTINF:-1 tvg-id="21:00-Europa League-Manchester Utd.-O. Lyonnais" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League-Manchester Utd.-O. Lyonnais
-http://127.0.0.1:6878/ace/getstream?id=17b8bc4bf8e29547b0071c742e3d7da3bcbc484d&pid=46
-#EXTINF:-1 tvg-id="21:00-Europa League-Manchester Utd.-O. Lyonnais" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League-Manchester Utd.-O. Lyonnais
-http://127.0.0.1:6878/ace/getstream?id=4fc2fce0d019bdb622164bba3cff84c120fb9243&pid=47
-#EXTINF:-1 tvg-id="21:00-Europa League-Manchester Utd.-O. Lyonnais" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League-Manchester Utd.-O. Lyonnais
-http://127.0.0.1:6878/ace/getstream?id=15127320406cf6a072c4f485f31c841d7d3e62f3&pid=48
-#EXTINF:-1 tvg-id="21:00-Europa League-Manchester Utd.-O. Lyonnais" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League-Manchester Utd.-O. Lyonnais
-http://127.0.0.1:6878/ace/getstream?id=152169ce99e1fd27f2249c18384a121079cdef29&pid=49
-#EXTINF:-1 tvg-id="21:00-Europa League-Manchester Utd.-O. Lyonnais" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League-Manchester Utd.-O. Lyonnais
-http://127.0.0.1:6878/ace/getstream?id=7b8d9d280e8a3a9ccbdf560a63b3652b4f0d6f13&pid=50
-#EXTINF:-1 tvg-id="21:00-Europa League-Manchester Utd.-O. Lyonnais" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League-Manchester Utd.-O. Lyonnais
-http://127.0.0.1:6878/ace/getstream?id=77998f8161373611ff6b348e7eda5b4e97d3ec29&pid=51
-#EXTINF:-1 tvg-id="21:00-Europa League-Manchester Utd.-O. Lyonnais" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League-Manchester Utd.-O. Lyonnais
-http://127.0.0.1:6878/ace/getstream?id=f1219582a3059e7fff2db22e69475c45cbc84356&pid=52
-#EXTINF:-1 tvg-id="21:00-Europa League-Manchester Utd.-O. Lyonnais" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League-Manchester Utd.-O. Lyonnais
-http://127.0.0.1:6878/ace/getstream?id=cb6410a6355a645cfc6f6f5a7c7d71298fcbc2c5&pid=53
-#EXTINF:-1 tvg-id="21:00-Europa League-Manchester Utd.-O. Lyonnais" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League-Manchester Utd.-O. Lyonnais
-http://127.0.0.1:6878/ace/getstream?id=d2cf12b65c8a540a50bd74c3db1ce59ae8d05623&pid=54
-#EXTINF:-1 tvg-id="01:30-NBA-Chicago Bulls-Miami Heat" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",01:30-NBA-Chicago Bulls-Miami Heat
-http://127.0.0.1:6878/ace/getstream?id=ef9dcc4eaac36a0f608b52a31f8ab237859e071a&pid=55
-#EXTINF:-1 tvg-id="01:30-NBA-Chicago Bulls-Miami Heat" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",01:30-NBA-Chicago Bulls-Miami Heat
-http://127.0.0.1:6878/ace/getstream?id=b5842718859345a596107ab8e6b24d7bfa2d617e&pid=56
-#EXTINF:-1 tvg-id="01:30-NBA-Chicago Bulls-Miami Heat" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",01:30-NBA-Chicago Bulls-Miami Heat
-http://127.0.0.1:6878/ace/getstream?id=be02b9918b8fe7224cfa9af1e37856760f95b1b8&pid=57
-#EXTINF:-1 tvg-id="01:30-NBA-Chicago Bulls-Miami Heat" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",01:30-NBA-Chicago Bulls-Miami Heat
-http://127.0.0.1:6878/ace/getstream?id=67a33c3f74956eed14b9b400523462fe362e0e66&pid=58
-#EXTINF:-1 tvg-id="01:30-NBA-Chicago Bulls-Miami Heat" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",01:30-NBA-Chicago Bulls-Miami Heat
-http://127.0.0.1:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3&pid=59
-#EXTINF:-1 tvg-id="04:00-NBA-Sacramento Kings-Dallas Mavericks" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",04:00-NBA-Sacramento Kings-Dallas Mavericks
-http://127.0.0.1:6878/ace/getstream?id=ef9dcc4eaac36a0f608b52a31f8ab237859e071a&pid=60
-#EXTINF:-1 tvg-id="04:00-NBA-Sacramento Kings-Dallas Mavericks" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",04:00-NBA-Sacramento Kings-Dallas Mavericks
-http://127.0.0.1:6878/ace/getstream?id=b5842718859345a596107ab8e6b24d7bfa2d617e&pid=61
-#EXTINF:-1 tvg-id="04:00-NBA-Sacramento Kings-Dallas Mavericks" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",04:00-NBA-Sacramento Kings-Dallas Mavericks
+http://127.0.0.1:6878/ace/getstream?id=static.futbolenlatv.com/img/32/20130727123206-espana.webp"-title="Barcelona Open" class="js-webp-default"&pid=1
+http://127.0.0.1:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&pid=2
+http://127.0.0.1:6878/ace/getstream?id=static.futbolenlatv.com/img/32/20130727123206-espana.webp"-title="Barcelona Open" class="js-webp-default"&pid=3
+http://127.0.0.1:6878/ace/getstream?id=639c561dd57fa3fc91fde715caeb696c5efb7ce7&pid=4
+http://127.0.0.1:6878/ace/getstream?id=static.futbolenlatv.com/img/32/20130727123206-espana.webp"-title="Barcelona Open" class="js-webp-default"&pid=5
+http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230&pid=6
+http://127.0.0.1:6878/ace/getstream?id=static.futbolenlatv.com/img/32/20130727123206-espana.webp"-title="Segunda" class="js-webp-default"&pid=7
+http://127.0.0.1:6878/ace/getstream?id=b2706a7ffbea236a3b398139a3a606ada664c0eb&pid=8
+http://127.0.0.1:6878/ace/getstream?id=static.futbolenlatv.com/img/32/20130727123206-espana.webp"-title="Segunda" class="js-webp-default"&pid=9
+http://127.0.0.1:6878/ace/getstream?id=fe289ab20d8f9dcb426fc6d56ce9dbbddb66e3b3&pid=10
+http://127.0.0.1:6878/ace/getstream?id=static.futbolenlatv.com/img/32/20130727123206-espana.webp"-title="Segunda" class="js-webp-default"&pid=11
+http://127.0.0.1:6878/ace/getstream?id=83e8a605ffebe2062f15dad76b6ffe9486a28eb3&pid=12
+http://127.0.0.1:6878/ace/getstream?id=static.futbolenlatv.com/img/32/20130727123206-espana.webp"-title="Segunda" class="js-webp-default"&pid=13
+http://127.0.0.1:6878/ace/getstream?id=8c8c1e047a1c5ed213ba74722a5345dc55c3c0eb&pid=14
+http://127.0.0.1:6878/ace/getstream?id=static.futbolenlatv.com/img/32/20130727123206-espana.webp"-title="Segunda" class="js-webp-default"&pid=15
+http://127.0.0.1:6878/ace/getstream?id=608b0faf7d3d25f6fe5dba13d5e4b4142949990e&pid=16
+http://127.0.0.1:6878/ace/getstream?id=static.futbolenlatv.com/img/32/20180105014712-formula1.webp"-title="Fórmula 1" class="js-webp-default"&pid=17
+http://127.0.0.1:6878/ace/getstream?id=d6281d4e6310269b416180442a470d23a4a99dc9&pid=18
+http://127.0.0.1:6878/ace/getstream?id=static.futbolenlatv.com/img/32/20180105014712-formula1.webp"-title="Fórmula 1" class="js-webp-default"&pid=19
+http://127.0.0.1:6878/ace/getstream?id=2c6e4c897661e6b0257bfe931b66d20b2ec763b6&pid=20
+http://127.0.0.1:6878/ace/getstream?id=static.futbolenlatv.com/img/32/20180105014712-formula1.webp"-title="Fórmula 1" class="js-webp-default"&pid=21
+http://127.0.0.1:6878/ace/getstream?id=71eef80158aa8b37f3dc59f6793c6696df9a2dfa&pid=22
+http://127.0.0.1:6878/ace/getstream?id=static.futbolenlatv.com/img/32/20180105014712-formula1.webp"-title="Fórmula 1" class="js-webp-default"&pid=23
+http://127.0.0.1:6878/ace/getstream?id=268289e7a3c5209960b53b4d43c8c65fab294b85&pid=24
+http://127.0.0.1:6878/ace/getstream?id=static.futbolenlatv.com/img/32/20180105014712-formula1.webp"-title="Fórmula 1" class="js-webp-default"&pid=25
+http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8&pid=26
+http://127.0.0.1:6878/ace/getstream?id=static.futbolenlatv.com/img/32/20180105014712-formula1.webp"-title="Fórmula 1" class="js-webp-default"&pid=27
+http://127.0.0.1:6878/ace/getstream?id=6422e8bc34282871634c81947be093c04ad1bb29&pid=28
+http://127.0.0.1:6878/ace/getstream?id=static.futbolenlatv.com/img/32/20180105014712-formula1.webp"-title="Fórmula 1" class="js-webp-default"&pid=29
+http://127.0.0.1:6878/ace/getstream?id=c9c18ae7a9dafba1caae5beb22060f9c92bba553&pid=30
+http://127.0.0.1:6878/ace/getstream?id=static.futbolenlatv.com/img/32/20180105014712-formula1.webp"-title="Fórmula 1" class="js-webp-default"&pid=31
+http://127.0.0.1:6878/ace/getstream?id=515efd8115482bda8d92aa6df9a882a5e5797494&pid=32
+http://127.0.0.1:6878/ace/getstream?id=static.futbolenlatv.com/img/32/20180105014712-formula1.webp"-title="Fórmula 1" class="js-webp-default"&pid=33
+http://127.0.0.1:6878/ace/getstream?id=d27584ebe5128c8033cb6fdc806a994fbd17b790&pid=34
+http://127.0.0.1:6878/ace/getstream?id=static.futbolenlatv.com/img/32/20180105014712-formula1.webp"-title="Fórmula 1" class="js-webp-default"&pid=35
+http://127.0.0.1:6878/ace/getstream?id=d8068894248c1f21eea31e538917276a8c49ec06&pid=36
+http://127.0.0.1:6878/ace/getstream?id=static.futbolenlatv.com/img/32/20171010043749-eurocup-women.webp"-title="F1 Academy" class="js-webp-default"&pid=37
+http://127.0.0.1:6878/ace/getstream?id=d6281d4e6310269b416180442a470d23a4a99dc9&pid=38
+http://127.0.0.1:6878/ace/getstream?id=static.futbolenlatv.com/img/32/20171010043749-eurocup-women.webp"-title="F1 Academy" class="js-webp-default"&pid=39
+http://127.0.0.1:6878/ace/getstream?id=2c6e4c897661e6b0257bfe931b66d20b2ec763b6&pid=40
+http://127.0.0.1:6878/ace/getstream?id=static.futbolenlatv.com/img/32/20171010043749-eurocup-women.webp"-title="F1 Academy" class="js-webp-default"&pid=41
+http://127.0.0.1:6878/ace/getstream?id=71eef80158aa8b37f3dc59f6793c6696df9a2dfa&pid=42
+http://127.0.0.1:6878/ace/getstream?id=static.futbolenlatv.com/img/32/20171010043749-eurocup-women.webp"-title="F1 Academy" class="js-webp-default"&pid=43
+http://127.0.0.1:6878/ace/getstream?id=268289e7a3c5209960b53b4d43c8c65fab294b85&pid=44
+http://127.0.0.1:6878/ace/getstream?id=static.futbolenlatv.com/img/32/20171010043749-eurocup-women.webp"-title="F1 Academy" class="js-webp-default"&pid=45
+http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8&pid=46
+http://127.0.0.1:6878/ace/getstream?id=static.futbolenlatv.com/img/32/20171010043749-eurocup-women.webp"-title="F1 Academy" class="js-webp-default"&pid=47
+http://127.0.0.1:6878/ace/getstream?id=6422e8bc34282871634c81947be093c04ad1bb29&pid=48
+http://127.0.0.1:6878/ace/getstream?id=static.futbolenlatv.com/img/32/20171010043749-eurocup-women.webp"-title="F1 Academy" class="js-webp-default"&pid=49
+http://127.0.0.1:6878/ace/getstream?id=c9c18ae7a9dafba1caae5beb22060f9c92bba553&pid=50
+http://127.0.0.1:6878/ace/getstream?id=static.futbolenlatv.com/img/32/20171010043749-eurocup-women.webp"-title="F1 Academy" class="js-webp-default"&pid=51
+http://127.0.0.1:6878/ace/getstream?id=515efd8115482bda8d92aa6df9a882a5e5797494&pid=52
+http://127.0.0.1:6878/ace/getstream?id=static.futbolenlatv.com/img/32/20171010043749-eurocup-women.webp"-title="F1 Academy" class="js-webp-default"&pid=53
+http://127.0.0.1:6878/ace/getstream?id=d27584ebe5128c8033cb6fdc806a994fbd17b790&pid=54
+http://127.0.0.1:6878/ace/getstream?id=static.futbolenlatv.com/img/32/20171010043749-eurocup-women.webp"-title="F1 Academy" class="js-webp-default"&pid=55
+http://127.0.0.1:6878/ace/getstream?id=d8068894248c1f21eea31e538917276a8c49ec06&pid=56
+http://127.0.0.1:6878/ace/getstream?id=static.futbolenlatv.com/img/32/20171010043802-euroliga.webp"-title="Euroliga" class="js-webp-default"&pid=57
+http://127.0.0.1:6878/ace/getstream?id=ef9dcc4eaac36a0f608b52a31f8ab237859e071a&pid=58
+http://127.0.0.1:6878/ace/getstream?id=static.futbolenlatv.com/img/32/20171010043802-euroliga.webp"-title="Euroliga" class="js-webp-default"&pid=59
+http://127.0.0.1:6878/ace/getstream?id=b5842718859345a596107ab8e6b24d7bfa2d617e&pid=60
+http://127.0.0.1:6878/ace/getstream?id=static.futbolenlatv.com/img/32/20171010043802-euroliga.webp"-title="Euroliga" class="js-webp-default"&pid=61
 http://127.0.0.1:6878/ace/getstream?id=be02b9918b8fe7224cfa9af1e37856760f95b1b8&pid=62
-#EXTINF:-1 tvg-id="04:00-NBA-Sacramento Kings-Dallas Mavericks" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",04:00-NBA-Sacramento Kings-Dallas Mavericks
-http://127.0.0.1:6878/ace/getstream?id=67a33c3f74956eed14b9b400523462fe362e0e66&pid=63
-#EXTINF:-1 tvg-id="04:00-NBA-Sacramento Kings-Dallas Mavericks" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",04:00-NBA-Sacramento Kings-Dallas Mavericks
-http://127.0.0.1:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3&pid=64
-#EXTINF:-1 tvg-id="11:10-Barcelona Open-J. Munar-K. Khachanov" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",11:10-Barcelona Open-J. Munar-K. Khachanov
-http://127.0.0.1:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&pid=65
-#EXTINF:-1 tvg-id="11:10-Barcelona Open-J. Munar-K. Khachanov" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",11:10-Barcelona Open-J. Munar-K. Khachanov
-http://127.0.0.1:6878/ace/getstream?id=639c561dd57fa3fc91fde715caeb696c5efb7ce7&pid=66
-#EXTINF:-1 tvg-id="11:10-Barcelona Open-J. Munar-K. Khachanov" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",11:10-Barcelona Open-J. Munar-K. Khachanov
-http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230&pid=67
-#EXTINF:-1 tvg-id="11:10-Torneo de Múnich-D. Goffin-M. Navone" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",11:10-Torneo de Múnich-D. Goffin-M. Navone
-http://127.0.0.1:6878/ace/getstream?id=58a4c880ab18486d914751db32a12760e74b75a4&pid=68
-#EXTINF:-1 tvg-id="13:40-Barcelona Open-A. Davidovich-A. Rublev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",13:40-Barcelona Open-A. Davidovich-A. Rublev
-http://127.0.0.1:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&pid=69
-#EXTINF:-1 tvg-id="13:40-Barcelona Open-A. Davidovich-A. Rublev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",13:40-Barcelona Open-A. Davidovich-A. Rublev
-http://127.0.0.1:6878/ace/getstream?id=639c561dd57fa3fc91fde715caeb696c5efb7ce7&pid=70
-#EXTINF:-1 tvg-id="13:40-Barcelona Open-A. Davidovich-A. Rublev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",13:40-Barcelona Open-A. Davidovich-A. Rublev
-http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230&pid=71
-#EXTINF:-1 tvg-id="13:45-Torneo de Múnich-F. Cerúndolo-A. Shevchenko" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",13:45-Torneo de Múnich-F. Cerúndolo-A. Shevchenko
-http://127.0.0.1:6878/ace/getstream?id=58a4c880ab18486d914751db32a12760e74b75a4&pid=72
-#EXTINF:-1 tvg-id="15:30-Torneo de Múnich-Z. Bergs-D. Dedura-Palomero" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:30-Torneo de Múnich-Z. Bergs-D. Dedura-Palomero
-http://127.0.0.1:6878/ace/getstream?id=58a4c880ab18486d914751db32a12760e74b75a4&pid=73
-#EXTINF:-1 tvg-id="16:10-Barcelona Open-C. Alcaraz-L. Djere" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:10-Barcelona Open-C. Alcaraz-L. Djere
-http://127.0.0.1:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&pid=74
-#EXTINF:-1 tvg-id="16:10-Barcelona Open-C. Alcaraz-L. Djere" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:10-Barcelona Open-C. Alcaraz-L. Djere
-http://127.0.0.1:6878/ace/getstream?id=639c561dd57fa3fc91fde715caeb696c5efb7ce7&pid=75
-#EXTINF:-1 tvg-id="16:10-Barcelona Open-C. Alcaraz-L. Djere" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:10-Barcelona Open-C. Alcaraz-L. Djere
-http://127.0.0.1:6878/ace/getstream?id=b2a4d1eba9b46df5f52a87105df779f9d39abeb4&pid=76
-#EXTINF:-1 tvg-id="16:10-Barcelona Open-C. Alcaraz-L. Djere" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:10-Barcelona Open-C. Alcaraz-L. Djere
-http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230&pid=77
-#EXTINF:-1 tvg-id="16:55-Torneo de Múnich-U. Humbert-F. Marozsan" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:55-Torneo de Múnich-U. Humbert-F. Marozsan
-http://127.0.0.1:6878/ace/getstream?id=58a4c880ab18486d914751db32a12760e74b75a4&pid=78
+http://127.0.0.1:6878/ace/getstream?id=static.futbolenlatv.com/img/32/20171010043802-euroliga.webp"-title="Euroliga" class="js-webp-default"&pid=63
+http://127.0.0.1:6878/ace/getstream?id=67a33c3f74956eed14b9b400523462fe362e0e66&pid=64
+http://127.0.0.1:6878/ace/getstream?id=static.futbolenlatv.com/img/32/20171010043802-euroliga.webp"-title="Euroliga" class="js-webp-default"&pid=65
+http://127.0.0.1:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3&pid=66
+http://127.0.0.1:6878/ace/getstream?id=static.futbolenlatv.com/img/32/20171010043802-euroliga.webp"-title="Euroliga" class="js-webp-default"&pid=67
+http://127.0.0.1:6878/ace/getstream?id=b2a4d1eba9b46df5f52a87105df779f9d39abeb4&pid=68
+http://127.0.0.1:6878/ace/getstream?id=static.futbolenlatv.com/img/32/20130727123206-espana.webp"-title="Primera" class="js-webp-default"&pid=69
+http://127.0.0.1:6878/ace/getstream?id=8c8c1e047a1c5ed213ba74722a5345dc55c3c0eb&pid=70
+http://127.0.0.1:6878/ace/getstream?id=static.futbolenlatv.com/img/32/20130727123206-espana.webp"-title="Primera" class="js-webp-default"&pid=71
+http://127.0.0.1:6878/ace/getstream?id=608b0faf7d3d25f6fe5dba13d5e4b4142949990e&pid=72
+http://127.0.0.1:6878/ace/getstream?id=static.futbolenlatv.com/img/32/20130727123206-espana.webp"-title="Segunda" class="js-webp-default"&pid=73
+http://127.0.0.1:6878/ace/getstream?id=b2a4d1eba9b46df5f52a87105df779f9d39abeb4&pid=74
+http://127.0.0.1:6878/ace/getstream?id=static.futbolenlatv.com/img/32/20130727123206-espana.webp"-title="Segunda" class="js-webp-default"&pid=75
+http://127.0.0.1:6878/ace/getstream?id=3b2a8b41e7097c16b0468b42d7de0320886fa933&pid=76
+http://127.0.0.1:6878/ace/getstream?id=static.futbolenlatv.com/img/32/20130727123206-espana.webp"-title="Segunda" class="js-webp-default"&pid=77
+http://127.0.0.1:6878/ace/getstream?id=2940120bf034db79a7f5849846ccea0255172eae&pid=78
+http://127.0.0.1:6878/ace/getstream?id=static.futbolenlatv.com/img/32/20130727123206-espana.webp"-title="Segunda" class="js-webp-default"&pid=79
+http://127.0.0.1:6878/ace/getstream?id=57313e1ef438538df4feb5a6028dc78ee4f66b6a&pid=80
+http://127.0.0.1:6878/ace/getstream?id=static.futbolenlatv.com/img/32/20130727123206-espana.webp"-title="Segunda" class="js-webp-default"&pid=81
+http://127.0.0.1:6878/ace/getstream?id=1205151f6fa5d95c0eeb543cbce43ccfa6a1b216&pid=82
+http://127.0.0.1:6878/ace/getstream?id=static.futbolenlatv.com/img/32/20130727123206-espana.webp"-title="Segunda" class="js-webp-default"&pid=83
+http://127.0.0.1:6878/ace/getstream?id=d03c13b6723f66155d7a0df3692a3b073fe630f2&pid=84
+http://127.0.0.1:6878/ace/getstream?id=static.futbolenlatv.com/img/32/20130727123206-espana.webp"-title="Segunda" class="js-webp-default"&pid=85
+http://127.0.0.1:6878/ace/getstream?id=12ba546d229bc39f01c3c18988a034b215fe6adb&pid=86
+http://127.0.0.1:6878/ace/getstream?id=static.futbolenlatv.com/img/32/20130727123343-Alemania.webp"-title="Torneo de Múnich" class="js-webp-default"&pid=87
+http://127.0.0.1:6878/ace/getstream?id=58a4c880ab18486d914751db32a12760e74b75a4&pid=88
+http://127.0.0.1:6878/ace/getstream?id=static.futbolenlatv.com/img/32/20130727123206-espana.webp"-title="Barcelona Open" class="js-webp-default"&pid=89
+http://127.0.0.1:6878/ace/getstream?id=b2a4d1eba9b46df5f52a87105df779f9d39abeb4&pid=90
+http://127.0.0.1:6878/ace/getstream?id=static.futbolenlatv.com/img/32/20190326093023-fia-formula-2.webp"-title="FIA Fórmula 2" class="js-webp-default"&pid=91
+http://127.0.0.1:6878/ace/getstream?id=d6281d4e6310269b416180442a470d23a4a99dc9&pid=92
+http://127.0.0.1:6878/ace/getstream?id=static.futbolenlatv.com/img/32/20190326093023-fia-formula-2.webp"-title="FIA Fórmula 2" class="js-webp-default"&pid=93
+http://127.0.0.1:6878/ace/getstream?id=2c6e4c897661e6b0257bfe931b66d20b2ec763b6&pid=94
+http://127.0.0.1:6878/ace/getstream?id=static.futbolenlatv.com/img/32/20190326093023-fia-formula-2.webp"-title="FIA Fórmula 2" class="js-webp-default"&pid=95
+http://127.0.0.1:6878/ace/getstream?id=71eef80158aa8b37f3dc59f6793c6696df9a2dfa&pid=96
+http://127.0.0.1:6878/ace/getstream?id=static.futbolenlatv.com/img/32/20190326093023-fia-formula-2.webp"-title="FIA Fórmula 2" class="js-webp-default"&pid=97
+http://127.0.0.1:6878/ace/getstream?id=268289e7a3c5209960b53b4d43c8c65fab294b85&pid=98
+http://127.0.0.1:6878/ace/getstream?id=static.futbolenlatv.com/img/32/20190326093023-fia-formula-2.webp"-title="FIA Fórmula 2" class="js-webp-default"&pid=99
+http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8&pid=100
+http://127.0.0.1:6878/ace/getstream?id=static.futbolenlatv.com/img/32/20190326093023-fia-formula-2.webp"-title="FIA Fórmula 2" class="js-webp-default"&pid=101
+http://127.0.0.1:6878/ace/getstream?id=6422e8bc34282871634c81947be093c04ad1bb29&pid=102
+http://127.0.0.1:6878/ace/getstream?id=static.futbolenlatv.com/img/32/20190326093023-fia-formula-2.webp"-title="FIA Fórmula 2" class="js-webp-default"&pid=103
+http://127.0.0.1:6878/ace/getstream?id=c9c18ae7a9dafba1caae5beb22060f9c92bba553&pid=104
+http://127.0.0.1:6878/ace/getstream?id=static.futbolenlatv.com/img/32/20190326093023-fia-formula-2.webp"-title="FIA Fórmula 2" class="js-webp-default"&pid=105
+http://127.0.0.1:6878/ace/getstream?id=515efd8115482bda8d92aa6df9a882a5e5797494&pid=106
+http://127.0.0.1:6878/ace/getstream?id=static.futbolenlatv.com/img/32/20190326093023-fia-formula-2.webp"-title="FIA Fórmula 2" class="js-webp-default"&pid=107
+http://127.0.0.1:6878/ace/getstream?id=d27584ebe5128c8033cb6fdc806a994fbd17b790&pid=108
+http://127.0.0.1:6878/ace/getstream?id=static.futbolenlatv.com/img/32/20190326093023-fia-formula-2.webp"-title="FIA Fórmula 2" class="js-webp-default"&pid=109
+http://127.0.0.1:6878/ace/getstream?id=d8068894248c1f21eea31e538917276a8c49ec06&pid=110
