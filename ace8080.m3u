@@ -189,8 +189,6 @@ pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=b926e6a6ab1
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=9798df57203105309f47b1aa81b6badf00fd0f35
 #EXTINF:-1 tvg-id="MGPTV | CAMARA DE A BORDO 4" group-title="New Era",MGPTV | CAMARA DE A BORDO 4
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=de3ae87e72054cf3ce75268753845c97b931ad58
-#EXTINF:-1 tvg-id="DAZN 1" group-title="New Loop",DAZN 1
-pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="DAZN 1" group-title="Elcano",DAZN 1
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=35c7f0c966ecde3390f4510bb4caded40018c07a
 #EXTINF:-1 tvg-id="DAZN 1" group-title="New Era",DAZN 1
@@ -233,7 +231,7 @@ pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=16ffa1713f4
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=714e14e6d6e27660fd25a75b57b0ac5580fe705d
 #EXTINF:-1 tvg-id="Eurosport 1" group-title="New Era",Eurosport 1
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=bae98f69fbf867550b4f73b4eb176dae84d7f909
-#EXTINF:-1 tvg-id="Eurosport 1" group-title="New Loop",Eurosport 1
+#EXTINF:-1 tvg-id="Eurosport 1" group-title="Antigua",Eurosport 1
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=1b0bc4d4dcd609d3c092712e721392b199f50a62
 #EXTINF:-1 tvg-id="Eurosport 2" group-title="New Era",Eurosport 2
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=dc4ccb9e72550bc72be9360aa7d77e337ad11ecc
