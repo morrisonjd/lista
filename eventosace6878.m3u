@@ -1,7 +1,7 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="19:00-WTA Madrid 2ª Ronda-J. Pegula-E. Lys" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",19:00-WTA Madrid 2ª Ronda-J. Pegula-E. Lys
-http://127.0.0.1:6878/ace/getstream?id=58a4c880ab18486d914751db32a12760e74b75a4&pid=1
 #EXTINF:-1 tvg-id="20:00-Masters Madrid 2ª Ronda-G. Monfils-A. Rublev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:00-Masters Madrid 2ª Ronda-G. Monfils-A. Rublev
+http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230&pid=1
+#EXTINF:-1 tvg-id="20:10-Masters Madrid 2ª Ronda-N. Borges-A. Davidovich" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:10-Masters Madrid 2ª Ronda-N. Borges-A. Davidovich
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230&pid=2
 #EXTINF:-1 tvg-id="20:30-Segunda-Cádiz CF-Sporting Gijón" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",20:30-Segunda-Cádiz CF-Sporting Gijón
 http://127.0.0.1:6878/ace/getstream?id=83e8a605ffebe2062f15dad76b6ffe9486a28eb3&pid=3
@@ -39,9 +39,9 @@ http://127.0.0.1:6878/ace/getstream?id=67a33c3f74956eed14b9b400523462fe362e0e66&
 http://127.0.0.1:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3&pid=19
 #EXTINF:-1 tvg-id="20:30-Euroliga Playoffs-Olympiacos Piraeus-Real Madrid Baloncesto" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:30-Euroliga Playoffs-Olympiacos Piraeus-Real Madrid Baloncesto
 http://127.0.0.1:6878/ace/getstream?id=b2a4d1eba9b46df5f52a87105df779f9d39abeb4&pid=20
-#EXTINF:-1 tvg-id="21:30-WTA Madrid 2ª Ronda-E. Rybakina-B. Andreescu" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:30-WTA Madrid 2ª Ronda-E. Rybakina-B. Andreescu
+#EXTINF:-1 tvg-id="20:30-WTA Madrid 2ª Ronda-E. Rybakina-B. Andreescu" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:30-WTA Madrid 2ª Ronda-E. Rybakina-B. Andreescu
 http://127.0.0.1:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&pid=21
-#EXTINF:-1 tvg-id="21:30-WTA Madrid 2ª Ronda-E. Rybakina-B. Andreescu" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:30-WTA Madrid 2ª Ronda-E. Rybakina-B. Andreescu
+#EXTINF:-1 tvg-id="20:30-WTA Madrid 2ª Ronda-E. Rybakina-B. Andreescu" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:30-WTA Madrid 2ª Ronda-E. Rybakina-B. Andreescu
 http://127.0.0.1:6878/ace/getstream?id=639c561dd57fa3fc91fde715caeb696c5efb7ce7&pid=22
 #EXTINF:-1 tvg-id="01:00-NBA Playoffs-Detroit Pistons-New York Knicks" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",01:00-NBA Playoffs-Detroit Pistons-New York Knicks
 http://127.0.0.1:6878/ace/getstream?id=ef9dcc4eaac36a0f608b52a31f8ab237859e071a&pid=23
@@ -77,9 +77,9 @@ http://127.0.0.1:6878/ace/getstream?id=fcc0fd75bf1dba40b108fcf0d3514e0e549bfbac&
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230&pid=38
 #EXTINF:-1 tvg-id="15:05-WTA Madrid 2ª Ronda-A. Potapova-Q. Zheng" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:05-WTA Madrid 2ª Ronda-A. Potapova-Q. Zheng
 http://127.0.0.1:6878/ace/getstream?id=58a4c880ab18486d914751db32a12760e74b75a4&pid=39
-#EXTINF:-1 tvg-id="18:00-Masters Madrid 2ª Ronda-N. Borges-A. Davidovich" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:00-Masters Madrid 2ª Ronda-N. Borges-A. Davidovich
-http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230&pid=40
 #EXTINF:-1 tvg-id="19:00-Euroliga Playoffs-AS Monaco Basket-Barça Basket" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",19:00-Euroliga Playoffs-AS Monaco Basket-Barça Basket
-http://127.0.0.1:6878/ace/getstream?id=753d4b1f7c4ef43238b5cf23b05572b550a44eee&pid=41
+http://127.0.0.1:6878/ace/getstream?id=753d4b1f7c4ef43238b5cf23b05572b550a44eee&pid=40
 #EXTINF:-1 tvg-id="19:00-Euroliga Playoffs-AS Monaco Basket-Barça Basket" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",19:00-Euroliga Playoffs-AS Monaco Basket-Barça Basket
-http://127.0.0.1:6878/ace/getstream?id=b2a4d1eba9b46df5f52a87105df779f9d39abeb4&pid=42
+http://127.0.0.1:6878/ace/getstream?id=b2a4d1eba9b46df5f52a87105df779f9d39abeb4&pid=41
+#EXTINF:-1 tvg-id="19:10-WTA Madrid 2ª Ronda-J. Pegula-E. Lys" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",19:10-WTA Madrid 2ª Ronda-J. Pegula-E. Lys
+http://127.0.0.1:6878/ace/getstream?id=58a4c880ab18486d914751db32a12760e74b75a4&pid=42
