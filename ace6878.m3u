@@ -225,8 +225,6 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=8b081c8afbd9beafc8c5fbf0115eb36eadb07
 http://127.0.0.1:6878/ace/manifest.m3u8?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="DAZN 2" group-title="New Loop",DAZN 2
 http://127.0.0.1:6878/ace/manifest.m3u8?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
-#EXTINF:-1 tvg-id="Eurosport 1" group-title="New Loop",Eurosport 1
-http://127.0.0.1:6878/ace/manifest.m3u8?id=1d04e3b27c2ac3ff52dc949e76f36207fbb235c4
 #EXTINF:-1 tvg-id="Eurosport 1" group-title="Elcano",Eurosport 1
 http://127.0.0.1:6878/ace/manifest.m3u8?id=16ffa1713f42aa27317ee039a2bd0cdbc89a1580
 #EXTINF:-1 tvg-id="Eurosport 1" group-title="New Era",Eurosport 1
@@ -560,6 +558,8 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=c9c062941fbecb16ce29437f346ea7177d720
 #EXTINF:-1 tvg-id="FOX Sports 2 US" group-title="Antigua",FOX Sports 2 US
 http://127.0.0.1:6878/ace/manifest.m3u8?id=cba8d369eac629b577750edb90370cd1c5fb03b7
 #EXTINF:-1 tvg-id="beIN SPORTS XTRA ñ" group-title="New Loop",beIN SPORTS XTRA ñ
+http://127.0.0.1:6878/ace/manifest.m3u8?id=4922d8414b6d96bcdd36e99483a7077f484b6f71
+#EXTINF:-1 tvg-id="beIN SPORTS XTRA ñ" group-title="New Loop",beIN SPORTS XTRA ñ
 http://127.0.0.1:6878/ace/manifest.m3u8?id=e8e459656f964f601ad4bcda8b81a43ba41c68f9
 #EXTINF:-1 tvg-id="beIN SPORTS XTRA ñ" group-title="Antigua",beIN SPORTS XTRA ñ
 http://127.0.0.1:6878/ace/manifest.m3u8?id=92a7dcc55392efc6dd5d012c4ff3878891eb6a6e
@@ -581,12 +581,12 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=664eb5fe460b96941aed633959a845b185cd8
 http://127.0.0.1:6878/ace/manifest.m3u8?id=5f9b19c57195cc28ab81e0ec8cad03b55118687a
 #EXTINF:-1 tvg-id="Ziggo Sport" group-title="New Loop",Ziggo Sport
 http://127.0.0.1:6878/ace/manifest.m3u8?id=fcd7621df513f600652b4813d5d8fd1daed60058
-#EXTINF:-1 tvg-id="Ziggo Sport 2" group-title="New Loop",Ziggo Sport 2
-http://127.0.0.1:6878/ace/manifest.m3u8?id=868a6187d6aeec65ded84bd777814c9f7b7a9027
 #EXTINF:-1 tvg-id="Ziggo Sport 6" group-title="New Loop",Ziggo Sport 6
 http://127.0.0.1:6878/ace/manifest.m3u8?id=9231f38e71a85ad24b4c11a5e360992e30c916ed
 #EXTINF:-1 tvg-id="beIN SPORTS HABER" group-title="Antigua",beIN SPORTS HABER
 http://127.0.0.1:6878/ace/manifest.m3u8?id=47c1b3a68d03bd190fed521d144ad08fa0f195f3
+#EXTINF:-1 tvg-id="beIN SPORTS 1" group-title="New Loop",beIN SPORTS 1
+http://127.0.0.1:6878/ace/manifest.m3u8?id=a96a9a6ab8f4f624d66ece9fa566a5620ddd620d
 #EXTINF:-1 tvg-id="beIN SPORTS 1" group-title="New Loop",beIN SPORTS 1
 http://127.0.0.1:6878/ace/manifest.m3u8?id=bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
 #EXTINF:-1 tvg-id="beIN SPORTS 1" group-title="New Era",beIN SPORTS 1
