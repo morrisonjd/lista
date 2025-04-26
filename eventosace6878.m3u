@@ -77,9 +77,9 @@ http://127.0.0.1:6878/ace/getstream?id=be02b9918b8fe7224cfa9af1e37856760f95b1b8&
 http://127.0.0.1:6878/ace/getstream?id=67a33c3f74956eed14b9b400523462fe362e0e66&pid=38
 #EXTINF:-1 tvg-id="17:00-ACB Regular-Casademont Zaragoza-Dreamland Gran Canaria" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",17:00-ACB Regular-Casademont Zaragoza-Dreamland Gran Canaria
 http://127.0.0.1:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3&pid=39
-#EXTINF:-1 tvg-id="17:20-Masters Madrid 2ª Ronda-G. Dimitrov-N. Jarry" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:20-Masters Madrid 2ª Ronda-G. Dimitrov-N. Jarry
+#EXTINF:-1 tvg-id="17:25-Masters Madrid 2ª Ronda-G. Dimitrov-N. Jarry" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:25-Masters Madrid 2ª Ronda-G. Dimitrov-N. Jarry
 http://127.0.0.1:6878/ace/getstream?id=f6961e0dbf9b6ede4f5be93b72dc15533b4063d4&pid=40
-#EXTINF:-1 tvg-id="17:20-Masters Madrid 2ª Ronda-G. Dimitrov-N. Jarry" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:20-Masters Madrid 2ª Ronda-G. Dimitrov-N. Jarry
+#EXTINF:-1 tvg-id="17:25-Masters Madrid 2ª Ronda-G. Dimitrov-N. Jarry" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:25-Masters Madrid 2ª Ronda-G. Dimitrov-N. Jarry
 http://127.0.0.1:6878/ace/getstream?id=fcc0fd75bf1dba40b108fcf0d3514e0e549bfbac&pid=41
 #EXTINF:-1 tvg-id="01:00-NBA Playoffs-Orlando Magic-Boston Celtics" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",01:00-NBA Playoffs-Orlando Magic-Boston Celtics
 http://127.0.0.1:6878/ace/getstream?id=b2a4d1eba9b46df5f52a87105df779f9d39abeb4&pid=42
@@ -97,12 +97,12 @@ http://127.0.0.1:6878/ace/getstream?id=121f719ebb94193c6086ef92865cf9b197750980&
 http://127.0.0.1:6878/ace/getstream?id=608b0faf7d3d25f6fe5dba13d5e4b4142949990e&pid=48
 #EXTINF:-1 tvg-id="18:30-Segunda-Granada CF-Elche" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:30-Segunda-Granada CF-Elche
 http://127.0.0.1:6878/ace/getstream?id=94d34491106e00394835c8cb68aa94481339b53f&pid=49
-#EXTINF:-1 tvg-id="18:45-Masters Madrid 2ª Ronda-F. Tiafoe-L. Darderi" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:45-Masters Madrid 2ª Ronda-F. Tiafoe-L. Darderi
-http://127.0.0.1:6878/ace/getstream?id=f6961e0dbf9b6ede4f5be93b72dc15533b4063d4&pid=50
-#EXTINF:-1 tvg-id="18:45-Masters Madrid 2ª Ronda-F. Tiafoe-L. Darderi" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:45-Masters Madrid 2ª Ronda-F. Tiafoe-L. Darderi
-http://127.0.0.1:6878/ace/getstream?id=fcc0fd75bf1dba40b108fcf0d3514e0e549bfbac&pid=51
-#EXTINF:-1 tvg-id="19:00-Masters Madrid 2ª Ronda-J. Draper-T. Griekspoor" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",19:00-Masters Madrid 2ª Ronda-J. Draper-T. Griekspoor
-http://127.0.0.1:6878/ace/getstream?id=58a4c880ab18486d914751db32a12760e74b75a4&pid=52
+#EXTINF:-1 tvg-id="19:10-Masters Madrid 2ª Ronda-J. Draper-T. Griekspoor" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",19:10-Masters Madrid 2ª Ronda-J. Draper-T. Griekspoor
+http://127.0.0.1:6878/ace/getstream?id=58a4c880ab18486d914751db32a12760e74b75a4&pid=50
+#EXTINF:-1 tvg-id="19:25-Masters Madrid 2ª Ronda-F. Tiafoe-L. Darderi" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",19:25-Masters Madrid 2ª Ronda-F. Tiafoe-L. Darderi
+http://127.0.0.1:6878/ace/getstream?id=f6961e0dbf9b6ede4f5be93b72dc15533b4063d4&pid=51
+#EXTINF:-1 tvg-id="19:25-Masters Madrid 2ª Ronda-F. Tiafoe-L. Darderi" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",19:25-Masters Madrid 2ª Ronda-F. Tiafoe-L. Darderi
+http://127.0.0.1:6878/ace/getstream?id=fcc0fd75bf1dba40b108fcf0d3514e0e549bfbac&pid=52
 #EXTINF:-1 tvg-id="19:30-ACB Regular-Río Breogán-Joventut Badalona" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",19:30-ACB Regular-Río Breogán-Joventut Badalona
 http://127.0.0.1:6878/ace/getstream?id=ef9dcc4eaac36a0f608b52a31f8ab237859e071a&pid=53
 #EXTINF:-1 tvg-id="19:30-ACB Regular-Río Breogán-Joventut Badalona" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",19:30-ACB Regular-Río Breogán-Joventut Badalona
@@ -115,13 +115,13 @@ http://127.0.0.1:6878/ace/getstream?id=67a33c3f74956eed14b9b400523462fe362e0e66&
 http://127.0.0.1:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3&pid=57
 #EXTINF:-1 tvg-id="19:30-ACB Regular-La Laguna Tenerife-Básquet Coruña" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",19:30-ACB Regular-La Laguna Tenerife-Básquet Coruña
 http://127.0.0.1:6878/ace/getstream?id=753d4b1f7c4ef43238b5cf23b05572b550a44eee&pid=58
-#EXTINF:-1 tvg-id="20:00-WTA Madrid 3ª Ronda-L. Noskova-I. Swiatek" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:00-WTA Madrid 3ª Ronda-L. Noskova-I. Swiatek
+#EXTINF:-1 tvg-id="20:10-WTA Madrid 3ª Ronda-L. Noskova-I. Swiatek" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:10-WTA Madrid 3ª Ronda-L. Noskova-I. Swiatek
 http://127.0.0.1:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&pid=59
-#EXTINF:-1 tvg-id="20:00-WTA Madrid 3ª Ronda-L. Noskova-I. Swiatek" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:00-WTA Madrid 3ª Ronda-L. Noskova-I. Swiatek
+#EXTINF:-1 tvg-id="20:10-WTA Madrid 3ª Ronda-L. Noskova-I. Swiatek" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:10-WTA Madrid 3ª Ronda-L. Noskova-I. Swiatek
 http://127.0.0.1:6878/ace/getstream?id=639c561dd57fa3fc91fde715caeb696c5efb7ce7&pid=60
-#EXTINF:-1 tvg-id="20:00-WTA Madrid 3ª Ronda-L. Noskova-I. Swiatek" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:00-WTA Madrid 3ª Ronda-L. Noskova-I. Swiatek
+#EXTINF:-1 tvg-id="20:10-WTA Madrid 3ª Ronda-L. Noskova-I. Swiatek" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:10-WTA Madrid 3ª Ronda-L. Noskova-I. Swiatek
 http://127.0.0.1:6878/ace/getstream?id=b2a4d1eba9b46df5f52a87105df779f9d39abeb4&pid=61
-#EXTINF:-1 tvg-id="20:00-WTA Madrid 3ª Ronda-L. Noskova-I. Swiatek" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:00-WTA Madrid 3ª Ronda-L. Noskova-I. Swiatek
+#EXTINF:-1 tvg-id="20:10-WTA Madrid 3ª Ronda-L. Noskova-I. Swiatek" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:10-WTA Madrid 3ª Ronda-L. Noskova-I. Swiatek
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230&pid=62
 #EXTINF:-1 tvg-id="21:30-Masters Madrid 2ª Ronda-J. Fonseca-T. Paul" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:30-Masters Madrid 2ª Ronda-J. Fonseca-T. Paul
 http://127.0.0.1:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&pid=63
