@@ -60,9 +60,9 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=d3de78aebe544611a2347f54d5796bd87f16c
 #EXTINF:-1 tvg-id="M+ LaLiga TV" group-title="Elcano",M+ LaLiga TV
 http://127.0.0.1:6878/ace/manifest.m3u8?id=1bc437bce57b4b0450f6d1f8d818b7e97000745e
 #EXTINF:-1 tvg-id="LaLiga TV BAR" group-title="Elcano",LaLiga TV BAR
-http://127.0.0.1:6878/ace/manifest.m3u8?id=608b0faf7d3d25f6fe5dba13d5e4b4142949990e
-#EXTINF:-1 tvg-id="LaLiga TV BAR" group-title="Elcano",LaLiga TV BAR
 http://127.0.0.1:6878/ace/manifest.m3u8?id=94d34491106e00394835c8cb68aa94481339b53f
+#EXTINF:-1 tvg-id="LaLiga TV BAR" group-title="Elcano",LaLiga TV BAR
+http://127.0.0.1:6878/ace/manifest.m3u8?id=608b0faf7d3d25f6fe5dba13d5e4b4142949990e
 #EXTINF:-1 tvg-id="DAZN LaLiga" group-title="Elcano",DAZN LaLiga
 http://127.0.0.1:6878/ace/manifest.m3u8?id=110d441ddc9713a7452588770d2bc85504672f47
 #EXTINF:-1 tvg-id="DAZN LaLiga" group-title="Elcano",DAZN LaLiga
@@ -313,6 +313,8 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=d641cd0fca0f467b3130754a091e2f4d22e68
 http://127.0.0.1:6878/ace/manifest.m3u8?id=4b048bcfaed7daec454e88f0e29b56756300447d
 #EXTINF:-1 tvg-id="DAZN 3" group-title="New Loop",DAZN 3
 http://127.0.0.1:6878/ace/manifest.m3u8?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
+#EXTINF:-1 tvg-id="DAZN 4" group-title="New Loop",DAZN 4
+http://127.0.0.1:6878/ace/manifest.m3u8?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="DAZN 4" group-title="New Era",DAZN 4
 http://127.0.0.1:6878/ace/manifest.m3u8?id=75306ac6ffbe33b08c5c28487674f75f012c7f50
 #EXTINF:-1 tvg-id="DAZN 4" group-title="New Era",DAZN 4
@@ -335,6 +337,8 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=b8b8c4470d3d27c75302cf49ab6c4b52a660b
 http://127.0.0.1:6878/ace/manifest.m3u8?id=0ce88d9e7273fddbc9b49f578b6b255513697139
 #EXTINF:-1 tvg-id="UFC 1" group-title="Desconocido",UFC 1
 http://127.0.0.1:6878/ace/manifest.m3u8?id=9efe41de7f5dcafc9395591feb959832e09683ff
+#EXTINF:-1 tvg-id="Tennis Channel" group-title="New Loop",Tennis Channel
+http://127.0.0.1:6878/ace/manifest.m3u8?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="Tennis Channel" group-title="New Loop",Tennis Channel
 http://127.0.0.1:6878/ace/manifest.m3u8?id=039fae21c9e7e5214d3d898cba80863e37e623ac
 #EXTINF:-1 tvg-id="SuperTennis" group-title="New Loop",SuperTennis
