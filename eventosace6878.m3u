@@ -43,11 +43,11 @@ http://127.0.0.1:6878/ace/getstream?id=1205151f6fa5d95c0eeb543cbce43ccfa6a1b216&
 http://127.0.0.1:6878/ace/getstream?id=d03c13b6723f66155d7a0df3692a3b073fe630f2&pid=21
 #EXTINF:-1 tvg-id="21:00-Euroliga Playoffs-Real Madrid Baloncesto-Olympiacos Piraeus" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",21:00-Euroliga Playoffs-Real Madrid Baloncesto-Olympiacos Piraeus
 http://127.0.0.1:6878/ace/getstream?id=12ba546d229bc39f01c3c18988a034b215fe6adb&pid=22
-#EXTINF:-1 tvg-id="22:00-Masters Madrid 1/8 de final-T. Fritz-C. Ruud" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",22:00-Masters Madrid 1/8 de final-T. Fritz-C. Ruud
+#EXTINF:-1 tvg-id="21:45-Masters Madrid 1/8 de final-T. Fritz-C. Ruud" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:45-Masters Madrid 1/8 de final-T. Fritz-C. Ruud
 http://127.0.0.1:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&pid=23
-#EXTINF:-1 tvg-id="22:00-Masters Madrid 1/8 de final-T. Fritz-C. Ruud" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",22:00-Masters Madrid 1/8 de final-T. Fritz-C. Ruud
+#EXTINF:-1 tvg-id="21:45-Masters Madrid 1/8 de final-T. Fritz-C. Ruud" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:45-Masters Madrid 1/8 de final-T. Fritz-C. Ruud
 http://127.0.0.1:6878/ace/getstream?id=639c561dd57fa3fc91fde715caeb696c5efb7ce7&pid=24
-#EXTINF:-1 tvg-id="22:00-Masters Madrid 1/8 de final-T. Fritz-C. Ruud" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",22:00-Masters Madrid 1/8 de final-T. Fritz-C. Ruud
+#EXTINF:-1 tvg-id="21:45-Masters Madrid 1/8 de final-T. Fritz-C. Ruud" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:45-Masters Madrid 1/8 de final-T. Fritz-C. Ruud
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230&pid=25
 #EXTINF:-1 tvg-id="01:30-NBA Playoffs-Miami Heat-Cleveland Cavaliers" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",01:30-NBA Playoffs-Miami Heat-Cleveland Cavaliers
 http://127.0.0.1:6878/ace/getstream?id=ef9dcc4eaac36a0f608b52a31f8ab237859e071a&pid=26
@@ -79,17 +79,17 @@ http://127.0.0.1:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&
 http://127.0.0.1:6878/ace/getstream?id=639c561dd57fa3fc91fde715caeb696c5efb7ce7&pid=39
 #EXTINF:-1 tvg-id="15:45-Masters Madrid 3ª Ronda-S. Tsitsipas-L. Musetti" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:45-Masters Madrid 3ª Ronda-S. Tsitsipas-L. Musetti
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230&pid=40
-#EXTINF:-1 tvg-id="17:10-Masters Madrid 1/8 de final-A. Zverev-F. Cerúndolo" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:10-Masters Madrid 1/8 de final-A. Zverev-F. Cerúndolo
+#EXTINF:-1 tvg-id="18:00-Masters Madrid 1/8 de final-A. Zverev-F. Cerúndolo" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:00-Masters Madrid 1/8 de final-A. Zverev-F. Cerúndolo
 http://127.0.0.1:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&pid=41
-#EXTINF:-1 tvg-id="17:10-Masters Madrid 1/8 de final-A. Zverev-F. Cerúndolo" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:10-Masters Madrid 1/8 de final-A. Zverev-F. Cerúndolo
+#EXTINF:-1 tvg-id="18:00-Masters Madrid 1/8 de final-A. Zverev-F. Cerúndolo" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:00-Masters Madrid 1/8 de final-A. Zverev-F. Cerúndolo
 http://127.0.0.1:6878/ace/getstream?id=639c561dd57fa3fc91fde715caeb696c5efb7ce7&pid=42
-#EXTINF:-1 tvg-id="17:10-Masters Madrid 1/8 de final-A. Zverev-F. Cerúndolo" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:10-Masters Madrid 1/8 de final-A. Zverev-F. Cerúndolo
+#EXTINF:-1 tvg-id="18:00-Masters Madrid 1/8 de final-A. Zverev-F. Cerúndolo" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:00-Masters Madrid 1/8 de final-A. Zverev-F. Cerúndolo
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230&pid=43
-#EXTINF:-1 tvg-id="20:00-WTA Madrid 1/8 de final-A. Sabalenka-P. Stearns" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:00-WTA Madrid 1/8 de final-A. Sabalenka-P. Stearns
+#EXTINF:-1 tvg-id="20:10-WTA Madrid 1/8 de final-A. Sabalenka-P. Stearns" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:10-WTA Madrid 1/8 de final-A. Sabalenka-P. Stearns
 http://127.0.0.1:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&pid=44
-#EXTINF:-1 tvg-id="20:00-WTA Madrid 1/8 de final-A. Sabalenka-P. Stearns" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:00-WTA Madrid 1/8 de final-A. Sabalenka-P. Stearns
+#EXTINF:-1 tvg-id="20:10-WTA Madrid 1/8 de final-A. Sabalenka-P. Stearns" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:10-WTA Madrid 1/8 de final-A. Sabalenka-P. Stearns
 http://127.0.0.1:6878/ace/getstream?id=639c561dd57fa3fc91fde715caeb696c5efb7ce7&pid=45
-#EXTINF:-1 tvg-id="20:00-WTA Madrid 1/8 de final-A. Sabalenka-P. Stearns" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:00-WTA Madrid 1/8 de final-A. Sabalenka-P. Stearns
+#EXTINF:-1 tvg-id="20:10-WTA Madrid 1/8 de final-A. Sabalenka-P. Stearns" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:10-WTA Madrid 1/8 de final-A. Sabalenka-P. Stearns
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230&pid=46
 #EXTINF:-1 tvg-id="20:30-Segunda-UD Almería-Racing Ferrol" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",20:30-Segunda-UD Almería-Racing Ferrol
 http://127.0.0.1:6878/ace/getstream?id=83e8a605ffebe2062f15dad76b6ffe9486a28eb3&pid=47
