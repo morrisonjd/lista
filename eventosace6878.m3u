@@ -33,15 +33,15 @@ http://127.0.0.1:6878/ace/getstream?id=be02b9918b8fe7224cfa9af1e37856760f95b1b8&
 http://127.0.0.1:6878/ace/getstream?id=67a33c3f74956eed14b9b400523462fe362e0e66&pid=16
 #EXTINF:-1 tvg-id="00:00-NBA Playoffs-Indiana Pacers-Milwaukee Bucks" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",00:00-NBA Playoffs-Indiana Pacers-Milwaukee Bucks
 http://127.0.0.1:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3&pid=17
-#EXTINF:-1 tvg-id="13:00-WTA Madrid 1/4 de Final-M. Keys-I. Swiatek" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",13:00-WTA Madrid 1/4 de Final-M. Keys-I. Swiatek
+#EXTINF:-1 tvg-id="13:10-WTA Madrid 1/4 de Final-M. Keys-I. Swiatek" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",13:10-WTA Madrid 1/4 de Final-M. Keys-I. Swiatek
 http://127.0.0.1:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&pid=18
-#EXTINF:-1 tvg-id="13:00-WTA Madrid 1/4 de Final-M. Keys-I. Swiatek" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",13:00-WTA Madrid 1/4 de Final-M. Keys-I. Swiatek
+#EXTINF:-1 tvg-id="13:10-WTA Madrid 1/4 de Final-M. Keys-I. Swiatek" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",13:10-WTA Madrid 1/4 de Final-M. Keys-I. Swiatek
 http://127.0.0.1:6878/ace/getstream?id=639c561dd57fa3fc91fde715caeb696c5efb7ce7&pid=19
-#EXTINF:-1 tvg-id="13:00-WTA Madrid 1/4 de Final-M. Keys-I. Swiatek" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",13:00-WTA Madrid 1/4 de Final-M. Keys-I. Swiatek
+#EXTINF:-1 tvg-id="13:10-WTA Madrid 1/4 de Final-M. Keys-I. Swiatek" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",13:10-WTA Madrid 1/4 de Final-M. Keys-I. Swiatek
 http://127.0.0.1:6878/ace/getstream?id=b2a4d1eba9b46df5f52a87105df779f9d39abeb4&pid=20
-#EXTINF:-1 tvg-id="13:00-WTA Madrid 1/4 de Final-M. Keys-I. Swiatek" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",13:00-WTA Madrid 1/4 de Final-M. Keys-I. Swiatek
+#EXTINF:-1 tvg-id="13:10-WTA Madrid 1/4 de Final-M. Keys-I. Swiatek" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",13:10-WTA Madrid 1/4 de Final-M. Keys-I. Swiatek
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230&pid=21
-#EXTINF:-1 tvg-id="15:00-WTA Madrid 1/4 de Final-M. Andreeva-C. Gauff" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:00-WTA Madrid 1/4 de Final-M. Andreeva-C. Gauff
+#EXTINF:-1 tvg-id="15:10-WTA Madrid 1/4 de Final-M. Andreeva-C. Gauff" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:10-WTA Madrid 1/4 de Final-M. Andreeva-C. Gauff
 http://127.0.0.1:6878/ace/getstream?id=b2a4d1eba9b46df5f52a87105df779f9d39abeb4&pid=22
 #EXTINF:-1 tvg-id="16:00-Masters Madrid 1/8 de final-J. Draper-T. Paul" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:00-Masters Madrid 1/8 de final-J. Draper-T. Paul
 http://127.0.0.1:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&pid=23
@@ -49,7 +49,7 @@ http://127.0.0.1:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&
 http://127.0.0.1:6878/ace/getstream?id=639c561dd57fa3fc91fde715caeb696c5efb7ce7&pid=24
 #EXTINF:-1 tvg-id="16:00-Masters Madrid 1/8 de final-J. Draper-T. Paul" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:00-Masters Madrid 1/8 de final-J. Draper-T. Paul
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230&pid=25
-#EXTINF:-1 tvg-id="16:30-WTA Madrid 1/4 de Final-M. Uchijima-E. Svitolina" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:30-WTA Madrid 1/4 de Final-M. Uchijima-E. Svitolina
+#EXTINF:-1 tvg-id="16:35-WTA Madrid 1/4 de Final-M. Uchijima-E. Svitolina" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:35-WTA Madrid 1/4 de Final-M. Uchijima-E. Svitolina
 http://127.0.0.1:6878/ace/getstream?id=b2a4d1eba9b46df5f52a87105df779f9d39abeb4&pid=26
 #EXTINF:-1 tvg-id="19:00-Euroliga Playoffs-Barça Basket-AS Monaco Basket" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",19:00-Euroliga Playoffs-Barça Basket-AS Monaco Basket
 http://127.0.0.1:6878/ace/getstream?id=ef9dcc4eaac36a0f608b52a31f8ab237859e071a&pid=27
