@@ -17,11 +17,11 @@ http://127.0.0.1:6878/ace/getstream?id=a9025d4e168764248d33129c30940502cea0e1c2&
 http://127.0.0.1:6878/ace/getstream?id=47223e64a576c21bd61e818a42397a753d34fba5&pid=8
 #EXTINF:-1 tvg-id="21:00-Champions League Semifinales-FC Barcelona-Inter Milan" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Semifinales-FC Barcelona-Inter Milan
 http://127.0.0.1:6878/ace/getstream?id=e572a5178ff72eed7d1d751a18b4b3419699f370&pid=9
-#EXTINF:-1 tvg-id="21:30-Masters Madrid 1/8 de final-A. De Miñaur-L. Musetti" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:30-Masters Madrid 1/8 de final-A. De Miñaur-L. Musetti
+#EXTINF:-1 tvg-id="22:45-Masters Madrid 1/8 de final-A. De Miñaur-L. Musetti" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",22:45-Masters Madrid 1/8 de final-A. De Miñaur-L. Musetti
 http://127.0.0.1:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&pid=10
-#EXTINF:-1 tvg-id="21:30-Masters Madrid 1/8 de final-A. De Miñaur-L. Musetti" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:30-Masters Madrid 1/8 de final-A. De Miñaur-L. Musetti
+#EXTINF:-1 tvg-id="22:45-Masters Madrid 1/8 de final-A. De Miñaur-L. Musetti" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",22:45-Masters Madrid 1/8 de final-A. De Miñaur-L. Musetti
 http://127.0.0.1:6878/ace/getstream?id=639c561dd57fa3fc91fde715caeb696c5efb7ce7&pid=11
-#EXTINF:-1 tvg-id="21:30-Masters Madrid 1/8 de final-A. De Miñaur-L. Musetti" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:30-Masters Madrid 1/8 de final-A. De Miñaur-L. Musetti
+#EXTINF:-1 tvg-id="22:45-Masters Madrid 1/8 de final-A. De Miñaur-L. Musetti" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",22:45-Masters Madrid 1/8 de final-A. De Miñaur-L. Musetti
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230&pid=12
 #EXTINF:-1 tvg-id="00:00-NBA Playoffs-Indiana Pacers-Milwaukee Bucks" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",00:00-NBA Playoffs-Indiana Pacers-Milwaukee Bucks
 http://127.0.0.1:6878/ace/getstream?id=ef9dcc4eaac36a0f608b52a31f8ab237859e071a&pid=13
