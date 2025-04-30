@@ -41,15 +41,15 @@ http://127.0.0.1:6878/ace/getstream?id=639c561dd57fa3fc91fde715caeb696c5efb7ce7&
 http://127.0.0.1:6878/ace/getstream?id=b2a4d1eba9b46df5f52a87105df779f9d39abeb4&pid=20
 #EXTINF:-1 tvg-id="13:10-WTA Madrid 1/4 de Final-M. Keys-I. Swiatek" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",13:10-WTA Madrid 1/4 de Final-M. Keys-I. Swiatek
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230&pid=21
-#EXTINF:-1 tvg-id="15:10-WTA Madrid 1/4 de Final-M. Andreeva-C. Gauff" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:10-WTA Madrid 1/4 de Final-M. Andreeva-C. Gauff
+#EXTINF:-1 tvg-id="15:15-WTA Madrid 1/4 de Final-M. Andreeva-C. Gauff" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:15-WTA Madrid 1/4 de Final-M. Andreeva-C. Gauff
 http://127.0.0.1:6878/ace/getstream?id=b2a4d1eba9b46df5f52a87105df779f9d39abeb4&pid=22
-#EXTINF:-1 tvg-id="16:00-Masters Madrid 1/8 de final-J. Draper-T. Paul" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:00-Masters Madrid 1/8 de final-J. Draper-T. Paul
+#EXTINF:-1 tvg-id="16:10-Masters Madrid 1/8 de final-J. Draper-T. Paul" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:10-Masters Madrid 1/8 de final-J. Draper-T. Paul
 http://127.0.0.1:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&pid=23
-#EXTINF:-1 tvg-id="16:00-Masters Madrid 1/8 de final-J. Draper-T. Paul" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:00-Masters Madrid 1/8 de final-J. Draper-T. Paul
+#EXTINF:-1 tvg-id="16:10-Masters Madrid 1/8 de final-J. Draper-T. Paul" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:10-Masters Madrid 1/8 de final-J. Draper-T. Paul
 http://127.0.0.1:6878/ace/getstream?id=639c561dd57fa3fc91fde715caeb696c5efb7ce7&pid=24
-#EXTINF:-1 tvg-id="16:00-Masters Madrid 1/8 de final-J. Draper-T. Paul" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:00-Masters Madrid 1/8 de final-J. Draper-T. Paul
+#EXTINF:-1 tvg-id="16:10-Masters Madrid 1/8 de final-J. Draper-T. Paul" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:10-Masters Madrid 1/8 de final-J. Draper-T. Paul
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230&pid=25
-#EXTINF:-1 tvg-id="16:35-WTA Madrid 1/4 de Final-M. Uchijima-E. Svitolina" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:35-WTA Madrid 1/4 de Final-M. Uchijima-E. Svitolina
+#EXTINF:-1 tvg-id="17:05-WTA Madrid 1/4 de Final-M. Uchijima-E. Svitolina" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:05-WTA Madrid 1/4 de Final-M. Uchijima-E. Svitolina
 http://127.0.0.1:6878/ace/getstream?id=b2a4d1eba9b46df5f52a87105df779f9d39abeb4&pid=26
 #EXTINF:-1 tvg-id="19:00-Euroliga Playoffs-Barça Basket-AS Monaco Basket" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",19:00-Euroliga Playoffs-Barça Basket-AS Monaco Basket
 http://127.0.0.1:6878/ace/getstream?id=ef9dcc4eaac36a0f608b52a31f8ab237859e071a&pid=27
@@ -67,11 +67,11 @@ http://127.0.0.1:6878/ace/getstream?id=b2a4d1eba9b46df5f52a87105df779f9d39abeb4&
 http://127.0.0.1:6878/ace/getstream?id=58a4c880ab18486d914751db32a12760e74b75a4&pid=33
 #EXTINF:-1 tvg-id="20:00-ACB Regular-Casademont Zaragoza-Básquet Coruña" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:00-ACB Regular-Casademont Zaragoza-Básquet Coruña
 http://127.0.0.1:6878/ace/getstream?id=753d4b1f7c4ef43238b5cf23b05572b550a44eee&pid=34
-#EXTINF:-1 tvg-id="20:00-WTA Madrid 1/4 de Final-A. Sabalenka-M. Kostyuk" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:00-WTA Madrid 1/4 de Final-A. Sabalenka-M. Kostyuk
+#EXTINF:-1 tvg-id="20:10-WTA Madrid 1/4 de Final-A. Sabalenka-M. Kostyuk" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:10-WTA Madrid 1/4 de Final-A. Sabalenka-M. Kostyuk
 http://127.0.0.1:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&pid=35
-#EXTINF:-1 tvg-id="20:00-WTA Madrid 1/4 de Final-A. Sabalenka-M. Kostyuk" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:00-WTA Madrid 1/4 de Final-A. Sabalenka-M. Kostyuk
+#EXTINF:-1 tvg-id="20:10-WTA Madrid 1/4 de Final-A. Sabalenka-M. Kostyuk" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:10-WTA Madrid 1/4 de Final-A. Sabalenka-M. Kostyuk
 http://127.0.0.1:6878/ace/getstream?id=639c561dd57fa3fc91fde715caeb696c5efb7ce7&pid=36
-#EXTINF:-1 tvg-id="20:00-WTA Madrid 1/4 de Final-A. Sabalenka-M. Kostyuk" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:00-WTA Madrid 1/4 de Final-A. Sabalenka-M. Kostyuk
+#EXTINF:-1 tvg-id="20:10-WTA Madrid 1/4 de Final-A. Sabalenka-M. Kostyuk" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:10-WTA Madrid 1/4 de Final-A. Sabalenka-M. Kostyuk
 http://127.0.0.1:6878/ace/getstream?id=b2a4d1eba9b46df5f52a87105df779f9d39abeb4&pid=37
-#EXTINF:-1 tvg-id="20:00-WTA Madrid 1/4 de Final-A. Sabalenka-M. Kostyuk" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:00-WTA Madrid 1/4 de Final-A. Sabalenka-M. Kostyuk
+#EXTINF:-1 tvg-id="20:10-WTA Madrid 1/4 de Final-A. Sabalenka-M. Kostyuk" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:10-WTA Madrid 1/4 de Final-A. Sabalenka-M. Kostyuk
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230&pid=38
