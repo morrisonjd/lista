@@ -180,7 +180,7 @@ pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=a97ccf39516
 #EXTINF:-1 tvg-id="ONBOARD CARLOS SAINZ" group-title="New Era",ONBOARD CARLOS SAINZ
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=ddc3b1c8297d57d8096ba20edc1da41eb149a167
 #EXTINF:-1 tvg-id="Rally TV" group-title="New Era",Rally TV
-pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=6fec9b918864132940850b7773fe3aec7222308c
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=8e96e35afd910d1a056dc7bf25139b8e2849b2ea
 #EXTINF:-1 tvg-id="MGPTV | CAMARA DE A BORDO 1" group-title="New Era",MGPTV | CAMARA DE A BORDO 1
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=2e764a7ad94bcb4e67e82369b7aa982c6b2751b4
 #EXTINF:-1 tvg-id="MGPTV | CAMARA DE A BORDO 2" group-title="New Era",MGPTV | CAMARA DE A BORDO 2
@@ -337,6 +337,8 @@ pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=0ce88d9e727
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=9efe41de7f5dcafc9395591feb959832e09683ff
 #EXTINF:-1 tvg-id="SuperTennis" group-title="New Loop",SuperTennis
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee
+#EXTINF:-1 tvg-id="Onetoro" group-title="New Era",Onetoro
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=877eceeaf9f3bd9b392359323d03d0ac3bb27312
 #EXTINF:-1 tvg-id="MATCH!" group-title="Antigua",MATCH!
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
 #EXTINF:-1 tvg-id="MATCH! Football" group-title="Antigua",MATCH! Football
