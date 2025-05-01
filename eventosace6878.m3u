@@ -107,13 +107,13 @@ http://127.0.0.1:6878/ace/getstream?id=1205151f6fa5d95c0eeb543cbce43ccfa6a1b216&
 http://127.0.0.1:6878/ace/getstream?id=d03c13b6723f66155d7a0df3692a3b073fe630f2&pid=53
 #EXTINF:-1 tvg-id="01:30-NBA Playoffs-Houston Rockets-Golden State Warriors" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",01:30-NBA Playoffs-Houston Rockets-Golden State Warriors
 http://127.0.0.1:6878/ace/getstream?id=12ba546d229bc39f01c3c18988a034b215fe6adb&pid=54
-#EXTINF:-1 tvg-id="13:00-Masters Madrid 1/4 de Final-C. Ruud-D. Medvedev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",13:00-Masters Madrid 1/4 de Final-C. Ruud-D. Medvedev
+#EXTINF:-1 tvg-id="13:10-Masters Madrid 1/4 de Final-C. Ruud-D. Medvedev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",13:10-Masters Madrid 1/4 de Final-C. Ruud-D. Medvedev
 http://127.0.0.1:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&pid=55
-#EXTINF:-1 tvg-id="13:00-Masters Madrid 1/4 de Final-C. Ruud-D. Medvedev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",13:00-Masters Madrid 1/4 de Final-C. Ruud-D. Medvedev
+#EXTINF:-1 tvg-id="13:10-Masters Madrid 1/4 de Final-C. Ruud-D. Medvedev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",13:10-Masters Madrid 1/4 de Final-C. Ruud-D. Medvedev
 http://127.0.0.1:6878/ace/getstream?id=639c561dd57fa3fc91fde715caeb696c5efb7ce7&pid=56
-#EXTINF:-1 tvg-id="13:00-Masters Madrid 1/4 de Final-C. Ruud-D. Medvedev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",13:00-Masters Madrid 1/4 de Final-C. Ruud-D. Medvedev
+#EXTINF:-1 tvg-id="13:10-Masters Madrid 1/4 de Final-C. Ruud-D. Medvedev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",13:10-Masters Madrid 1/4 de Final-C. Ruud-D. Medvedev
 http://127.0.0.1:6878/ace/getstream?id=b2a4d1eba9b46df5f52a87105df779f9d39abeb4&pid=57
-#EXTINF:-1 tvg-id="13:00-Masters Madrid 1/4 de Final-C. Ruud-D. Medvedev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",13:00-Masters Madrid 1/4 de Final-C. Ruud-D. Medvedev
+#EXTINF:-1 tvg-id="13:10-Masters Madrid 1/4 de Final-C. Ruud-D. Medvedev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",13:10-Masters Madrid 1/4 de Final-C. Ruud-D. Medvedev
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230&pid=58
 #EXTINF:-1 tvg-id="13:30-ACB Regular-La Laguna Tenerife-Unicaja Málaga" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",13:30-ACB Regular-La Laguna Tenerife-Unicaja Málaga
 http://127.0.0.1:6878/ace/getstream?id=b2a4d1eba9b46df5f52a87105df779f9d39abeb4&pid=59
@@ -129,7 +129,7 @@ http://127.0.0.1:6878/ace/getstream?id=1205151f6fa5d95c0eeb543cbce43ccfa6a1b216&
 http://127.0.0.1:6878/ace/getstream?id=d03c13b6723f66155d7a0df3692a3b073fe630f2&pid=64
 #EXTINF:-1 tvg-id="13:30-ACB Regular-La Laguna Tenerife-Unicaja Málaga" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",13:30-ACB Regular-La Laguna Tenerife-Unicaja Málaga
 http://127.0.0.1:6878/ace/getstream?id=12ba546d229bc39f01c3c18988a034b215fe6adb&pid=65
-#EXTINF:-1 tvg-id="15:00-Masters Madrid 1/4 de Final-F. Cerúndolo-J. Mensik" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:00-Masters Madrid 1/4 de Final-F. Cerúndolo-J. Mensik
+#EXTINF:-1 tvg-id="15:10-Masters Madrid 1/4 de Final-F. Cerúndolo-J. Mensik" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:10-Masters Madrid 1/4 de Final-F. Cerúndolo-J. Mensik
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230&pid=66
 #EXTINF:-1 tvg-id="16:00-WTA Madrid Semifinal 1 1000-C. Gauff-I. Swiatek" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:00-WTA Madrid Semifinal 1 1000-C. Gauff-I. Swiatek
 http://127.0.0.1:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&pid=67
