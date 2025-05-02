@@ -151,8 +151,6 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=9b84af74b2fa3690c519199326fc2f181b025
 http://127.0.0.1:6878/ace/manifest.m3u8?id=ab0d8baaf889017c5e87b2e484203a359585c9dc
 #EXTINF:-1 tvg-id="M+ Golf" group-title="New Era",M+ Golf
 http://127.0.0.1:6878/ace/manifest.m3u8?id=8546cff89e4ee8bf3ad31cf6457c3bc2c4341031
-#EXTINF:-1 tvg-id="M+ Golf" group-title="New Loop",M+ Golf
-http://127.0.0.1:6878/ace/manifest.m3u8?id=872608e734992db636eb79426802cd08f4029afb
 #EXTINF:-1 tvg-id="M+ Golf 2" group-title="New Era",M+ Golf 2
 http://127.0.0.1:6878/ace/manifest.m3u8?id=96e82321c731e41768a806992ee4d3b9b7a0e7d7
 #EXTINF:-1 tvg-id="DAZN F1" group-title="New Era",DAZN F1
