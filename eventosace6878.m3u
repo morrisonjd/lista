@@ -1,12 +1,12 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="18:20-Masters Roma 1ª Ronda-L. Tien-R. Opelka" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:20-Masters Roma 1ª Ronda-L. Tien-R. Opelka
-http://127.0.0.1:6878/ace/getstream?id=58a4c880ab18486d914751db32a12760e74b75a4&pid=1
-#EXTINF:-1 tvg-id="19:05-Masters Roma 1ª Ronda-J. Fearnley-F. Fognini" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",19:05-Masters Roma 1ª Ronda-J. Fearnley-F. Fognini
-http://127.0.0.1:6878/ace/getstream?id=753d4b1f7c4ef43238b5cf23b05572b550a44eee&pid=2
-#EXTINF:-1 tvg-id="19:30-Masters Roma 1ª Ronda-M. Bellucci-P. Martínez" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",19:30-Masters Roma 1ª Ronda-M. Bellucci-P. Martínez
-http://127.0.0.1:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&pid=3
-#EXTINF:-1 tvg-id="19:30-Masters Roma 1ª Ronda-M. Bellucci-P. Martínez" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",19:30-Masters Roma 1ª Ronda-M. Bellucci-P. Martínez
-http://127.0.0.1:6878/ace/getstream?id=639c561dd57fa3fc91fde715caeb696c5efb7ce7&pid=4
+#EXTINF:-1 tvg-id="19:00-Masters Roma 1ª Ronda-M. Bellucci-P. Martínez" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",19:00-Masters Roma 1ª Ronda-M. Bellucci-P. Martínez
+http://127.0.0.1:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&pid=1
+#EXTINF:-1 tvg-id="19:00-Masters Roma 1ª Ronda-M. Bellucci-P. Martínez" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",19:00-Masters Roma 1ª Ronda-M. Bellucci-P. Martínez
+http://127.0.0.1:6878/ace/getstream?id=639c561dd57fa3fc91fde715caeb696c5efb7ce7&pid=2
+#EXTINF:-1 tvg-id="19:10-Masters Roma 1ª Ronda-J. Fearnley-F. Fognini" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",19:10-Masters Roma 1ª Ronda-J. Fearnley-F. Fognini
+http://127.0.0.1:6878/ace/getstream?id=753d4b1f7c4ef43238b5cf23b05572b550a44eee&pid=3
+#EXTINF:-1 tvg-id="20:00-Masters Roma 1ª Ronda-L. Tien-R. Opelka" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:00-Masters Roma 1ª Ronda-L. Tien-R. Opelka
+http://127.0.0.1:6878/ace/getstream?id=58a4c880ab18486d914751db32a12760e74b75a4&pid=4
 #EXTINF:-1 tvg-id="20:30-ACB Regular-Básquet Coruña-Barça Basket" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:30-ACB Regular-Básquet Coruña-Barça Basket
 http://127.0.0.1:6878/ace/getstream?id=b2a4d1eba9b46df5f52a87105df779f9d39abeb4&pid=5
 #EXTINF:-1 tvg-id="20:30-ACB Regular-Básquet Coruña-Barça Basket" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:30-ACB Regular-Básquet Coruña-Barça Basket
@@ -131,11 +131,11 @@ http://127.0.0.1:6878/ace/getstream?id=639c561dd57fa3fc91fde715caeb696c5efb7ce7&
 http://127.0.0.1:6878/ace/getstream?id=58a4c880ab18486d914751db32a12760e74b75a4&pid=65
 #EXTINF:-1 tvg-id="15:05-Masters Roma 1ª Ronda-L. Nardi-F. Cobolli" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:05-Masters Roma 1ª Ronda-L. Nardi-F. Cobolli
 http://127.0.0.1:6878/ace/getstream?id=753d4b1f7c4ef43238b5cf23b05572b550a44eee&pid=66
-#EXTINF:-1 tvg-id="15:20-Masters Roma 1ª Ronda-A. Rinderknech-M. Gigante" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:20-Masters Roma 1ª Ronda-A. Rinderknech-M. Gigante
+#EXTINF:-1 tvg-id="15:25-Masters Roma 1ª Ronda-A. Rinderknech-M. Gigante" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:25-Masters Roma 1ª Ronda-A. Rinderknech-M. Gigante
 http://127.0.0.1:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&pid=67
-#EXTINF:-1 tvg-id="15:20-Masters Roma 1ª Ronda-A. Rinderknech-M. Gigante" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:20-Masters Roma 1ª Ronda-A. Rinderknech-M. Gigante
+#EXTINF:-1 tvg-id="15:25-Masters Roma 1ª Ronda-A. Rinderknech-M. Gigante" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:25-Masters Roma 1ª Ronda-A. Rinderknech-M. Gigante
 http://127.0.0.1:6878/ace/getstream?id=639c561dd57fa3fc91fde715caeb696c5efb7ce7&pid=68
-#EXTINF:-1 tvg-id="16:20-Masters Roma 1ª Ronda-A. Bublik-R. Safiullin" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:20-Masters Roma 1ª Ronda-A. Bublik-R. Safiullin
+#EXTINF:-1 tvg-id="16:30-Masters Roma 1ª Ronda-A. Bublik-R. Safiullin" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:30-Masters Roma 1ª Ronda-A. Bublik-R. Safiullin
 http://127.0.0.1:6878/ace/getstream?id=f6961e0dbf9b6ede4f5be93b72dc15533b4063d4&pid=69
-#EXTINF:-1 tvg-id="16:20-Masters Roma 1ª Ronda-A. Bublik-R. Safiullin" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:20-Masters Roma 1ª Ronda-A. Bublik-R. Safiullin
+#EXTINF:-1 tvg-id="16:30-Masters Roma 1ª Ronda-A. Bublik-R. Safiullin" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:30-Masters Roma 1ª Ronda-A. Bublik-R. Safiullin
 http://127.0.0.1:6878/ace/getstream?id=fcc0fd75bf1dba40b108fcf0d3514e0e549bfbac&pid=70
