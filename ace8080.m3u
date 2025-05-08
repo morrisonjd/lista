@@ -489,7 +489,7 @@ pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=7993cecc319
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=3f23e772f30c5f127609cbef8aa904219b63caef
 #EXTINF:-1 tvg-id="S SPORT 2" group-title="New Era",S SPORT 2
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=999db87cb68b0a671d61a858da7d79dd97b0c0a4
-#EXTINF:-1 tvg-id="Sky Sports Main Event" group-title="New Loop",Sky Sports Main Event
+#EXTINF:-1 tvg-id="Sky Sports Main Event" group-title="Antigua",Sky Sports Main Event
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
 #EXTINF:-1 tvg-id="Sky Sports Premier League" group-title="Antigua",Sky Sports Premier League
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=ec5eabe0144ccfffc337e1d6708e2afb81d0638e
