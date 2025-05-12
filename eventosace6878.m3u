@@ -57,9 +57,9 @@ http://127.0.0.1:6878/ace/getstream?id=12ba546d229bc39f01c3c18988a034b215fe6adb&
 http://127.0.0.1:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&pid=28
 #EXTINF:-1 tvg-id="17:00-Masters Roma 3ª Ronda-J. Munar-S. Korda" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:00-Masters Roma 3ª Ronda-J. Munar-S. Korda
 http://127.0.0.1:6878/ace/getstream?id=639c561dd57fa3fc91fde715caeb696c5efb7ce7&pid=29
-#EXTINF:-1 tvg-id="19:00-Masters Roma 3ª Ronda-M. Berrettini-C. Ruud" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",19:00-Masters Roma 3ª Ronda-M. Berrettini-C. Ruud
+#EXTINF:-1 tvg-id="19:10-Masters Roma 3ª Ronda-M. Berrettini-C. Ruud" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",19:10-Masters Roma 3ª Ronda-M. Berrettini-C. Ruud
 http://127.0.0.1:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&pid=30
-#EXTINF:-1 tvg-id="19:00-Masters Roma 3ª Ronda-M. Berrettini-C. Ruud" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",19:00-Masters Roma 3ª Ronda-M. Berrettini-C. Ruud
+#EXTINF:-1 tvg-id="19:10-Masters Roma 3ª Ronda-M. Berrettini-C. Ruud" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",19:10-Masters Roma 3ª Ronda-M. Berrettini-C. Ruud
 http://127.0.0.1:6878/ace/getstream?id=639c561dd57fa3fc91fde715caeb696c5efb7ce7&pid=31
 #EXTINF:-1 tvg-id="20:30-Segunda-Granada CF-Eibar" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",20:30-Segunda-Granada CF-Eibar
 http://127.0.0.1:6878/ace/getstream?id=83e8a605ffebe2062f15dad76b6ffe9486a28eb3&pid=32
