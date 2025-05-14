@@ -59,30 +59,30 @@ http://127.0.0.1:6878/ace/getstream?id=b2a4d1eba9b46df5f52a87105df779f9d39abeb4&
 http://127.0.0.1:6878/ace/getstream?id=51dbbfb42f8091e4ea7a2186b566a40e780953d9&pid=29
 #EXTINF:-1 tvg-id="19:00-Primera Camp El Madrigal" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",19:00-Primera Camp El Madrigal
 http://127.0.0.1:6878/ace/getstream?id=97ba38d47680954be40e48bd8f43e17222fefecb&pid=30
-#EXTINF:-1 tvg-id="19:00-Primera Estadio de Mendizorroza" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",19:00-Primera Estadio de Mendizorroza
+#EXTINF:-1 tvg-id="19:00-Primera-Alavés-Valencia CF" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",19:00-Primera-Alavés-Valencia CF
 http://127.0.0.1:6878/ace/getstream?id=d3de78aebe544611a2347f54d5796bd87f16c92d&pid=31
-#EXTINF:-1 tvg-id="19:00-Primera Estadio de Mendizorroza" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",19:00-Primera Estadio de Mendizorroza
+#EXTINF:-1 tvg-id="19:00-Primera-Alavés-Valencia CF" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",19:00-Primera-Alavés-Valencia CF
 http://127.0.0.1:6878/ace/getstream?id=6d05b31e5e8fdae312fbd57897363a7b10ddb163&pid=32
-#EXTINF:-1 tvg-id="19:00-Primera Estadio de Mendizorroza" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",19:00-Primera Estadio de Mendizorroza
+#EXTINF:-1 tvg-id="19:00-Primera-Alavés-Valencia CF" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",19:00-Primera-Alavés-Valencia CF
 http://127.0.0.1:6878/ace/getstream?id=cc9b7f5fe416069a2110da0909b0f915043c468b&pid=33
-#EXTINF:-1 tvg-id="19:00-Primera Estadio de Mendizorroza" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",19:00-Primera Estadio de Mendizorroza
+#EXTINF:-1 tvg-id="19:00-Primera-Alavés-Valencia CF" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",19:00-Primera-Alavés-Valencia CF
 http://127.0.0.1:6878/ace/getstream?id=608b0faf7d3d25f6fe5dba13d5e4b4142949990e&pid=34
-#EXTINF:-1 tvg-id="19:00-Primera Estadio de Mendizorroza" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",19:00-Primera Estadio de Mendizorroza
+#EXTINF:-1 tvg-id="19:00-Primera-Alavés-Valencia CF" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",19:00-Primera-Alavés-Valencia CF
 http://127.0.0.1:6878/ace/getstream?id=94d34491106e00394835c8cb68aa94481339b53f&pid=35
-#EXTINF:-1 tvg-id="20:30-Masters Roma 1/4 de Final-L. Musetti-A. Zverev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:30-Masters Roma 1/4 de Final-L. Musetti-A. Zverev
-http://127.0.0.1:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&pid=36
-#EXTINF:-1 tvg-id="20:30-Masters Roma 1/4 de Final-L. Musetti-A. Zverev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:30-Masters Roma 1/4 de Final-L. Musetti-A. Zverev
-http://127.0.0.1:6878/ace/getstream?id=639c561dd57fa3fc91fde715caeb696c5efb7ce7&pid=37
 #EXTINF:-1 tvg-id="21:00-ACB Regular-Dreamland Gran Canaria-Força Lleida" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",21:00-ACB Regular-Dreamland Gran Canaria-Força Lleida
-http://127.0.0.1:6878/ace/getstream?id=ef9dcc4eaac36a0f608b52a31f8ab237859e071a&pid=38
+http://127.0.0.1:6878/ace/getstream?id=ef9dcc4eaac36a0f608b52a31f8ab237859e071a&pid=36
 #EXTINF:-1 tvg-id="21:00-ACB Regular-Dreamland Gran Canaria-Força Lleida" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",21:00-ACB Regular-Dreamland Gran Canaria-Força Lleida
-http://127.0.0.1:6878/ace/getstream?id=b5842718859345a596107ab8e6b24d7bfa2d617e&pid=39
+http://127.0.0.1:6878/ace/getstream?id=b5842718859345a596107ab8e6b24d7bfa2d617e&pid=37
 #EXTINF:-1 tvg-id="21:00-ACB Regular-Dreamland Gran Canaria-Força Lleida" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",21:00-ACB Regular-Dreamland Gran Canaria-Força Lleida
-http://127.0.0.1:6878/ace/getstream?id=be02b9918b8fe7224cfa9af1e37856760f95b1b8&pid=40
+http://127.0.0.1:6878/ace/getstream?id=be02b9918b8fe7224cfa9af1e37856760f95b1b8&pid=38
 #EXTINF:-1 tvg-id="21:00-ACB Regular-Dreamland Gran Canaria-Força Lleida" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",21:00-ACB Regular-Dreamland Gran Canaria-Força Lleida
-http://127.0.0.1:6878/ace/getstream?id=67a33c3f74956eed14b9b400523462fe362e0e66&pid=41
+http://127.0.0.1:6878/ace/getstream?id=67a33c3f74956eed14b9b400523462fe362e0e66&pid=39
 #EXTINF:-1 tvg-id="21:00-ACB Regular-Dreamland Gran Canaria-Força Lleida" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",21:00-ACB Regular-Dreamland Gran Canaria-Força Lleida
-http://127.0.0.1:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3&pid=42
+http://127.0.0.1:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3&pid=40
+#EXTINF:-1 tvg-id="21:15-Masters Roma 1/4 de Final-L. Musetti-A. Zverev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:15-Masters Roma 1/4 de Final-L. Musetti-A. Zverev
+http://127.0.0.1:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&pid=41
+#EXTINF:-1 tvg-id="21:15-Masters Roma 1/4 de Final-L. Musetti-A. Zverev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:15-Masters Roma 1/4 de Final-L. Musetti-A. Zverev
+http://127.0.0.1:6878/ace/getstream?id=639c561dd57fa3fc91fde715caeb696c5efb7ce7&pid=42
 #EXTINF:-1 tvg-id="21:30-Primera Estadio Santiago Bernabéu" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:30-Primera Estadio Santiago Bernabéu
 http://127.0.0.1:6878/ace/getstream?id=110d441ddc9713a7452588770d2bc85504672f47&pid=43
 #EXTINF:-1 tvg-id="21:30-Primera Estadio Santiago Bernabéu" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:30-Primera Estadio Santiago Bernabéu
