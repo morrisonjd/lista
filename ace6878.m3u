@@ -112,9 +112,9 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=4fc6d0331830ad8743abab2fe2473b63bdfbc
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 2" group-title="New Era",M+ Liga de Campeones 2
 http://127.0.0.1:6878/ace/manifest.m3u8?id=c6a3673f6a37b1bd3cf31fdd6404dd33d48cfccb
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 3" group-title="New Era",M+ Liga de Campeones 3
-http://127.0.0.1:6878/ace/manifest.m3u8?id=4fc2fce0d019bdb622164bba3cff84c120fb9243
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 3" group-title="New Era",M+ Liga de Campeones 3
 http://127.0.0.1:6878/ace/manifest.m3u8?id=17b8bc4bf8e29547b0071c742e3d7da3bcbc484d
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 3" group-title="New Era",M+ Liga de Campeones 3
+http://127.0.0.1:6878/ace/manifest.m3u8?id=4fc2fce0d019bdb622164bba3cff84c120fb9243
 #EXTINF:-1 tvg-id="M+ Deportes" group-title="Elcano",M+ Deportes
 http://127.0.0.1:6878/ace/manifest.m3u8?id=3a74d9869b13e763476800740c6625e715a39879
 #EXTINF:-1 tvg-id="M+ Deportes" group-title="Elcano",M+ Deportes
@@ -299,6 +299,8 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=7e90956539f4e1318a63f3960e4f75c7c7c5a
 http://127.0.0.1:6878/ace/manifest.m3u8?id=75306ac6ffbe33b08c5c28487674f75f012c7f50
 #EXTINF:-1 tvg-id="DAZN 4" group-title="New Era",DAZN 4
 http://127.0.0.1:6878/ace/manifest.m3u8?id=7e27e46c25d4308d16098d9dc67fcd8736e8c1f0
+#EXTINF:-1 tvg-id="DAZN 6" group-title="New Loop",DAZN 6
+http://127.0.0.1:6878/ace/manifest.m3u8?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 #EXTINF:-1 tvg-id="AutoMotorSport" group-title="New Loop",AutoMotorSport
 http://127.0.0.1:6878/ace/manifest.m3u8?id=610993aea3a2bfd509594334b7461ce96900f54c
 #EXTINF:-1 tvg-id="Canal Motor" group-title="New Loop",Canal Motor
@@ -565,8 +567,6 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=dae7d1251f069516cc0a9c8f15f6639d2a17d
 http://127.0.0.1:6878/ace/manifest.m3u8?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="Eleven Sports 5 POR" group-title="Antigua",Eleven Sports 5 POR
 http://127.0.0.1:6878/ace/manifest.m3u8?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
-#EXTINF:-1 tvg-id="Eleven Sports 6 POR" group-title="Antigua",Eleven Sports 6 POR
-http://127.0.0.1:6878/ace/manifest.m3u8?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 #EXTINF:-1 tvg-id="Ziggo Sport" group-title="New Loop",Ziggo Sport
 http://127.0.0.1:6878/ace/manifest.m3u8?id=fcd7621df513f600652b4813d5d8fd1daed60058
 #EXTINF:-1 tvg-id="Ziggo Sport 2" group-title="New Loop",Ziggo Sport 2
