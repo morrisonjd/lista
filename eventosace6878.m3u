@@ -25,9 +25,9 @@ http://127.0.0.1:6878/ace/getstream?id=1205151f6fa5d95c0eeb543cbce43ccfa6a1b216&
 http://127.0.0.1:6878/ace/getstream?id=d03c13b6723f66155d7a0df3692a3b073fe630f2&pid=12
 #EXTINF:-1 tvg-id="17:00-Torneo de Hamburgo 1ª Ronda-A. Davidovich-G. Monfils" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:00-Torneo de Hamburgo 1ª Ronda-A. Davidovich-G. Monfils
 http://127.0.0.1:6878/ace/getstream?id=12ba546d229bc39f01c3c18988a034b215fe6adb&pid=13
-#EXTINF:-1 tvg-id="18:30-Torneo de Hamburgo 1ª Ronda-D. Altmaier-F. Auger-Aliassime" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:30-Torneo de Hamburgo 1ª Ronda-D. Altmaier-F. Auger-Aliassime
+#EXTINF:-1 tvg-id="18:45-Torneo de Hamburgo 1ª Ronda-D. Altmaier-F. Auger-Aliassime" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:45-Torneo de Hamburgo 1ª Ronda-D. Altmaier-F. Auger-Aliassime
 http://127.0.0.1:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&pid=14
-#EXTINF:-1 tvg-id="18:30-Torneo de Hamburgo 1ª Ronda-D. Altmaier-F. Auger-Aliassime" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:30-Torneo de Hamburgo 1ª Ronda-D. Altmaier-F. Auger-Aliassime
+#EXTINF:-1 tvg-id="18:45-Torneo de Hamburgo 1ª Ronda-D. Altmaier-F. Auger-Aliassime" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:45-Torneo de Hamburgo 1ª Ronda-D. Altmaier-F. Auger-Aliassime
 http://127.0.0.1:6878/ace/getstream?id=639c561dd57fa3fc91fde715caeb696c5efb7ce7&pid=15
 #EXTINF:-1 tvg-id="21:00-Premier League-Manchester City-Bournemouth" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Premier League-Manchester City-Bournemouth
 http://127.0.0.1:6878/ace/getstream?id=6538b79ce0da657d8455d1da6a5f342398899a0e&pid=16
