@@ -86,6 +86,8 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=0cfdfde1b70623b8c210b0f7301be2a874564
 #EXTINF:-1 tvg-id="LaLiga TV Hypermotion 2" group-title="Elcano",LaLiga TV Hypermotion 2
 http://127.0.0.1:6878/ace/manifest.m3u8?id=0a335406bad0b658aeddb2d38f8c0614b2e5623a
 #EXTINF:-1 tvg-id="M+ Liga de Campeones" group-title="New Era",M+ Liga de Campeones
+http://127.0.0.1:6878/ace/manifest.m3u8?id=152169ce99e1fd27f2249c18384a121079cdef29
+#EXTINF:-1 tvg-id="M+ Liga de Campeones" group-title="New Era",M+ Liga de Campeones
 http://127.0.0.1:6878/ace/manifest.m3u8?id=47223e64a576c21bd61e818a42397a753d34fba5
 #EXTINF:-1 tvg-id="M+ Liga de Campeones" group-title="New Era",M+ Liga de Campeones
 http://127.0.0.1:6878/ace/manifest.m3u8?id=6d88c66c89f3dbe1e6dacb5a8f7c9a98b12e6c63
@@ -99,8 +101,6 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=afbf2a479c5a5072698139f0f556ef3e77a99
 http://127.0.0.1:6878/ace/manifest.m3u8?id=c16b4fab1f724c94cad92081cbb7fc7c6fe8a2cc
 #EXTINF:-1 tvg-id="M+ Liga de Campeones" group-title="New Loop",M+ Liga de Campeones
 http://127.0.0.1:6878/ace/manifest.m3u8?id=e572a5178ff72eed7d1d751a18b4b3419699f370
-#EXTINF:-1 tvg-id="M+ Liga de Campeones" group-title="New Era",M+ Liga de Campeones
-http://127.0.0.1:6878/ace/manifest.m3u8?id=152169ce99e1fd27f2249c18384a121079cdef29
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 2" group-title="Elcano",M+ Liga de Campeones 2
 http://127.0.0.1:6878/ace/manifest.m3u8?id=abdf9058786a48623d0de51a3adb414ae10b6e72
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 2" group-title="New Era",M+ Liga de Campeones 2
@@ -211,7 +211,7 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=16ffa1713f42aa27317ee039a2bd0cdbc89a1
 http://127.0.0.1:6878/ace/manifest.m3u8?id=714e14e6d6e27660fd25a75b57b0ac5580fe705d
 #EXTINF:-1 tvg-id="Eurosport 1" group-title="New Era",Eurosport 1
 http://127.0.0.1:6878/ace/manifest.m3u8?id=bae98f69fbf867550b4f73b4eb176dae84d7f909
-#EXTINF:-1 tvg-id="Eurosport 1" group-title="Antigua",Eurosport 1
+#EXTINF:-1 tvg-id="Eurosport 1" group-title="New Loop",Eurosport 1
 http://127.0.0.1:6878/ace/manifest.m3u8?id=1b0bc4d4dcd609d3c092712e721392b199f50a62
 #EXTINF:-1 tvg-id="Eurosport 2" group-title="New Era",Eurosport 2
 http://127.0.0.1:6878/ace/manifest.m3u8?id=dc4ccb9e72550bc72be9360aa7d77e337ad11ecc
