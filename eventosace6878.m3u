@@ -127,23 +127,25 @@ http://127.0.0.1:6878/ace/getstream?id=7e27e46c25d4308d16098d9dc67fcd8736e8c1f0&
 http://127.0.0.1:6878/ace/getstream?id=75306ac6ffbe33b08c5c28487674f75f012c7f50&pid=63
 #EXTINF:-1 tvg-id="17:00-Título Mundial Peso Welter-J. Taylor-E. Essuman" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:00-Título Mundial Peso Welter-J. Taylor-E. Essuman
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8&pid=64
+#EXTINF:-1 tvg-id="17:00-Título Mundial Peso Welter-J. Taylor-E. Essuman" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:00-Título Mundial Peso Welter-J. Taylor-E. Essuman
+http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98&pid=65
 #EXTINF:-1 tvg-id="18:00-ACB Regular-MoraBanc Andorra-BAXI Manresa" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",18:00-ACB Regular-MoraBanc Andorra-BAXI Manresa
-http://127.0.0.1:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&pid=65
+http://127.0.0.1:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&pid=66
 #EXTINF:-1 tvg-id="18:00-ACB Regular-MoraBanc Andorra-BAXI Manresa" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",18:00-ACB Regular-MoraBanc Andorra-BAXI Manresa
-http://127.0.0.1:6878/ace/getstream?id=639c561dd57fa3fc91fde715caeb696c5efb7ce7&pid=66
+http://127.0.0.1:6878/ace/getstream?id=639c561dd57fa3fc91fde715caeb696c5efb7ce7&pid=67
 #EXTINF:-1 tvg-id="18:00-ACB Regular-Joventut Badalona-Casademont Zaragoza" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",18:00-ACB Regular-Joventut Badalona-Casademont Zaragoza
-http://127.0.0.1:6878/ace/getstream?id=ef9dcc4eaac36a0f608b52a31f8ab237859e071a&pid=67
+http://127.0.0.1:6878/ace/getstream?id=ef9dcc4eaac36a0f608b52a31f8ab237859e071a&pid=68
 #EXTINF:-1 tvg-id="18:00-ACB Regular-Joventut Badalona-Casademont Zaragoza" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",18:00-ACB Regular-Joventut Badalona-Casademont Zaragoza
-http://127.0.0.1:6878/ace/getstream?id=b5842718859345a596107ab8e6b24d7bfa2d617e&pid=68
+http://127.0.0.1:6878/ace/getstream?id=b5842718859345a596107ab8e6b24d7bfa2d617e&pid=69
 #EXTINF:-1 tvg-id="18:00-ACB Regular-Joventut Badalona-Casademont Zaragoza" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",18:00-ACB Regular-Joventut Badalona-Casademont Zaragoza
-http://127.0.0.1:6878/ace/getstream?id=be02b9918b8fe7224cfa9af1e37856760f95b1b8&pid=69
+http://127.0.0.1:6878/ace/getstream?id=be02b9918b8fe7224cfa9af1e37856760f95b1b8&pid=70
 #EXTINF:-1 tvg-id="18:00-ACB Regular-Joventut Badalona-Casademont Zaragoza" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",18:00-ACB Regular-Joventut Badalona-Casademont Zaragoza
-http://127.0.0.1:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3&pid=70
+http://127.0.0.1:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3&pid=71
 #EXTINF:-1 tvg-id="18:30-Primera-Espanyol-UD Las Palmas" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:30-Primera-Espanyol-UD Las Palmas
-http://127.0.0.1:6878/ace/getstream?id=51dbbfb42f8091e4ea7a2186b566a40e780953d9&pid=71
+http://127.0.0.1:6878/ace/getstream?id=51dbbfb42f8091e4ea7a2186b566a40e780953d9&pid=72
 #EXTINF:-1 tvg-id="18:30-Primera-Espanyol-UD Las Palmas" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:30-Primera-Espanyol-UD Las Palmas
-http://127.0.0.1:6878/ace/getstream?id=97ba38d47680954be40e48bd8f43e17222fefecb&pid=72
+http://127.0.0.1:6878/ace/getstream?id=97ba38d47680954be40e48bd8f43e17222fefecb&pid=73
 #EXTINF:-1 tvg-id="18:30-Primera-Espanyol-UD Las Palmas" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:30-Primera-Espanyol-UD Las Palmas
-http://127.0.0.1:6878/ace/getstream?id=608b0faf7d3d25f6fe5dba13d5e4b4142949990e&pid=73
+http://127.0.0.1:6878/ace/getstream?id=608b0faf7d3d25f6fe5dba13d5e4b4142949990e&pid=74
 #EXTINF:-1 tvg-id="18:30-Primera-Espanyol-UD Las Palmas" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:30-Primera-Espanyol-UD Las Palmas
-http://127.0.0.1:6878/ace/getstream?id=94d34491106e00394835c8cb68aa94481339b53f&pid=74
+http://127.0.0.1:6878/ace/getstream?id=94d34491106e00394835c8cb68aa94481339b53f&pid=75
