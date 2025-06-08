@@ -68,9 +68,9 @@ pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=d3de78aebe5
 #EXTINF:-1 tvg-id="M+ LaLiga TV" group-title="Elcano",M+ LaLiga TV
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=1bc437bce57b4b0450f6d1f8d818b7e97000745e
 #EXTINF:-1 tvg-id="LaLiga TV BAR" group-title="Elcano",LaLiga TV BAR
-pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=608b0faf7d3d25f6fe5dba13d5e4b4142949990e
-#EXTINF:-1 tvg-id="LaLiga TV BAR" group-title="Elcano",LaLiga TV BAR
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=94d34491106e00394835c8cb68aa94481339b53f
+#EXTINF:-1 tvg-id="LaLiga TV BAR" group-title="Elcano",LaLiga TV BAR
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=608b0faf7d3d25f6fe5dba13d5e4b4142949990e
 #EXTINF:-1 tvg-id="DAZN LaLiga" group-title="Elcano",DAZN LaLiga
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=110d441ddc9713a7452588770d2bc85504672f47
 #EXTINF:-1 tvg-id="DAZN LaLiga" group-title="Elcano",DAZN LaLiga
@@ -285,8 +285,6 @@ pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=7e27e46c25d
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 #EXTINF:-1 tvg-id="AutoMotorSport" group-title="New Loop",AutoMotorSport
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=610993aea3a2bfd509594334b7461ce96900f54c
-#EXTINF:-1 tvg-id="Canal Motor" group-title="New Loop",Canal Motor
-pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=35e17cc84abc5e393b5acd688536a9681105f2d5
 #EXTINF:-1 tvg-id="Motors TV" group-title="New Loop",Motors TV
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=442aeb6643b8836f9d00361c9e48eeb0841ddf98
 #EXTINF:-1 tvg-id="Retrovision Motor" group-title="New Loop",Retrovision Motor
