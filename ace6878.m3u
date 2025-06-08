@@ -103,8 +103,6 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=83c6c4942d69f4aa324aa746c5d7dbfd7d157
 http://127.0.0.1:6878/ace/manifest.m3u8?id=f31a586422c9244196c810c84b6c85da350318a5
 #EXTINF:-1 tvg-id="DAZN LaLiga 2" group-title="New Era",DAZN LaLiga 2
 http://127.0.0.1:6878/ace/manifest.m3u8?id=635b61c1f240449163260cd914d10d886a54fee3
-#EXTINF:-1 tvg-id="DAZN LaLiga 2" group-title="New Era",DAZN LaLiga 2
-http://127.0.0.1:6878/ace/manifest.m3u8?id=ca68dcfdb27883d3877a5eec68f8ea9d2d31ae1d
 #EXTINF:-1 tvg-id="DAZN LaLiga 2" group-title="Elcano",DAZN LaLiga 2
 http://127.0.0.1:6878/ace/manifest.m3u8?id=51dbbfb42f8091e4ea7a2186b566a40e780953d9
 #EXTINF:-1 tvg-id="DAZN LaLiga 2" group-title="Elcano",DAZN LaLiga 2
@@ -123,14 +121,14 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=778f08cbae9596ed9e8b2ae0af33ee7a6fe24
 http://127.0.0.1:6878/ace/manifest.m3u8?id=afbf2a479c5a5072698139f0f556ef3e77a99bd0
 #EXTINF:-1 tvg-id="M+ Liga de Campeones" group-title="New Era",M+ Liga de Campeones
 http://127.0.0.1:6878/ace/manifest.m3u8?id=c16b4fab1f724c94cad92081cbb7fc7c6fe8a2cc
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 2" group-title="Elcano",M+ Liga de Campeones 2
-http://127.0.0.1:6878/ace/manifest.m3u8?id=abdf9058786a48623d0de51a3adb414ae10b6e72
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 2" group-title="New Era",M+ Liga de Campeones 2
 http://127.0.0.1:6878/ace/manifest.m3u8?id=3bb6c5f346369d4f2a6bde45ec0bfe100d0e1f42
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 2" group-title="New Era",M+ Liga de Campeones 2
 http://127.0.0.1:6878/ace/manifest.m3u8?id=4c6ed0cd87c090f3cf85b2c8adbe8b37dba08565
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 2" group-title="New Era",M+ Liga de Campeones 2
 http://127.0.0.1:6878/ace/manifest.m3u8?id=c6a3673f6a37b1bd3cf31fdd6404dd33d48cfccb
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 2" group-title="Elcano",M+ Liga de Campeones 2
+http://127.0.0.1:6878/ace/manifest.m3u8?id=abdf9058786a48623d0de51a3adb414ae10b6e72
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 3" group-title="New Era",M+ Liga de Campeones 3
 http://127.0.0.1:6878/ace/manifest.m3u8?id=17b8bc4bf8e29547b0071c742e3d7da3bcbc484d
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 3" group-title="New Era",M+ Liga de Campeones 3
