@@ -3,25 +3,23 @@
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230&pid=1
 #EXTINF:-1 tvg-id="20:00-Amistoso Femenino-Portugal-España" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:00-Amistoso Femenino-Portugal-España
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230&pid=2
-#EXTINF:-1 tvg-id="20:30-Primera Federación Futsal Playoff Semifinales-Barça FS-Palma Futsal" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",20:30-Primera Federación Futsal Playoff Semifinales-Barça FS-Palma Futsal
-http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230&pid=3
 #EXTINF:-1 tvg-id="21:15-ACB Semifinales-Valencia Basket-La Laguna Tenerife" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",21:15-ACB Semifinales-Valencia Basket-La Laguna Tenerife
-http://127.0.0.1:6878/ace/getstream?id=ef9dcc4eaac36a0f608b52a31f8ab237859e071a&pid=4
+http://127.0.0.1:6878/ace/getstream?id=ef9dcc4eaac36a0f608b52a31f8ab237859e071a&pid=3
 #EXTINF:-1 tvg-id="21:15-ACB Semifinales-Valencia Basket-La Laguna Tenerife" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",21:15-ACB Semifinales-Valencia Basket-La Laguna Tenerife
-http://127.0.0.1:6878/ace/getstream?id=b5842718859345a596107ab8e6b24d7bfa2d617e&pid=5
+http://127.0.0.1:6878/ace/getstream?id=b5842718859345a596107ab8e6b24d7bfa2d617e&pid=4
 #EXTINF:-1 tvg-id="21:15-ACB Semifinales-Valencia Basket-La Laguna Tenerife" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",21:15-ACB Semifinales-Valencia Basket-La Laguna Tenerife
-http://127.0.0.1:6878/ace/getstream?id=be02b9918b8fe7224cfa9af1e37856760f95b1b8&pid=6
+http://127.0.0.1:6878/ace/getstream?id=be02b9918b8fe7224cfa9af1e37856760f95b1b8&pid=5
 #EXTINF:-1 tvg-id="21:15-ACB Semifinales-Valencia Basket-La Laguna Tenerife" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",21:15-ACB Semifinales-Valencia Basket-La Laguna Tenerife
-http://127.0.0.1:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3&pid=7
+http://127.0.0.1:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3&pid=6
 #EXTINF:-1 tvg-id="21:15-ACB Semifinales-Valencia Basket-La Laguna Tenerife" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",21:15-ACB Semifinales-Valencia Basket-La Laguna Tenerife
-http://127.0.0.1:6878/ace/getstream?id=b2a4d1eba9b46df5f52a87105df779f9d39abeb4&pid=8
+http://127.0.0.1:6878/ace/getstream?id=b2a4d1eba9b46df5f52a87105df779f9d39abeb4&pid=7
 #EXTINF:-1 tvg-id="21:15-ACB Semifinales-Valencia Basket-La Laguna Tenerife" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",21:15-ACB Semifinales-Valencia Basket-La Laguna Tenerife
-http://127.0.0.1:6878/ace/getstream?id=3b2a8b41e7097c16b0468b42d7de0320886fa933&pid=9
+http://127.0.0.1:6878/ace/getstream?id=3b2a8b41e7097c16b0468b42d7de0320886fa933&pid=8
 #EXTINF:-1 tvg-id="21:15-ACB Semifinales-Valencia Basket-La Laguna Tenerife" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",21:15-ACB Semifinales-Valencia Basket-La Laguna Tenerife
-http://127.0.0.1:6878/ace/getstream?id=2940120bf034db79a7f5849846ccea0255172eae&pid=10
+http://127.0.0.1:6878/ace/getstream?id=2940120bf034db79a7f5849846ccea0255172eae&pid=9
 #EXTINF:-1 tvg-id="21:15-ACB Semifinales-Valencia Basket-La Laguna Tenerife" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",21:15-ACB Semifinales-Valencia Basket-La Laguna Tenerife
-http://127.0.0.1:6878/ace/getstream?id=57313e1ef438538df4feb5a6028dc78ee4f66b6a&pid=11
+http://127.0.0.1:6878/ace/getstream?id=57313e1ef438538df4feb5a6028dc78ee4f66b6a&pid=10
 #EXTINF:-1 tvg-id="21:15-ACB Semifinales-Valencia Basket-La Laguna Tenerife" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",21:15-ACB Semifinales-Valencia Basket-La Laguna Tenerife
-http://127.0.0.1:6878/ace/getstream?id=d03c13b6723f66155d7a0df3692a3b073fe630f2&pid=12
+http://127.0.0.1:6878/ace/getstream?id=d03c13b6723f66155d7a0df3692a3b073fe630f2&pid=11
 #EXTINF:-1 tvg-id="21:15-ACB Semifinales-Valencia Basket-La Laguna Tenerife" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",21:15-ACB Semifinales-Valencia Basket-La Laguna Tenerife
-http://127.0.0.1:6878/ace/getstream?id=12ba546d229bc39f01c3c18988a034b215fe6adb&pid=13
+http://127.0.0.1:6878/ace/getstream?id=12ba546d229bc39f01c3c18988a034b215fe6adb&pid=12
