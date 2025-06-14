@@ -11,19 +11,19 @@ http://127.0.0.1:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3&
 http://127.0.0.1:6878/ace/getstream?id=b2a4d1eba9b46df5f52a87105df779f9d39abeb4&pid=5
 #EXTINF:-1 tvg-id="02:30-NBA Final-Indiana Pacers-Oklahoma C. Thunder" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",02:30-NBA Final-Indiana Pacers-Oklahoma C. Thunder
 http://127.0.0.1:6878/ace/getstream?id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78&pid=6
-#EXTINF:-1 tvg-id="12:00-Torneo de Stuttgart Semifinal 1 ATP 250-F. Auger-Aliassime-T. Fritz" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",12:00-Torneo de Stuttgart Semifinal 1 ATP 250-F. Auger-Aliassime-T. Fritz
-http://127.0.0.1:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&pid=7
-#EXTINF:-1 tvg-id="12:00-Torneo de Stuttgart Semifinal 1 ATP 250-F. Auger-Aliassime-T. Fritz" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",12:00-Torneo de Stuttgart Semifinal 1 ATP 250-F. Auger-Aliassime-T. Fritz
-http://127.0.0.1:6878/ace/getstream?id=639c561dd57fa3fc91fde715caeb696c5efb7ce7&pid=8
 #EXTINF:-1 tvg-id="12:00-Primera Federación Femenina Playoff Final-Roldán FSF-At. Navalcarnero FS" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",12:00-Primera Federación Femenina Playoff Final-Roldán FSF-At. Navalcarnero FS
-http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230&pid=9
-#EXTINF:-1 tvg-id="14:00-Torneo de Stuttgart Semifinal 2 ATP 250-A. Zverev-B. Shelton" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:00-Torneo de Stuttgart Semifinal 2 ATP 250-A. Zverev-B. Shelton
+http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230&pid=7
+#EXTINF:-1 tvg-id="12:10-Torneo de Stuttgart Semifinal 1 ATP 250-F. Auger-Aliassime-T. Fritz" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",12:10-Torneo de Stuttgart Semifinal 1 ATP 250-F. Auger-Aliassime-T. Fritz
+http://127.0.0.1:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&pid=8
+#EXTINF:-1 tvg-id="12:10-Torneo de Stuttgart Semifinal 1 ATP 250-F. Auger-Aliassime-T. Fritz" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",12:10-Torneo de Stuttgart Semifinal 1 ATP 250-F. Auger-Aliassime-T. Fritz
+http://127.0.0.1:6878/ace/getstream?id=639c561dd57fa3fc91fde715caeb696c5efb7ce7&pid=9
+#EXTINF:-1 tvg-id="14:10-Torneo de Stuttgart Semifinal 2 ATP 250-A. Zverev-B. Shelton" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:10-Torneo de Stuttgart Semifinal 2 ATP 250-A. Zverev-B. Shelton
 http://127.0.0.1:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&pid=10
-#EXTINF:-1 tvg-id="14:00-Torneo de Stuttgart Semifinal 2 ATP 250-A. Zverev-B. Shelton" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:00-Torneo de Stuttgart Semifinal 2 ATP 250-A. Zverev-B. Shelton
+#EXTINF:-1 tvg-id="14:10-Torneo de Stuttgart Semifinal 2 ATP 250-A. Zverev-B. Shelton" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:10-Torneo de Stuttgart Semifinal 2 ATP 250-A. Zverev-B. Shelton
 http://127.0.0.1:6878/ace/getstream?id=639c561dd57fa3fc91fde715caeb696c5efb7ce7&pid=11
-#EXTINF:-1 tvg-id="14:30-Torneo de Hertogenbosch Semifinal 1 ATP 250-G. Diallo-U. Humbert" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:30-Torneo de Hertogenbosch Semifinal 1 ATP 250-G. Diallo-U. Humbert
+#EXTINF:-1 tvg-id="17:55-Torneo de Hertogenbosch Semifinal 1 ATP 250-G. Diallo-U. Humbert" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:55-Torneo de Hertogenbosch Semifinal 1 ATP 250-G. Diallo-U. Humbert
 http://127.0.0.1:6878/ace/getstream?id=58a4c880ab18486d914751db32a12760e74b75a4&pid=12
-#EXTINF:-1 tvg-id="16:00-Torneo de Hertogenbosch Semifinal 2 ATP 250-R. Opelka-Z. Bergs" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:00-Torneo de Hertogenbosch Semifinal 2 ATP 250-R. Opelka-Z. Bergs
+#EXTINF:-1 tvg-id="18:10-Torneo de Hertogenbosch Semifinal 2 ATP 250-R. Opelka-Z. Bergs" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:10-Torneo de Hertogenbosch Semifinal 2 ATP 250-R. Opelka-Z. Bergs
 http://127.0.0.1:6878/ace/getstream?id=58a4c880ab18486d914751db32a12760e74b75a4&pid=13
 #EXTINF:-1 tvg-id="21:15-ACB Semifinales-La Laguna Tenerife-Valencia Basket" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",21:15-ACB Semifinales-La Laguna Tenerife-Valencia Basket
 http://127.0.0.1:6878/ace/getstream?id=ef9dcc4eaac36a0f608b52a31f8ab237859e071a&pid=14
