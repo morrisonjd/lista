@@ -131,6 +131,8 @@ pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=d8c2ed470e8
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=9b84af74b2fa3690c519199326fc2f181b025cdd
 #EXTINF:-1 tvg-id="M+ Golf" group-title="New Era",M+ Golf
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=8546cff89e4ee8bf3ad31cf6457c3bc2c4341031
+#EXTINF:-1 tvg-id="M+ Golf" group-title="New Loop",M+ Golf
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=872608e734992db636eb79426802cd08f4029afb
 #EXTINF:-1 tvg-id="M+ Golf 2" group-title="New Era",M+ Golf 2
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=96e82321c731e41768a806992ee4d3b9b7a0e7d7
 #EXTINF:-1 tvg-id="DAZN F1" group-title="New Era",DAZN F1
