@@ -25,13 +25,13 @@ http://127.0.0.1:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3&
 http://127.0.0.1:6878/ace/getstream?id=b2a4d1eba9b46df5f52a87105df779f9d39abeb4&pid=12
 #EXTINF:-1 tvg-id="02:30-NBA Final-Oklahoma C. Thunder-Indiana Pacers" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",02:30-NBA Final-Oklahoma C. Thunder-Indiana Pacers
 http://127.0.0.1:6878/ace/getstream?id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78&pid=13
-#EXTINF:-1 tvg-id="11:30-Torneo de Halle 1ª Ronda-A. Rublev-S. Ofner" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",11:30-Torneo de Halle 1ª Ronda-A. Rublev-S. Ofner
+#EXTINF:-1 tvg-id="11:40-Torneo de Halle 1ª Ronda-A. Rublev-S. Ofner" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",11:40-Torneo de Halle 1ª Ronda-A. Rublev-S. Ofner
 http://127.0.0.1:6878/ace/getstream?id=ef9dcc4eaac36a0f608b52a31f8ab237859e071a&pid=14
-#EXTINF:-1 tvg-id="11:30-Torneo de Halle 1ª Ronda-A. Rublev-S. Ofner" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",11:30-Torneo de Halle 1ª Ronda-A. Rublev-S. Ofner
+#EXTINF:-1 tvg-id="11:40-Torneo de Halle 1ª Ronda-A. Rublev-S. Ofner" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",11:40-Torneo de Halle 1ª Ronda-A. Rublev-S. Ofner
 http://127.0.0.1:6878/ace/getstream?id=b5842718859345a596107ab8e6b24d7bfa2d617e&pid=15
-#EXTINF:-1 tvg-id="11:30-Torneo de Halle 1ª Ronda-A. Rublev-S. Ofner" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",11:30-Torneo de Halle 1ª Ronda-A. Rublev-S. Ofner
+#EXTINF:-1 tvg-id="11:40-Torneo de Halle 1ª Ronda-A. Rublev-S. Ofner" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",11:40-Torneo de Halle 1ª Ronda-A. Rublev-S. Ofner
 http://127.0.0.1:6878/ace/getstream?id=be02b9918b8fe7224cfa9af1e37856760f95b1b8&pid=16
-#EXTINF:-1 tvg-id="11:30-Torneo de Halle 1ª Ronda-A. Rublev-S. Ofner" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",11:30-Torneo de Halle 1ª Ronda-A. Rublev-S. Ofner
+#EXTINF:-1 tvg-id="11:40-Torneo de Halle 1ª Ronda-A. Rublev-S. Ofner" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",11:40-Torneo de Halle 1ª Ronda-A. Rublev-S. Ofner
 http://127.0.0.1:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3&pid=17
 #EXTINF:-1 tvg-id="13:00-Torneo de Halle 1ª Ronda-J. Fonseca-F. Cobolli" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",13:00-Torneo de Halle 1ª Ronda-J. Fonseca-F. Cobolli
 http://127.0.0.1:6878/ace/getstream?id=ef9dcc4eaac36a0f608b52a31f8ab237859e071a&pid=18
@@ -41,33 +41,51 @@ http://127.0.0.1:6878/ace/getstream?id=b5842718859345a596107ab8e6b24d7bfa2d617e&
 http://127.0.0.1:6878/ace/getstream?id=be02b9918b8fe7224cfa9af1e37856760f95b1b8&pid=20
 #EXTINF:-1 tvg-id="13:00-Torneo de Halle 1ª Ronda-J. Fonseca-F. Cobolli" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",13:00-Torneo de Halle 1ª Ronda-J. Fonseca-F. Cobolli
 http://127.0.0.1:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3&pid=21
-#EXTINF:-1 tvg-id="13:00-Torneo de Queen's 1ª Ronda-A. De Miñaur-J. Lehecka" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",13:00-Torneo de Queen's 1ª Ronda-A. De Miñaur-J. Lehecka
+#EXTINF:-1 tvg-id="13:10-Torneo de Queen's 1ª Ronda-A. De Miñaur-J. Lehecka" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",13:10-Torneo de Queen's 1ª Ronda-A. De Miñaur-J. Lehecka
 http://127.0.0.1:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&pid=22
-#EXTINF:-1 tvg-id="13:00-Torneo de Queen's 1ª Ronda-A. De Miñaur-J. Lehecka" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",13:00-Torneo de Queen's 1ª Ronda-A. De Miñaur-J. Lehecka
+#EXTINF:-1 tvg-id="13:10-Torneo de Queen's 1ª Ronda-A. De Miñaur-J. Lehecka" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",13:10-Torneo de Queen's 1ª Ronda-A. De Miñaur-J. Lehecka
 http://127.0.0.1:6878/ace/getstream?id=639c561dd57fa3fc91fde715caeb696c5efb7ce7&pid=23
-#EXTINF:-1 tvg-id="14:30-Torneo de Queen's 1ª Ronda-J. Brooksby-J. Draper" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:30-Torneo de Queen's 1ª Ronda-J. Brooksby-J. Draper
+#EXTINF:-1 tvg-id="14:45-Torneo de Queen's 1ª Ronda-J. Brooksby-J. Draper" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:45-Torneo de Queen's 1ª Ronda-J. Brooksby-J. Draper
 http://127.0.0.1:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&pid=24
-#EXTINF:-1 tvg-id="14:30-Torneo de Queen's 1ª Ronda-J. Brooksby-J. Draper" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:30-Torneo de Queen's 1ª Ronda-J. Brooksby-J. Draper
+#EXTINF:-1 tvg-id="14:45-Torneo de Queen's 1ª Ronda-J. Brooksby-J. Draper" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:45-Torneo de Queen's 1ª Ronda-J. Brooksby-J. Draper
 http://127.0.0.1:6878/ace/getstream?id=639c561dd57fa3fc91fde715caeb696c5efb7ce7&pid=25
-#EXTINF:-1 tvg-id="15:30-Torneo de Halle 1ª Ronda-J. Sinner-Y. Hanfmann" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:30-Torneo de Halle 1ª Ronda-J. Sinner-Y. Hanfmann
+#EXTINF:-1 tvg-id="16:05-Torneo de Halle 1ª Ronda-J. Sinner-Y. Hanfmann" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:05-Torneo de Halle 1ª Ronda-J. Sinner-Y. Hanfmann
 http://127.0.0.1:6878/ace/getstream?id=ef9dcc4eaac36a0f608b52a31f8ab237859e071a&pid=26
-#EXTINF:-1 tvg-id="15:30-Torneo de Halle 1ª Ronda-J. Sinner-Y. Hanfmann" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:30-Torneo de Halle 1ª Ronda-J. Sinner-Y. Hanfmann
+#EXTINF:-1 tvg-id="16:05-Torneo de Halle 1ª Ronda-J. Sinner-Y. Hanfmann" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:05-Torneo de Halle 1ª Ronda-J. Sinner-Y. Hanfmann
 http://127.0.0.1:6878/ace/getstream?id=b5842718859345a596107ab8e6b24d7bfa2d617e&pid=27
-#EXTINF:-1 tvg-id="15:30-Torneo de Halle 1ª Ronda-J. Sinner-Y. Hanfmann" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:30-Torneo de Halle 1ª Ronda-J. Sinner-Y. Hanfmann
+#EXTINF:-1 tvg-id="16:05-Torneo de Halle 1ª Ronda-J. Sinner-Y. Hanfmann" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:05-Torneo de Halle 1ª Ronda-J. Sinner-Y. Hanfmann
 http://127.0.0.1:6878/ace/getstream?id=be02b9918b8fe7224cfa9af1e37856760f95b1b8&pid=28
-#EXTINF:-1 tvg-id="15:30-Torneo de Halle 1ª Ronda-J. Sinner-Y. Hanfmann" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:30-Torneo de Halle 1ª Ronda-J. Sinner-Y. Hanfmann
+#EXTINF:-1 tvg-id="16:05-Torneo de Halle 1ª Ronda-J. Sinner-Y. Hanfmann" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:05-Torneo de Halle 1ª Ronda-J. Sinner-Y. Hanfmann
 http://127.0.0.1:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3&pid=29
-#EXTINF:-1 tvg-id="16:00-Torneo de Queen's 1ª Ronda-C. Alcaraz-A. Davidovich" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:00-Torneo de Queen's 1ª Ronda-C. Alcaraz-A. Davidovich
-http://127.0.0.1:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&pid=30
-#EXTINF:-1 tvg-id="16:00-Torneo de Queen's 1ª Ronda-C. Alcaraz-A. Davidovich" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:00-Torneo de Queen's 1ª Ronda-C. Alcaraz-A. Davidovich
-http://127.0.0.1:6878/ace/getstream?id=639c561dd57fa3fc91fde715caeb696c5efb7ce7&pid=31
-#EXTINF:-1 tvg-id="16:00-Torneo de Queen's 1ª Ronda-C. Alcaraz-A. Davidovich" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:00-Torneo de Queen's 1ª Ronda-C. Alcaraz-A. Davidovich
-http://127.0.0.1:6878/ace/getstream?id=b2a4d1eba9b46df5f52a87105df779f9d39abeb4&pid=32
-#EXTINF:-1 tvg-id="16:00-Torneo de Queen's 1ª Ronda-C. Alcaraz-A. Davidovich" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:00-Torneo de Queen's 1ª Ronda-C. Alcaraz-A. Davidovich
-http://127.0.0.1:6878/ace/getstream?id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78&pid=33
-#EXTINF:-1 tvg-id="17:00-Torneo de Halle 1ª Ronda-L. Sonego-JL. Struff" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:00-Torneo de Halle 1ª Ronda-L. Sonego-JL. Struff
-http://127.0.0.1:6878/ace/getstream?id=753d4b1f7c4ef43238b5cf23b05572b550a44eee&pid=34
-#EXTINF:-1 tvg-id="17:30-Torneo de Queen's 1ª Ronda-C. Moutet-T. Fritz" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:30-Torneo de Queen's 1ª Ronda-C. Moutet-T. Fritz
-http://127.0.0.1:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&pid=35
-#EXTINF:-1 tvg-id="17:30-Torneo de Queen's 1ª Ronda-C. Moutet-T. Fritz" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:30-Torneo de Queen's 1ª Ronda-C. Moutet-T. Fritz
-http://127.0.0.1:6878/ace/getstream?id=639c561dd57fa3fc91fde715caeb696c5efb7ce7&pid=36
+#EXTINF:-1 tvg-id="16:05-Torneo de Halle 1ª Ronda-J. Sinner-Y. Hanfmann" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:05-Torneo de Halle 1ª Ronda-J. Sinner-Y. Hanfmann
+http://127.0.0.1:6878/ace/getstream?id=b2a4d1eba9b46df5f52a87105df779f9d39abeb4&pid=30
+#EXTINF:-1 tvg-id="16:05-Torneo de Halle 1ª Ronda-J. Sinner-Y. Hanfmann" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:05-Torneo de Halle 1ª Ronda-J. Sinner-Y. Hanfmann
+http://127.0.0.1:6878/ace/getstream?id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78&pid=31
+#EXTINF:-1 tvg-id="16:05-Torneo de Halle 1ª Ronda-J. Sinner-Y. Hanfmann" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:05-Torneo de Halle 1ª Ronda-J. Sinner-Y. Hanfmann
+http://127.0.0.1:6878/ace/getstream?id=3b2a8b41e7097c16b0468b42d7de0320886fa933&pid=32
+#EXTINF:-1 tvg-id="16:05-Torneo de Halle 1ª Ronda-J. Sinner-Y. Hanfmann" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:05-Torneo de Halle 1ª Ronda-J. Sinner-Y. Hanfmann
+http://127.0.0.1:6878/ace/getstream?id=2940120bf034db79a7f5849846ccea0255172eae&pid=33
+#EXTINF:-1 tvg-id="16:05-Torneo de Halle 1ª Ronda-J. Sinner-Y. Hanfmann" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:05-Torneo de Halle 1ª Ronda-J. Sinner-Y. Hanfmann
+http://127.0.0.1:6878/ace/getstream?id=57313e1ef438538df4feb5a6028dc78ee4f66b6a&pid=34
+#EXTINF:-1 tvg-id="16:05-Torneo de Halle 1ª Ronda-J. Sinner-Y. Hanfmann" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:05-Torneo de Halle 1ª Ronda-J. Sinner-Y. Hanfmann
+http://127.0.0.1:6878/ace/getstream?id=d03c13b6723f66155d7a0df3692a3b073fe630f2&pid=35
+#EXTINF:-1 tvg-id="16:05-Torneo de Halle 1ª Ronda-J. Sinner-Y. Hanfmann" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:05-Torneo de Halle 1ª Ronda-J. Sinner-Y. Hanfmann
+http://127.0.0.1:6878/ace/getstream?id=12ba546d229bc39f01c3c18988a034b215fe6adb&pid=36
+#EXTINF:-1 tvg-id="16:05-Torneo de Halle 1ª Ronda-J. Sinner-Y. Hanfmann" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:05-Torneo de Halle 1ª Ronda-J. Sinner-Y. Hanfmann
+http://127.0.0.1:6878/ace/getstream?id=c7c81acdd1a03ecc418c94c2f28e2adb0556c40b&pid=37
+#EXTINF:-1 tvg-id="16:05-Torneo de Halle 1ª Ronda-J. Sinner-Y. Hanfmann" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:05-Torneo de Halle 1ª Ronda-J. Sinner-Y. Hanfmann
+http://127.0.0.1:6878/ace/getstream?id=0e5d8c9724fa9163f49096b70484e315251eb785&pid=38
+#EXTINF:-1 tvg-id="16:25-Torneo de Queen's 1ª Ronda-C. Alcaraz-A. Walton" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:25-Torneo de Queen's 1ª Ronda-C. Alcaraz-A. Walton
+http://127.0.0.1:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&pid=39
+#EXTINF:-1 tvg-id="16:25-Torneo de Queen's 1ª Ronda-C. Alcaraz-A. Walton" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:25-Torneo de Queen's 1ª Ronda-C. Alcaraz-A. Walton
+http://127.0.0.1:6878/ace/getstream?id=639c561dd57fa3fc91fde715caeb696c5efb7ce7&pid=40
+#EXTINF:-1 tvg-id="16:25-Torneo de Queen's 1ª Ronda-C. Alcaraz-A. Walton" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:25-Torneo de Queen's 1ª Ronda-C. Alcaraz-A. Walton
+http://127.0.0.1:6878/ace/getstream?id=b2a4d1eba9b46df5f52a87105df779f9d39abeb4&pid=41
+#EXTINF:-1 tvg-id="16:25-Torneo de Queen's 1ª Ronda-C. Alcaraz-A. Walton" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:25-Torneo de Queen's 1ª Ronda-C. Alcaraz-A. Walton
+http://127.0.0.1:6878/ace/getstream?id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78&pid=42
+#EXTINF:-1 tvg-id="17:35-Torneo de Halle 1ª Ronda-L. Sonego-JL. Struff" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:35-Torneo de Halle 1ª Ronda-L. Sonego-JL. Struff
+http://127.0.0.1:6878/ace/getstream?id=753d4b1f7c4ef43238b5cf23b05572b550a44eee&pid=43
+#EXTINF:-1 tvg-id="17:55-Torneo de Queen's 1ª Ronda-C. Moutet-T. Fritz" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:55-Torneo de Queen's 1ª Ronda-C. Moutet-T. Fritz
+http://127.0.0.1:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&pid=44
+#EXTINF:-1 tvg-id="17:55-Torneo de Queen's 1ª Ronda-C. Moutet-T. Fritz" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:55-Torneo de Queen's 1ª Ronda-C. Moutet-T. Fritz
+http://127.0.0.1:6878/ace/getstream?id=639c561dd57fa3fc91fde715caeb696c5efb7ce7&pid=45
