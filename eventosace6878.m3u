@@ -15,21 +15,37 @@ http://127.0.0.1:6878/ace/getstream?id=b5842718859345a596107ab8e6b24d7bfa2d617e&
 http://127.0.0.1:6878/ace/getstream?id=be02b9918b8fe7224cfa9af1e37856760f95b1b8&pid=7
 #EXTINF:-1 tvg-id="13:00-Torneo de Halle 2ª Ronda-M. Giron-A. Zverev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",13:00-Torneo de Halle 2ª Ronda-M. Giron-A. Zverev
 http://127.0.0.1:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3&pid=8
+#EXTINF:-1 tvg-id="13:00-Torneo de Queen's 2ª Ronda-R. Bautista-Agut-J. Mensik" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",13:00-Torneo de Queen's 2ª Ronda-R. Bautista-Agut-J. Mensik
+http://127.0.0.1:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&pid=9
+#EXTINF:-1 tvg-id="13:00-Torneo de Queen's 2ª Ronda-R. Bautista-Agut-J. Mensik" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",13:00-Torneo de Queen's 2ª Ronda-R. Bautista-Agut-J. Mensik
+http://127.0.0.1:6878/ace/getstream?id=639c561dd57fa3fc91fde715caeb696c5efb7ce7&pid=10
 #EXTINF:-1 tvg-id="14:30-Torneo de Halle 2ª Ronda-Q. Halys-D. Medvedev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:30-Torneo de Halle 2ª Ronda-Q. Halys-D. Medvedev
-http://127.0.0.1:6878/ace/getstream?id=ef9dcc4eaac36a0f608b52a31f8ab237859e071a&pid=9
+http://127.0.0.1:6878/ace/getstream?id=ef9dcc4eaac36a0f608b52a31f8ab237859e071a&pid=11
 #EXTINF:-1 tvg-id="14:30-Torneo de Halle 2ª Ronda-Q. Halys-D. Medvedev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:30-Torneo de Halle 2ª Ronda-Q. Halys-D. Medvedev
-http://127.0.0.1:6878/ace/getstream?id=b5842718859345a596107ab8e6b24d7bfa2d617e&pid=10
+http://127.0.0.1:6878/ace/getstream?id=b5842718859345a596107ab8e6b24d7bfa2d617e&pid=12
 #EXTINF:-1 tvg-id="14:30-Torneo de Halle 2ª Ronda-Q. Halys-D. Medvedev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:30-Torneo de Halle 2ª Ronda-Q. Halys-D. Medvedev
-http://127.0.0.1:6878/ace/getstream?id=be02b9918b8fe7224cfa9af1e37856760f95b1b8&pid=11
+http://127.0.0.1:6878/ace/getstream?id=be02b9918b8fe7224cfa9af1e37856760f95b1b8&pid=13
 #EXTINF:-1 tvg-id="14:30-Torneo de Halle 2ª Ronda-Q. Halys-D. Medvedev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:30-Torneo de Halle 2ª Ronda-Q. Halys-D. Medvedev
-http://127.0.0.1:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3&pid=12
+http://127.0.0.1:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3&pid=14
+#EXTINF:-1 tvg-id="14:30-Torneo de Queen's 2ª Ronda-A. Popyrin-J. Draper" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:30-Torneo de Queen's 2ª Ronda-A. Popyrin-J. Draper
+http://127.0.0.1:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&pid=15
+#EXTINF:-1 tvg-id="14:30-Torneo de Queen's 2ª Ronda-A. Popyrin-J. Draper" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:30-Torneo de Queen's 2ª Ronda-A. Popyrin-J. Draper
+http://127.0.0.1:6878/ace/getstream?id=639c561dd57fa3fc91fde715caeb696c5efb7ce7&pid=16
 #EXTINF:-1 tvg-id="16:00-Torneo de Halle 2ª Ronda-A. Michelsen-S. Tsitsipas" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:00-Torneo de Halle 2ª Ronda-A. Michelsen-S. Tsitsipas
-http://127.0.0.1:6878/ace/getstream?id=ef9dcc4eaac36a0f608b52a31f8ab237859e071a&pid=13
+http://127.0.0.1:6878/ace/getstream?id=ef9dcc4eaac36a0f608b52a31f8ab237859e071a&pid=17
 #EXTINF:-1 tvg-id="16:00-Torneo de Halle 2ª Ronda-A. Michelsen-S. Tsitsipas" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:00-Torneo de Halle 2ª Ronda-A. Michelsen-S. Tsitsipas
-http://127.0.0.1:6878/ace/getstream?id=b5842718859345a596107ab8e6b24d7bfa2d617e&pid=14
+http://127.0.0.1:6878/ace/getstream?id=b5842718859345a596107ab8e6b24d7bfa2d617e&pid=18
 #EXTINF:-1 tvg-id="16:00-Torneo de Halle 2ª Ronda-A. Michelsen-S. Tsitsipas" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:00-Torneo de Halle 2ª Ronda-A. Michelsen-S. Tsitsipas
-http://127.0.0.1:6878/ace/getstream?id=be02b9918b8fe7224cfa9af1e37856760f95b1b8&pid=15
+http://127.0.0.1:6878/ace/getstream?id=be02b9918b8fe7224cfa9af1e37856760f95b1b8&pid=19
 #EXTINF:-1 tvg-id="16:00-Torneo de Halle 2ª Ronda-A. Michelsen-S. Tsitsipas" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:00-Torneo de Halle 2ª Ronda-A. Michelsen-S. Tsitsipas
-http://127.0.0.1:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3&pid=16
+http://127.0.0.1:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3&pid=20
+#EXTINF:-1 tvg-id="16:00-Torneo de Queen's 2ª Ronda-D. Evans-B. Nakashima" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:00-Torneo de Queen's 2ª Ronda-D. Evans-B. Nakashima
+http://127.0.0.1:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&pid=21
+#EXTINF:-1 tvg-id="16:00-Torneo de Queen's 2ª Ronda-D. Evans-B. Nakashima" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:00-Torneo de Queen's 2ª Ronda-D. Evans-B. Nakashima
+http://127.0.0.1:6878/ace/getstream?id=639c561dd57fa3fc91fde715caeb696c5efb7ce7&pid=22
 #EXTINF:-1 tvg-id="16:30-Eurobasket Femenino Fase de grupos-Turquía-Francia" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:30-Eurobasket Femenino Fase de grupos-Turquía-Francia
-http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230&pid=17
+http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230&pid=23
+#EXTINF:-1 tvg-id="17:30-Torneo de Queen's 2ª Ronda-H. Rune-M. McDonald" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:30-Torneo de Queen's 2ª Ronda-H. Rune-M. McDonald
+http://127.0.0.1:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&pid=24
+#EXTINF:-1 tvg-id="17:30-Torneo de Queen's 2ª Ronda-H. Rune-M. McDonald" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:30-Torneo de Queen's 2ª Ronda-H. Rune-M. McDonald
+http://127.0.0.1:6878/ace/getstream?id=639c561dd57fa3fc91fde715caeb696c5efb7ce7&pid=25
