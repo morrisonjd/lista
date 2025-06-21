@@ -30,6 +30,8 @@ pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=1ab443f5b4b
 #EXTINF:-1 tvg-id="M+ Estrenos" group-title="New Era",M+ Estrenos
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=b6cb57d7f92e75f6786ad776d8fe00239b755495
 #EXTINF:-1 tvg-id="M+ Hits" group-title="New Era",M+ Hits
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=c1978a48995042c7ab8188e02f7e9a474c89869d
+#EXTINF:-1 tvg-id="M+ Hits" group-title="New Era",M+ Hits
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=2752dee68a7faa9c847216dc22a6821661db891a
 #EXTINF:-1 tvg-id="M+ Clásicos" group-title="New Era",M+ Clásicos
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=cf6ffdfa3c51268c0bd216da6b275fb866160c0c

@@ -30,6 +30,8 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=1ab443f5b4beb6d586f19e8b25b9f9646cf2a
 #EXTINF:-1 tvg-id="M+ Estrenos" group-title="New Era",M+ Estrenos
 http://127.0.0.1:6878/ace/manifest.m3u8?id=b6cb57d7f92e75f6786ad776d8fe00239b755495
 #EXTINF:-1 tvg-id="M+ Hits" group-title="New Era",M+ Hits
+http://127.0.0.1:6878/ace/manifest.m3u8?id=c1978a48995042c7ab8188e02f7e9a474c89869d
+#EXTINF:-1 tvg-id="M+ Hits" group-title="New Era",M+ Hits
 http://127.0.0.1:6878/ace/manifest.m3u8?id=2752dee68a7faa9c847216dc22a6821661db891a
 #EXTINF:-1 tvg-id="M+ Clásicos" group-title="New Era",M+ Clásicos
 http://127.0.0.1:6878/ace/manifest.m3u8?id=cf6ffdfa3c51268c0bd216da6b275fb866160c0c
