@@ -98,17 +98,17 @@ pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=c976c7b3796
 #EXTINF:-1 tvg-id="LaLiga TV Hypermotion 2" group-title="Elcano",LaLiga TV Hypermotion 2
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=709075831bf5c41ed0a20dfbd640aab6c28971f8
 #EXTINF:-1 tvg-id="M+ Liga de Campeones" group-title="Elcano",M+ Liga de Campeones
-pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=2b51710cee513e8939785fa3e7980f32d4e0415f
-#EXTINF:-1 tvg-id="M+ Liga de Campeones" group-title="Elcano",M+ Liga de Campeones
-pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=97df5b7824948972d041d8ca2a4d29c90b641bc9
-#EXTINF:-1 tvg-id="M+ Liga de Campeones" group-title="Elcano",M+ Liga de Campeones
-pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=9db029dff6a9c637d1f670e78dbc1a479b9b406e
-#EXTINF:-1 tvg-id="M+ Liga de Campeones" group-title="Elcano",M+ Liga de Campeones
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=b028202ff335911db3118bceac027df3e8ef6c32
 #EXTINF:-1 tvg-id="M+ Liga de Campeones" group-title="New Loop",M+ Liga de Campeones
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=e572a5178ff72eed7d1d751a18b4b3419699f370
 #EXTINF:-1 tvg-id="M+ Liga de Campeones" group-title="New Era",M+ Liga de Campeones
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=03fe4c2658ad7419313f0a1bd41d511dd776aca7
+#EXTINF:-1 tvg-id="M+ Liga de Campeones" group-title="Elcano",M+ Liga de Campeones
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=2b51710cee513e8939785fa3e7980f32d4e0415f
+#EXTINF:-1 tvg-id="M+ Liga de Campeones" group-title="Elcano",M+ Liga de Campeones
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=97df5b7824948972d041d8ca2a4d29c90b641bc9
+#EXTINF:-1 tvg-id="M+ Liga de Campeones" group-title="Elcano",M+ Liga de Campeones
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=9db029dff6a9c637d1f670e78dbc1a479b9b406e
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 2" group-title="Elcano",M+ Liga de Campeones 2
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=abdf9058786a48623d0de51a3adb414ae10b6e72
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 2" group-title="Elcano",M+ Liga de Campeones 2
@@ -192,15 +192,9 @@ pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=eb6ffec065b
 #EXTINF:-1 tvg-id="DAZN 1" group-title="New Era",DAZN 1
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=688e785893b50acc1d00cb37f15bfc42e72f5ae3
 #EXTINF:-1 tvg-id="DAZN 1" group-title="New Era",DAZN 1
-pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=8e5d8387559b72217d01745e56733d63db779324
-#EXTINF:-1 tvg-id="DAZN 1" group-title="New Era",DAZN 1
-pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
-#EXTINF:-1 tvg-id="DAZN 1" group-title="New Era",DAZN 1
-pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=50a8a13c474848d1efbd5586efdb5b6cdd173fa9
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=c51e60bab39eb21c200c3ae95da175e0d3618083
 #EXTINF:-1 tvg-id="DAZN 1" group-title="New Era",DAZN 1
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=6538b79ce0da657d8455d1da6a5f342398899a0e
-#EXTINF:-1 tvg-id="DAZN 1" group-title="New Era",DAZN 1
-pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=6a1703a6bbe6110a1d27f35a41c88661e1740bfa
 #EXTINF:-1 tvg-id="DAZN 1" group-title="New Era",DAZN 1
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=772633ec93566573c9a8ed23a1c3b45d31337eb7
 #EXTINF:-1 tvg-id="DAZN 1" group-title="New Era",DAZN 1
