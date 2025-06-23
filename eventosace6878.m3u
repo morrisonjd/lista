@@ -1,23 +1,3 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="02:00-NBA Final-Oklahoma C. Thunder-Indiana Pacers" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",02:00-NBA Final-Oklahoma C. Thunder-Indiana Pacers
-http://127.0.0.1:6878/ace/getstream?id=ef9dcc4eaac36a0f608b52a31f8ab237859e071a&pid=1
-#EXTINF:-1 tvg-id="02:00-NBA Final-Oklahoma C. Thunder-Indiana Pacers" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",02:00-NBA Final-Oklahoma C. Thunder-Indiana Pacers
-http://127.0.0.1:6878/ace/getstream?id=b5842718859345a596107ab8e6b24d7bfa2d617e&pid=2
-#EXTINF:-1 tvg-id="02:00-NBA Final-Oklahoma C. Thunder-Indiana Pacers" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",02:00-NBA Final-Oklahoma C. Thunder-Indiana Pacers
-http://127.0.0.1:6878/ace/getstream?id=be02b9918b8fe7224cfa9af1e37856760f95b1b8&pid=3
-#EXTINF:-1 tvg-id="02:00-NBA Final-Oklahoma C. Thunder-Indiana Pacers" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",02:00-NBA Final-Oklahoma C. Thunder-Indiana Pacers
-http://127.0.0.1:6878/ace/getstream?id=4f3fc4a626ff07bda8e5c64a5a41b518ec6e0084&pid=4
-#EXTINF:-1 tvg-id="02:00-NBA Final-Oklahoma C. Thunder-Indiana Pacers" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",02:00-NBA Final-Oklahoma C. Thunder-Indiana Pacers
-http://127.0.0.1:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3&pid=5
-#EXTINF:-1 tvg-id="02:00-NBA Final-Oklahoma C. Thunder-Indiana Pacers" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",02:00-NBA Final-Oklahoma C. Thunder-Indiana Pacers
-http://127.0.0.1:6878/ace/getstream?id=b2a4d1eba9b46df5f52a87105df779f9d39abeb4&pid=6
-#EXTINF:-1 tvg-id="02:00-NBA Final-Oklahoma C. Thunder-Indiana Pacers" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",02:00-NBA Final-Oklahoma C. Thunder-Indiana Pacers
-http://127.0.0.1:6878/ace/getstream?id=e2bc4aee95306b8897d15b01cc64b239dd1b8a1f&pid=7
-#EXTINF:-1 tvg-id="02:00-NBA Final-Oklahoma C. Thunder-Indiana Pacers" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",02:00-NBA Final-Oklahoma C. Thunder-Indiana Pacers
-http://127.0.0.1:6878/ace/getstream?id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78&pid=8
-#EXTINF:-1 tvg-id="13:10-Torneo de Mallorca 1ª Ronda-P. Martínez-C. Moutet" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",13:10-Torneo de Mallorca 1ª Ronda-P. Martínez-C. Moutet
-http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230&pid=9
-#EXTINF:-1 tvg-id="16:10-Torneo de Mallorca 1ª Ronda-G. Diallo-J. Munar" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:10-Torneo de Mallorca 1ª Ronda-G. Diallo-J. Munar
-http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230&pid=10
-#EXTINF:-1 tvg-id="18:20-Torneo de Mallorca 1ª Ronda-L. Tien-J. Engel" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:20-Torneo de Mallorca 1ª Ronda-L. Tien-J. Engel
-http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230&pid=11
+#EXTINF:-1 tvg-id="21:00-Primera Federación Futsal Playoff Final-Jimbee Cartagena FS-Barça FS" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera Federación Futsal Playoff Final-Jimbee Cartagena FS-Barça FS
+http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230&pid=1
