@@ -15,3 +15,9 @@ http://127.0.0.1:6878/ace/getstream?id=b2a4d1eba9b46df5f52a87105df779f9d39abeb4&
 http://127.0.0.1:6878/ace/getstream?id=e2bc4aee95306b8897d15b01cc64b239dd1b8a1f&pid=7
 #EXTINF:-1 tvg-id="02:00-NBA Final-Oklahoma C. Thunder-Indiana Pacers" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",02:00-NBA Final-Oklahoma C. Thunder-Indiana Pacers
 http://127.0.0.1:6878/ace/getstream?id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78&pid=8
+#EXTINF:-1 tvg-id="13:10-Torneo de Mallorca 1ª Ronda-P. Martínez-C. Moutet" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",13:10-Torneo de Mallorca 1ª Ronda-P. Martínez-C. Moutet
+http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230&pid=9
+#EXTINF:-1 tvg-id="16:10-Torneo de Mallorca 1ª Ronda-G. Diallo-J. Munar" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:10-Torneo de Mallorca 1ª Ronda-G. Diallo-J. Munar
+http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230&pid=10
+#EXTINF:-1 tvg-id="18:30-Torneo de Mallorca 1ª Ronda-L. Tien-J. Engel" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:30-Torneo de Mallorca 1ª Ronda-L. Tien-J. Engel
+http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230&pid=11
