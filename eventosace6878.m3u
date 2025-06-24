@@ -1,9 +1,17 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="13:00-Torneo de Mallorca 1ª Ronda-TM. Etcheverry-R. Bautista-Agut" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",13:00-Torneo de Mallorca 1ª Ronda-TM. Etcheverry-R. Bautista-Agut
+#EXTINF:-1 tvg-id="13:10-Torneo de Mallorca 1ª Ronda-TM. Etcheverry-R. Bautista-Agut" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",13:10-Torneo de Mallorca 1ª Ronda-TM. Etcheverry-R. Bautista-Agut
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230&pid=1
-#EXTINF:-1 tvg-id="15:30-Torneo de Mallorca 2ª Ronda-E. Quinn-T. Griekspoor" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:30-Torneo de Mallorca 2ª Ronda-E. Quinn-T. Griekspoor
-http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230&pid=2
-#EXTINF:-1 tvg-id="18:00-Torneo de Mallorca 2ª Ronda-A. Rinderknech-F. Auger-Aliassime" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:00-Torneo de Mallorca 2ª Ronda-A. Rinderknech-F. Auger-Aliassime
+#EXTINF:-1 tvg-id="13:10-Torneo de Mallorca 1ª Ronda-TM. Etcheverry-R. Bautista-Agut" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",13:10-Torneo de Mallorca 1ª Ronda-TM. Etcheverry-R. Bautista-Agut
+http://127.0.0.1:6878/ace/getstream?id=bdc32e0f99653f96e0e1a3b98c88764b631ed9ef&pid=2
+#EXTINF:-1 tvg-id="16:10-Torneo de Mallorca 2ª Ronda-E. Quinn-T. Griekspoor" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:10-Torneo de Mallorca 2ª Ronda-E. Quinn-T. Griekspoor
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230&pid=3
+#EXTINF:-1 tvg-id="16:10-Torneo de Mallorca 2ª Ronda-E. Quinn-T. Griekspoor" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:10-Torneo de Mallorca 2ª Ronda-E. Quinn-T. Griekspoor
+http://127.0.0.1:6878/ace/getstream?id=bdc32e0f99653f96e0e1a3b98c88764b631ed9ef&pid=4
+#EXTINF:-1 tvg-id="18:40-Torneo de Mallorca 2ª Ronda-A. Rinderknech-F. Auger-Aliassime" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:40-Torneo de Mallorca 2ª Ronda-A. Rinderknech-F. Auger-Aliassime
+http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230&pid=5
+#EXTINF:-1 tvg-id="18:40-Torneo de Mallorca 2ª Ronda-A. Rinderknech-F. Auger-Aliassime" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:40-Torneo de Mallorca 2ª Ronda-A. Rinderknech-F. Auger-Aliassime
+http://127.0.0.1:6878/ace/getstream?id=bdc32e0f99653f96e0e1a3b98c88764b631ed9ef&pid=6
 #EXTINF:-1 tvg-id="21:00-Primera Federación Futsal Playoff Final-Jimbee Cartagena FS-Barça FS" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera Federación Futsal Playoff Final-Jimbee Cartagena FS-Barça FS
-http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230&pid=4
+http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230&pid=7
+#EXTINF:-1 tvg-id="21:00-Primera Federación Futsal Playoff Final-Jimbee Cartagena FS-Barça FS" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera Federación Futsal Playoff Final-Jimbee Cartagena FS-Barça FS
+http://127.0.0.1:6878/ace/getstream?id=bdc32e0f99653f96e0e1a3b98c88764b631ed9ef&pid=8
