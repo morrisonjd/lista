@@ -1,19 +1,19 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="16:00-Torneo de Eastbourne Semifinal 1 ATP 250-U. Humbert-J. Brooksby" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:00-Torneo de Eastbourne Semifinal 1 ATP 250-U. Humbert-J. Brooksby
-http://127.0.0.1:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&pid=1
-#EXTINF:-1 tvg-id="16:00-Torneo de Eastbourne Semifinal 1 ATP 250-U. Humbert-J. Brooksby" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:00-Torneo de Eastbourne Semifinal 1 ATP 250-U. Humbert-J. Brooksby
-http://127.0.0.1:6878/ace/getstream?id=639c561dd57fa3fc91fde715caeb696c5efb7ce7&pid=2
 #EXTINF:-1 tvg-id="16:30-Eurobasket Femenino Semifinales-Francia-España" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:30-Eurobasket Femenino Semifinales-Francia-España
-http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230&pid=3
+http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230&pid=1
 #EXTINF:-1 tvg-id="16:30-Eurobasket Femenino Semifinales-Francia-España" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:30-Eurobasket Femenino Semifinales-Francia-España
-http://127.0.0.1:6878/ace/getstream?id=bdc32e0f99653f96e0e1a3b98c88764b631ed9ef&pid=4
-#EXTINF:-1 tvg-id="17:30-Torneo de Eastbourne Semifinal 2 ATP 250-T. Fritz-A. Davidovich" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:30-Torneo de Eastbourne Semifinal 2 ATP 250-T. Fritz-A. Davidovich
+http://127.0.0.1:6878/ace/getstream?id=bdc32e0f99653f96e0e1a3b98c88764b631ed9ef&pid=2
+#EXTINF:-1 tvg-id="16:35-Torneo de Eastbourne Semifinal 1 ATP 250-U. Humbert-J. Brooksby" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:35-Torneo de Eastbourne Semifinal 1 ATP 250-U. Humbert-J. Brooksby
+http://127.0.0.1:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&pid=3
+#EXTINF:-1 tvg-id="16:35-Torneo de Eastbourne Semifinal 1 ATP 250-U. Humbert-J. Brooksby" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:35-Torneo de Eastbourne Semifinal 1 ATP 250-U. Humbert-J. Brooksby
+http://127.0.0.1:6878/ace/getstream?id=639c561dd57fa3fc91fde715caeb696c5efb7ce7&pid=4
+#EXTINF:-1 tvg-id="19:35-Torneo de Eastbourne Semifinal 2 ATP 250-T. Fritz-A. Davidovich" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",19:35-Torneo de Eastbourne Semifinal 2 ATP 250-T. Fritz-A. Davidovich
 http://127.0.0.1:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&pid=5
-#EXTINF:-1 tvg-id="17:30-Torneo de Eastbourne Semifinal 2 ATP 250-T. Fritz-A. Davidovich" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:30-Torneo de Eastbourne Semifinal 2 ATP 250-T. Fritz-A. Davidovich
+#EXTINF:-1 tvg-id="19:35-Torneo de Eastbourne Semifinal 2 ATP 250-T. Fritz-A. Davidovich" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",19:35-Torneo de Eastbourne Semifinal 2 ATP 250-T. Fritz-A. Davidovich
 http://127.0.0.1:6878/ace/getstream?id=639c561dd57fa3fc91fde715caeb696c5efb7ce7&pid=6
-#EXTINF:-1 tvg-id="17:30-Torneo de Eastbourne Semifinal 2 ATP 250-T. Fritz-A. Davidovich" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:30-Torneo de Eastbourne Semifinal 2 ATP 250-T. Fritz-A. Davidovich
+#EXTINF:-1 tvg-id="19:35-Torneo de Eastbourne Semifinal 2 ATP 250-T. Fritz-A. Davidovich" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",19:35-Torneo de Eastbourne Semifinal 2 ATP 250-T. Fritz-A. Davidovich
 http://127.0.0.1:6878/ace/getstream?id=b2a4d1eba9b46df5f52a87105df779f9d39abeb4&pid=7
-#EXTINF:-1 tvg-id="17:30-Torneo de Eastbourne Semifinal 2 ATP 250-T. Fritz-A. Davidovich" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:30-Torneo de Eastbourne Semifinal 2 ATP 250-T. Fritz-A. Davidovich
+#EXTINF:-1 tvg-id="19:35-Torneo de Eastbourne Semifinal 2 ATP 250-T. Fritz-A. Davidovich" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",19:35-Torneo de Eastbourne Semifinal 2 ATP 250-T. Fritz-A. Davidovich
 http://127.0.0.1:6878/ace/getstream?id=e2bc4aee95306b8897d15b01cc64b239dd1b8a1f&pid=8
-#EXTINF:-1 tvg-id="17:30-Torneo de Eastbourne Semifinal 2 ATP 250-T. Fritz-A. Davidovich" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:30-Torneo de Eastbourne Semifinal 2 ATP 250-T. Fritz-A. Davidovich
+#EXTINF:-1 tvg-id="19:35-Torneo de Eastbourne Semifinal 2 ATP 250-T. Fritz-A. Davidovich" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",19:35-Torneo de Eastbourne Semifinal 2 ATP 250-T. Fritz-A. Davidovich
 http://127.0.0.1:6878/ace/getstream?id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78&pid=9
