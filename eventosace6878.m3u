@@ -1,27 +1,5 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="15:10-Torneo de Mallorca Final ATP 250-C. Moutet-T. Griekspoor" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:10-Torneo de Mallorca Final ATP 250-C. Moutet-T. Griekspoor
-http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230&pid=1
-#EXTINF:-1 tvg-id="15:10-Torneo de Mallorca Final ATP 250-C. Moutet-T. Griekspoor" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:10-Torneo de Mallorca Final ATP 250-C. Moutet-T. Griekspoor
-http://127.0.0.1:6878/ace/getstream?id=bdc32e0f99653f96e0e1a3b98c88764b631ed9ef&pid=2
-#EXTINF:-1 tvg-id="17:00-Torneo de Eastbourne Final ATP 250-T. Fritz-J. Brooksby" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:00-Torneo de Eastbourne Final ATP 250-T. Fritz-J. Brooksby
-http://127.0.0.1:6878/ace/getstream?id=b2a4d1eba9b46df5f52a87105df779f9d39abeb4&pid=3
-#EXTINF:-1 tvg-id="17:00-Torneo de Eastbourne Final ATP 250-T. Fritz-J. Brooksby" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:00-Torneo de Eastbourne Final ATP 250-T. Fritz-J. Brooksby
-http://127.0.0.1:6878/ace/getstream?id=e2bc4aee95306b8897d15b01cc64b239dd1b8a1f&pid=4
-#EXTINF:-1 tvg-id="17:00-Torneo de Eastbourne Final ATP 250-T. Fritz-J. Brooksby" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:00-Torneo de Eastbourne Final ATP 250-T. Fritz-J. Brooksby
-http://127.0.0.1:6878/ace/getstream?id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78&pid=5
-#EXTINF:-1 tvg-id="17:00-Torneo de Eastbourne Final ATP 250-T. Fritz-J. Brooksby" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:00-Torneo de Eastbourne Final ATP 250-T. Fritz-J. Brooksby
-http://127.0.0.1:6878/ace/getstream?id=3b2a8b41e7097c16b0468b42d7de0320886fa933&pid=6
-#EXTINF:-1 tvg-id="17:00-Torneo de Eastbourne Final ATP 250-T. Fritz-J. Brooksby" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:00-Torneo de Eastbourne Final ATP 250-T. Fritz-J. Brooksby
-http://127.0.0.1:6878/ace/getstream?id=2940120bf034db79a7f5849846ccea0255172eae&pid=7
-#EXTINF:-1 tvg-id="17:00-Torneo de Eastbourne Final ATP 250-T. Fritz-J. Brooksby" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:00-Torneo de Eastbourne Final ATP 250-T. Fritz-J. Brooksby
-http://127.0.0.1:6878/ace/getstream?id=57313e1ef438538df4feb5a6028dc78ee4f66b6a&pid=8
-#EXTINF:-1 tvg-id="17:00-Torneo de Eastbourne Final ATP 250-T. Fritz-J. Brooksby" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:00-Torneo de Eastbourne Final ATP 250-T. Fritz-J. Brooksby
-http://127.0.0.1:6878/ace/getstream?id=fba6f62903f511eef7f5799e521698e767d876f2&pid=9
-#EXTINF:-1 tvg-id="17:00-Torneo de Eastbourne Final ATP 250-T. Fritz-J. Brooksby" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:00-Torneo de Eastbourne Final ATP 250-T. Fritz-J. Brooksby
-http://127.0.0.1:6878/ace/getstream?id=d03c13b6723f66155d7a0df3692a3b073fe630f2&pid=10
-#EXTINF:-1 tvg-id="17:00-Torneo de Eastbourne Final ATP 250-T. Fritz-J. Brooksby" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:00-Torneo de Eastbourne Final ATP 250-T. Fritz-J. Brooksby
-http://127.0.0.1:6878/ace/getstream?id=12ba546d229bc39f01c3c18988a034b215fe6adb&pid=11
-#EXTINF:-1 tvg-id="17:00-Torneo de Eastbourne Final ATP 250-T. Fritz-J. Brooksby" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:00-Torneo de Eastbourne Final ATP 250-T. Fritz-J. Brooksby
-http://127.0.0.1:6878/ace/getstream?id=c7c81acdd1a03ecc418c94c2f28e2adb0556c40b&pid=12
-#EXTINF:-1 tvg-id="17:00-Torneo de Eastbourne Final ATP 250-T. Fritz-J. Brooksby" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:00-Torneo de Eastbourne Final ATP 250-T. Fritz-J. Brooksby
-http://127.0.0.1:6878/ace/getstream?id=0e5d8c9724fa9163f49096b70484e315251eb785&pid=13
+#EXTINF:-1 tvg-id="19:30-Eurobasket Femenino Final-España-Bélgica" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",19:30-Eurobasket Femenino Final-España-Bélgica
+http://127.0.0.1:6878/ace/getstream?id=8bdd29882fa2c2f9fe49e67b102934c9e293f5a5&pid=1
+#EXTINF:-1 tvg-id="19:30-Eurobasket Femenino Final-España-Bélgica" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",19:30-Eurobasket Femenino Final-España-Bélgica
+http://127.0.0.1:6878/ace/getstream?id=b7b83ac0d5e7e04a0f6538f5474745d90f8e3d59&pid=2
