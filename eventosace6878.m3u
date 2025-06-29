@@ -1,5 +1,19 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="19:30-Eurobasket Femenino Final-España-Bélgica" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",19:30-Eurobasket Femenino Final-España-Bélgica
-http://127.0.0.1:6878/ace/getstream?id=8bdd29882fa2c2f9fe49e67b102934c9e293f5a5&pid=1
-#EXTINF:-1 tvg-id="19:30-Eurobasket Femenino Final-España-Bélgica" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",19:30-Eurobasket Femenino Final-España-Bélgica
-http://127.0.0.1:6878/ace/getstream?id=b7b83ac0d5e7e04a0f6538f5474745d90f8e3d59&pid=2
+#EXTINF:-1 tvg-id="14:30-Wimbledon 1ª Ronda (Pista Central)-F. Fognini-C. Alcaraz" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:30-Wimbledon 1ª Ronda (Pista Central)-F. Fognini-C. Alcaraz
+http://127.0.0.1:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&pid=1
+#EXTINF:-1 tvg-id="14:30-Wimbledon 1ª Ronda (Pista Central)-F. Fognini-C. Alcaraz" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:30-Wimbledon 1ª Ronda (Pista Central)-F. Fognini-C. Alcaraz
+http://127.0.0.1:6878/ace/getstream?id=639c561dd57fa3fc91fde715caeb696c5efb7ce7&pid=2
+#EXTINF:-1 tvg-id="14:30-Wimbledon 1ª Ronda (Pista Central)-F. Fognini-C. Alcaraz" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:30-Wimbledon 1ª Ronda (Pista Central)-F. Fognini-C. Alcaraz
+http://127.0.0.1:6878/ace/getstream?id=b2a4d1eba9b46df5f52a87105df779f9d39abeb4&pid=3
+#EXTINF:-1 tvg-id="14:30-Wimbledon 1ª Ronda (Pista Central)-F. Fognini-C. Alcaraz" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:30-Wimbledon 1ª Ronda (Pista Central)-F. Fognini-C. Alcaraz
+http://127.0.0.1:6878/ace/getstream?id=e2bc4aee95306b8897d15b01cc64b239dd1b8a1f&pid=4
+#EXTINF:-1 tvg-id="14:30-Wimbledon 1ª Ronda (Pista Central)-F. Fognini-C. Alcaraz" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:30-Wimbledon 1ª Ronda (Pista Central)-F. Fognini-C. Alcaraz
+http://127.0.0.1:6878/ace/getstream?id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78&pid=5
+#EXTINF:-1 tvg-id="16:30-Wimbledon 1ª Ronda (Pista Central)-P. Badosa-K. Boulter" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:30-Wimbledon 1ª Ronda (Pista Central)-P. Badosa-K. Boulter
+http://127.0.0.1:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&pid=6
+#EXTINF:-1 tvg-id="16:30-Wimbledon 1ª Ronda (Pista Central)-P. Badosa-K. Boulter" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:30-Wimbledon 1ª Ronda (Pista Central)-P. Badosa-K. Boulter
+http://127.0.0.1:6878/ace/getstream?id=639c561dd57fa3fc91fde715caeb696c5efb7ce7&pid=7
+#EXTINF:-1 tvg-id="18:00-Wimbledon 1ª Ronda (Pista Central)-A. Rinderknech-A. Zverev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:00-Wimbledon 1ª Ronda (Pista Central)-A. Rinderknech-A. Zverev
+http://127.0.0.1:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&pid=8
+#EXTINF:-1 tvg-id="18:00-Wimbledon 1ª Ronda (Pista Central)-A. Rinderknech-A. Zverev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:00-Wimbledon 1ª Ronda (Pista Central)-A. Rinderknech-A. Zverev
+http://127.0.0.1:6878/ace/getstream?id=639c561dd57fa3fc91fde715caeb696c5efb7ce7&pid=9
