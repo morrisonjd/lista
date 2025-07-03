@@ -59,45 +59,43 @@ http://127.0.0.1:6878/ace/getstream?id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78&
 http://127.0.0.1:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&pid=29
 #EXTINF:-1 tvg-id="19:45-Wimbledon 2ª Ronda (Pista Central)-J. Sinner-A. Vukic" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",19:45-Wimbledon 2ª Ronda (Pista Central)-J. Sinner-A. Vukic
 http://127.0.0.1:6878/ace/getstream?id=639c561dd57fa3fc91fde715caeb696c5efb7ce7&pid=30
-#EXTINF:-1 tvg-id="20:20-Wimbledon 2ª Ronda (Pista 2)-B. Shelton-R. Hijikata" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:20-Wimbledon 2ª Ronda (Pista 2)-B. Shelton-R. Hijikata
-http://127.0.0.1:6878/ace/getstream?id=753d4b1f7c4ef43238b5cf23b05572b550a44eee&pid=31
 #EXTINF:-1 tvg-id="12:10-Wimbledon 2ª Ronda (Pista 2)-A. De Miñaur-A. Cazaux" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",12:10-Wimbledon 2ª Ronda (Pista 2)-A. De Miñaur-A. Cazaux
-http://127.0.0.1:6878/ace/getstream?id=753d4b1f7c4ef43238b5cf23b05572b550a44eee&pid=32
+http://127.0.0.1:6878/ace/getstream?id=753d4b1f7c4ef43238b5cf23b05572b550a44eee&pid=31
 #EXTINF:-1 tvg-id="12:10-Wimbledon 2ª Ronda (Pista 15)-M. Kecmanovic-J. De Jong" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",12:10-Wimbledon 2ª Ronda (Pista 15)-M. Kecmanovic-J. De Jong
-http://127.0.0.1:6878/ace/getstream?id=f6961e0dbf9b6ede4f5be93b72dc15533b4063d4&pid=33
+http://127.0.0.1:6878/ace/getstream?id=f6961e0dbf9b6ede4f5be93b72dc15533b4063d4&pid=32
 #EXTINF:-1 tvg-id="12:10-Wimbledon 2ª Ronda (Pista 15)-M. Kecmanovic-J. De Jong" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",12:10-Wimbledon 2ª Ronda (Pista 15)-M. Kecmanovic-J. De Jong
-http://127.0.0.1:6878/ace/getstream?id=fcc0fd75bf1dba40b108fcf0d3514e0e549bfbac&pid=34
+http://127.0.0.1:6878/ace/getstream?id=fcc0fd75bf1dba40b108fcf0d3514e0e549bfbac&pid=33
 #EXTINF:-1 tvg-id="13:40-Wimbledon 2ª Ronda (Pista 3)-G. Dimitrov-C. Moutet" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",13:40-Wimbledon 2ª Ronda (Pista 3)-G. Dimitrov-C. Moutet
-http://127.0.0.1:6878/ace/getstream?id=cc5782d37ae6b6e0bab396dd64074982d0879046&pid=35
+http://127.0.0.1:6878/ace/getstream?id=cc5782d37ae6b6e0bab396dd64074982d0879046&pid=34
 #EXTINF:-1 tvg-id="13:55-Wimbledon 2ª Ronda (Pista 6)-B. Van de Zandschulp-A. Davidovich" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",13:55-Wimbledon 2ª Ronda (Pista 6)-B. Van de Zandschulp-A. Davidovich
-http://127.0.0.1:6878/ace/getstream?id=070f82d6443a52962d6a2ed9954c979b29404932&pid=36
+http://127.0.0.1:6878/ace/getstream?id=070f82d6443a52962d6a2ed9954c979b29404932&pid=35
 #EXTINF:-1 tvg-id="14:00-Wimbledon 2ª Ronda (Pista 14)-F. Marozsan-J. Munar" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:00-Wimbledon 2ª Ronda (Pista 14)-F. Marozsan-J. Munar
-http://127.0.0.1:6878/ace/getstream?id=58a4c880ab18486d914751db32a12760e74b75a4&pid=37
+http://127.0.0.1:6878/ace/getstream?id=58a4c880ab18486d914751db32a12760e74b75a4&pid=36
 #EXTINF:-1 tvg-id="14:10-Wimbledon 2ª Ronda (Pista 1)-M. Andreeva-L. Bronzetti" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:10-Wimbledon 2ª Ronda (Pista 1)-M. Andreeva-L. Bronzetti
-http://127.0.0.1:6878/ace/getstream?id=ef9dcc4eaac36a0f608b52a31f8ab237859e071a&pid=38
+http://127.0.0.1:6878/ace/getstream?id=ef9dcc4eaac36a0f608b52a31f8ab237859e071a&pid=37
 #EXTINF:-1 tvg-id="14:10-Wimbledon 2ª Ronda (Pista 1)-M. Andreeva-L. Bronzetti" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:10-Wimbledon 2ª Ronda (Pista 1)-M. Andreeva-L. Bronzetti
-http://127.0.0.1:6878/ace/getstream?id=be02b9918b8fe7224cfa9af1e37856760f95b1b8&pid=39
+http://127.0.0.1:6878/ace/getstream?id=be02b9918b8fe7224cfa9af1e37856760f95b1b8&pid=38
 #EXTINF:-1 tvg-id="14:10-Wimbledon 2ª Ronda (Pista 1)-M. Andreeva-L. Bronzetti" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:10-Wimbledon 2ª Ronda (Pista 1)-M. Andreeva-L. Bronzetti
-http://127.0.0.1:6878/ace/getstream?id=1416f5c837c23e3f3a456cb58d731fad38994505&pid=40
+http://127.0.0.1:6878/ace/getstream?id=1416f5c837c23e3f3a456cb58d731fad38994505&pid=39
 #EXTINF:-1 tvg-id="14:10-Wimbledon 2ª Ronda (Pista 1)-M. Andreeva-L. Bronzetti" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:10-Wimbledon 2ª Ronda (Pista 1)-M. Andreeva-L. Bronzetti
-http://127.0.0.1:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3&pid=41
+http://127.0.0.1:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3&pid=40
 #EXTINF:-1 tvg-id="14:10-Wimbledon 2ª Ronda (Pista 1)-M. Andreeva-L. Bronzetti" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:10-Wimbledon 2ª Ronda (Pista 1)-M. Andreeva-L. Bronzetti
-http://127.0.0.1:6878/ace/getstream?id=b2a4d1eba9b46df5f52a87105df779f9d39abeb4&pid=42
+http://127.0.0.1:6878/ace/getstream?id=b2a4d1eba9b46df5f52a87105df779f9d39abeb4&pid=41
 #EXTINF:-1 tvg-id="14:10-Wimbledon 2ª Ronda (Pista 1)-M. Andreeva-L. Bronzetti" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:10-Wimbledon 2ª Ronda (Pista 1)-M. Andreeva-L. Bronzetti
-http://127.0.0.1:6878/ace/getstream?id=b0a7f854aa820339afc249b0fab75bddb9f53dda&pid=43
+http://127.0.0.1:6878/ace/getstream?id=b0a7f854aa820339afc249b0fab75bddb9f53dda&pid=42
 #EXTINF:-1 tvg-id="14:10-Wimbledon 2ª Ronda (Pista 1)-M. Andreeva-L. Bronzetti" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:10-Wimbledon 2ª Ronda (Pista 1)-M. Andreeva-L. Bronzetti
-http://127.0.0.1:6878/ace/getstream?id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78&pid=44
+http://127.0.0.1:6878/ace/getstream?id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78&pid=43
 #EXTINF:-1 tvg-id="14:35-Wimbledon 2ª Ronda (Pista 15)-H. Baptiste-V. Mboko" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:35-Wimbledon 2ª Ronda (Pista 15)-H. Baptiste-V. Mboko
-http://127.0.0.1:6878/ace/getstream?id=f6961e0dbf9b6ede4f5be93b72dc15533b4063d4&pid=45
+http://127.0.0.1:6878/ace/getstream?id=f6961e0dbf9b6ede4f5be93b72dc15533b4063d4&pid=44
 #EXTINF:-1 tvg-id="14:35-Wimbledon 2ª Ronda (Pista 15)-H. Baptiste-V. Mboko" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:35-Wimbledon 2ª Ronda (Pista 15)-H. Baptiste-V. Mboko
-http://127.0.0.1:6878/ace/getstream?id=fcc0fd75bf1dba40b108fcf0d3514e0e549bfbac&pid=46
+http://127.0.0.1:6878/ace/getstream?id=fcc0fd75bf1dba40b108fcf0d3514e0e549bfbac&pid=45
 #EXTINF:-1 tvg-id="14:40-Wimbledon 2ª Ronda (Pista Central)-D. Evans-N. Djokovic" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:40-Wimbledon 2ª Ronda (Pista Central)-D. Evans-N. Djokovic
-http://127.0.0.1:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&pid=47
+http://127.0.0.1:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&pid=46
 #EXTINF:-1 tvg-id="14:40-Wimbledon 2ª Ronda (Pista Central)-D. Evans-N. Djokovic" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:40-Wimbledon 2ª Ronda (Pista Central)-D. Evans-N. Djokovic
-http://127.0.0.1:6878/ace/getstream?id=639c561dd57fa3fc91fde715caeb696c5efb7ce7&pid=48
+http://127.0.0.1:6878/ace/getstream?id=639c561dd57fa3fc91fde715caeb696c5efb7ce7&pid=47
 #EXTINF:-1 tvg-id="14:40-Wimbledon 2ª Ronda (Pista Central)-D. Evans-N. Djokovic" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:40-Wimbledon 2ª Ronda (Pista Central)-D. Evans-N. Djokovic
-http://127.0.0.1:6878/ace/getstream?id=b2a4d1eba9b46df5f52a87105df779f9d39abeb4&pid=49
+http://127.0.0.1:6878/ace/getstream?id=b2a4d1eba9b46df5f52a87105df779f9d39abeb4&pid=48
 #EXTINF:-1 tvg-id="14:40-Wimbledon 2ª Ronda (Pista Central)-D. Evans-N. Djokovic" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:40-Wimbledon 2ª Ronda (Pista Central)-D. Evans-N. Djokovic
-http://127.0.0.1:6878/ace/getstream?id=b0a7f854aa820339afc249b0fab75bddb9f53dda&pid=50
+http://127.0.0.1:6878/ace/getstream?id=b0a7f854aa820339afc249b0fab75bddb9f53dda&pid=49
 #EXTINF:-1 tvg-id="14:40-Wimbledon 2ª Ronda (Pista Central)-D. Evans-N. Djokovic" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:40-Wimbledon 2ª Ronda (Pista Central)-D. Evans-N. Djokovic
-http://127.0.0.1:6878/ace/getstream?id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78&pid=51
+http://127.0.0.1:6878/ace/getstream?id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78&pid=50
