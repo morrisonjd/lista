@@ -41,6 +41,8 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=102bcb79ca391e37ac1fc9ee77dc53440d0a5
 http://127.0.0.1:6878/ace/manifest.m3u8?id=f3af25a1975525f0d8a1a20267270435413d39e1
 #EXTINF:-1 tvg-id="M+ Comedia" group-title="New Era",M+ Comedia
 http://127.0.0.1:6878/ace/manifest.m3u8?id=ceb0c5856418205d2bbabd00fdaee5e8b061aaae
+#EXTINF:-1 tvg-id="M+ Drama" group-title="New Era",M+ Drama
+http://127.0.0.1:6878/ace/manifest.m3u8?id=7934a951657eb3d3b598cb26fbe5b0d907660044
 #EXTINF:-1 tvg-id="M+ Copa del Rey" group-title="Elcano",M+ Copa del Rey
 http://127.0.0.1:6878/ace/manifest.m3u8?id=b51f2d9a15b6956a44385b6be531bcabeb099d9d
 #EXTINF:-1 tvg-id="M+ Copa del Rey" group-title="Antigua",M+ Copa del Rey
@@ -261,6 +263,8 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=b2d560741c006fc5e4a42412bb52dbd25a6a4
 http://127.0.0.1:6878/ace/manifest.m3u8?id=138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-id="Teledeporte" group-title="New Era",Teledeporte
 http://127.0.0.1:6878/ace/manifest.m3u8?id=bdc32e0f99653f96e0e1a3b98c88764b631ed9ef
+#EXTINF:-1 tvg-id="Discovery" group-title="New Era",Discovery
+http://127.0.0.1:6878/ace/manifest.m3u8?id=c2858a94d2045e5dbb14e99323e90afe4e872266
 #EXTINF:-1 tvg-id="M+ LaLiga TV 3" group-title="Elcano",M+ LaLiga TV 3
 http://127.0.0.1:6878/ace/manifest.m3u8?id=7ad14386deef2f45ffe17d30a631dbf79b6a1a87
 #EXTINF:-1 tvg-id="M+ LaLiga TV 3" group-title="Elcano",M+ LaLiga TV 3
