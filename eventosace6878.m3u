@@ -1,49 +1,25 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="14:00-Wimbledon 3ª Ronda Junior Femenina-C. Esquiva Banuls-H. Klugman" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:00-Wimbledon 3ª Ronda Junior Femenina-C. Esquiva Banuls-H. Klugman
-http://127.0.0.1:6878/ace/getstream?id=753d4b1f7c4ef43238b5cf23b05572b550a44eee&pid=1
-#EXTINF:-1 tvg-id="14:10-Wimbledon 1/4 Final (Pista 1)-I. Swiatek-L. Samsonova" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:10-Wimbledon 1/4 Final (Pista 1)-I. Swiatek-L. Samsonova
-http://127.0.0.1:6878/ace/getstream?id=ef9dcc4eaac36a0f608b52a31f8ab237859e071a&pid=2
-#EXTINF:-1 tvg-id="14:10-Wimbledon 1/4 Final (Pista 1)-I. Swiatek-L. Samsonova" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:10-Wimbledon 1/4 Final (Pista 1)-I. Swiatek-L. Samsonova
-http://127.0.0.1:6878/ace/getstream?id=be02b9918b8fe7224cfa9af1e37856760f95b1b8&pid=3
-#EXTINF:-1 tvg-id="14:10-Wimbledon 1/4 Final (Pista 1)-I. Swiatek-L. Samsonova" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:10-Wimbledon 1/4 Final (Pista 1)-I. Swiatek-L. Samsonova
-http://127.0.0.1:6878/ace/getstream?id=7d46a219b666be4d4a814a1acfe2bd61c037d771&pid=4
-#EXTINF:-1 tvg-id="14:10-Wimbledon 1/4 Final (Pista 1)-I. Swiatek-L. Samsonova" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:10-Wimbledon 1/4 Final (Pista 1)-I. Swiatek-L. Samsonova
-http://127.0.0.1:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3&pid=5
-#EXTINF:-1 tvg-id="14:10-Wimbledon 1/4 Final (Pista 1)-I. Swiatek-L. Samsonova" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:10-Wimbledon 1/4 Final (Pista 1)-I. Swiatek-L. Samsonova
-http://127.0.0.1:6878/ace/getstream?id=b2a4d1eba9b46df5f52a87105df779f9d39abeb4&pid=6
-#EXTINF:-1 tvg-id="14:10-Wimbledon 1/4 Final (Pista 1)-I. Swiatek-L. Samsonova" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:10-Wimbledon 1/4 Final (Pista 1)-I. Swiatek-L. Samsonova
-http://127.0.0.1:6878/ace/getstream?id=0248f0d8281287c96266f2ab4e44c32a4fae7d85&pid=7
-#EXTINF:-1 tvg-id="14:10-Wimbledon 1/4 Final (Pista 1)-I. Swiatek-L. Samsonova" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:10-Wimbledon 1/4 Final (Pista 1)-I. Swiatek-L. Samsonova
-http://127.0.0.1:6878/ace/getstream?id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78&pid=8
-#EXTINF:-1 tvg-id="14:40-Wimbledon 1/4 Final (Pista Central)-M. Andreeva-B. Bencic" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:40-Wimbledon 1/4 Final (Pista Central)-M. Andreeva-B. Bencic
-http://127.0.0.1:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&pid=9
-#EXTINF:-1 tvg-id="14:40-Wimbledon 1/4 Final (Pista Central)-M. Andreeva-B. Bencic" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:40-Wimbledon 1/4 Final (Pista Central)-M. Andreeva-B. Bencic
-http://127.0.0.1:6878/ace/getstream?id=de13cb1cde3796f478fcf2548795003c353c1ba1&pid=10
-#EXTINF:-1 tvg-id="14:40-Wimbledon 1/4 Final (Pista Central)-M. Andreeva-B. Bencic" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:40-Wimbledon 1/4 Final (Pista Central)-M. Andreeva-B. Bencic
-http://127.0.0.1:6878/ace/getstream?id=639c561dd57fa3fc91fde715caeb696c5efb7ce7&pid=11
-#EXTINF:-1 tvg-id="14:40-Wimbledon 1/4 Final (Pista Central)-M. Andreeva-B. Bencic" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:40-Wimbledon 1/4 Final (Pista Central)-M. Andreeva-B. Bencic
-http://127.0.0.1:6878/ace/getstream?id=b2a4d1eba9b46df5f52a87105df779f9d39abeb4&pid=12
-#EXTINF:-1 tvg-id="14:40-Wimbledon 1/4 Final (Pista Central)-M. Andreeva-B. Bencic" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:40-Wimbledon 1/4 Final (Pista Central)-M. Andreeva-B. Bencic
-http://127.0.0.1:6878/ace/getstream?id=0248f0d8281287c96266f2ab4e44c32a4fae7d85&pid=13
-#EXTINF:-1 tvg-id="14:40-Wimbledon 1/4 Final (Pista Central)-M. Andreeva-B. Bencic" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:40-Wimbledon 1/4 Final (Pista Central)-M. Andreeva-B. Bencic
-http://127.0.0.1:6878/ace/getstream?id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78&pid=14
-#EXTINF:-1 tvg-id="16:35-Wimbledon 1/4 Final (Pista 1)-J. Sinner-B. Shelton" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:35-Wimbledon 1/4 Final (Pista 1)-J. Sinner-B. Shelton
-http://127.0.0.1:6878/ace/getstream?id=ef9dcc4eaac36a0f608b52a31f8ab237859e071a&pid=15
-#EXTINF:-1 tvg-id="16:35-Wimbledon 1/4 Final (Pista 1)-J. Sinner-B. Shelton" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:35-Wimbledon 1/4 Final (Pista 1)-J. Sinner-B. Shelton
-http://127.0.0.1:6878/ace/getstream?id=be02b9918b8fe7224cfa9af1e37856760f95b1b8&pid=16
-#EXTINF:-1 tvg-id="16:35-Wimbledon 1/4 Final (Pista 1)-J. Sinner-B. Shelton" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:35-Wimbledon 1/4 Final (Pista 1)-J. Sinner-B. Shelton
-http://127.0.0.1:6878/ace/getstream?id=7d46a219b666be4d4a814a1acfe2bd61c037d771&pid=17
-#EXTINF:-1 tvg-id="16:35-Wimbledon 1/4 Final (Pista 1)-J. Sinner-B. Shelton" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:35-Wimbledon 1/4 Final (Pista 1)-J. Sinner-B. Shelton
-http://127.0.0.1:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3&pid=18
-#EXTINF:-1 tvg-id="17:25-Wimbledon 1/4 Final (Pista Central)-F. Cobolli-N. Djokovic" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:25-Wimbledon 1/4 Final (Pista Central)-F. Cobolli-N. Djokovic
-http://127.0.0.1:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&pid=19
-#EXTINF:-1 tvg-id="17:25-Wimbledon 1/4 Final (Pista Central)-F. Cobolli-N. Djokovic" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:25-Wimbledon 1/4 Final (Pista Central)-F. Cobolli-N. Djokovic
-http://127.0.0.1:6878/ace/getstream?id=de13cb1cde3796f478fcf2548795003c353c1ba1&pid=20
-#EXTINF:-1 tvg-id="17:25-Wimbledon 1/4 Final (Pista Central)-F. Cobolli-N. Djokovic" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:25-Wimbledon 1/4 Final (Pista Central)-F. Cobolli-N. Djokovic
-http://127.0.0.1:6878/ace/getstream?id=639c561dd57fa3fc91fde715caeb696c5efb7ce7&pid=21
-#EXTINF:-1 tvg-id="17:25-Wimbledon 1/4 Final (Pista Central)-F. Cobolli-N. Djokovic" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:25-Wimbledon 1/4 Final (Pista Central)-F. Cobolli-N. Djokovic
-http://127.0.0.1:6878/ace/getstream?id=b2a4d1eba9b46df5f52a87105df779f9d39abeb4&pid=22
-#EXTINF:-1 tvg-id="17:25-Wimbledon 1/4 Final (Pista Central)-F. Cobolli-N. Djokovic" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:25-Wimbledon 1/4 Final (Pista Central)-F. Cobolli-N. Djokovic
-http://127.0.0.1:6878/ace/getstream?id=0248f0d8281287c96266f2ab4e44c32a4fae7d85&pid=23
-#EXTINF:-1 tvg-id="17:25-Wimbledon 1/4 Final (Pista Central)-F. Cobolli-N. Djokovic" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:25-Wimbledon 1/4 Final (Pista Central)-F. Cobolli-N. Djokovic
-http://127.0.0.1:6878/ace/getstream?id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78&pid=24
+#EXTINF:-1 tvg-id="14:30-Wimbledon Semifinal femenina Grand Slam-A. Sabalenka-A. Anisimova" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:30-Wimbledon Semifinal femenina Grand Slam-A. Sabalenka-A. Anisimova
+http://127.0.0.1:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&pid=1
+#EXTINF:-1 tvg-id="14:30-Wimbledon Semifinal femenina Grand Slam-A. Sabalenka-A. Anisimova" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:30-Wimbledon Semifinal femenina Grand Slam-A. Sabalenka-A. Anisimova
+http://127.0.0.1:6878/ace/getstream?id=de13cb1cde3796f478fcf2548795003c353c1ba1&pid=2
+#EXTINF:-1 tvg-id="14:30-Wimbledon Semifinal femenina Grand Slam-A. Sabalenka-A. Anisimova" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:30-Wimbledon Semifinal femenina Grand Slam-A. Sabalenka-A. Anisimova
+http://127.0.0.1:6878/ace/getstream?id=639c561dd57fa3fc91fde715caeb696c5efb7ce7&pid=3
+#EXTINF:-1 tvg-id="14:30-Wimbledon Semifinal femenina Grand Slam-A. Sabalenka-A. Anisimova" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:30-Wimbledon Semifinal femenina Grand Slam-A. Sabalenka-A. Anisimova
+http://127.0.0.1:6878/ace/getstream?id=b2a4d1eba9b46df5f52a87105df779f9d39abeb4&pid=4
+#EXTINF:-1 tvg-id="14:30-Wimbledon Semifinal femenina Grand Slam-A. Sabalenka-A. Anisimova" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:30-Wimbledon Semifinal femenina Grand Slam-A. Sabalenka-A. Anisimova
+http://127.0.0.1:6878/ace/getstream?id=0248f0d8281287c96266f2ab4e44c32a4fae7d85&pid=5
+#EXTINF:-1 tvg-id="14:30-Wimbledon Semifinal femenina Grand Slam-A. Sabalenka-A. Anisimova" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:30-Wimbledon Semifinal femenina Grand Slam-A. Sabalenka-A. Anisimova
+http://127.0.0.1:6878/ace/getstream?id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78&pid=6
+#EXTINF:-1 tvg-id="16:00-Wimbledon Semifinal femenina Grand Slam-B. Bencic-I. Swiatek" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:00-Wimbledon Semifinal femenina Grand Slam-B. Bencic-I. Swiatek
+http://127.0.0.1:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&pid=7
+#EXTINF:-1 tvg-id="16:00-Wimbledon Semifinal femenina Grand Slam-B. Bencic-I. Swiatek" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:00-Wimbledon Semifinal femenina Grand Slam-B. Bencic-I. Swiatek
+http://127.0.0.1:6878/ace/getstream?id=de13cb1cde3796f478fcf2548795003c353c1ba1&pid=8
+#EXTINF:-1 tvg-id="16:00-Wimbledon Semifinal femenina Grand Slam-B. Bencic-I. Swiatek" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:00-Wimbledon Semifinal femenina Grand Slam-B. Bencic-I. Swiatek
+http://127.0.0.1:6878/ace/getstream?id=639c561dd57fa3fc91fde715caeb696c5efb7ce7&pid=9
+#EXTINF:-1 tvg-id="16:00-Wimbledon Semifinal femenina Grand Slam-B. Bencic-I. Swiatek" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:00-Wimbledon Semifinal femenina Grand Slam-B. Bencic-I. Swiatek
+http://127.0.0.1:6878/ace/getstream?id=b2a4d1eba9b46df5f52a87105df779f9d39abeb4&pid=10
+#EXTINF:-1 tvg-id="16:00-Wimbledon Semifinal femenina Grand Slam-B. Bencic-I. Swiatek" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:00-Wimbledon Semifinal femenina Grand Slam-B. Bencic-I. Swiatek
+http://127.0.0.1:6878/ace/getstream?id=0248f0d8281287c96266f2ab4e44c32a4fae7d85&pid=11
+#EXTINF:-1 tvg-id="16:00-Wimbledon Semifinal femenina Grand Slam-B. Bencic-I. Swiatek" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:00-Wimbledon Semifinal femenina Grand Slam-B. Bencic-I. Swiatek
+http://127.0.0.1:6878/ace/getstream?id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78&pid=12
