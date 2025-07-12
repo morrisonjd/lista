@@ -1,17 +1,21 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="17:00-Wimbledon Final Femenina Grand Slam-A. Anisimova-I. Swiatek" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:00-Wimbledon Final Femenina Grand Slam-A. Anisimova-I. Swiatek
-http://127.0.0.1:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&pid=1
-#EXTINF:-1 tvg-id="17:00-Wimbledon Final Femenina Grand Slam-A. Anisimova-I. Swiatek" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:00-Wimbledon Final Femenina Grand Slam-A. Anisimova-I. Swiatek
-http://127.0.0.1:6878/ace/getstream?id=de13cb1cde3796f478fcf2548795003c353c1ba1&pid=2
-#EXTINF:-1 tvg-id="17:00-Wimbledon Final Femenina Grand Slam-A. Anisimova-I. Swiatek" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:00-Wimbledon Final Femenina Grand Slam-A. Anisimova-I. Swiatek
-http://127.0.0.1:6878/ace/getstream?id=639c561dd57fa3fc91fde715caeb696c5efb7ce7&pid=3
-#EXTINF:-1 tvg-id="17:00-Wimbledon Final Femenina Grand Slam-A. Anisimova-I. Swiatek" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:00-Wimbledon Final Femenina Grand Slam-A. Anisimova-I. Swiatek
-http://127.0.0.1:6878/ace/getstream?id=b2a4d1eba9b46df5f52a87105df779f9d39abeb4&pid=4
-#EXTINF:-1 tvg-id="17:00-Wimbledon Final Femenina Grand Slam-A. Anisimova-I. Swiatek" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:00-Wimbledon Final Femenina Grand Slam-A. Anisimova-I. Swiatek
-http://127.0.0.1:6878/ace/getstream?id=0248f0d8281287c96266f2ab4e44c32a4fae7d85&pid=5
-#EXTINF:-1 tvg-id="17:00-Wimbledon Final Femenina Grand Slam-A. Anisimova-I. Swiatek" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:00-Wimbledon Final Femenina Grand Slam-A. Anisimova-I. Swiatek
-http://127.0.0.1:6878/ace/getstream?id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78&pid=6
-#EXTINF:-1 tvg-id="18:30-Copa del Rey Final Femenina-P. Badosa-J. Bouzas" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:30-Copa del Rey Final Femenina-P. Badosa-J. Bouzas
-http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230&pid=7
-#EXTINF:-1 tvg-id="18:30-Copa del Rey Final Femenina-P. Badosa-J. Bouzas" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:30-Copa del Rey Final Femenina-P. Badosa-J. Bouzas
-http://127.0.0.1:6878/ace/getstream?id=bdc32e0f99653f96e0e1a3b98c88764b631ed9ef&pid=8
+#EXTINF:-1 tvg-id="01:00-UFC Fight Night-D. Lewis-T. Teixeira" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",01:00-UFC Fight Night-D. Lewis-T. Teixeira
+http://127.0.0.1:6878/ace/getstream?id=dc4ccb9e72550bc72be9360aa7d77e337ad11ecc&pid=1
+#EXTINF:-1 tvg-id="01:00-UFC Fight Night-D. Lewis-T. Teixeira" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",01:00-UFC Fight Night-D. Lewis-T. Teixeira
+http://127.0.0.1:6878/ace/getstream?id=2773b39926d15dd3d9495d94c4050604792d7031&pid=2
+#EXTINF:-1 tvg-id="01:00-UFC Fight Night-D. Lewis-T. Teixeira" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",01:00-UFC Fight Night-D. Lewis-T. Teixeira
+http://127.0.0.1:6878/ace/getstream?id=0585e09bb8ac9720e4c11934f1b184e309291551&pid=3
+#EXTINF:-1 tvg-id="01:00-UFC Fight Night-D. Lewis-T. Teixeira" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",01:00-UFC Fight Night-D. Lewis-T. Teixeira
+http://127.0.0.1:6878/ace/getstream?id=5c910d614894635153a7d42de98cc2e4a958a53f&pid=4
+#EXTINF:-1 tvg-id="17:00-Wimbledon Final Masculina Grand Slam-J. Sinner-C. Alcaraz" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:00-Wimbledon Final Masculina Grand Slam-J. Sinner-C. Alcaraz
+http://127.0.0.1:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&pid=5
+#EXTINF:-1 tvg-id="17:00-Wimbledon Final Masculina Grand Slam-J. Sinner-C. Alcaraz" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:00-Wimbledon Final Masculina Grand Slam-J. Sinner-C. Alcaraz
+http://127.0.0.1:6878/ace/getstream?id=de13cb1cde3796f478fcf2548795003c353c1ba1&pid=6
+#EXTINF:-1 tvg-id="17:00-Wimbledon Final Masculina Grand Slam-J. Sinner-C. Alcaraz" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:00-Wimbledon Final Masculina Grand Slam-J. Sinner-C. Alcaraz
+http://127.0.0.1:6878/ace/getstream?id=639c561dd57fa3fc91fde715caeb696c5efb7ce7&pid=7
+#EXTINF:-1 tvg-id="17:00-Wimbledon Final Masculina Grand Slam-J. Sinner-C. Alcaraz" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:00-Wimbledon Final Masculina Grand Slam-J. Sinner-C. Alcaraz
+http://127.0.0.1:6878/ace/getstream?id=b2a4d1eba9b46df5f52a87105df779f9d39abeb4&pid=8
+#EXTINF:-1 tvg-id="17:00-Wimbledon Final Masculina Grand Slam-J. Sinner-C. Alcaraz" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:00-Wimbledon Final Masculina Grand Slam-J. Sinner-C. Alcaraz
+http://127.0.0.1:6878/ace/getstream?id=0248f0d8281287c96266f2ab4e44c32a4fae7d85&pid=9
+#EXTINF:-1 tvg-id="17:00-Wimbledon Final Masculina Grand Slam-J. Sinner-C. Alcaraz" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:00-Wimbledon Final Masculina Grand Slam-J. Sinner-C. Alcaraz
+http://127.0.0.1:6878/ace/getstream?id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78&pid=10
