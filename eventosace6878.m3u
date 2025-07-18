@@ -1,21 +1,33 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="01:00-UFC Fight Night-D. Lewis-T. Teixeira" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",01:00-UFC Fight Night-D. Lewis-T. Teixeira
-http://127.0.0.1:6878/ace/getstream?id=dc4ccb9e72550bc72be9360aa7d77e337ad11ecc&pid=1
-#EXTINF:-1 tvg-id="01:00-UFC Fight Night-D. Lewis-T. Teixeira" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",01:00-UFC Fight Night-D. Lewis-T. Teixeira
-http://127.0.0.1:6878/ace/getstream?id=2773b39926d15dd3d9495d94c4050604792d7031&pid=2
-#EXTINF:-1 tvg-id="01:00-UFC Fight Night-D. Lewis-T. Teixeira" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",01:00-UFC Fight Night-D. Lewis-T. Teixeira
-http://127.0.0.1:6878/ace/getstream?id=0585e09bb8ac9720e4c11934f1b184e309291551&pid=3
-#EXTINF:-1 tvg-id="01:00-UFC Fight Night-D. Lewis-T. Teixeira" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",01:00-UFC Fight Night-D. Lewis-T. Teixeira
-http://127.0.0.1:6878/ace/getstream?id=5c910d614894635153a7d42de98cc2e4a958a53f&pid=4
-#EXTINF:-1 tvg-id="17:20-Wimbledon Final Masculina Grand Slam-J. Sinner-C. Alcaraz" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:20-Wimbledon Final Masculina Grand Slam-J. Sinner-C. Alcaraz
-http://127.0.0.1:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&pid=5
-#EXTINF:-1 tvg-id="17:20-Wimbledon Final Masculina Grand Slam-J. Sinner-C. Alcaraz" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:20-Wimbledon Final Masculina Grand Slam-J. Sinner-C. Alcaraz
-http://127.0.0.1:6878/ace/getstream?id=de13cb1cde3796f478fcf2548795003c353c1ba1&pid=6
-#EXTINF:-1 tvg-id="17:20-Wimbledon Final Masculina Grand Slam-J. Sinner-C. Alcaraz" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:20-Wimbledon Final Masculina Grand Slam-J. Sinner-C. Alcaraz
-http://127.0.0.1:6878/ace/getstream?id=639c561dd57fa3fc91fde715caeb696c5efb7ce7&pid=7
-#EXTINF:-1 tvg-id="17:20-Wimbledon Final Masculina Grand Slam-J. Sinner-C. Alcaraz" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:20-Wimbledon Final Masculina Grand Slam-J. Sinner-C. Alcaraz
-http://127.0.0.1:6878/ace/getstream?id=b2a4d1eba9b46df5f52a87105df779f9d39abeb4&pid=8
-#EXTINF:-1 tvg-id="17:20-Wimbledon Final Masculina Grand Slam-J. Sinner-C. Alcaraz" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:20-Wimbledon Final Masculina Grand Slam-J. Sinner-C. Alcaraz
-http://127.0.0.1:6878/ace/getstream?id=0248f0d8281287c96266f2ab4e44c32a4fae7d85&pid=9
-#EXTINF:-1 tvg-id="17:20-Wimbledon Final Masculina Grand Slam-J. Sinner-C. Alcaraz" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:20-Wimbledon Final Masculina Grand Slam-J. Sinner-C. Alcaraz
-http://127.0.0.1:6878/ace/getstream?id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78&pid=10
+#EXTINF:-1 tvg-id="11:00-Torneo de Gstaad Semifinal 1 ATP 250-JM. Cerúndolo-I. Buse" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",11:00-Torneo de Gstaad Semifinal 1 ATP 250-JM. Cerúndolo-I. Buse
+http://127.0.0.1:6878/ace/getstream?id=ef9dcc4eaac36a0f608b52a31f8ab237859e071a&pid=1
+#EXTINF:-1 tvg-id="11:00-Torneo de Gstaad Semifinal 1 ATP 250-JM. Cerúndolo-I. Buse" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",11:00-Torneo de Gstaad Semifinal 1 ATP 250-JM. Cerúndolo-I. Buse
+http://127.0.0.1:6878/ace/getstream?id=b5842718859345a596107ab8e6b24d7bfa2d617e&pid=2
+#EXTINF:-1 tvg-id="11:00-Torneo de Gstaad Semifinal 1 ATP 250-JM. Cerúndolo-I. Buse" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",11:00-Torneo de Gstaad Semifinal 1 ATP 250-JM. Cerúndolo-I. Buse
+http://127.0.0.1:6878/ace/getstream?id=be02b9918b8fe7224cfa9af1e37856760f95b1b8&pid=3
+#EXTINF:-1 tvg-id="11:00-Torneo de Gstaad Semifinal 1 ATP 250-JM. Cerúndolo-I. Buse" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",11:00-Torneo de Gstaad Semifinal 1 ATP 250-JM. Cerúndolo-I. Buse
+http://127.0.0.1:6878/ace/getstream?id=e1d5ef78e80a737a7a9198d63f7c1f66c88ab7a6&pid=4
+#EXTINF:-1 tvg-id="11:00-Torneo de Gstaad Semifinal 1 ATP 250-JM. Cerúndolo-I. Buse" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",11:00-Torneo de Gstaad Semifinal 1 ATP 250-JM. Cerúndolo-I. Buse
+http://127.0.0.1:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3&pid=5
+#EXTINF:-1 tvg-id="13:00-Torneo de Bastad Semifinal 1 ATP 250-C. Ugo Carabelli-J. De Jong" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",13:00-Torneo de Bastad Semifinal 1 ATP 250-C. Ugo Carabelli-J. De Jong
+http://127.0.0.1:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&pid=6
+#EXTINF:-1 tvg-id="13:00-Torneo de Bastad Semifinal 1 ATP 250-C. Ugo Carabelli-J. De Jong" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",13:00-Torneo de Bastad Semifinal 1 ATP 250-C. Ugo Carabelli-J. De Jong
+http://127.0.0.1:6878/ace/getstream?id=cb43e741b20e769672ec26de3ae0da2e057406bf&pid=7
+#EXTINF:-1 tvg-id="13:00-Torneo de Bastad Semifinal 1 ATP 250-C. Ugo Carabelli-J. De Jong" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",13:00-Torneo de Bastad Semifinal 1 ATP 250-C. Ugo Carabelli-J. De Jong
+http://127.0.0.1:6878/ace/getstream?id=639c561dd57fa3fc91fde715caeb696c5efb7ce7&pid=8
+#EXTINF:-1 tvg-id="13:30-Torneo de Gstaad Semifinal 2 ATP 250-A. Cazaux-A. Bublik" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",13:30-Torneo de Gstaad Semifinal 2 ATP 250-A. Cazaux-A. Bublik
+http://127.0.0.1:6878/ace/getstream?id=ef9dcc4eaac36a0f608b52a31f8ab237859e071a&pid=9
+#EXTINF:-1 tvg-id="13:30-Torneo de Gstaad Semifinal 2 ATP 250-A. Cazaux-A. Bublik" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",13:30-Torneo de Gstaad Semifinal 2 ATP 250-A. Cazaux-A. Bublik
+http://127.0.0.1:6878/ace/getstream?id=b5842718859345a596107ab8e6b24d7bfa2d617e&pid=10
+#EXTINF:-1 tvg-id="13:30-Torneo de Gstaad Semifinal 2 ATP 250-A. Cazaux-A. Bublik" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",13:30-Torneo de Gstaad Semifinal 2 ATP 250-A. Cazaux-A. Bublik
+http://127.0.0.1:6878/ace/getstream?id=be02b9918b8fe7224cfa9af1e37856760f95b1b8&pid=11
+#EXTINF:-1 tvg-id="13:30-Torneo de Gstaad Semifinal 2 ATP 250-A. Cazaux-A. Bublik" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",13:30-Torneo de Gstaad Semifinal 2 ATP 250-A. Cazaux-A. Bublik
+http://127.0.0.1:6878/ace/getstream?id=e1d5ef78e80a737a7a9198d63f7c1f66c88ab7a6&pid=12
+#EXTINF:-1 tvg-id="13:30-Torneo de Gstaad Semifinal 2 ATP 250-A. Cazaux-A. Bublik" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",13:30-Torneo de Gstaad Semifinal 2 ATP 250-A. Cazaux-A. Bublik
+http://127.0.0.1:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3&pid=13
+#EXTINF:-1 tvg-id="14:30-Torneo de Bastad Semifinal 2 ATP 250-F. Cerúndolo-L. Darderi" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:30-Torneo de Bastad Semifinal 2 ATP 250-F. Cerúndolo-L. Darderi
+http://127.0.0.1:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&pid=14
+#EXTINF:-1 tvg-id="14:30-Torneo de Bastad Semifinal 2 ATP 250-F. Cerúndolo-L. Darderi" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:30-Torneo de Bastad Semifinal 2 ATP 250-F. Cerúndolo-L. Darderi
+http://127.0.0.1:6878/ace/getstream?id=cb43e741b20e769672ec26de3ae0da2e057406bf&pid=15
+#EXTINF:-1 tvg-id="14:30-Torneo de Bastad Semifinal 2 ATP 250-F. Cerúndolo-L. Darderi" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:30-Torneo de Bastad Semifinal 2 ATP 250-F. Cerúndolo-L. Darderi
+http://127.0.0.1:6878/ace/getstream?id=639c561dd57fa3fc91fde715caeb696c5efb7ce7&pid=16
