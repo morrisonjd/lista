@@ -35,6 +35,14 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=b71478c824f787a6a696139db0d053de6fdd1
 http://127.0.0.1:6878/ace/manifest.m3u8?id=48658c3210eb77e00bdd6b826267df8d917c0498
 #EXTINF:-1 tvg-id="M+ Hits" group-title="New Era",M+ Hits
 http://127.0.0.1:6878/ace/manifest.m3u8?id=2752dee68a7faa9c847216dc22a6821661db891a
+#EXTINF:-1 tvg-id="M+ Originales" group-title="New Era",M+ Originales
+http://127.0.0.1:6878/ace/manifest.m3u8?id=60fcd59471ac4268e6cd6448f068a2b518841c88
+#EXTINF:-1 tvg-id="M+ Vacaciones" group-title="New Era",M+ Vacaciones
+http://127.0.0.1:6878/ace/manifest.m3u8?id=a0f71ac4897b2ccdf0114b5b3b7877902376a343
+#EXTINF:-1 tvg-id="M+ Documentales" group-title="New Era",M+ Documentales
+http://127.0.0.1:6878/ace/manifest.m3u8?id=59d7f6da13c21652b1240578fe57dec0cc1529e6
+#EXTINF:-1 tvg-id="M+ Western" group-title="New Era",M+ Western
+http://127.0.0.1:6878/ace/manifest.m3u8?id=860dd021db341dbd02979eb8ea650d3f9d846765
 #EXTINF:-1 tvg-id="M+ Clásicos" group-title="New Era",M+ Clásicos
 http://127.0.0.1:6878/ace/manifest.m3u8?id=cf6ffdfa3c51268c0bd216da6b275fb866160c0c
 #EXTINF:-1 tvg-id="M+ Clásicos" group-title="New Era",M+ Clásicos
@@ -47,6 +55,10 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=93b2f5ede5cf2fa0cdb50419258c4f651aabf
 http://127.0.0.1:6878/ace/manifest.m3u8?id=af773877b4e11d0d83092dad75b69642dfd0385b
 #EXTINF:-1 tvg-id="M+ Drama" group-title="New Era",M+ Drama
 http://127.0.0.1:6878/ace/manifest.m3u8?id=285b735eb30a98987abcb08407061afbb290a4ea
+#EXTINF:-1 tvg-id="M+ Indie" group-title="New Era",M+ Indie
+http://127.0.0.1:6878/ace/manifest.m3u8?id=4f35f115971f0b156baabb8efa9926b1eb8ba5af
+#EXTINF:-1 tvg-id="M+ Cine Español" group-title="New Era",M+ Cine Español
+http://127.0.0.1:6878/ace/manifest.m3u8?id=168ad4a958aa6daa26adeee9700ed0312618bd07
 #EXTINF:-1 tvg-id="M+ Copa del Rey" group-title="Elcano",M+ Copa del Rey
 http://127.0.0.1:6878/ace/manifest.m3u8?id=b51f2d9a15b6956a44385b6be531bcabeb099d9d
 #EXTINF:-1 tvg-id="M+ Copa del Rey" group-title="Antigua",M+ Copa del Rey
