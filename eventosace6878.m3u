@@ -27,11 +27,15 @@ http://127.0.0.1:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&
 http://127.0.0.1:6878/ace/getstream?id=9f03eb300b630a8e88d6c22728696ca4e96859ff&pid=13
 #EXTINF:-1 tvg-id="14:00-Torneo de Bastad Final ATP 250-L. Darderi-J. De Jong" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:00-Torneo de Bastad Final ATP 250-L. Darderi-J. De Jong
 http://127.0.0.1:6878/ace/getstream?id=639c561dd57fa3fc91fde715caeb696c5efb7ce7&pid=14
+#EXTINF:-1 tvg-id="17:00-FIBA Mundial Femenino Sub-19 3er Puesto-España-Canadá" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:00-FIBA Mundial Femenino Sub-19 3er Puesto-España-Canadá
+http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230&pid=15
+#EXTINF:-1 tvg-id="17:00-FIBA Mundial Femenino Sub-19 3er Puesto-España-Canadá" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:00-FIBA Mundial Femenino Sub-19 3er Puesto-España-Canadá
+http://127.0.0.1:6878/ace/getstream?id=bdc32e0f99653f96e0e1a3b98c88764b631ed9ef&pid=16
 #EXTINF:-1 tvg-id="21:00-Torneo de Pozoblanco Final ATP Challenger Tour-D. Mérida Aguilar-F. Sun" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Torneo de Pozoblanco Final ATP Challenger Tour-D. Mérida Aguilar-F. Sun
-http://127.0.0.1:6878/ace/getstream?id=dc4ccb9e72550bc72be9360aa7d77e337ad11ecc&pid=15
+http://127.0.0.1:6878/ace/getstream?id=dc4ccb9e72550bc72be9360aa7d77e337ad11ecc&pid=17
 #EXTINF:-1 tvg-id="21:00-Torneo de Pozoblanco Final ATP Challenger Tour-D. Mérida Aguilar-F. Sun" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Torneo de Pozoblanco Final ATP Challenger Tour-D. Mérida Aguilar-F. Sun
-http://127.0.0.1:6878/ace/getstream?id=2773b39926d15dd3d9495d94c4050604792d7031&pid=16
+http://127.0.0.1:6878/ace/getstream?id=2773b39926d15dd3d9495d94c4050604792d7031&pid=18
 #EXTINF:-1 tvg-id="21:00-Torneo de Pozoblanco Final ATP Challenger Tour-D. Mérida Aguilar-F. Sun" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Torneo de Pozoblanco Final ATP Challenger Tour-D. Mérida Aguilar-F. Sun
-http://127.0.0.1:6878/ace/getstream?id=0585e09bb8ac9720e4c11934f1b184e309291551&pid=17
+http://127.0.0.1:6878/ace/getstream?id=0585e09bb8ac9720e4c11934f1b184e309291551&pid=19
 #EXTINF:-1 tvg-id="21:00-Torneo de Pozoblanco Final ATP Challenger Tour-D. Mérida Aguilar-F. Sun" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Torneo de Pozoblanco Final ATP Challenger Tour-D. Mérida Aguilar-F. Sun
-http://127.0.0.1:6878/ace/getstream?id=5c910d614894635153a7d42de98cc2e4a958a53f&pid=18
+http://127.0.0.1:6878/ace/getstream?id=5c910d614894635153a7d42de98cc2e4a958a53f&pid=20
