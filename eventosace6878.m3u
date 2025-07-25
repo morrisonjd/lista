@@ -1,13 +1,13 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="00:00-Torneo de Washington 3ª Ronda-F. Cobolli-F. Tiafoe" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",00:00-Torneo de Washington 3ª Ronda-F. Cobolli-F. Tiafoe
+#EXTINF:-1 tvg-id="00:10-Torneo de Washington 3ª Ronda-F. Cobolli-F. Tiafoe" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",00:10-Torneo de Washington 3ª Ronda-F. Cobolli-F. Tiafoe
 http://127.0.0.1:6878/ace/getstream?id=ef9dcc4eaac36a0f608b52a31f8ab237859e071a&pid=1
-#EXTINF:-1 tvg-id="00:00-Torneo de Washington 3ª Ronda-F. Cobolli-F. Tiafoe" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",00:00-Torneo de Washington 3ª Ronda-F. Cobolli-F. Tiafoe
+#EXTINF:-1 tvg-id="00:10-Torneo de Washington 3ª Ronda-F. Cobolli-F. Tiafoe" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",00:10-Torneo de Washington 3ª Ronda-F. Cobolli-F. Tiafoe
 http://127.0.0.1:6878/ace/getstream?id=b5842718859345a596107ab8e6b24d7bfa2d617e&pid=2
-#EXTINF:-1 tvg-id="00:00-Torneo de Washington 3ª Ronda-F. Cobolli-F. Tiafoe" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",00:00-Torneo de Washington 3ª Ronda-F. Cobolli-F. Tiafoe
+#EXTINF:-1 tvg-id="00:10-Torneo de Washington 3ª Ronda-F. Cobolli-F. Tiafoe" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",00:10-Torneo de Washington 3ª Ronda-F. Cobolli-F. Tiafoe
 http://127.0.0.1:6878/ace/getstream?id=be02b9918b8fe7224cfa9af1e37856760f95b1b8&pid=3
-#EXTINF:-1 tvg-id="00:00-Torneo de Washington 3ª Ronda-F. Cobolli-F. Tiafoe" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",00:00-Torneo de Washington 3ª Ronda-F. Cobolli-F. Tiafoe
+#EXTINF:-1 tvg-id="00:10-Torneo de Washington 3ª Ronda-F. Cobolli-F. Tiafoe" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",00:10-Torneo de Washington 3ª Ronda-F. Cobolli-F. Tiafoe
 http://127.0.0.1:6878/ace/getstream?id=465cb8c0ce3f72be4ed114628dcd5c2ed6e3293c&pid=4
-#EXTINF:-1 tvg-id="00:00-Torneo de Washington 3ª Ronda-F. Cobolli-F. Tiafoe" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",00:00-Torneo de Washington 3ª Ronda-F. Cobolli-F. Tiafoe
+#EXTINF:-1 tvg-id="00:10-Torneo de Washington 3ª Ronda-F. Cobolli-F. Tiafoe" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",00:10-Torneo de Washington 3ª Ronda-F. Cobolli-F. Tiafoe
 http://127.0.0.1:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3&pid=5
 #EXTINF:-1 tvg-id="12:30-Torneo de Kitzbühel Semifinal 2 ATP 250-A. Bublik-B. Van de Zandschulp" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",12:30-Torneo de Kitzbühel Semifinal 2 ATP 250-A. Bublik-B. Van de Zandschulp
 http://127.0.0.1:6878/ace/getstream?id=ef9dcc4eaac36a0f608b52a31f8ab237859e071a&pid=6
@@ -29,9 +29,15 @@ http://127.0.0.1:6878/ace/getstream?id=be02b9918b8fe7224cfa9af1e37856760f95b1b8&
 http://127.0.0.1:6878/ace/getstream?id=465cb8c0ce3f72be4ed114628dcd5c2ed6e3293c&pid=14
 #EXTINF:-1 tvg-id="12:30-Torneo de Kitzbühel Semifinal 1 ATP 250-A. Cazaux-A. Rinderknech" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",12:30-Torneo de Kitzbühel Semifinal 1 ATP 250-A. Cazaux-A. Rinderknech
 http://127.0.0.1:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3&pid=15
-#EXTINF:-1 tvg-id="18:30-Torneo de Umag Semifinal 2 ATP 250-C. Ugo Carabelli-L. Darderi" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:30-Torneo de Umag Semifinal 2 ATP 250-C. Ugo Carabelli-L. Darderi
+#EXTINF:-1 tvg-id="18:30-Torneo de Umag Semifinal 1 ATP 250-C. Ugo Carabelli-L. Darderi" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:30-Torneo de Umag Semifinal 1 ATP 250-C. Ugo Carabelli-L. Darderi
 http://127.0.0.1:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&pid=16
-#EXTINF:-1 tvg-id="18:30-Torneo de Umag Semifinal 2 ATP 250-C. Ugo Carabelli-L. Darderi" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:30-Torneo de Umag Semifinal 2 ATP 250-C. Ugo Carabelli-L. Darderi
+#EXTINF:-1 tvg-id="18:30-Torneo de Umag Semifinal 1 ATP 250-C. Ugo Carabelli-L. Darderi" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:30-Torneo de Umag Semifinal 1 ATP 250-C. Ugo Carabelli-L. Darderi
 http://127.0.0.1:6878/ace/getstream?id=9f03eb300b630a8e88d6c22728696ca4e96859ff&pid=17
-#EXTINF:-1 tvg-id="18:30-Torneo de Umag Semifinal 2 ATP 250-C. Ugo Carabelli-L. Darderi" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:30-Torneo de Umag Semifinal 2 ATP 250-C. Ugo Carabelli-L. Darderi
+#EXTINF:-1 tvg-id="18:30-Torneo de Umag Semifinal 1 ATP 250-C. Ugo Carabelli-L. Darderi" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:30-Torneo de Umag Semifinal 1 ATP 250-C. Ugo Carabelli-L. Darderi
 http://127.0.0.1:6878/ace/getstream?id=639c561dd57fa3fc91fde715caeb696c5efb7ce7&pid=18
+#EXTINF:-1 tvg-id="21:00-Torneo de Umag Semifinal 2 ATP 250-C. Taberner-D. Dzumhur" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Torneo de Umag Semifinal 2 ATP 250-C. Taberner-D. Dzumhur
+http://127.0.0.1:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&pid=19
+#EXTINF:-1 tvg-id="21:00-Torneo de Umag Semifinal 2 ATP 250-C. Taberner-D. Dzumhur" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Torneo de Umag Semifinal 2 ATP 250-C. Taberner-D. Dzumhur
+http://127.0.0.1:6878/ace/getstream?id=9f03eb300b630a8e88d6c22728696ca4e96859ff&pid=20
+#EXTINF:-1 tvg-id="21:00-Torneo de Umag Semifinal 2 ATP 250-C. Taberner-D. Dzumhur" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Torneo de Umag Semifinal 2 ATP 250-C. Taberner-D. Dzumhur
+http://127.0.0.1:6878/ace/getstream?id=639c561dd57fa3fc91fde715caeb696c5efb7ce7&pid=21
