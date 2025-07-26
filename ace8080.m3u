@@ -548,9 +548,9 @@ pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=927996b8192
 #EXTINF:-1 tvg-id="BT Sport 2" group-title="New Loop",BT Sport 2
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=d63d8a57cf471394bfa9f619bbd68b01ae27a801
 #EXTINF:-1 tvg-id="BT Sport 3" group-title="New Loop",BT Sport 3
-pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=22fead867a8657cfb58cd84245e18954ab199db3
-#EXTINF:-1 tvg-id="BT Sport 3" group-title="New Loop",BT Sport 3
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=5f966c123759de46dff29c379266b7a403452033
+#EXTINF:-1 tvg-id="Premier Sports 1" group-title="New Loop",Premier Sports 1
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=75a56863b6fe0407ad4305b4d7ee5643c3923565
 #EXTINF:-1 tvg-id="Premier Sports 2" group-title="New Loop",Premier Sports 2
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=4903ca695edb64bc72ae29eb85a5333ba0139537
 #EXTINF:-1 tvg-id="Eleven TR Sport" group-title="Antigua",Eleven TR Sport
