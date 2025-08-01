@@ -259,8 +259,6 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=17c5ec4fd10a186893f9f3d545dfcff95034f
 http://127.0.0.1:6878/ace/manifest.m3u8?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="DAZN 1" group-title="New Loop",DAZN 1
 http://127.0.0.1:6878/ace/manifest.m3u8?id=36cad67fed5a739757a9db844a551aa845a8d51b
-#EXTINF:-1 tvg-id="DAZN 2" group-title="New Loop",DAZN 2
-http://127.0.0.1:6878/ace/manifest.m3u8?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
 #EXTINF:-1 tvg-id="DAZN 2" group-title="Elcano",DAZN 2
 http://127.0.0.1:6878/ace/manifest.m3u8?id=a929eeec1268d69d1556a2e3ace793b2577d8810
 #EXTINF:-1 tvg-id="DAZN 2" group-title="Elcano",DAZN 2
@@ -309,6 +307,8 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=c1ee6e1e0ef5928d8261f855c417de21794f4
 http://127.0.0.1:6878/ace/manifest.m3u8?id=8677d339ecddd75165c0015025f598b6215974cf
 #EXTINF:-1 tvg-id="ESPORT 3" group-title="New Era",ESPORT 3
 http://127.0.0.1:6878/ace/manifest.m3u8?id=181fcc443b953d54b00a1bf6320ccbb097e85d64
+#EXTINF:-1 tvg-id="GOL PLAY" group-title="New Era",GOL PLAY
+http://127.0.0.1:6878/ace/manifest.m3u8?id=6ca8e5cb0d48f99f3e4bbd0d34eb4d26c13a6175
 #EXTINF:-1 tvg-id="GOL PLAY" group-title="New Era",GOL PLAY
 http://127.0.0.1:6878/ace/manifest.m3u8?id=b2d560741c006fc5e4a42412bb52dbd25a6a4a3a
 #EXTINF:-1 tvg-id="Teledeporte" group-title="New Era",Teledeporte
