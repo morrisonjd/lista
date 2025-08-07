@@ -43,8 +43,6 @@ pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=15123ab3458
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=0ba40acc350bc1493cf576a125806bda86abe38b
 #EXTINF:-1 tvg-id="M+ Western" group-title="New Era",M+ Western
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=e740a34497c3ba5943613a06999e805e6bbfa159
-#EXTINF:-1 tvg-id="La Resistencia 24H" group-title="New Era",La Resistencia 24H
-pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=09b8bed9be1feadb4ef83e46d50dc51f763947a7
 #EXTINF:-1 tvg-id="M+ Clásicos" group-title="New Era",M+ Clásicos
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=cf6ffdfa3c51268c0bd216da6b275fb866160c0c
 #EXTINF:-1 tvg-id="M+ Clásicos" group-title="New Era",M+ Clásicos
