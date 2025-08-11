@@ -392,6 +392,8 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=108aebe20efc826e56f3a1cb01117a124a6b8
 #EXTINF:-1 tvg-id="Canal UFC" group-title="New Era",Canal UFC
 http://127.0.0.1:6878/ace/manifest.m3u8?id=04d8f9a91f551adb9cccbcdd478cffa5b24a6772
 #EXTINF:-1 tvg-id="Tennis Channel" group-title="New Loop",Tennis Channel
+http://127.0.0.1:6878/ace/manifest.m3u8?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
+#EXTINF:-1 tvg-id="Tennis Channel" group-title="New Loop",Tennis Channel
 http://127.0.0.1:6878/ace/manifest.m3u8?id=039fae21c9e7e5214d3d898cba80863e37e623ac
 #EXTINF:-1 tvg-id="SuperTennis" group-title="New Loop",SuperTennis
 http://127.0.0.1:6878/ace/manifest.m3u8?id=b58dbf92765976b308695f62dea94b00b40730ee
