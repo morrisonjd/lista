@@ -41,17 +41,39 @@ http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151&
 http://127.0.0.1:6878/ace/getstream?id=688e785893b50acc1d00cb37f15bfc42e72f5ae3&pid=20
 #EXTINF:-1 tvg-id="21:00-Premier League-Liverpool-Bournemouth" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Premier League-Liverpool-Bournemouth
 http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b&pid=21
+#EXTINF:-1 tvg-id="21:00-Masters Cincinnati 1/4 de Final-A. Rublev-C. Alcaraz" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Masters Cincinnati 1/4 de Final-A. Rublev-C. Alcaraz
+http://127.0.0.1:6878/ace/getstream?id=ef9dcc4eaac36a0f608b52a31f8ab237859e071a&pid=22
+#EXTINF:-1 tvg-id="21:00-Masters Cincinnati 1/4 de Final-A. Rublev-C. Alcaraz" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Masters Cincinnati 1/4 de Final-A. Rublev-C. Alcaraz
+http://127.0.0.1:6878/ace/getstream?id=332d8fdeb9c51385230b8c9448e047ccc4a6355d&pid=23
+#EXTINF:-1 tvg-id="21:00-Masters Cincinnati 1/4 de Final-A. Rublev-C. Alcaraz" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Masters Cincinnati 1/4 de Final-A. Rublev-C. Alcaraz
+http://127.0.0.1:6878/ace/getstream?id=9099f519dd9b6b6f74f105477ff545829a110415&pid=24
+#EXTINF:-1 tvg-id="21:00-Masters Cincinnati 1/4 de Final-A. Rublev-C. Alcaraz" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Masters Cincinnati 1/4 de Final-A. Rublev-C. Alcaraz
+http://127.0.0.1:6878/ace/getstream?id=751b9cb03d188ce70e6aac22c1bfb16a5d0b2237&pid=25
+#EXTINF:-1 tvg-id="21:00-Masters Cincinnati 1/4 de Final-A. Rublev-C. Alcaraz" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Masters Cincinnati 1/4 de Final-A. Rublev-C. Alcaraz
+http://127.0.0.1:6878/ace/getstream?id=ebca4a63ce3bfda7b272964a1acc5227218184a4&pid=26
+#EXTINF:-1 tvg-id="21:00-Masters Cincinnati 1/4 de Final-A. Rublev-C. Alcaraz" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Masters Cincinnati 1/4 de Final-A. Rublev-C. Alcaraz
+http://127.0.0.1:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3&pid=27
+#EXTINF:-1 tvg-id="21:00-Masters Cincinnati 1/4 de Final-A. Rublev-C. Alcaraz" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Masters Cincinnati 1/4 de Final-A. Rublev-C. Alcaraz
+http://127.0.0.1:6878/ace/getstream?id=8c67cdb5ba81976662c3a67984a9545d9cfb0f70&pid=28
+#EXTINF:-1 tvg-id="21:00-Masters Cincinnati 1/4 de Final-A. Rublev-C. Alcaraz" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Masters Cincinnati 1/4 de Final-A. Rublev-C. Alcaraz
+http://127.0.0.1:6878/ace/getstream?id=b6ffbbc72a5b6b579faf79ebac229af7a25b933b&pid=29
+#EXTINF:-1 tvg-id="21:00-Masters Cincinnati 1/4 de Final-A. Rublev-C. Alcaraz" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Masters Cincinnati 1/4 de Final-A. Rublev-C. Alcaraz
+http://127.0.0.1:6878/ace/getstream?id=5d9a26e0a5f3e5f2ae027bd05635ab9a4fd4b51a&pid=30
+#EXTINF:-1 tvg-id="21:00-Masters Cincinnati 1/4 de Final-A. Rublev-C. Alcaraz" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Masters Cincinnati 1/4 de Final-A. Rublev-C. Alcaraz
+http://127.0.0.1:6878/ace/getstream?id=5e24a1b9187fccb91553f7c7da4b36341386f74a&pid=31
+#EXTINF:-1 tvg-id="21:00-Masters Cincinnati 1/4 de Final-A. Rublev-C. Alcaraz" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Masters Cincinnati 1/4 de Final-A. Rublev-C. Alcaraz
+http://127.0.0.1:6878/ace/getstream?id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78&pid=32
 #EXTINF:-1 tvg-id="21:30-Primera-Villarreal-Real Oviedo" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:30-Primera-Villarreal-Real Oviedo
-http://127.0.0.1:6878/ace/getstream?id=f8d5e39a49b9da0215bbd3d9efb8fb3d06b76892&pid=22
+http://127.0.0.1:6878/ace/getstream?id=f8d5e39a49b9da0215bbd3d9efb8fb3d06b76892&pid=33
 #EXTINF:-1 tvg-id="21:30-Primera-Villarreal-Real Oviedo" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:30-Primera-Villarreal-Real Oviedo
-http://127.0.0.1:6878/ace/getstream?id=520950d296c952e1864a08e15af9f89f1ab514ec&pid=23
+http://127.0.0.1:6878/ace/getstream?id=520950d296c952e1864a08e15af9f89f1ab514ec&pid=34
 #EXTINF:-1 tvg-id="21:30-Primera-Villarreal-Real Oviedo" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:30-Primera-Villarreal-Real Oviedo
-http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05&pid=24
+http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05&pid=35
 #EXTINF:-1 tvg-id="21:30-Segunda-Real Valladolid-AD Ceuta" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:30-Segunda-Real Valladolid-AD Ceuta
-http://127.0.0.1:6878/ace/getstream?id=f15f997f457e49ad9697e65cf2d78db26ee875b9&pid=25
+http://127.0.0.1:6878/ace/getstream?id=f15f997f457e49ad9697e65cf2d78db26ee875b9&pid=36
 #EXTINF:-1 tvg-id="21:30-Segunda-Real Valladolid-AD Ceuta" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:30-Segunda-Real Valladolid-AD Ceuta
-http://127.0.0.1:6878/ace/getstream?id=87bb542f974b6b9e89d0f2e20ed6dc93426f4be0&pid=26
+http://127.0.0.1:6878/ace/getstream?id=87bb542f974b6b9e89d0f2e20ed6dc93426f4be0&pid=37
 #EXTINF:-1 tvg-id="21:30-Segunda-Real Valladolid-AD Ceuta" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:30-Segunda-Real Valladolid-AD Ceuta
-http://127.0.0.1:6878/ace/getstream?id=a4f072c9b614323ac1258a175f868a909ea3c8cd&pid=27
+http://127.0.0.1:6878/ace/getstream?id=a4f072c9b614323ac1258a175f868a909ea3c8cd&pid=38
 #EXTINF:-1 tvg-id="21:30-Segunda-Burgos CF-Cultural Leonesa" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:30-Segunda-Burgos CF-Cultural Leonesa
-http://127.0.0.1:6878/ace/getstream?id=709075831bf5c41ed0a20dfbd640aab6c28971f8&pid=28
+http://127.0.0.1:6878/ace/getstream?id=709075831bf5c41ed0a20dfbd640aab6c28971f8&pid=39
