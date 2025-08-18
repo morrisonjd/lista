@@ -161,8 +161,6 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=9099f519dd9b6b6f74f105477ff545829a110
 http://127.0.0.1:6878/ace/manifest.m3u8?id=751b9cb03d188ce70e6aac22c1bfb16a5d0b2237
 #EXTINF:-1 tvg-id="M+ Deportes" group-title="Elcano",M+ Deportes
 http://127.0.0.1:6878/ace/manifest.m3u8?id=ebca4a63ce3bfda7b272964a1acc5227218184a4
-#EXTINF:-1 tvg-id="M+ Deportes" group-title="New Loop",M+ Deportes
-http://127.0.0.1:6878/ace/manifest.m3u8?id=acb510858f34c3c6fd5f79395b031abd6885c2b3
 #EXTINF:-1 tvg-id="M+ Deportes" group-title="Elcano",M+ Deportes
 http://127.0.0.1:6878/ace/manifest.m3u8?id=2f3cfd199a49819cbd129689a840dc3d23ab93aa
 #EXTINF:-1 tvg-id="M+ Deportes 2" group-title="Elcano",M+ Deportes 2
@@ -355,8 +353,6 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad8
 http://127.0.0.1:6878/ace/manifest.m3u8?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 #EXTINF:-1 tvg-id="TNT Sports" group-title="New Era",TNT Sports
 http://127.0.0.1:6878/ace/manifest.m3u8?id=5ccaf1da1ab3972502f2b35e581d7ab2f9b4965e
-#EXTINF:-1 tvg-id="Motors TV" group-title="New Loop",Motors TV
-http://127.0.0.1:6878/ace/manifest.m3u8?id=442aeb6643b8836f9d00361c9e48eeb0841ddf98
 #EXTINF:-1 tvg-id="STAR Channel SPORT MX" group-title="New Era",STAR Channel SPORT MX
 http://127.0.0.1:6878/ace/manifest.m3u8?id=a0464d3642e054f6122e7c309017d1e8d23f4da9
 #EXTINF:-1 tvg-id="UFC Fight Pass" group-title="New Era",UFC Fight Pass
@@ -487,6 +483,8 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=5e94200ae8b1d95cb559fb150e5993d92e15d
 http://127.0.0.1:6878/ace/manifest.m3u8?id=e61b6538df35e5016635dfa2b3073f5b82ee4c2b
 #EXTINF:-1 tvg-id="ServusTV GER" group-title="Antigua",ServusTV GER
 http://127.0.0.1:6878/ace/manifest.m3u8?id=988f4d88d74ec0d2b3584f6c7e067fcbdb501115
+#EXTINF:-1 tvg-id="MOTORVISION.TV" group-title="New Loop",MOTORVISION.TV
+http://127.0.0.1:6878/ace/manifest.m3u8?id=9c75e6ed0671eec6670cb2eabcc7d78267c7f404
 #EXTINF:-1 tvg-id="MOTORVISION.TV" group-title="Antigua",MOTORVISION.TV
 http://127.0.0.1:6878/ace/manifest.m3u8?id=acd7e3ae185a376e6596e60a414bebbf3321b37f
 #EXTINF:-1 tvg-id="Magenta Sport 1" group-title="Antigua",Magenta Sport 1
