@@ -1,5 +1,39 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="21:00-Amistoso-España-Alemania" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Amistoso-España-Alemania
-http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230&pid=1
-#EXTINF:-1 tvg-id="21:00-Amistoso-España-Alemania" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Amistoso-España-Alemania
-http://127.0.0.1:6878/ace/getstream?id=bdc32e0f99653f96e0e1a3b98c88764b631ed9ef&pid=2
+#EXTINF:-1 tvg-id="19:30-Segunda-Eibar-Granada CF" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",19:30-Segunda-Eibar-Granada CF
+http://127.0.0.1:6878/ace/getstream?id=f15f997f457e49ad9697e65cf2d78db26ee875b9&pid=1
+#EXTINF:-1 tvg-id="19:30-Segunda-Eibar-Granada CF" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",19:30-Segunda-Eibar-Granada CF
+http://127.0.0.1:6878/ace/getstream?id=87bb542f974b6b9e89d0f2e20ed6dc93426f4be0&pid=2
+#EXTINF:-1 tvg-id="19:30-Segunda-Eibar-Granada CF" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",19:30-Segunda-Eibar-Granada CF
+http://127.0.0.1:6878/ace/getstream?id=a4f072c9b614323ac1258a175f868a909ea3c8cd&pid=3
+#EXTINF:-1 tvg-id="21:00-Premier League-West Ham-Chelsea" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Premier League-West Ham-Chelsea
+http://127.0.0.1:6878/ace/getstream?id=6538b79ce0da657d8455d1da6a5f342398899a0e&pid=4
+#EXTINF:-1 tvg-id="21:00-Premier League-West Ham-Chelsea" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Premier League-West Ham-Chelsea
+http://127.0.0.1:6878/ace/getstream?id=50a8a13c474848d1efbd5586efdb5b6cdd173fa9&pid=5
+#EXTINF:-1 tvg-id="21:00-Premier League-West Ham-Chelsea" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Premier League-West Ham-Chelsea
+http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928&pid=6
+#EXTINF:-1 tvg-id="21:00-Premier League-West Ham-Chelsea" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Premier League-West Ham-Chelsea
+http://127.0.0.1:6878/ace/getstream?id=ee4dc45720d3ec283f61189fbfc120c91d5141bf&pid=7
+#EXTINF:-1 tvg-id="21:00-Premier League-West Ham-Chelsea" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Premier League-West Ham-Chelsea
+http://127.0.0.1:6878/ace/getstream?id=35c7f0c966ecde3390f4510bb4caded40018c07a&pid=8
+#EXTINF:-1 tvg-id="21:00-Premier League-West Ham-Chelsea" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Premier League-West Ham-Chelsea
+http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276&pid=9
+#EXTINF:-1 tvg-id="21:00-Premier League-West Ham-Chelsea" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Premier League-West Ham-Chelsea
+http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784&pid=10
+#EXTINF:-1 tvg-id="21:00-Premier League-West Ham-Chelsea" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Premier League-West Ham-Chelsea
+http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151&pid=11
+#EXTINF:-1 tvg-id="21:00-Premier League-West Ham-Chelsea" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Premier League-West Ham-Chelsea
+http://127.0.0.1:6878/ace/getstream?id=688e785893b50acc1d00cb37f15bfc42e72f5ae3&pid=12
+#EXTINF:-1 tvg-id="21:00-Premier League-West Ham-Chelsea" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Premier League-West Ham-Chelsea
+http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b&pid=13
+#EXTINF:-1 tvg-id="21:30-Segunda-Leganés-Cádiz CF" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:30-Segunda-Leganés-Cádiz CF
+http://127.0.0.1:6878/ace/getstream?id=f15f997f457e49ad9697e65cf2d78db26ee875b9&pid=14
+#EXTINF:-1 tvg-id="21:30-Segunda-Leganés-Cádiz CF" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:30-Segunda-Leganés-Cádiz CF
+http://127.0.0.1:6878/ace/getstream?id=87bb542f974b6b9e89d0f2e20ed6dc93426f4be0&pid=15
+#EXTINF:-1 tvg-id="21:30-Segunda-Leganés-Cádiz CF" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:30-Segunda-Leganés-Cádiz CF
+http://127.0.0.1:6878/ace/getstream?id=a4f072c9b614323ac1258a175f868a909ea3c8cd&pid=16
+#EXTINF:-1 tvg-id="21:30-Segunda-CD Castellón-Real Valladolid" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:30-Segunda-CD Castellón-Real Valladolid
+http://127.0.0.1:6878/ace/getstream?id=f15f997f457e49ad9697e65cf2d78db26ee875b9&pid=17
+#EXTINF:-1 tvg-id="21:30-Segunda-CD Castellón-Real Valladolid" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:30-Segunda-CD Castellón-Real Valladolid
+http://127.0.0.1:6878/ace/getstream?id=87bb542f974b6b9e89d0f2e20ed6dc93426f4be0&pid=18
+#EXTINF:-1 tvg-id="21:30-Segunda-CD Castellón-Real Valladolid" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:30-Segunda-CD Castellón-Real Valladolid
+http://127.0.0.1:6878/ace/getstream?id=a4f072c9b614323ac1258a175f868a909ea3c8cd&pid=19
