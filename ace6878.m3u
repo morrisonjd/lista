@@ -59,8 +59,6 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=edee311dc307e1638eeac880b11bb6f4759b0
 http://127.0.0.1:6878/ace/manifest.m3u8?id=508ffdbab097339adb4f3d922070b5df2c114d01
 #EXTINF:-1 tvg-id="M+ Cine Español" group-title="New Era",M+ Cine Español
 http://127.0.0.1:6878/ace/manifest.m3u8?id=e47cdeba9d919d6a9b4fa3c72c8094178985f668
-#EXTINF:-1 tvg-id="Orange TV" group-title="New Loop",Orange TV
-http://127.0.0.1:6878/ace/manifest.m3u8?id=abdbfccdfd73bb5b1dcad598d539058040fb24fa
 #EXTINF:-1 tvg-id="M+ Copa del Rey" group-title="Antigua",M+ Copa del Rey
 http://127.0.0.1:6878/ace/manifest.m3u8?id=e31e5dd1a24cf347deecd6aaba8d30a8d9d84460
 #EXTINF:-1 tvg-id="M+ Vamos" group-title="New Era",M+ Vamos
@@ -75,6 +73,8 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=1444a976d2cf6e7fdcee833ed36ee5e556322
 http://127.0.0.1:6878/ace/manifest.m3u8?id=c7c81acdd1a03ecc418c94c2f28e2adb0556c40b
 #EXTINF:-1 tvg-id="M+ Vamos" group-title="Elcano",M+ Vamos
 http://127.0.0.1:6878/ace/manifest.m3u8?id=0e5d8c9724fa9163f49096b70484e315251eb785
+#EXTINF:-1 tvg-id="M+ LaLiga TV" group-title="New Loop",M+ LaLiga TV
+http://127.0.0.1:6878/ace/manifest.m3u8?id=cc9b7f5fe416069a2110da0909b0f915043c468b
 #EXTINF:-1 tvg-id="M+ LaLiga TV" group-title="Elcano",M+ LaLiga TV
 http://127.0.0.1:6878/ace/manifest.m3u8?id=00c9bc9c5d7d87680a5a6bed349edfa775a89947
 #EXTINF:-1 tvg-id="M+ LaLiga TV" group-title="New Era",M+ LaLiga TV
@@ -119,8 +119,6 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=a231b2fa1f7754433efeb8bb8d69d7b9096dc
 http://127.0.0.1:6878/ace/manifest.m3u8?id=c976c7b37964322752db562b4ad65515509c8d36
 #EXTINF:-1 tvg-id="LaLiga TV Hypermotion 2" group-title="Elcano",LaLiga TV Hypermotion 2
 http://127.0.0.1:6878/ace/manifest.m3u8?id=709075831bf5c41ed0a20dfbd640aab6c28971f8
-#EXTINF:-1 tvg-id="M+ Liga de Campeones" group-title="New Loop",M+ Liga de Campeones
-http://127.0.0.1:6878/ace/manifest.m3u8?id=e572a5178ff72eed7d1d751a18b4b3419699f370
 #EXTINF:-1 tvg-id="M+ Liga de Campeones" group-title="New Era",M+ Liga de Campeones
 http://127.0.0.1:6878/ace/manifest.m3u8?id=778f08cbae9596ed9e8b2ae0af33ee7a6fe24c6a
 #EXTINF:-1 tvg-id="M+ Liga de Campeones" group-title="New Era",M+ Liga de Campeones
@@ -185,6 +183,8 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=8546cff89e4ee8bf3ad31cf6457c3bc2c4341
 http://127.0.0.1:6878/ace/manifest.m3u8?id=9be118a64eb603b5eb62be6cf27631d3891b5174
 #EXTINF:-1 tvg-id="M+ Golf" group-title="New Era",M+ Golf
 http://127.0.0.1:6878/ace/manifest.m3u8?id=76a69812c66bfc4899e89df498220588a56e6064
+#EXTINF:-1 tvg-id="M+ Golf" group-title="New Loop",M+ Golf
+http://127.0.0.1:6878/ace/manifest.m3u8?id=872608e734992db636eb79426802cd08f4029afb
 #EXTINF:-1 tvg-id="M+ Golf 2" group-title="New Era",M+ Golf 2
 http://127.0.0.1:6878/ace/manifest.m3u8?id=96e82321c731e41768a806992ee4d3b9b7a0e7d7
 #EXTINF:-1 tvg-id="DAZN F1" group-title="New Era",DAZN F1
@@ -247,8 +247,6 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=fb2dd566824658eeab27aae19a01c09430f1a
 http://127.0.0.1:6878/ace/manifest.m3u8?id=9adf7ac6531788ec022dbc14b77e1367f6c5bdc5
 #EXTINF:-1 tvg-id="DAZN 2" group-title="New Era",DAZN 2
 http://127.0.0.1:6878/ace/manifest.m3u8?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
-#EXTINF:-1 tvg-id="DAZN 2" group-title="New Loop",DAZN 2
-http://127.0.0.1:6878/ace/manifest.m3u8?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
 #EXTINF:-1 tvg-id="Eurosport 1" group-title="New Era",Eurosport 1
 http://127.0.0.1:6878/ace/manifest.m3u8?id=714e14e6d6e27660fd25a75b57b0ac5580fe705d
 #EXTINF:-1 tvg-id="Eurosport 1" group-title="New Era",Eurosport 1
@@ -259,6 +257,8 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=704e51760a644bc90aa22269bf84139947a04
 http://127.0.0.1:6878/ace/manifest.m3u8?id=c3da6c4f91d9d10ade00318a869435e19f204d0e
 #EXTINF:-1 tvg-id="Eurosport 1" group-title="New Loop",Eurosport 1
 http://127.0.0.1:6878/ace/manifest.m3u8?id=1b0bc4d4dcd609d3c092712e721392b199f50a62
+#EXTINF:-1 tvg-id="Eurosport 1" group-title="New Loop",Eurosport 1
+http://127.0.0.1:6878/ace/manifest.m3u8?id=cfa75ade53810dac64411b22d56c3d4582a221d3
 #EXTINF:-1 tvg-id="Eurosport 1" group-title="Elcano",Eurosport 1
 http://127.0.0.1:6878/ace/manifest.m3u8?id=d830c1dc3b74e74f79cbb823804cf2037857e78a
 #EXTINF:-1 tvg-id="Eurosport 2" group-title="New Era",Eurosport 2
@@ -595,6 +595,8 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=3e0ba6867173f345d482d80c771f1a5dc3b37
 http://127.0.0.1:6878/ace/manifest.m3u8?id=664eb5fe460b96941aed633959a845b185cd8394
 #EXTINF:-1 tvg-id="ESPN 4" group-title="New Loop",ESPN 4
 http://127.0.0.1:6878/ace/manifest.m3u8?id=5f9b19c57195cc28ab81e0ec8cad03b55118687a
+#EXTINF:-1 tvg-id="Eleven Sports 2 POR" group-title="Antigua",Eleven Sports 2 POR
+http://127.0.0.1:6878/ace/manifest.m3u8?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
 #EXTINF:-1 tvg-id="Ziggo Sport" group-title="New Loop",Ziggo Sport
 http://127.0.0.1:6878/ace/manifest.m3u8?id=fcd7621df513f600652b4813d5d8fd1daed60058
 #EXTINF:-1 tvg-id="Ziggo Sport 2" group-title="New Loop",Ziggo Sport 2
