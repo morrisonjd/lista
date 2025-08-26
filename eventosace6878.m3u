@@ -1,285 +1,79 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="00:20-US Open 1ª Ronda-D. Prizmic-A. Rublev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",00:20-US Open 1ª Ronda-D. Prizmic-A. Rublev
+#EXTINF:-1 tvg-id="00:00-US Open WTA 1ª Ronda-H. Baptiste-K. Siniakova" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",00:00-US Open WTA 1ª Ronda-H. Baptiste-K. Siniakova
 http://127.0.0.1:6878/ace/getstream?id=190a81938c2ddc6fe97758271f8c48f4db31c28a&pid=1
-#EXTINF:-1 tvg-id="17:00-US Open WTA 1ª Ronda-K. Boulter-M. Kostyuk" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:00-US Open WTA 1ª Ronda-K. Boulter-M. Kostyuk
-http://127.0.0.1:6878/ace/getstream?id=5913205fb6d6d162a50222709aab6129eb7cf916&pid=2
-#EXTINF:-1 tvg-id="17:00-US Open WTA 1ª Ronda-K. Boulter-M. Kostyuk" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:00-US Open WTA 1ª Ronda-K. Boulter-M. Kostyuk
-http://127.0.0.1:6878/ace/getstream?id=2d19e39c92f7d8ce90b271d8aaf6f42e733eedc2&pid=3
-#EXTINF:-1 tvg-id="17:00-US Open WTA 1ª Ronda-K. Boulter-M. Kostyuk" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:00-US Open WTA 1ª Ronda-K. Boulter-M. Kostyuk
-http://127.0.0.1:6878/ace/getstream?id=7b361369a40046ad3011086f9d4ae2982fb4d5aa&pid=4
-#EXTINF:-1 tvg-id="17:30-US Open WTA 1ª Ronda-E. Arango-I. Swiatek" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:30-US Open WTA 1ª Ronda-E. Arango-I. Swiatek
-http://127.0.0.1:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&pid=5
-#EXTINF:-1 tvg-id="17:30-US Open WTA 1ª Ronda-E. Arango-I. Swiatek" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:30-US Open WTA 1ª Ronda-E. Arango-I. Swiatek
-http://127.0.0.1:6878/ace/getstream?id=6e212a916c83638268047dd2757c95b14f7d25a3&pid=6
-#EXTINF:-1 tvg-id="17:30-US Open WTA 1ª Ronda-E. Arango-I. Swiatek" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:30-US Open WTA 1ª Ronda-E. Arango-I. Swiatek
-http://127.0.0.1:6878/ace/getstream?id=438991226c3bc6a06e7bfda9bea9f769957dc366&pid=7
-#EXTINF:-1 tvg-id="17:30-US Open WTA 1ª Ronda-E. Arango-I. Swiatek" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:30-US Open WTA 1ª Ronda-E. Arango-I. Swiatek
-http://127.0.0.1:6878/ace/getstream?id=f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0&pid=8
-#EXTINF:-1 tvg-id="17:30-US Open WTA 1ª Ronda-E. Arango-I. Swiatek" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:30-US Open WTA 1ª Ronda-E. Arango-I. Swiatek
-http://127.0.0.1:6878/ace/getstream?id=bfa01c11c5c6b7a616a516de4f2c769a89d26b25&pid=9
-#EXTINF:-1 tvg-id="17:30-US Open WTA 1ª Ronda-E. Arango-I. Swiatek" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:30-US Open WTA 1ª Ronda-E. Arango-I. Swiatek
-http://127.0.0.1:6878/ace/getstream?id=8c67cdb5ba81976662c3a67984a9545d9cfb0f70&pid=10
-#EXTINF:-1 tvg-id="17:30-US Open WTA 1ª Ronda-E. Arango-I. Swiatek" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:30-US Open WTA 1ª Ronda-E. Arango-I. Swiatek
-http://127.0.0.1:6878/ace/getstream?id=b6ffbbc72a5b6b579faf79ebac229af7a25b933b&pid=11
-#EXTINF:-1 tvg-id="17:30-US Open WTA 1ª Ronda-E. Arango-I. Swiatek" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:30-US Open WTA 1ª Ronda-E. Arango-I. Swiatek
-http://127.0.0.1:6878/ace/getstream?id=5d9a26e0a5f3e5f2ae027bd05635ab9a4fd4b51a&pid=12
-#EXTINF:-1 tvg-id="17:30-US Open WTA 1ª Ronda-E. Arango-I. Swiatek" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:30-US Open WTA 1ª Ronda-E. Arango-I. Swiatek
-http://127.0.0.1:6878/ace/getstream?id=5e24a1b9187fccb91553f7c7da4b36341386f74a&pid=13
-#EXTINF:-1 tvg-id="17:30-US Open WTA 1ª Ronda-E. Arango-I. Swiatek" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:30-US Open WTA 1ª Ronda-E. Arango-I. Swiatek
-http://127.0.0.1:6878/ace/getstream?id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78&pid=14
-#EXTINF:-1 tvg-id="18:30-US Open 1ª Ronda-A. Bublik-M. Cilic" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:30-US Open 1ª Ronda-A. Bublik-M. Cilic
-http://127.0.0.1:6878/ace/getstream?id=5913205fb6d6d162a50222709aab6129eb7cf916&pid=15
-#EXTINF:-1 tvg-id="18:30-US Open 1ª Ronda-A. Bublik-M. Cilic" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:30-US Open 1ª Ronda-A. Bublik-M. Cilic
-http://127.0.0.1:6878/ace/getstream?id=2d19e39c92f7d8ce90b271d8aaf6f42e733eedc2&pid=16
-#EXTINF:-1 tvg-id="18:30-US Open 1ª Ronda-A. Bublik-M. Cilic" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:30-US Open 1ª Ronda-A. Bublik-M. Cilic
-http://127.0.0.1:6878/ace/getstream?id=7b361369a40046ad3011086f9d4ae2982fb4d5aa&pid=17
-#EXTINF:-1 tvg-id="18:30-US Open WTA 1ª Ronda-C. Dolehide-X. Wang" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:30-US Open WTA 1ª Ronda-C. Dolehide-X. Wang
-http://127.0.0.1:6878/ace/getstream?id=753d4b1f7c4ef43238b5cf23b05572b550a44eee&pid=18
-#EXTINF:-1 tvg-id="18:30-US Open WTA 1ª Ronda-C. Dolehide-X. Wang" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:30-US Open WTA 1ª Ronda-C. Dolehide-X. Wang
-http://127.0.0.1:6878/ace/getstream?id=799c6b5ee1cf41af077d14e3f9c45a32697eb903&pid=19
-#EXTINF:-1 tvg-id="18:30-US Open WTA 1ª Ronda-C. Dolehide-X. Wang" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:30-US Open WTA 1ª Ronda-C. Dolehide-X. Wang
-http://127.0.0.1:6878/ace/getstream?id=2fd410c5d89e7a627cd3785685b7915b8e4bd534&pid=20
-#EXTINF:-1 tvg-id="18:45-Champions League Playoffs-FC Kairat-Celtic FC" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Champions League Playoffs-FC Kairat-Celtic FC
-http://127.0.0.1:6878/ace/getstream?id=680187938f9305cce3ae240298f10e8695bf77c2&pid=21
-#EXTINF:-1 tvg-id="18:45-Champions League Playoffs-FC Kairat-Celtic FC" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Champions League Playoffs-FC Kairat-Celtic FC
-http://127.0.0.1:6878/ace/getstream?id=5c15c639207a080183b12fa63282b409c07401d6&pid=22
-#EXTINF:-1 tvg-id="18:45-Champions League Playoffs-FC Kairat-Celtic FC" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Champions League Playoffs-FC Kairat-Celtic FC
-http://127.0.0.1:6878/ace/getstream?id=97df5b7824948972d041d8ca2a4d29c90b641bc9&pid=23
-#EXTINF:-1 tvg-id="18:45-Champions League Playoffs-FC Kairat-Celtic FC" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Champions League Playoffs-FC Kairat-Celtic FC
-http://127.0.0.1:6878/ace/getstream?id=2b51710cee513e8939785fa3e7980f32d4e0415f&pid=24
-#EXTINF:-1 tvg-id="18:45-Champions League Playoffs-FC Kairat-Celtic FC" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Champions League Playoffs-FC Kairat-Celtic FC
-http://127.0.0.1:6878/ace/getstream?id=9db029dff6a9c637d1f670e78dbc1a479b9b406e&pid=25
-#EXTINF:-1 tvg-id="18:45-Champions League Playoffs-FC Kairat-Celtic FC" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Champions League Playoffs-FC Kairat-Celtic FC
-http://127.0.0.1:6878/ace/getstream?id=e572a5178ff72eed7d1d751a18b4b3419699f370&pid=26
-#EXTINF:-1 tvg-id="19:00-US Open 1ª Ronda-J. Sinner-V. Kopriva" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",19:00-US Open 1ª Ronda-J. Sinner-V. Kopriva
-http://127.0.0.1:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&pid=27
-#EXTINF:-1 tvg-id="19:00-US Open 1ª Ronda-J. Sinner-V. Kopriva" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",19:00-US Open 1ª Ronda-J. Sinner-V. Kopriva
-http://127.0.0.1:6878/ace/getstream?id=6e212a916c83638268047dd2757c95b14f7d25a3&pid=28
-#EXTINF:-1 tvg-id="19:00-US Open 1ª Ronda-J. Sinner-V. Kopriva" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",19:00-US Open 1ª Ronda-J. Sinner-V. Kopriva
-http://127.0.0.1:6878/ace/getstream?id=438991226c3bc6a06e7bfda9bea9f769957dc366&pid=29
-#EXTINF:-1 tvg-id="19:00-US Open 1ª Ronda-J. Sinner-V. Kopriva" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",19:00-US Open 1ª Ronda-J. Sinner-V. Kopriva
-http://127.0.0.1:6878/ace/getstream?id=f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0&pid=30
-#EXTINF:-1 tvg-id="19:00-US Open 1ª Ronda-J. Sinner-V. Kopriva" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",19:00-US Open 1ª Ronda-J. Sinner-V. Kopriva
-http://127.0.0.1:6878/ace/getstream?id=bfa01c11c5c6b7a616a516de4f2c769a89d26b25&pid=31
-#EXTINF:-1 tvg-id="19:00-US Open 1ª Ronda-J. Sinner-V. Kopriva" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",19:00-US Open 1ª Ronda-J. Sinner-V. Kopriva
-http://127.0.0.1:6878/ace/getstream?id=8c67cdb5ba81976662c3a67984a9545d9cfb0f70&pid=32
-#EXTINF:-1 tvg-id="19:00-US Open 1ª Ronda-J. Sinner-V. Kopriva" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",19:00-US Open 1ª Ronda-J. Sinner-V. Kopriva
-http://127.0.0.1:6878/ace/getstream?id=b6ffbbc72a5b6b579faf79ebac229af7a25b933b&pid=33
-#EXTINF:-1 tvg-id="19:00-US Open 1ª Ronda-J. Sinner-V. Kopriva" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",19:00-US Open 1ª Ronda-J. Sinner-V. Kopriva
-http://127.0.0.1:6878/ace/getstream?id=5d9a26e0a5f3e5f2ae027bd05635ab9a4fd4b51a&pid=34
-#EXTINF:-1 tvg-id="19:00-US Open 1ª Ronda-J. Sinner-V. Kopriva" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",19:00-US Open 1ª Ronda-J. Sinner-V. Kopriva
-http://127.0.0.1:6878/ace/getstream?id=5e24a1b9187fccb91553f7c7da4b36341386f74a&pid=35
-#EXTINF:-1 tvg-id="19:00-US Open 1ª Ronda-J. Sinner-V. Kopriva" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",19:00-US Open 1ª Ronda-J. Sinner-V. Kopriva
-http://127.0.0.1:6878/ace/getstream?id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78&pid=36
-#EXTINF:-1 tvg-id="19:00-US Open 1ª Ronda-L. Riedi-P. Martínez" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",19:00-US Open 1ª Ronda-L. Riedi-P. Martínez
-http://127.0.0.1:6878/ace/getstream?id=58a4c880ab18486d914751db32a12760e74b75a4&pid=37
-#EXTINF:-1 tvg-id="19:00-US Open 1ª Ronda-L. Riedi-P. Martínez" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",19:00-US Open 1ª Ronda-L. Riedi-P. Martínez
-http://127.0.0.1:6878/ace/getstream?id=3f97bafa133b10cfe5c62311e11501326d886a53&pid=38
-#EXTINF:-1 tvg-id="19:00-US Open 1ª Ronda-L. Riedi-P. Martínez" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",19:00-US Open 1ª Ronda-L. Riedi-P. Martínez
-http://127.0.0.1:6878/ace/getstream?id=b40e1de2dcbd7c665f54877b14c830ed67b32a96&pid=39
-#EXTINF:-1 tvg-id="19:00-US Open WTA 1ª Ronda-D. Collins-J. Cristian" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",19:00-US Open WTA 1ª Ronda-D. Collins-J. Cristian
-http://127.0.0.1:6878/ace/getstream?id=190a81938c2ddc6fe97758271f8c48f4db31c28a&pid=40
-#EXTINF:-1 tvg-id="00:40-US Open WTA 1ª Ronda-A. Bondar-E. Svitolina" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",00:40-US Open WTA 1ª Ronda-A. Bondar-E. Svitolina
-http://127.0.0.1:6878/ace/getstream?id=5913205fb6d6d162a50222709aab6129eb7cf916&pid=41
-#EXTINF:-1 tvg-id="00:40-US Open WTA 1ª Ronda-A. Bondar-E. Svitolina" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",00:40-US Open WTA 1ª Ronda-A. Bondar-E. Svitolina
-http://127.0.0.1:6878/ace/getstream?id=2d19e39c92f7d8ce90b271d8aaf6f42e733eedc2&pid=42
-#EXTINF:-1 tvg-id="00:40-US Open WTA 1ª Ronda-A. Bondar-E. Svitolina" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",00:40-US Open WTA 1ª Ronda-A. Bondar-E. Svitolina
-http://127.0.0.1:6878/ace/getstream?id=7b361369a40046ad3011086f9d4ae2982fb4d5aa&pid=43
-#EXTINF:-1 tvg-id="19:00-US Open WTA 1ª Ronda-A. Anisimova-K. Birrell" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",19:00-US Open WTA 1ª Ronda-A. Anisimova-K. Birrell
-http://127.0.0.1:6878/ace/getstream?id=ef9dcc4eaac36a0f608b52a31f8ab237859e071a&pid=44
-#EXTINF:-1 tvg-id="19:00-US Open WTA 1ª Ronda-A. Anisimova-K. Birrell" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",19:00-US Open WTA 1ª Ronda-A. Anisimova-K. Birrell
-http://127.0.0.1:6878/ace/getstream?id=332d8fdeb9c51385230b8c9448e047ccc4a6355d&pid=45
-#EXTINF:-1 tvg-id="19:00-US Open WTA 1ª Ronda-A. Anisimova-K. Birrell" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",19:00-US Open WTA 1ª Ronda-A. Anisimova-K. Birrell
-http://127.0.0.1:6878/ace/getstream?id=f828a32d8ea03a3cabd3ce3ebecb249ec111c7e5&pid=46
-#EXTINF:-1 tvg-id="19:00-US Open WTA 1ª Ronda-A. Anisimova-K. Birrell" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",19:00-US Open WTA 1ª Ronda-A. Anisimova-K. Birrell
-http://127.0.0.1:6878/ace/getstream?id=751b9cb03d188ce70e6aac22c1bfb16a5d0b2237&pid=47
-#EXTINF:-1 tvg-id="19:00-US Open WTA 1ª Ronda-A. Anisimova-K. Birrell" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",19:00-US Open WTA 1ª Ronda-A. Anisimova-K. Birrell
-http://127.0.0.1:6878/ace/getstream?id=ebca4a63ce3bfda7b272964a1acc5227218184a4&pid=48
-#EXTINF:-1 tvg-id="19:00-US Open WTA 1ª Ronda-A. Anisimova-K. Birrell" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",19:00-US Open WTA 1ª Ronda-A. Anisimova-K. Birrell
-http://127.0.0.1:6878/ace/getstream?id=8c67cdb5ba81976662c3a67984a9545d9cfb0f70&pid=49
-#EXTINF:-1 tvg-id="19:00-US Open WTA 1ª Ronda-A. Anisimova-K. Birrell" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",19:00-US Open WTA 1ª Ronda-A. Anisimova-K. Birrell
-http://127.0.0.1:6878/ace/getstream?id=b6ffbbc72a5b6b579faf79ebac229af7a25b933b&pid=50
-#EXTINF:-1 tvg-id="19:00-US Open WTA 1ª Ronda-A. Anisimova-K. Birrell" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",19:00-US Open WTA 1ª Ronda-A. Anisimova-K. Birrell
-http://127.0.0.1:6878/ace/getstream?id=5d9a26e0a5f3e5f2ae027bd05635ab9a4fd4b51a&pid=51
-#EXTINF:-1 tvg-id="19:00-US Open WTA 1ª Ronda-A. Anisimova-K. Birrell" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",19:00-US Open WTA 1ª Ronda-A. Anisimova-K. Birrell
-http://127.0.0.1:6878/ace/getstream?id=5e24a1b9187fccb91553f7c7da4b36341386f74a&pid=52
-#EXTINF:-1 tvg-id="19:00-US Open WTA 1ª Ronda-A. Anisimova-K. Birrell" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",19:00-US Open WTA 1ª Ronda-A. Anisimova-K. Birrell
-http://127.0.0.1:6878/ace/getstream?id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78&pid=53
-#EXTINF:-1 tvg-id="20:00-US Open 1ª Ronda-L. Sonego-T. Schoolkate" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:00-US Open 1ª Ronda-L. Sonego-T. Schoolkate
-http://127.0.0.1:6878/ace/getstream?id=753d4b1f7c4ef43238b5cf23b05572b550a44eee&pid=54
-#EXTINF:-1 tvg-id="20:00-US Open 1ª Ronda-L. Sonego-T. Schoolkate" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:00-US Open 1ª Ronda-L. Sonego-T. Schoolkate
-http://127.0.0.1:6878/ace/getstream?id=799c6b5ee1cf41af077d14e3f9c45a32697eb903&pid=55
-#EXTINF:-1 tvg-id="20:00-US Open 1ª Ronda-L. Sonego-T. Schoolkate" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:00-US Open 1ª Ronda-L. Sonego-T. Schoolkate
-http://127.0.0.1:6878/ace/getstream?id=2fd410c5d89e7a627cd3785685b7915b8e4bd534&pid=56
-#EXTINF:-1 tvg-id="20:30-US Open 1ª Ronda-B. Harris-F. Auger-Aliassime" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:30-US Open 1ª Ronda-B. Harris-F. Auger-Aliassime
-http://127.0.0.1:6878/ace/getstream?id=190a81938c2ddc6fe97758271f8c48f4db31c28a&pid=57
-#EXTINF:-1 tvg-id="21:00-Champions League Playoffs-Sturm Graz-Bodø Glimt" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Playoffs-Sturm Graz-Bodø Glimt
-http://127.0.0.1:6878/ace/getstream?id=74ab4e4ec7e2da001f473ca40893b7307b8029c5&pid=58
-#EXTINF:-1 tvg-id="21:00-Champions League Playoffs-Sturm Graz-Bodø Glimt" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Playoffs-Sturm Graz-Bodø Glimt
-http://127.0.0.1:6878/ace/getstream?id=38f7b2044e549df2039ff26cefa6f9a60c854d5e&pid=59
-#EXTINF:-1 tvg-id="21:00-Champions League Playoffs-Pafos FC-Crvena Zvezda" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Playoffs-Pafos FC-Crvena Zvezda
-http://127.0.0.1:6878/ace/getstream?id=680187938f9305cce3ae240298f10e8695bf77c2&pid=60
-#EXTINF:-1 tvg-id="21:00-Champions League Playoffs-Pafos FC-Crvena Zvezda" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Playoffs-Pafos FC-Crvena Zvezda
-http://127.0.0.1:6878/ace/getstream?id=5c15c639207a080183b12fa63282b409c07401d6&pid=61
-#EXTINF:-1 tvg-id="21:00-Champions League Playoffs-Pafos FC-Crvena Zvezda" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Playoffs-Pafos FC-Crvena Zvezda
-http://127.0.0.1:6878/ace/getstream?id=97df5b7824948972d041d8ca2a4d29c90b641bc9&pid=62
-#EXTINF:-1 tvg-id="21:00-Champions League Playoffs-Pafos FC-Crvena Zvezda" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Playoffs-Pafos FC-Crvena Zvezda
-http://127.0.0.1:6878/ace/getstream?id=2b51710cee513e8939785fa3e7980f32d4e0415f&pid=63
-#EXTINF:-1 tvg-id="21:00-Champions League Playoffs-Pafos FC-Crvena Zvezda" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Playoffs-Pafos FC-Crvena Zvezda
-http://127.0.0.1:6878/ace/getstream?id=9db029dff6a9c637d1f670e78dbc1a479b9b406e&pid=64
-#EXTINF:-1 tvg-id="21:00-Champions League Playoffs-Pafos FC-Crvena Zvezda" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Playoffs-Pafos FC-Crvena Zvezda
-http://127.0.0.1:6878/ace/getstream?id=e572a5178ff72eed7d1d751a18b4b3419699f370&pid=65
-#EXTINF:-1 tvg-id="21:00-Champions League Playoffs-Pafos FC-Crvena Zvezda" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Playoffs-Pafos FC-Crvena Zvezda
-http://127.0.0.1:6878/ace/getstream?id=4416843c96b7f7a1bc55c476091a60fff0922bc7&pid=66
-#EXTINF:-1 tvg-id="21:00-Champions League Playoffs-Pafos FC-Crvena Zvezda" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Playoffs-Pafos FC-Crvena Zvezda
-http://127.0.0.1:6878/ace/getstream?id=cfc371890bfb502737a26de5215e50929c52d0f9&pid=67
-#EXTINF:-1 tvg-id="21:00-US Open WTA 1ª Ronda-F. Jones-E. Lys" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-US Open WTA 1ª Ronda-F. Jones-E. Lys
-http://127.0.0.1:6878/ace/getstream?id=58a4c880ab18486d914751db32a12760e74b75a4&pid=68
-#EXTINF:-1 tvg-id="21:00-US Open WTA 1ª Ronda-F. Jones-E. Lys" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-US Open WTA 1ª Ronda-F. Jones-E. Lys
-http://127.0.0.1:6878/ace/getstream?id=3f97bafa133b10cfe5c62311e11501326d886a53&pid=69
-#EXTINF:-1 tvg-id="21:00-US Open WTA 1ª Ronda-F. Jones-E. Lys" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-US Open WTA 1ª Ronda-F. Jones-E. Lys
-http://127.0.0.1:6878/ace/getstream?id=b40e1de2dcbd7c665f54877b14c830ed67b32a96&pid=70
-#EXTINF:-1 tvg-id="21:00-US Open WTA 1ª Ronda-A. Krueger-S. Kenin" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-US Open WTA 1ª Ronda-A. Krueger-S. Kenin
-http://127.0.0.1:6878/ace/getstream?id=5913205fb6d6d162a50222709aab6129eb7cf916&pid=71
-#EXTINF:-1 tvg-id="21:00-US Open WTA 1ª Ronda-A. Krueger-S. Kenin" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-US Open WTA 1ª Ronda-A. Krueger-S. Kenin
-http://127.0.0.1:6878/ace/getstream?id=2d19e39c92f7d8ce90b271d8aaf6f42e733eedc2&pid=72
-#EXTINF:-1 tvg-id="21:00-US Open WTA 1ª Ronda-A. Krueger-S. Kenin" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-US Open WTA 1ª Ronda-A. Krueger-S. Kenin
-http://127.0.0.1:6878/ace/getstream?id=7b361369a40046ad3011086f9d4ae2982fb4d5aa&pid=73
-#EXTINF:-1 tvg-id="22:00-US Open 1ª Ronda-R. Bautista-Agut-J. Fearnley" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",22:00-US Open 1ª Ronda-R. Bautista-Agut-J. Fearnley
-http://127.0.0.1:6878/ace/getstream?id=753d4b1f7c4ef43238b5cf23b05572b550a44eee&pid=74
-#EXTINF:-1 tvg-id="22:00-US Open 1ª Ronda-R. Bautista-Agut-J. Fearnley" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",22:00-US Open 1ª Ronda-R. Bautista-Agut-J. Fearnley
-http://127.0.0.1:6878/ace/getstream?id=799c6b5ee1cf41af077d14e3f9c45a32697eb903&pid=75
-#EXTINF:-1 tvg-id="22:00-US Open 1ª Ronda-R. Bautista-Agut-J. Fearnley" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",22:00-US Open 1ª Ronda-R. Bautista-Agut-J. Fearnley
-http://127.0.0.1:6878/ace/getstream?id=2fd410c5d89e7a627cd3785685b7915b8e4bd534&pid=76
-#EXTINF:-1 tvg-id="22:00-US Open 1ª Ronda-R. Bautista-Agut-J. Fearnley" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",22:00-US Open 1ª Ronda-R. Bautista-Agut-J. Fearnley
-http://127.0.0.1:6878/ace/getstream?id=8c67cdb5ba81976662c3a67984a9545d9cfb0f70&pid=77
-#EXTINF:-1 tvg-id="22:00-US Open 1ª Ronda-R. Bautista-Agut-J. Fearnley" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",22:00-US Open 1ª Ronda-R. Bautista-Agut-J. Fearnley
-http://127.0.0.1:6878/ace/getstream?id=b6ffbbc72a5b6b579faf79ebac229af7a25b933b&pid=78
-#EXTINF:-1 tvg-id="22:00-US Open 1ª Ronda-R. Bautista-Agut-J. Fearnley" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",22:00-US Open 1ª Ronda-R. Bautista-Agut-J. Fearnley
-http://127.0.0.1:6878/ace/getstream?id=5d9a26e0a5f3e5f2ae027bd05635ab9a4fd4b51a&pid=79
-#EXTINF:-1 tvg-id="22:00-US Open 1ª Ronda-R. Bautista-Agut-J. Fearnley" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",22:00-US Open 1ª Ronda-R. Bautista-Agut-J. Fearnley
-http://127.0.0.1:6878/ace/getstream?id=5e24a1b9187fccb91553f7c7da4b36341386f74a&pid=80
-#EXTINF:-1 tvg-id="22:00-US Open 1ª Ronda-R. Bautista-Agut-J. Fearnley" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",22:00-US Open 1ª Ronda-R. Bautista-Agut-J. Fearnley
-http://127.0.0.1:6878/ace/getstream?id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78&pid=81
-#EXTINF:-1 tvg-id="22:00-US Open 1ª Ronda-R. Bautista-Agut-J. Fearnley" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",22:00-US Open 1ª Ronda-R. Bautista-Agut-J. Fearnley
-http://127.0.0.1:6878/ace/getstream?id=3b2a8b41e7097c16b0468b42d7de0320886fa933&pid=82
-#EXTINF:-1 tvg-id="22:00-US Open 1ª Ronda-R. Bautista-Agut-J. Fearnley" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",22:00-US Open 1ª Ronda-R. Bautista-Agut-J. Fearnley
-http://127.0.0.1:6878/ace/getstream?id=2940120bf034db79a7f5849846ccea0255172eae&pid=83
-#EXTINF:-1 tvg-id="22:00-US Open 1ª Ronda-R. Bautista-Agut-J. Fearnley" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",22:00-US Open 1ª Ronda-R. Bautista-Agut-J. Fearnley
-http://127.0.0.1:6878/ace/getstream?id=651d6be899d1fafa107a265a9dc00ff914c1b548&pid=84
-#EXTINF:-1 tvg-id="22:00-US Open 1ª Ronda-R. Bautista-Agut-J. Fearnley" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",22:00-US Open 1ª Ronda-R. Bautista-Agut-J. Fearnley
-http://127.0.0.1:6878/ace/getstream?id=1444a976d2cf6e7fdcee833ed36ee5e55632253f&pid=85
-#EXTINF:-1 tvg-id="22:00-US Open 1ª Ronda-R. Bautista-Agut-J. Fearnley" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",22:00-US Open 1ª Ronda-R. Bautista-Agut-J. Fearnley
-http://127.0.0.1:6878/ace/getstream?id=c7c81acdd1a03ecc418c94c2f28e2adb0556c40b&pid=86
-#EXTINF:-1 tvg-id="22:00-US Open 1ª Ronda-R. Bautista-Agut-J. Fearnley" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",22:00-US Open 1ª Ronda-R. Bautista-Agut-J. Fearnley
-http://127.0.0.1:6878/ace/getstream?id=0e5d8c9724fa9163f49096b70484e315251eb785&pid=87
-#EXTINF:-1 tvg-id="01:10-US Open 1ª Ronda-S. Ofner-C. Ruud" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",01:10-US Open 1ª Ronda-S. Ofner-C. Ruud
-http://127.0.0.1:6878/ace/getstream?id=ef9dcc4eaac36a0f608b52a31f8ab237859e071a&pid=88
-#EXTINF:-1 tvg-id="01:10-US Open 1ª Ronda-S. Ofner-C. Ruud" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",01:10-US Open 1ª Ronda-S. Ofner-C. Ruud
-http://127.0.0.1:6878/ace/getstream?id=332d8fdeb9c51385230b8c9448e047ccc4a6355d&pid=89
-#EXTINF:-1 tvg-id="01:10-US Open 1ª Ronda-S. Ofner-C. Ruud" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",01:10-US Open 1ª Ronda-S. Ofner-C. Ruud
-http://127.0.0.1:6878/ace/getstream?id=f828a32d8ea03a3cabd3ce3ebecb249ec111c7e5&pid=90
-#EXTINF:-1 tvg-id="01:10-US Open 1ª Ronda-S. Ofner-C. Ruud" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",01:10-US Open 1ª Ronda-S. Ofner-C. Ruud
-http://127.0.0.1:6878/ace/getstream?id=751b9cb03d188ce70e6aac22c1bfb16a5d0b2237&pid=91
-#EXTINF:-1 tvg-id="01:10-US Open 1ª Ronda-S. Ofner-C. Ruud" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",01:10-US Open 1ª Ronda-S. Ofner-C. Ruud
-http://127.0.0.1:6878/ace/getstream?id=ebca4a63ce3bfda7b272964a1acc5227218184a4&pid=92
-#EXTINF:-1 tvg-id="22:30-US Open 1ª Ronda-C. O'Connell-A. De Miñaur" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",22:30-US Open 1ª Ronda-C. O'Connell-A. De Miñaur
-http://127.0.0.1:6878/ace/getstream?id=5913205fb6d6d162a50222709aab6129eb7cf916&pid=93
-#EXTINF:-1 tvg-id="22:30-US Open 1ª Ronda-C. O'Connell-A. De Miñaur" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",22:30-US Open 1ª Ronda-C. O'Connell-A. De Miñaur
-http://127.0.0.1:6878/ace/getstream?id=2d19e39c92f7d8ce90b271d8aaf6f42e733eedc2&pid=94
-#EXTINF:-1 tvg-id="22:30-US Open 1ª Ronda-C. O'Connell-A. De Miñaur" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",22:30-US Open 1ª Ronda-C. O'Connell-A. De Miñaur
-http://127.0.0.1:6878/ace/getstream?id=7b361369a40046ad3011086f9d4ae2982fb4d5aa&pid=95
-#EXTINF:-1 tvg-id="22:30-US Open WTA 1ª Ronda-S. Cirstea-S. Sierra" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",22:30-US Open WTA 1ª Ronda-S. Cirstea-S. Sierra
-http://127.0.0.1:6878/ace/getstream?id=58a4c880ab18486d914751db32a12760e74b75a4&pid=96
-#EXTINF:-1 tvg-id="22:30-US Open WTA 1ª Ronda-S. Cirstea-S. Sierra" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",22:30-US Open WTA 1ª Ronda-S. Cirstea-S. Sierra
-http://127.0.0.1:6878/ace/getstream?id=3f97bafa133b10cfe5c62311e11501326d886a53&pid=97
-#EXTINF:-1 tvg-id="22:30-US Open WTA 1ª Ronda-S. Cirstea-S. Sierra" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",22:30-US Open WTA 1ª Ronda-S. Cirstea-S. Sierra
-http://127.0.0.1:6878/ace/getstream?id=b40e1de2dcbd7c665f54877b14c830ed67b32a96&pid=98
-#EXTINF:-1 tvg-id="23:00-US Open WTA 1ª Ronda-D. Vekic-J. Bouzas" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",23:00-US Open WTA 1ª Ronda-D. Vekic-J. Bouzas
-http://127.0.0.1:6878/ace/getstream?id=8c67cdb5ba81976662c3a67984a9545d9cfb0f70&pid=99
-#EXTINF:-1 tvg-id="23:00-US Open WTA 1ª Ronda-D. Vekic-J. Bouzas" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",23:00-US Open WTA 1ª Ronda-D. Vekic-J. Bouzas
-http://127.0.0.1:6878/ace/getstream?id=b6ffbbc72a5b6b579faf79ebac229af7a25b933b&pid=100
-#EXTINF:-1 tvg-id="23:00-US Open WTA 1ª Ronda-D. Vekic-J. Bouzas" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",23:00-US Open WTA 1ª Ronda-D. Vekic-J. Bouzas
-http://127.0.0.1:6878/ace/getstream?id=5d9a26e0a5f3e5f2ae027bd05635ab9a4fd4b51a&pid=101
-#EXTINF:-1 tvg-id="23:00-US Open WTA 1ª Ronda-D. Vekic-J. Bouzas" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",23:00-US Open WTA 1ª Ronda-D. Vekic-J. Bouzas
-http://127.0.0.1:6878/ace/getstream?id=5e24a1b9187fccb91553f7c7da4b36341386f74a&pid=102
-#EXTINF:-1 tvg-id="23:00-US Open WTA 1ª Ronda-D. Vekic-J. Bouzas" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",23:00-US Open WTA 1ª Ronda-D. Vekic-J. Bouzas
-http://127.0.0.1:6878/ace/getstream?id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78&pid=103
-#EXTINF:-1 tvg-id="01:20-US Open WTA 1ª Ronda-V. Williams-K. Muchova" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",01:20-US Open WTA 1ª Ronda-V. Williams-K. Muchova
-http://127.0.0.1:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&pid=104
-#EXTINF:-1 tvg-id="01:20-US Open WTA 1ª Ronda-V. Williams-K. Muchova" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",01:20-US Open WTA 1ª Ronda-V. Williams-K. Muchova
-http://127.0.0.1:6878/ace/getstream?id=6e212a916c83638268047dd2757c95b14f7d25a3&pid=105
-#EXTINF:-1 tvg-id="01:20-US Open WTA 1ª Ronda-V. Williams-K. Muchova" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",01:20-US Open WTA 1ª Ronda-V. Williams-K. Muchova
-http://127.0.0.1:6878/ace/getstream?id=438991226c3bc6a06e7bfda9bea9f769957dc366&pid=106
-#EXTINF:-1 tvg-id="01:20-US Open WTA 1ª Ronda-V. Williams-K. Muchova" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",01:20-US Open WTA 1ª Ronda-V. Williams-K. Muchova
-http://127.0.0.1:6878/ace/getstream?id=f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0&pid=107
-#EXTINF:-1 tvg-id="01:20-US Open WTA 1ª Ronda-V. Williams-K. Muchova" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",01:20-US Open WTA 1ª Ronda-V. Williams-K. Muchova
-http://127.0.0.1:6878/ace/getstream?id=bfa01c11c5c6b7a616a516de4f2c769a89d26b25&pid=108
-#EXTINF:-1 tvg-id="01:20-US Open WTA 1ª Ronda-V. Williams-K. Muchova" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",01:20-US Open WTA 1ª Ronda-V. Williams-K. Muchova
-http://127.0.0.1:6878/ace/getstream?id=8c67cdb5ba81976662c3a67984a9545d9cfb0f70&pid=109
-#EXTINF:-1 tvg-id="01:20-US Open WTA 1ª Ronda-V. Williams-K. Muchova" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",01:20-US Open WTA 1ª Ronda-V. Williams-K. Muchova
-http://127.0.0.1:6878/ace/getstream?id=b6ffbbc72a5b6b579faf79ebac229af7a25b933b&pid=110
-#EXTINF:-1 tvg-id="01:20-US Open WTA 1ª Ronda-V. Williams-K. Muchova" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",01:20-US Open WTA 1ª Ronda-V. Williams-K. Muchova
-http://127.0.0.1:6878/ace/getstream?id=5d9a26e0a5f3e5f2ae027bd05635ab9a4fd4b51a&pid=111
-#EXTINF:-1 tvg-id="01:20-US Open WTA 1ª Ronda-V. Williams-K. Muchova" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",01:20-US Open WTA 1ª Ronda-V. Williams-K. Muchova
-http://127.0.0.1:6878/ace/getstream?id=5e24a1b9187fccb91553f7c7da4b36341386f74a&pid=112
-#EXTINF:-1 tvg-id="01:20-US Open WTA 1ª Ronda-V. Williams-K. Muchova" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",01:20-US Open WTA 1ª Ronda-V. Williams-K. Muchova
-http://127.0.0.1:6878/ace/getstream?id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78&pid=113
-#EXTINF:-1 tvg-id="03:25-US Open WTA 1ª Ronda-A. Parks-M. Andreeva" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",03:25-US Open WTA 1ª Ronda-A. Parks-M. Andreeva
-http://127.0.0.1:6878/ace/getstream?id=ef9dcc4eaac36a0f608b52a31f8ab237859e071a&pid=114
-#EXTINF:-1 tvg-id="03:25-US Open WTA 1ª Ronda-A. Parks-M. Andreeva" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",03:25-US Open WTA 1ª Ronda-A. Parks-M. Andreeva
-http://127.0.0.1:6878/ace/getstream?id=332d8fdeb9c51385230b8c9448e047ccc4a6355d&pid=115
-#EXTINF:-1 tvg-id="03:25-US Open WTA 1ª Ronda-A. Parks-M. Andreeva" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",03:25-US Open WTA 1ª Ronda-A. Parks-M. Andreeva
-http://127.0.0.1:6878/ace/getstream?id=f828a32d8ea03a3cabd3ce3ebecb249ec111c7e5&pid=116
-#EXTINF:-1 tvg-id="03:25-US Open WTA 1ª Ronda-A. Parks-M. Andreeva" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",03:25-US Open WTA 1ª Ronda-A. Parks-M. Andreeva
-http://127.0.0.1:6878/ace/getstream?id=751b9cb03d188ce70e6aac22c1bfb16a5d0b2237&pid=117
-#EXTINF:-1 tvg-id="03:25-US Open WTA 1ª Ronda-A. Parks-M. Andreeva" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",03:25-US Open WTA 1ª Ronda-A. Parks-M. Andreeva
-http://127.0.0.1:6878/ace/getstream?id=ebca4a63ce3bfda7b272964a1acc5227218184a4&pid=118
-#EXTINF:-1 tvg-id="03:25-US Open WTA 1ª Ronda-A. Parks-M. Andreeva" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",03:25-US Open WTA 1ª Ronda-A. Parks-M. Andreeva
-http://127.0.0.1:6878/ace/getstream?id=8c67cdb5ba81976662c3a67984a9545d9cfb0f70&pid=119
-#EXTINF:-1 tvg-id="03:25-US Open WTA 1ª Ronda-A. Parks-M. Andreeva" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",03:25-US Open WTA 1ª Ronda-A. Parks-M. Andreeva
-http://127.0.0.1:6878/ace/getstream?id=b6ffbbc72a5b6b579faf79ebac229af7a25b933b&pid=120
-#EXTINF:-1 tvg-id="03:25-US Open WTA 1ª Ronda-A. Parks-M. Andreeva" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",03:25-US Open WTA 1ª Ronda-A. Parks-M. Andreeva
-http://127.0.0.1:6878/ace/getstream?id=5d9a26e0a5f3e5f2ae027bd05635ab9a4fd4b51a&pid=121
-#EXTINF:-1 tvg-id="03:25-US Open WTA 1ª Ronda-A. Parks-M. Andreeva" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",03:25-US Open WTA 1ª Ronda-A. Parks-M. Andreeva
-http://127.0.0.1:6878/ace/getstream?id=5e24a1b9187fccb91553f7c7da4b36341386f74a&pid=122
-#EXTINF:-1 tvg-id="03:25-US Open WTA 1ª Ronda-A. Parks-M. Andreeva" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",03:25-US Open WTA 1ª Ronda-A. Parks-M. Andreeva
-http://127.0.0.1:6878/ace/getstream?id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78&pid=123
-#EXTINF:-1 tvg-id="03:55-US Open 1ª Ronda-R. Opelka-C. Alcaraz" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",03:55-US Open 1ª Ronda-R. Opelka-C. Alcaraz
-http://127.0.0.1:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&pid=124
-#EXTINF:-1 tvg-id="03:55-US Open 1ª Ronda-R. Opelka-C. Alcaraz" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",03:55-US Open 1ª Ronda-R. Opelka-C. Alcaraz
-http://127.0.0.1:6878/ace/getstream?id=6e212a916c83638268047dd2757c95b14f7d25a3&pid=125
-#EXTINF:-1 tvg-id="03:55-US Open 1ª Ronda-R. Opelka-C. Alcaraz" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",03:55-US Open 1ª Ronda-R. Opelka-C. Alcaraz
-http://127.0.0.1:6878/ace/getstream?id=438991226c3bc6a06e7bfda9bea9f769957dc366&pid=126
-#EXTINF:-1 tvg-id="03:55-US Open 1ª Ronda-R. Opelka-C. Alcaraz" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",03:55-US Open 1ª Ronda-R. Opelka-C. Alcaraz
-http://127.0.0.1:6878/ace/getstream?id=f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0&pid=127
-#EXTINF:-1 tvg-id="03:55-US Open 1ª Ronda-R. Opelka-C. Alcaraz" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",03:55-US Open 1ª Ronda-R. Opelka-C. Alcaraz
-http://127.0.0.1:6878/ace/getstream?id=bfa01c11c5c6b7a616a516de4f2c769a89d26b25&pid=128
-#EXTINF:-1 tvg-id="03:55-US Open 1ª Ronda-R. Opelka-C. Alcaraz" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",03:55-US Open 1ª Ronda-R. Opelka-C. Alcaraz
-http://127.0.0.1:6878/ace/getstream?id=8c67cdb5ba81976662c3a67984a9545d9cfb0f70&pid=129
-#EXTINF:-1 tvg-id="03:55-US Open 1ª Ronda-R. Opelka-C. Alcaraz" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",03:55-US Open 1ª Ronda-R. Opelka-C. Alcaraz
-http://127.0.0.1:6878/ace/getstream?id=b6ffbbc72a5b6b579faf79ebac229af7a25b933b&pid=130
-#EXTINF:-1 tvg-id="03:55-US Open 1ª Ronda-R. Opelka-C. Alcaraz" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",03:55-US Open 1ª Ronda-R. Opelka-C. Alcaraz
-http://127.0.0.1:6878/ace/getstream?id=5d9a26e0a5f3e5f2ae027bd05635ab9a4fd4b51a&pid=131
-#EXTINF:-1 tvg-id="03:55-US Open 1ª Ronda-R. Opelka-C. Alcaraz" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",03:55-US Open 1ª Ronda-R. Opelka-C. Alcaraz
-http://127.0.0.1:6878/ace/getstream?id=5e24a1b9187fccb91553f7c7da4b36341386f74a&pid=132
-#EXTINF:-1 tvg-id="03:55-US Open 1ª Ronda-R. Opelka-C. Alcaraz" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",03:55-US Open 1ª Ronda-R. Opelka-C. Alcaraz
-http://127.0.0.1:6878/ace/getstream?id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78&pid=133
-#EXTINF:-1 tvg-id="17:00-US Open 1ª Ronda-M. Fucsovics-D. Shapovalov" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:00-US Open 1ª Ronda-M. Fucsovics-D. Shapovalov
-http://127.0.0.1:6878/ace/getstream?id=190a81938c2ddc6fe97758271f8c48f4db31c28a&pid=134
-#EXTINF:-1 tvg-id="17:00-US Open 1ª Ronda-L. Musetti-G. Mpetshi Perricard" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:00-US Open 1ª Ronda-L. Musetti-G. Mpetshi Perricard
-http://127.0.0.1:6878/ace/getstream?id=ef9dcc4eaac36a0f608b52a31f8ab237859e071a&pid=135
-#EXTINF:-1 tvg-id="17:00-US Open 1ª Ronda-L. Musetti-G. Mpetshi Perricard" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:00-US Open 1ª Ronda-L. Musetti-G. Mpetshi Perricard
-http://127.0.0.1:6878/ace/getstream?id=332d8fdeb9c51385230b8c9448e047ccc4a6355d&pid=136
-#EXTINF:-1 tvg-id="17:00-US Open 1ª Ronda-L. Musetti-G. Mpetshi Perricard" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:00-US Open 1ª Ronda-L. Musetti-G. Mpetshi Perricard
-http://127.0.0.1:6878/ace/getstream?id=f828a32d8ea03a3cabd3ce3ebecb249ec111c7e5&pid=137
-#EXTINF:-1 tvg-id="17:00-US Open 1ª Ronda-L. Musetti-G. Mpetshi Perricard" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:00-US Open 1ª Ronda-L. Musetti-G. Mpetshi Perricard
-http://127.0.0.1:6878/ace/getstream?id=751b9cb03d188ce70e6aac22c1bfb16a5d0b2237&pid=138
-#EXTINF:-1 tvg-id="17:00-US Open 1ª Ronda-L. Musetti-G. Mpetshi Perricard" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:00-US Open 1ª Ronda-L. Musetti-G. Mpetshi Perricard
-http://127.0.0.1:6878/ace/getstream?id=ebca4a63ce3bfda7b272964a1acc5227218184a4&pid=139
-#EXTINF:-1 tvg-id="17:00-US Open WTA 1ª Ronda-B. Haddad Maia-S. Kartal" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:00-US Open WTA 1ª Ronda-B. Haddad Maia-S. Kartal
-http://127.0.0.1:6878/ace/getstream?id=753d4b1f7c4ef43238b5cf23b05572b550a44eee&pid=140
-#EXTINF:-1 tvg-id="17:00-US Open WTA 1ª Ronda-B. Haddad Maia-S. Kartal" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:00-US Open WTA 1ª Ronda-B. Haddad Maia-S. Kartal
-http://127.0.0.1:6878/ace/getstream?id=799c6b5ee1cf41af077d14e3f9c45a32697eb903&pid=141
-#EXTINF:-1 tvg-id="17:00-US Open WTA 1ª Ronda-B. Haddad Maia-S. Kartal" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:00-US Open WTA 1ª Ronda-B. Haddad Maia-S. Kartal
-http://127.0.0.1:6878/ace/getstream?id=2fd410c5d89e7a627cd3785685b7915b8e4bd534&pid=142
+#EXTINF:-1 tvg-id="21:00-Champions League Playoffs-Club Brugge-Rangers FC" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Playoffs-Club Brugge-Rangers FC
+http://127.0.0.1:6878/ace/getstream?id=74ab4e4ec7e2da001f473ca40893b7307b8029c5&pid=2
+#EXTINF:-1 tvg-id="21:00-Champions League Playoffs-Club Brugge-Rangers FC" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Playoffs-Club Brugge-Rangers FC
+http://127.0.0.1:6878/ace/getstream?id=38f7b2044e549df2039ff26cefa6f9a60c854d5e&pid=3
+#EXTINF:-1 tvg-id="21:00-Champions League Playoffs-Club Brugge-Rangers FC" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Playoffs-Club Brugge-Rangers FC
+http://127.0.0.1:6878/ace/getstream?id=4416843c96b7f7a1bc55c476091a60fff0922bc7&pid=4
+#EXTINF:-1 tvg-id="21:00-Champions League Playoffs-Club Brugge-Rangers FC" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Playoffs-Club Brugge-Rangers FC
+http://127.0.0.1:6878/ace/getstream?id=cfc371890bfb502737a26de5215e50929c52d0f9&pid=5
+#EXTINF:-1 tvg-id="01:00-US Open WTA 1ª Ronda-A. Tomljanovic-C. Gauff" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",01:00-US Open WTA 1ª Ronda-A. Tomljanovic-C. Gauff
+http://127.0.0.1:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&pid=6
+#EXTINF:-1 tvg-id="01:00-US Open WTA 1ª Ronda-A. Tomljanovic-C. Gauff" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",01:00-US Open WTA 1ª Ronda-A. Tomljanovic-C. Gauff
+http://127.0.0.1:6878/ace/getstream?id=6e212a916c83638268047dd2757c95b14f7d25a3&pid=7
+#EXTINF:-1 tvg-id="01:00-US Open WTA 1ª Ronda-A. Tomljanovic-C. Gauff" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",01:00-US Open WTA 1ª Ronda-A. Tomljanovic-C. Gauff
+http://127.0.0.1:6878/ace/getstream?id=438991226c3bc6a06e7bfda9bea9f769957dc366&pid=8
+#EXTINF:-1 tvg-id="01:00-US Open WTA 1ª Ronda-A. Tomljanovic-C. Gauff" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",01:00-US Open WTA 1ª Ronda-A. Tomljanovic-C. Gauff
+http://127.0.0.1:6878/ace/getstream?id=f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0&pid=9
+#EXTINF:-1 tvg-id="01:00-US Open WTA 1ª Ronda-A. Tomljanovic-C. Gauff" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",01:00-US Open WTA 1ª Ronda-A. Tomljanovic-C. Gauff
+http://127.0.0.1:6878/ace/getstream?id=bfa01c11c5c6b7a616a516de4f2c769a89d26b25&pid=10
+#EXTINF:-1 tvg-id="01:00-US Open WTA 1ª Ronda-A. Tomljanovic-C. Gauff" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",01:00-US Open WTA 1ª Ronda-A. Tomljanovic-C. Gauff
+http://127.0.0.1:6878/ace/getstream?id=8c67cdb5ba81976662c3a67984a9545d9cfb0f70&pid=11
+#EXTINF:-1 tvg-id="01:00-US Open WTA 1ª Ronda-A. Tomljanovic-C. Gauff" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",01:00-US Open WTA 1ª Ronda-A. Tomljanovic-C. Gauff
+http://127.0.0.1:6878/ace/getstream?id=b6ffbbc72a5b6b579faf79ebac229af7a25b933b&pid=12
+#EXTINF:-1 tvg-id="01:00-US Open WTA 1ª Ronda-A. Tomljanovic-C. Gauff" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",01:00-US Open WTA 1ª Ronda-A. Tomljanovic-C. Gauff
+http://127.0.0.1:6878/ace/getstream?id=5d9a26e0a5f3e5f2ae027bd05635ab9a4fd4b51a&pid=13
+#EXTINF:-1 tvg-id="01:00-US Open WTA 1ª Ronda-A. Tomljanovic-C. Gauff" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",01:00-US Open WTA 1ª Ronda-A. Tomljanovic-C. Gauff
+http://127.0.0.1:6878/ace/getstream?id=5e24a1b9187fccb91553f7c7da4b36341386f74a&pid=14
+#EXTINF:-1 tvg-id="01:00-US Open WTA 1ª Ronda-A. Tomljanovic-C. Gauff" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",01:00-US Open WTA 1ª Ronda-A. Tomljanovic-C. Gauff
+http://127.0.0.1:6878/ace/getstream?id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78&pid=15
+#EXTINF:-1 tvg-id="01:00-US Open WTA 1ª Ronda-G. Minnen-N. Osaka" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",01:00-US Open WTA 1ª Ronda-G. Minnen-N. Osaka
+http://127.0.0.1:6878/ace/getstream?id=ef9dcc4eaac36a0f608b52a31f8ab237859e071a&pid=16
+#EXTINF:-1 tvg-id="01:00-US Open WTA 1ª Ronda-G. Minnen-N. Osaka" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",01:00-US Open WTA 1ª Ronda-G. Minnen-N. Osaka
+http://127.0.0.1:6878/ace/getstream?id=332d8fdeb9c51385230b8c9448e047ccc4a6355d&pid=17
+#EXTINF:-1 tvg-id="01:00-US Open WTA 1ª Ronda-G. Minnen-N. Osaka" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",01:00-US Open WTA 1ª Ronda-G. Minnen-N. Osaka
+http://127.0.0.1:6878/ace/getstream?id=f828a32d8ea03a3cabd3ce3ebecb249ec111c7e5&pid=18
+#EXTINF:-1 tvg-id="01:00-US Open WTA 1ª Ronda-G. Minnen-N. Osaka" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",01:00-US Open WTA 1ª Ronda-G. Minnen-N. Osaka
+http://127.0.0.1:6878/ace/getstream?id=751b9cb03d188ce70e6aac22c1bfb16a5d0b2237&pid=19
+#EXTINF:-1 tvg-id="01:00-US Open WTA 1ª Ronda-G. Minnen-N. Osaka" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",01:00-US Open WTA 1ª Ronda-G. Minnen-N. Osaka
+http://127.0.0.1:6878/ace/getstream?id=ebca4a63ce3bfda7b272964a1acc5227218184a4&pid=20
+#EXTINF:-1 tvg-id="02:30-US Open 1ª Ronda-A. Zverev-A. Tabilo" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",02:30-US Open 1ª Ronda-A. Zverev-A. Tabilo
+http://127.0.0.1:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&pid=21
+#EXTINF:-1 tvg-id="02:30-US Open 1ª Ronda-A. Zverev-A. Tabilo" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",02:30-US Open 1ª Ronda-A. Zverev-A. Tabilo
+http://127.0.0.1:6878/ace/getstream?id=6e212a916c83638268047dd2757c95b14f7d25a3&pid=22
+#EXTINF:-1 tvg-id="02:30-US Open 1ª Ronda-A. Zverev-A. Tabilo" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",02:30-US Open 1ª Ronda-A. Zverev-A. Tabilo
+http://127.0.0.1:6878/ace/getstream?id=438991226c3bc6a06e7bfda9bea9f769957dc366&pid=23
+#EXTINF:-1 tvg-id="02:30-US Open 1ª Ronda-A. Zverev-A. Tabilo" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",02:30-US Open 1ª Ronda-A. Zverev-A. Tabilo
+http://127.0.0.1:6878/ace/getstream?id=f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0&pid=24
+#EXTINF:-1 tvg-id="02:30-US Open 1ª Ronda-A. Zverev-A. Tabilo" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",02:30-US Open 1ª Ronda-A. Zverev-A. Tabilo
+http://127.0.0.1:6878/ace/getstream?id=bfa01c11c5c6b7a616a516de4f2c769a89d26b25&pid=25
+#EXTINF:-1 tvg-id="02:30-US Open 1ª Ronda-E. Moller-T. Paul" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",02:30-US Open 1ª Ronda-E. Moller-T. Paul
+http://127.0.0.1:6878/ace/getstream?id=ef9dcc4eaac36a0f608b52a31f8ab237859e071a&pid=26
+#EXTINF:-1 tvg-id="02:30-US Open 1ª Ronda-E. Moller-T. Paul" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",02:30-US Open 1ª Ronda-E. Moller-T. Paul
+http://127.0.0.1:6878/ace/getstream?id=332d8fdeb9c51385230b8c9448e047ccc4a6355d&pid=27
+#EXTINF:-1 tvg-id="02:30-US Open 1ª Ronda-E. Moller-T. Paul" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",02:30-US Open 1ª Ronda-E. Moller-T. Paul
+http://127.0.0.1:6878/ace/getstream?id=f828a32d8ea03a3cabd3ce3ebecb249ec111c7e5&pid=28
+#EXTINF:-1 tvg-id="02:30-US Open 1ª Ronda-E. Moller-T. Paul" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",02:30-US Open 1ª Ronda-E. Moller-T. Paul
+http://127.0.0.1:6878/ace/getstream?id=751b9cb03d188ce70e6aac22c1bfb16a5d0b2237&pid=29
+#EXTINF:-1 tvg-id="02:30-US Open 1ª Ronda-E. Moller-T. Paul" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",02:30-US Open 1ª Ronda-E. Moller-T. Paul
+http://127.0.0.1:6878/ace/getstream?id=ebca4a63ce3bfda7b272964a1acc5227218184a4&pid=30
+#EXTINF:-1 tvg-id="18:45-Champions League Playoffs-Qarabag FK-Ferencvaros" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Champions League Playoffs-Qarabag FK-Ferencvaros
+http://127.0.0.1:6878/ace/getstream?id=74ab4e4ec7e2da001f473ca40893b7307b8029c5&pid=31
+#EXTINF:-1 tvg-id="18:45-Champions League Playoffs-Qarabag FK-Ferencvaros" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Champions League Playoffs-Qarabag FK-Ferencvaros
+http://127.0.0.1:6878/ace/getstream?id=38f7b2044e549df2039ff26cefa6f9a60c854d5e&pid=32
+#EXTINF:-1 tvg-id="20:15-Eurobasket Fase de grupos-Serbia-Estonia" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:15-Eurobasket Fase de grupos-Serbia-Estonia
+http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230&pid=33
+#EXTINF:-1 tvg-id="21:00-Champions League Playoffs-Benfica-Fenerbahçe" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Playoffs-Benfica-Fenerbahçe
+http://127.0.0.1:6878/ace/getstream?id=680187938f9305cce3ae240298f10e8695bf77c2&pid=34
+#EXTINF:-1 tvg-id="21:00-Champions League Playoffs-Benfica-Fenerbahçe" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Playoffs-Benfica-Fenerbahçe
+http://127.0.0.1:6878/ace/getstream?id=5c15c639207a080183b12fa63282b409c07401d6&pid=35
+#EXTINF:-1 tvg-id="21:00-Champions League Playoffs-Benfica-Fenerbahçe" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Playoffs-Benfica-Fenerbahçe
+http://127.0.0.1:6878/ace/getstream?id=97df5b7824948972d041d8ca2a4d29c90b641bc9&pid=36
+#EXTINF:-1 tvg-id="21:00-Champions League Playoffs-Benfica-Fenerbahçe" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Playoffs-Benfica-Fenerbahçe
+http://127.0.0.1:6878/ace/getstream?id=2b51710cee513e8939785fa3e7980f32d4e0415f&pid=37
+#EXTINF:-1 tvg-id="21:00-Champions League Playoffs-Benfica-Fenerbahçe" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Playoffs-Benfica-Fenerbahçe
+http://127.0.0.1:6878/ace/getstream?id=9db029dff6a9c637d1f670e78dbc1a479b9b406e&pid=38
+#EXTINF:-1 tvg-id="21:00-Champions League Playoffs-Benfica-Fenerbahçe" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Playoffs-Benfica-Fenerbahçe
+http://127.0.0.1:6878/ace/getstream?id=e572a5178ff72eed7d1d751a18b4b3419699f370&pid=39
