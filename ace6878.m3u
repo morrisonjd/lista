@@ -3,6 +3,8 @@
 http://127.0.0.1:6878/ace/manifest.m3u8?id=dad5e0e0825cb3e410008f1c4252387b868e740c
 #EXTINF:-1 tvg-id="La 1" group-title="Antigua",La 1
 http://127.0.0.1:6878/ace/manifest.m3u8?id=b897de3e62d7c6bee9ef1107d972f3d1075e03ff
+#EXTINF:-1 tvg-id="La 2" group-title="New Era",La 2
+http://127.0.0.1:6878/ace/manifest.m3u8?id=9934906503661142f97a044ae1509a294057c2ed
 #EXTINF:-1 tvg-id="Antena 3" group-title="New Era",Antena 3
 http://127.0.0.1:6878/ace/manifest.m3u8?id=f9d2a6d5da8d1f2423a0b6ed0047636a728040e9
 #EXTINF:-1 tvg-id="Cuatro" group-title="New Era",Cuatro
@@ -57,8 +59,6 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=edee311dc307e1638eeac880b11bb6f4759b0
 http://127.0.0.1:6878/ace/manifest.m3u8?id=508ffdbab097339adb4f3d922070b5df2c114d01
 #EXTINF:-1 tvg-id="M+ Cine Español" group-title="New Era",M+ Cine Español
 http://127.0.0.1:6878/ace/manifest.m3u8?id=e47cdeba9d919d6a9b4fa3c72c8094178985f668
-#EXTINF:-1 tvg-id="Orange TV" group-title="New Loop",Orange TV
-http://127.0.0.1:6878/ace/manifest.m3u8?id=abdbfccdfd73bb5b1dcad598d539058040fb24fa
 #EXTINF:-1 tvg-id="M+ Copa del Rey" group-title="Antigua",M+ Copa del Rey
 http://127.0.0.1:6878/ace/manifest.m3u8?id=e31e5dd1a24cf347deecd6aaba8d30a8d9d84460
 #EXTINF:-1 tvg-id="M+ Vamos" group-title="New Era",M+ Vamos
