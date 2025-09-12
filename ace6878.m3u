@@ -59,6 +59,8 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=a6de6a4977d7801bbddc9c7739d822f4beb35
 http://127.0.0.1:6878/ace/manifest.m3u8?id=7716c9fd5bd4413715e4e26f97efb91802f6ee80
 #EXTINF:-1 tvg-id="M+ Cine Español" group-title="New Era",M+ Cine Español
 http://127.0.0.1:6878/ace/manifest.m3u8?id=e4bce95dd4faeb9cb09ade36a0636bc4b22b691c
+#EXTINF:-1 tvg-id="Orange TV" group-title="New Loop",Orange TV
+http://127.0.0.1:6878/ace/manifest.m3u8?id=abdbfccdfd73bb5b1dcad598d539058040fb24fa
 #EXTINF:-1 tvg-id="M+ Copa del Rey" group-title="Antigua",M+ Copa del Rey
 http://127.0.0.1:6878/ace/manifest.m3u8?id=e31e5dd1a24cf347deecd6aaba8d30a8d9d84460
 #EXTINF:-1 tvg-id="M+ Vamos" group-title="New Era",M+ Vamos
@@ -100,13 +102,13 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910
 #EXTINF:-1 tvg-id="DAZN LaLiga" group-title="Elcano",DAZN LaLiga
 http://127.0.0.1:6878/ace/manifest.m3u8?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
 #EXTINF:-1 tvg-id="LaLiga TV Hypermotion" group-title="New Era",LaLiga TV Hypermotion
+http://127.0.0.1:6878/ace/manifest.m3u8?id=70f22be1286ef224b5e4e9451d9a42468152cda4
+#EXTINF:-1 tvg-id="LaLiga TV Hypermotion" group-title="New Era",LaLiga TV Hypermotion
 http://127.0.0.1:6878/ace/manifest.m3u8?id=8ee52f6208e33706171856f99d2ed2dabd317f3a
 #EXTINF:-1 tvg-id="LaLiga TV Hypermotion" group-title="Elcano",LaLiga TV Hypermotion
 http://127.0.0.1:6878/ace/manifest.m3u8?id=87bb542f974b6b9e89d0f2e20ed6dc93426f4be0
 #EXTINF:-1 tvg-id="LaLiga TV Hypermotion" group-title="Elcano",LaLiga TV Hypermotion
 http://127.0.0.1:6878/ace/manifest.m3u8?id=a4f072c9b614323ac1258a175f868a909ea3c8cd
-#EXTINF:-1 tvg-id="LaLiga TV Hypermotion" group-title="New Era",LaLiga TV Hypermotion
-http://127.0.0.1:6878/ace/manifest.m3u8?id=70f22be1286ef224b5e4e9451d9a42468152cda4
 #EXTINF:-1 tvg-id="M+ LaLiga TV 2" group-title="New Era",M+ LaLiga TV 2
 http://127.0.0.1:6878/ace/manifest.m3u8?id=911ad127726234b97658498a8b790fdd7516541d
 #EXTINF:-1 tvg-id="M+ LaLiga TV 2" group-title="Elcano",M+ LaLiga TV 2
@@ -283,6 +285,8 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=ef2abf419586d9876370be127ad592dbb41b1
 http://127.0.0.1:6878/ace/manifest.m3u8?id=c3da6c4f91d9d10ade00318a869435e19f204d0e
 #EXTINF:-1 tvg-id="Eurosport 1" group-title="New Loop",Eurosport 1
 http://127.0.0.1:6878/ace/manifest.m3u8?id=1b0bc4d4dcd609d3c092712e721392b199f50a62
+#EXTINF:-1 tvg-id="Eurosport 1" group-title="New Loop",Eurosport 1
+http://127.0.0.1:6878/ace/manifest.m3u8?id=cfa75ade53810dac64411b22d56c3d4582a221d3
 #EXTINF:-1 tvg-id="Eurosport 1" group-title="Elcano",Eurosport 1
 http://127.0.0.1:6878/ace/manifest.m3u8?id=d830c1dc3b74e74f79cbb823804cf2037857e78a
 #EXTINF:-1 tvg-id="Eurosport 2" group-title="New Era",Eurosport 2
