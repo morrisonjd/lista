@@ -1,39 +1,87 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="18:45-Champions League Fase Liga-PSV Eindhoven-Saint-Gilloise" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Champions League Fase Liga-PSV Eindhoven-Saint-Gilloise
-http://127.0.0.1:6878/ace/getstream?id=2b5129adc57d43790634d796fe3468b9fd061259&pid=1
-#EXTINF:-1 tvg-id="18:45-Champions League Fase Liga-PSV Eindhoven-Saint-Gilloise" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Champions League Fase Liga-PSV Eindhoven-Saint-Gilloise
-http://127.0.0.1:6878/ace/getstream?id=4416843c96b7f7a1bc55c476091a60fff0922bc7&pid=2
-#EXTINF:-1 tvg-id="18:45-Champions League Fase Liga-PSV Eindhoven-Saint-Gilloise" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Champions League Fase Liga-PSV Eindhoven-Saint-Gilloise
-http://127.0.0.1:6878/ace/getstream?id=cfc371890bfb502737a26de5215e50929c52d0f9&pid=3
-#EXTINF:-1 tvg-id="18:45-Champions League Fase Liga-Athletic Club-Arsenal" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Champions League Fase Liga-Athletic Club-Arsenal
-http://127.0.0.1:6878/ace/getstream?id=e7d8cae7f693fe46e89bbf74820caac9ffb32a30&pid=4
-#EXTINF:-1 tvg-id="18:45-Champions League Fase Liga-Athletic Club-Arsenal" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Champions League Fase Liga-Athletic Club-Arsenal
-http://127.0.0.1:6878/ace/getstream?id=74ab4e4ec7e2da001f473ca40893b7307b8029c5&pid=5
-#EXTINF:-1 tvg-id="18:45-Champions League Fase Liga-Athletic Club-Arsenal" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Champions League Fase Liga-Athletic Club-Arsenal
-http://127.0.0.1:6878/ace/getstream?id=38f7b2044e549df2039ff26cefa6f9a60c854d5e&pid=6
-#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Juventus-Borussia Dortmund" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Juventus-Borussia Dortmund
-http://127.0.0.1:6878/ace/getstream?id=77998f8161373611ff6b348e7eda5b4e97d3ec29&pid=7
-#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Tottenham-Villarreal" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Tottenham-Villarreal
-http://127.0.0.1:6878/ace/getstream?id=e7d8cae7f693fe46e89bbf74820caac9ffb32a30&pid=8
-#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Tottenham-Villarreal" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Tottenham-Villarreal
-http://127.0.0.1:6878/ace/getstream?id=74ab4e4ec7e2da001f473ca40893b7307b8029c5&pid=9
-#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Tottenham-Villarreal" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Tottenham-Villarreal
-http://127.0.0.1:6878/ace/getstream?id=38f7b2044e549df2039ff26cefa6f9a60c854d5e&pid=10
-#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Tottenham-Villarreal" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Tottenham-Villarreal
-http://127.0.0.1:6878/ace/getstream?id=77998f8161373611ff6b348e7eda5b4e97d3ec29&pid=11
-#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Real Madrid-O. Marseille" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Real Madrid-O. Marseille
-http://127.0.0.1:6878/ace/getstream?id=0f7842f8b6c26571e5a974407b61623e56e6a052&pid=12
-#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Real Madrid-O. Marseille" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Real Madrid-O. Marseille
-http://127.0.0.1:6878/ace/getstream?id=f3eea003e23f94dc2d527306de9dd386e3ebf4ba&pid=13
-#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Real Madrid-O. Marseille" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Real Madrid-O. Marseille
-http://127.0.0.1:6878/ace/getstream?id=97df5b7824948972d041d8ca2a4d29c90b641bc9&pid=14
-#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Real Madrid-O. Marseille" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Real Madrid-O. Marseille
-http://127.0.0.1:6878/ace/getstream?id=2b51710cee513e8939785fa3e7980f32d4e0415f&pid=15
-#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Real Madrid-O. Marseille" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Real Madrid-O. Marseille
-http://127.0.0.1:6878/ace/getstream?id=9db029dff6a9c637d1f670e78dbc1a479b9b406e&pid=16
-#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Real Madrid-O. Marseille" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Real Madrid-O. Marseille
-http://127.0.0.1:6878/ace/getstream?id=e572a5178ff72eed7d1d751a18b4b3419699f370&pid=17
-#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Real Madrid-O. Marseille" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Real Madrid-O. Marseille
-http://127.0.0.1:6878/ace/getstream?id=77998f8161373611ff6b348e7eda5b4e97d3ec29&pid=18
-#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Benfica-Qarabag FK" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Benfica-Qarabag FK
-http://127.0.0.1:6878/ace/getstream?id=77998f8161373611ff6b348e7eda5b4e97d3ec29&pid=19
+#EXTINF:-1 tvg-id="11:00-Billie Jean King Cup 1/4 de Final Partido 1-España-Ucrania" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",11:00-Billie Jean King Cup 1/4 de Final Partido 1-España-Ucrania
+http://127.0.0.1:6878/ace/getstream?id=73d38feaa770d788848ec098470e32670fe55a61&pid=1
+#EXTINF:-1 tvg-id="11:00-Billie Jean King Cup 1/4 de Final Partido 1-España-Ucrania" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",11:00-Billie Jean King Cup 1/4 de Final Partido 1-España-Ucrania
+http://127.0.0.1:6878/ace/getstream?id=f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0&pid=2
+#EXTINF:-1 tvg-id="11:00-Billie Jean King Cup 1/4 de Final Partido 1-España-Ucrania" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",11:00-Billie Jean King Cup 1/4 de Final Partido 1-España-Ucrania
+http://127.0.0.1:6878/ace/getstream?id=bfa01c11c5c6b7a616a516de4f2c769a89d26b25&pid=3
+#EXTINF:-1 tvg-id="11:00-Billie Jean King Cup 1/4 de Final Partido 1-España-Ucrania" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",11:00-Billie Jean King Cup 1/4 de Final Partido 1-España-Ucrania
+http://127.0.0.1:6878/ace/getstream?id=199190e3f28c1de0be34bccf0d3568dc65209b99&pid=4
+#EXTINF:-1 tvg-id="11:00-Billie Jean King Cup 1/4 de Final Partido 1-España-Ucrania" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",11:00-Billie Jean King Cup 1/4 de Final Partido 1-España-Ucrania
+http://127.0.0.1:6878/ace/getstream?id=5866e83279307bf919068ae7a0d250e4e424e464&pid=5
+#EXTINF:-1 tvg-id="11:00-Billie Jean King Cup 1/4 de Final Partido 1-España-Ucrania" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",11:00-Billie Jean King Cup 1/4 de Final Partido 1-España-Ucrania
+http://127.0.0.1:6878/ace/getstream?id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78&pid=6
+#EXTINF:-1 tvg-id="12:30-Billie Jean King Cup 1/4 de Final Partido 2-España-Ucrania" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",12:30-Billie Jean King Cup 1/4 de Final Partido 2-España-Ucrania
+http://127.0.0.1:6878/ace/getstream?id=73d38feaa770d788848ec098470e32670fe55a61&pid=7
+#EXTINF:-1 tvg-id="12:30-Billie Jean King Cup 1/4 de Final Partido 2-España-Ucrania" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",12:30-Billie Jean King Cup 1/4 de Final Partido 2-España-Ucrania
+http://127.0.0.1:6878/ace/getstream?id=f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0&pid=8
+#EXTINF:-1 tvg-id="12:30-Billie Jean King Cup 1/4 de Final Partido 2-España-Ucrania" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",12:30-Billie Jean King Cup 1/4 de Final Partido 2-España-Ucrania
+http://127.0.0.1:6878/ace/getstream?id=bfa01c11c5c6b7a616a516de4f2c769a89d26b25&pid=9
+#EXTINF:-1 tvg-id="12:30-Billie Jean King Cup 1/4 de Final Partido 2-España-Ucrania" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",12:30-Billie Jean King Cup 1/4 de Final Partido 2-España-Ucrania
+http://127.0.0.1:6878/ace/getstream?id=199190e3f28c1de0be34bccf0d3568dc65209b99&pid=10
+#EXTINF:-1 tvg-id="12:30-Billie Jean King Cup 1/4 de Final Partido 2-España-Ucrania" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",12:30-Billie Jean King Cup 1/4 de Final Partido 2-España-Ucrania
+http://127.0.0.1:6878/ace/getstream?id=5866e83279307bf919068ae7a0d250e4e424e464&pid=11
+#EXTINF:-1 tvg-id="12:30-Billie Jean King Cup 1/4 de Final Partido 2-España-Ucrania" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",12:30-Billie Jean King Cup 1/4 de Final Partido 2-España-Ucrania
+http://127.0.0.1:6878/ace/getstream?id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78&pid=12
+#EXTINF:-1 tvg-id="14:00-Billie Jean King Cup 1/4 de Final Partido 3 (Dobles)-España-Ucrania" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:00-Billie Jean King Cup 1/4 de Final Partido 3 (Dobles)-España-Ucrania
+http://127.0.0.1:6878/ace/getstream?id=73d38feaa770d788848ec098470e32670fe55a61&pid=13
+#EXTINF:-1 tvg-id="14:00-Billie Jean King Cup 1/4 de Final Partido 3 (Dobles)-España-Ucrania" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:00-Billie Jean King Cup 1/4 de Final Partido 3 (Dobles)-España-Ucrania
+http://127.0.0.1:6878/ace/getstream?id=f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0&pid=14
+#EXTINF:-1 tvg-id="14:00-Billie Jean King Cup 1/4 de Final Partido 3 (Dobles)-España-Ucrania" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:00-Billie Jean King Cup 1/4 de Final Partido 3 (Dobles)-España-Ucrania
+http://127.0.0.1:6878/ace/getstream?id=bfa01c11c5c6b7a616a516de4f2c769a89d26b25&pid=15
+#EXTINF:-1 tvg-id="14:00-Billie Jean King Cup 1/4 de Final Partido 3 (Dobles)-España-Ucrania" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:00-Billie Jean King Cup 1/4 de Final Partido 3 (Dobles)-España-Ucrania
+http://127.0.0.1:6878/ace/getstream?id=199190e3f28c1de0be34bccf0d3568dc65209b99&pid=16
+#EXTINF:-1 tvg-id="14:00-Billie Jean King Cup 1/4 de Final Partido 3 (Dobles)-España-Ucrania" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:00-Billie Jean King Cup 1/4 de Final Partido 3 (Dobles)-España-Ucrania
+http://127.0.0.1:6878/ace/getstream?id=5866e83279307bf919068ae7a0d250e4e424e464&pid=17
+#EXTINF:-1 tvg-id="14:00-Billie Jean King Cup 1/4 de Final Partido 3 (Dobles)-España-Ucrania" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:00-Billie Jean King Cup 1/4 de Final Partido 3 (Dobles)-España-Ucrania
+http://127.0.0.1:6878/ace/getstream?id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78&pid=18
+#EXTINF:-1 tvg-id="18:45-Champions League Fase Liga-Olympiacos-Pafos FC" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Champions League Fase Liga-Olympiacos-Pafos FC
+http://127.0.0.1:6878/ace/getstream?id=e7d8cae7f693fe46e89bbf74820caac9ffb32a30&pid=19
+#EXTINF:-1 tvg-id="18:45-Champions League Fase Liga-Olympiacos-Pafos FC" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Champions League Fase Liga-Olympiacos-Pafos FC
+http://127.0.0.1:6878/ace/getstream?id=74ab4e4ec7e2da001f473ca40893b7307b8029c5&pid=20
+#EXTINF:-1 tvg-id="18:45-Champions League Fase Liga-Olympiacos-Pafos FC" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Champions League Fase Liga-Olympiacos-Pafos FC
+http://127.0.0.1:6878/ace/getstream?id=38f7b2044e549df2039ff26cefa6f9a60c854d5e&pid=21
+#EXTINF:-1 tvg-id="18:45-Champions League Fase Liga-Slavia Praha-Bodø Glimt" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Champions League Fase Liga-Slavia Praha-Bodø Glimt
+http://127.0.0.1:6878/ace/getstream?id=2b5129adc57d43790634d796fe3468b9fd061259&pid=22
+#EXTINF:-1 tvg-id="18:45-Champions League Fase Liga-Slavia Praha-Bodø Glimt" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Champions League Fase Liga-Slavia Praha-Bodø Glimt
+http://127.0.0.1:6878/ace/getstream?id=4416843c96b7f7a1bc55c476091a60fff0922bc7&pid=23
+#EXTINF:-1 tvg-id="18:45-Champions League Fase Liga-Slavia Praha-Bodø Glimt" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Champions League Fase Liga-Slavia Praha-Bodø Glimt
+http://127.0.0.1:6878/ace/getstream?id=cfc371890bfb502737a26de5215e50929c52d0f9&pid=24
+#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-PSG-Atalanta" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-PSG-Atalanta
+http://127.0.0.1:6878/ace/getstream?id=2b5129adc57d43790634d796fe3468b9fd061259&pid=25
+#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-PSG-Atalanta" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-PSG-Atalanta
+http://127.0.0.1:6878/ace/getstream?id=4416843c96b7f7a1bc55c476091a60fff0922bc7&pid=26
+#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-PSG-Atalanta" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-PSG-Atalanta
+http://127.0.0.1:6878/ace/getstream?id=cfc371890bfb502737a26de5215e50929c52d0f9&pid=27
+#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-PSG-Atalanta" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-PSG-Atalanta
+http://127.0.0.1:6878/ace/getstream?id=77998f8161373611ff6b348e7eda5b4e97d3ec29&pid=28
+#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Liverpool-At. Madrid" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Liverpool-At. Madrid
+http://127.0.0.1:6878/ace/getstream?id=0f7842f8b6c26571e5a974407b61623e56e6a052&pid=29
+#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Liverpool-At. Madrid" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Liverpool-At. Madrid
+http://127.0.0.1:6878/ace/getstream?id=f3eea003e23f94dc2d527306de9dd386e3ebf4ba&pid=30
+#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Liverpool-At. Madrid" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Liverpool-At. Madrid
+http://127.0.0.1:6878/ace/getstream?id=97df5b7824948972d041d8ca2a4d29c90b641bc9&pid=31
+#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Liverpool-At. Madrid" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Liverpool-At. Madrid
+http://127.0.0.1:6878/ace/getstream?id=2b51710cee513e8939785fa3e7980f32d4e0415f&pid=32
+#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Liverpool-At. Madrid" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Liverpool-At. Madrid
+http://127.0.0.1:6878/ace/getstream?id=9db029dff6a9c637d1f670e78dbc1a479b9b406e&pid=33
+#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Liverpool-At. Madrid" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Liverpool-At. Madrid
+http://127.0.0.1:6878/ace/getstream?id=e572a5178ff72eed7d1d751a18b4b3419699f370&pid=34
+#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Liverpool-At. Madrid" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Liverpool-At. Madrid
+http://127.0.0.1:6878/ace/getstream?id=77998f8161373611ff6b348e7eda5b4e97d3ec29&pid=35
+#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Liverpool-At. Madrid" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Liverpool-At. Madrid
+http://127.0.0.1:6878/ace/getstream?id=199190e3f28c1de0be34bccf0d3568dc65209b99&pid=36
+#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Liverpool-At. Madrid" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Liverpool-At. Madrid
+http://127.0.0.1:6878/ace/getstream?id=5866e83279307bf919068ae7a0d250e4e424e464&pid=37
+#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Liverpool-At. Madrid" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Liverpool-At. Madrid
+http://127.0.0.1:6878/ace/getstream?id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78&pid=38
+#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Ajax-Inter Milan" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Ajax-Inter Milan
+http://127.0.0.1:6878/ace/getstream?id=77998f8161373611ff6b348e7eda5b4e97d3ec29&pid=39
+#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-FC Bayern-Chelsea" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-FC Bayern-Chelsea
+http://127.0.0.1:6878/ace/getstream?id=e7d8cae7f693fe46e89bbf74820caac9ffb32a30&pid=40
+#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-FC Bayern-Chelsea" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-FC Bayern-Chelsea
+http://127.0.0.1:6878/ace/getstream?id=74ab4e4ec7e2da001f473ca40893b7307b8029c5&pid=41
+#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-FC Bayern-Chelsea" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-FC Bayern-Chelsea
+http://127.0.0.1:6878/ace/getstream?id=38f7b2044e549df2039ff26cefa6f9a60c854d5e&pid=42
+#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-FC Bayern-Chelsea" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-FC Bayern-Chelsea
+http://127.0.0.1:6878/ace/getstream?id=77998f8161373611ff6b348e7eda5b4e97d3ec29&pid=43
