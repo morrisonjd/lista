@@ -289,6 +289,8 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=1b0bc4d4dcd609d3c092712e721392b199f50
 http://127.0.0.1:6878/ace/manifest.m3u8?id=cfa75ade53810dac64411b22d56c3d4582a221d3
 #EXTINF:-1 tvg-id="Eurosport 1" group-title="Elcano",Eurosport 1
 http://127.0.0.1:6878/ace/manifest.m3u8?id=d830c1dc3b74e74f79cbb823804cf2037857e78a
+#EXTINF:-1 tvg-id="Eurosport 2" group-title="Elcano",Eurosport 2
+http://127.0.0.1:6878/ace/manifest.m3u8?id=5c910d614894635153a7d42de98cc2e4a958a53f
 #EXTINF:-1 tvg-id="Eurosport 2" group-title="New Era",Eurosport 2
 http://127.0.0.1:6878/ace/manifest.m3u8?id=2773b39926d15dd3d9495d94c4050604792d7031
 #EXTINF:-1 tvg-id="Eurosport 2" group-title="New Era",Eurosport 2
@@ -297,8 +299,6 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=dc4ccb9e72550bc72be9360aa7d77e337ad11
 http://127.0.0.1:6878/ace/manifest.m3u8?id=37d6f1aabcde81ee6e4873b4db6b7bb8964af8bf
 #EXTINF:-1 tvg-id="Eurosport 2" group-title="Elcano",Eurosport 2
 http://127.0.0.1:6878/ace/manifest.m3u8?id=0585e09bb8ac9720e4c11934f1b184e309291551
-#EXTINF:-1 tvg-id="Eurosport 2" group-title="Elcano",Eurosport 2
-http://127.0.0.1:6878/ace/manifest.m3u8?id=5c910d614894635153a7d42de98cc2e4a958a53f
 #EXTINF:-1 tvg-id="Eurosport 2" group-title="Antigua",Eurosport 2
 http://127.0.0.1:6878/ace/manifest.m3u8?id=6176281b9c46a5621a0e88524f8dc621f173b8e0
 #EXTINF:-1 tvg-id="Canal 1 1RFEF" group-title="New Era",Canal 1 1RFEF
@@ -321,8 +321,6 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=9fb99c40a2c45d5c5342b30626eb56140f980
 http://127.0.0.1:6878/ace/manifest.m3u8?id=b2d560741c006fc5e4a42412bb52dbd25a6a4a3a
 #EXTINF:-1 tvg-id="Teledeporte" group-title="New Era",Teledeporte
 http://127.0.0.1:6878/ace/manifest.m3u8?id=138b30c93e8a780ac490a4f6d2181c41f3670230
-#EXTINF:-1 tvg-id="Teledeporte" group-title="New Era",Teledeporte
-http://127.0.0.1:6878/ace/manifest.m3u8?id=bdc32e0f99653f96e0e1a3b98c88764b631ed9ef
 #EXTINF:-1 tvg-id="Real Madrid TV" group-title="New Era",Real Madrid TV
 http://127.0.0.1:6878/ace/manifest.m3u8?id=7a955964c91c66311eef9137a96332352dbb891e
 #EXTINF:-1 tvg-id="Caza y Pesca" group-title="New Era",Caza y Pesca
@@ -413,8 +411,14 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=610993aea3a2bfd509594334b7461ce96900f
 http://127.0.0.1:6878/ace/manifest.m3u8?id=35e17cc84abc5e393b5acd688536a9681105f2d5
 #EXTINF:-1 tvg-id="Motors TV" group-title="New Loop",Motors TV
 http://127.0.0.1:6878/ace/manifest.m3u8?id=442aeb6643b8836f9d00361c9e48eeb0841ddf98
+#EXTINF:-1 tvg-id="STAR Channel SPORT MX" group-title="New Era",STAR Channel SPORT MX
+http://127.0.0.1:6878/ace/manifest.m3u8?id=90d101676ec61e02e7f77b489f0981e9dd815eda
+#EXTINF:-1 tvg-id="STAR Channel SPORT MX" group-title="New Era",STAR Channel SPORT MX
+http://127.0.0.1:6878/ace/manifest.m3u8?id=a0464d3642e054f6122e7c309017d1e8d23f4da9
 #EXTINF:-1 tvg-id="MIXED TV" group-title="New Era",MIXED TV
 http://127.0.0.1:6878/ace/manifest.m3u8?id=eb25ebc41fc51710b098f860b33b3229d11921b3
+#EXTINF:-1 tvg-id="ESSPN ARGENTINA" group-title="New Era",ESSPN ARGENTINA
+http://127.0.0.1:6878/ace/manifest.m3u8?id=4bf4431b4815f07c1b3749f5a10f905ba566cd47
 #EXTINF:-1 tvg-id="UFC Fight Pass" group-title="New Era",UFC Fight Pass
 http://127.0.0.1:6878/ace/manifest.m3u8?id=108aebe20efc826e56f3a1cb01117a124a6b89ad
 #EXTINF:-1 tvg-id="FOX PREMIUM UFC" group-title="New Era",FOX PREMIUM UFC
