@@ -39,25 +39,23 @@ http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05&
 http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618&pid=19
 #EXTINF:-1 tvg-id="21:00-Amistoso-España-Armenia" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Amistoso-España-Armenia
 http://127.0.0.1:6878/ace/getstream?id=bdc32e0f99653f96e0e1a3b98c88764b631ed9ef&pid=20
-#EXTINF:-1 tvg-id="21:00-Amistoso-España-Armenia" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Amistoso-España-Armenia
-http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230&pid=21
 #EXTINF:-1 tvg-id="22:00-Laver Cup Partido 1-C. Ruud-R. Opelka" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",22:00-Laver Cup Partido 1-C. Ruud-R. Opelka
-http://127.0.0.1:6878/ace/getstream?id=dc4ccb9e72550bc72be9360aa7d77e337ad11ecc&pid=22
+http://127.0.0.1:6878/ace/getstream?id=dc4ccb9e72550bc72be9360aa7d77e337ad11ecc&pid=21
 #EXTINF:-1 tvg-id="22:00-Laver Cup Partido 1-C. Ruud-R. Opelka" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",22:00-Laver Cup Partido 1-C. Ruud-R. Opelka
-http://127.0.0.1:6878/ace/getstream?id=2773b39926d15dd3d9495d94c4050604792d7031&pid=23
+http://127.0.0.1:6878/ace/getstream?id=2773b39926d15dd3d9495d94c4050604792d7031&pid=22
 #EXTINF:-1 tvg-id="22:00-Laver Cup Partido 1-C. Ruud-R. Opelka" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",22:00-Laver Cup Partido 1-C. Ruud-R. Opelka
-http://127.0.0.1:6878/ace/getstream?id=37d6f1aabcde81ee6e4873b4db6b7bb8964af8bf&pid=24
+http://127.0.0.1:6878/ace/getstream?id=37d6f1aabcde81ee6e4873b4db6b7bb8964af8bf&pid=23
 #EXTINF:-1 tvg-id="22:00-Laver Cup Partido 1-C. Ruud-R. Opelka" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",22:00-Laver Cup Partido 1-C. Ruud-R. Opelka
-http://127.0.0.1:6878/ace/getstream?id=0585e09bb8ac9720e4c11934f1b184e309291551&pid=25
+http://127.0.0.1:6878/ace/getstream?id=0585e09bb8ac9720e4c11934f1b184e309291551&pid=24
 #EXTINF:-1 tvg-id="22:00-Laver Cup Partido 1-C. Ruud-R. Opelka" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",22:00-Laver Cup Partido 1-C. Ruud-R. Opelka
-http://127.0.0.1:6878/ace/getstream?id=5c910d614894635153a7d42de98cc2e4a958a53f&pid=26
+http://127.0.0.1:6878/ace/getstream?id=5c910d614894635153a7d42de98cc2e4a958a53f&pid=25
 #EXTINF:-1 tvg-id="23:30-Laver Cup Partido 2-J. Mensik-A. Michelsen" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",23:30-Laver Cup Partido 2-J. Mensik-A. Michelsen
-http://127.0.0.1:6878/ace/getstream?id=dc4ccb9e72550bc72be9360aa7d77e337ad11ecc&pid=27
+http://127.0.0.1:6878/ace/getstream?id=dc4ccb9e72550bc72be9360aa7d77e337ad11ecc&pid=26
 #EXTINF:-1 tvg-id="23:30-Laver Cup Partido 2-J. Mensik-A. Michelsen" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",23:30-Laver Cup Partido 2-J. Mensik-A. Michelsen
-http://127.0.0.1:6878/ace/getstream?id=2773b39926d15dd3d9495d94c4050604792d7031&pid=28
+http://127.0.0.1:6878/ace/getstream?id=2773b39926d15dd3d9495d94c4050604792d7031&pid=27
 #EXTINF:-1 tvg-id="23:30-Laver Cup Partido 2-J. Mensik-A. Michelsen" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",23:30-Laver Cup Partido 2-J. Mensik-A. Michelsen
-http://127.0.0.1:6878/ace/getstream?id=37d6f1aabcde81ee6e4873b4db6b7bb8964af8bf&pid=29
+http://127.0.0.1:6878/ace/getstream?id=37d6f1aabcde81ee6e4873b4db6b7bb8964af8bf&pid=28
 #EXTINF:-1 tvg-id="23:30-Laver Cup Partido 2-J. Mensik-A. Michelsen" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",23:30-Laver Cup Partido 2-J. Mensik-A. Michelsen
-http://127.0.0.1:6878/ace/getstream?id=0585e09bb8ac9720e4c11934f1b184e309291551&pid=30
+http://127.0.0.1:6878/ace/getstream?id=0585e09bb8ac9720e4c11934f1b184e309291551&pid=29
 #EXTINF:-1 tvg-id="23:30-Laver Cup Partido 2-J. Mensik-A. Michelsen" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",23:30-Laver Cup Partido 2-J. Mensik-A. Michelsen
-http://127.0.0.1:6878/ace/getstream?id=5c910d614894635153a7d42de98cc2e4a958a53f&pid=31
+http://127.0.0.1:6878/ace/getstream?id=5c910d614894635153a7d42de98cc2e4a958a53f&pid=30

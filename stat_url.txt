@@ -8,7 +8,6 @@ bfa01c11c5c6b7a616a516de4f2c769a89d26b25 Error al obtener stat_url
 e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05 Error al obtener stat_url
 74defb8f4ed3a917fd07c21b34f43c17107ec618 Error al obtener stat_url
 bdc32e0f99653f96e0e1a3b98c88764b631ed9ef Error al obtener stat_url
-138b30c93e8a780ac490a4f6d2181c41f3670230 Error al obtener stat_url
 dc4ccb9e72550bc72be9360aa7d77e337ad11ecc Error al obtener stat_url
 2773b39926d15dd3d9495d94c4050604792d7031 Error al obtener stat_url
 37d6f1aabcde81ee6e4873b4db6b7bb8964af8bf Error al obtener stat_url
