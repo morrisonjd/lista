@@ -31,19 +31,15 @@ http://127.0.0.1:6878/ace/getstream?id=5d3f582738467aaf213e408601aca5cc13fa9359&
 http://127.0.0.1:6878/ace/getstream?id=3692ea4cdda97eb0062ed5d656ebd61f149ebd0b&pid=15
 #EXTINF:-1 tvg-id="11:30-Torneo de Hangzhou Semifinal 1 ATP 250-V. Royer-C. Moutet" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",11:30-Torneo de Hangzhou Semifinal 1 ATP 250-V. Royer-C. Moutet
 http://127.0.0.1:6878/ace/getstream?id=ebca4a63ce3bfda7b272964a1acc5227218184a4&pid=16
-#EXTINF:-1 tvg-id="11:30-Torneo de Hangzhou Semifinal 1 ATP 250-V. Royer-C. Moutet" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",11:30-Torneo de Hangzhou Semifinal 1 ATP 250-V. Royer-C. Moutet
-http://127.0.0.1:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3&pid=17
 #EXTINF:-1 tvg-id="13:30-Torneo de Hangzhou Semifinal 2 ATP 250-A. Bublik-Y. Wu" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",13:30-Torneo de Hangzhou Semifinal 2 ATP 250-A. Bublik-Y. Wu
-http://127.0.0.1:6878/ace/getstream?id=ef9dcc4eaac36a0f608b52a31f8ab237859e071a&pid=18
+http://127.0.0.1:6878/ace/getstream?id=ef9dcc4eaac36a0f608b52a31f8ab237859e071a&pid=17
 #EXTINF:-1 tvg-id="13:30-Torneo de Hangzhou Semifinal 2 ATP 250-A. Bublik-Y. Wu" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",13:30-Torneo de Hangzhou Semifinal 2 ATP 250-A. Bublik-Y. Wu
-http://127.0.0.1:6878/ace/getstream?id=332d8fdeb9c51385230b8c9448e047ccc4a6355d&pid=19
+http://127.0.0.1:6878/ace/getstream?id=332d8fdeb9c51385230b8c9448e047ccc4a6355d&pid=18
 #EXTINF:-1 tvg-id="13:30-Torneo de Hangzhou Semifinal 2 ATP 250-A. Bublik-Y. Wu" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",13:30-Torneo de Hangzhou Semifinal 2 ATP 250-A. Bublik-Y. Wu
-http://127.0.0.1:6878/ace/getstream?id=f828a32d8ea03a3cabd3ce3ebecb249ec111c7e5&pid=20
+http://127.0.0.1:6878/ace/getstream?id=f828a32d8ea03a3cabd3ce3ebecb249ec111c7e5&pid=19
 #EXTINF:-1 tvg-id="13:30-Torneo de Hangzhou Semifinal 2 ATP 250-A. Bublik-Y. Wu" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",13:30-Torneo de Hangzhou Semifinal 2 ATP 250-A. Bublik-Y. Wu
-http://127.0.0.1:6878/ace/getstream?id=5d3f582738467aaf213e408601aca5cc13fa9359&pid=21
+http://127.0.0.1:6878/ace/getstream?id=5d3f582738467aaf213e408601aca5cc13fa9359&pid=20
 #EXTINF:-1 tvg-id="13:30-Torneo de Hangzhou Semifinal 2 ATP 250-A. Bublik-Y. Wu" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",13:30-Torneo de Hangzhou Semifinal 2 ATP 250-A. Bublik-Y. Wu
-http://127.0.0.1:6878/ace/getstream?id=3692ea4cdda97eb0062ed5d656ebd61f149ebd0b&pid=22
+http://127.0.0.1:6878/ace/getstream?id=3692ea4cdda97eb0062ed5d656ebd61f149ebd0b&pid=21
 #EXTINF:-1 tvg-id="13:30-Torneo de Hangzhou Semifinal 2 ATP 250-A. Bublik-Y. Wu" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",13:30-Torneo de Hangzhou Semifinal 2 ATP 250-A. Bublik-Y. Wu
-http://127.0.0.1:6878/ace/getstream?id=ebca4a63ce3bfda7b272964a1acc5227218184a4&pid=23
-#EXTINF:-1 tvg-id="13:30-Torneo de Hangzhou Semifinal 2 ATP 250-A. Bublik-Y. Wu" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",13:30-Torneo de Hangzhou Semifinal 2 ATP 250-A. Bublik-Y. Wu
-http://127.0.0.1:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3&pid=24
+http://127.0.0.1:6878/ace/getstream?id=ebca4a63ce3bfda7b272964a1acc5227218184a4&pid=22
