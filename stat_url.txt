@@ -1,3 +1,7 @@
+71698ee415b6ba3f123aac1c8c37cc97376f20d0 Error al obtener stat_url
+aa31953b8af44b461102852d5b1247eea95b8050 Error al obtener stat_url
+8091334c82e8720fc6aa05ff0bd6d343c5bfecbf Error al obtener stat_url
+039fae21c9e7e5214d3d898cba80863e37e623ac Error al obtener stat_url
 ef9dcc4eaac36a0f608b52a31f8ab237859e071a Error al obtener stat_url
 332d8fdeb9c51385230b8c9448e047ccc4a6355d Error al obtener stat_url
 f828a32d8ea03a3cabd3ce3ebecb249ec111c7e5 Error al obtener stat_url
