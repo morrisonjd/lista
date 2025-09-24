@@ -391,6 +391,8 @@ pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=ab9bf0a75f1
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=108aebe20efc826e56f3a1cb01117a124a6b89ad
 #EXTINF:-1 tvg-id="FOX PREMIUM UFC" group-title="New Era",FOX PREMIUM UFC
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=ade70f2c51cca519a4d8de1bb181af6e8532e1e1
+#EXTINF:-1 tvg-id="Tennis Channel" group-title="New Loop",Tennis Channel
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="Tennis Channel" group-title="New Era",Tennis Channel
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0
 #EXTINF:-1 tvg-id="Tennis Channel" group-title="New Era",Tennis Channel
@@ -613,6 +615,8 @@ pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=4e17bac6b2d
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=c9c062941fbecb16ce29437f346ea7177d720898
 #EXTINF:-1 tvg-id="FOX Sports 2 US" group-title="Antigua",FOX Sports 2 US
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=cba8d369eac629b577750edb90370cd1c5fb03b7
+#EXTINF:-1 tvg-id="beIN SPORTS XTRA ñ" group-title="New Loop",beIN SPORTS XTRA ñ
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=e8e459656f964f601ad4bcda8b81a43ba41c68f9
 #EXTINF:-1 tvg-id="beIN SPORTS XTRA ñ" group-title="Antigua",beIN SPORTS XTRA ñ
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=92a7dcc55392efc6dd5d012c4ff3878891eb6a6e
 #EXTINF:-1 tvg-id="NBA TV" group-title="New Era",NBA TV
@@ -645,8 +649,6 @@ pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=a96a9a6ab8f
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
 #EXTINF:-1 tvg-id="beIN SPORTS 1" group-title="Antigua",beIN SPORTS 1
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=118416583faa3fb4f03800173429b6b844b43a52
-#EXTINF:-1 tvg-id="beIN SPORTS 2" group-title="New Loop",beIN SPORTS 2
-pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=186a997787dcdb76f1b17e4dd5c55910d4847fa7
 #EXTINF:-1 tvg-id="beIN SPORTS 2" group-title="New Loop",beIN SPORTS 2
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=edb507e38394d614c9ff55805c9d354ae13210bc
 #EXTINF:-1 tvg-id="beIN SPORTS 2" group-title="Antigua",beIN SPORTS 2
