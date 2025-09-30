@@ -77,8 +77,6 @@ pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=c7c81acdd1a
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=0e5d8c9724fa9163f49096b70484e315251eb785
 #EXTINF:-1 tvg-id="M+ LaLiga" group-title="New Loop",M+ LaLiga
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=31c19ffb3472c289c5bbbbc174449c8ed0d19e38
-#EXTINF:-1 tvg-id="M+ LaLiga" group-title="New Loop",M+ LaLiga
-pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=cc9b7f5fe416069a2110da0909b0f915043c468b
 #EXTINF:-1 tvg-id="M+ LaLiga" group-title="Elcano",M+ LaLiga
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=00c9bc9c5d7d87680a5a6bed349edfa775a89947
 #EXTINF:-1 tvg-id="M+ LaLiga" group-title="New Era",M+ LaLiga
@@ -690,6 +688,8 @@ pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=927996b8192
 #EXTINF:-1 tvg-id="BT Sport 2" group-title="New Loop",BT Sport 2
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=d63d8a57cf471394bfa9f619bbd68b01ae27a801
 #EXTINF:-1 tvg-id="BT Sport 3" group-title="New Loop",BT Sport 3
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=22fead867a8657cfb58cd84245e18954ab199db3
+#EXTINF:-1 tvg-id="BT Sport 3" group-title="New Loop",BT Sport 3
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=5f966c123759de46dff29c379266b7a403452033
 #EXTINF:-1 tvg-id="Premier Sports 1" group-title="New Loop",Premier Sports 1
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=75a56863b6fe0407ad4305b4d7ee5643c3923565
@@ -734,9 +734,9 @@ pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=79f10c6c616
 #EXTINF:-1 tvg-id="ESPN" group-title="New Loop",ESPN
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=4b4907de51ec11087d4bed5876f2a0c68264f442
 #EXTINF:-1 tvg-id="ESPN 2" group-title="New Loop",ESPN 2
-pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=664eb5fe460b96941aed633959a845b185cd8394
-#EXTINF:-1 tvg-id="ESPN 2" group-title="New Loop",ESPN 2
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=3e0ba6867173f345d482d80c771f1a5dc3b37e63
+#EXTINF:-1 tvg-id="ESPN 2" group-title="New Loop",ESPN 2
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=664eb5fe460b96941aed633959a845b185cd8394
 #EXTINF:-1 tvg-id="ESPN 4" group-title="New Loop",ESPN 4
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=5f9b19c57195cc28ab81e0ec8cad03b55118687a
 #EXTINF:-1 tvg-id="Ziggo Sport" group-title="New Loop",Ziggo Sport
