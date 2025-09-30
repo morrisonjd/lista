@@ -228,10 +228,6 @@ pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=872608e7349
 #EXTINF:-1 tvg-id="M+ Golf 2" group-title="New Era",M+ Golf 2
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=96e82321c731e41768a806992ee4d3b9b7a0e7d7
 #EXTINF:-1 tvg-id="DAZN F1" group-title="New Era",DAZN F1
-pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=b5f3cc5cd66c98bae9d65df43ecee6c02d18aebd
-#EXTINF:-1 tvg-id="DAZN F1" group-title="New Era",DAZN F1
-pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=38e9ae1ee0c96d7c6187c9c4cc60ffccb565bdf7
-#EXTINF:-1 tvg-id="DAZN F1" group-title="New Era",DAZN F1
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=3f5b7e2f883fe4b4b973e198d147a513d5c7c32a
 #EXTINF:-1 tvg-id="DAZN F1" group-title="Elcano",DAZN F1
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
@@ -239,12 +235,70 @@ pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=b08e158ea3f
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
 #EXTINF:-1 tvg-id="DAZN F1" group-title="Elcano",DAZN F1
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
-#EXTINF:-1 tvg-id="DAZN F1" group-title="New Loop",DAZN F1
+#EXTINF:-1 tvg-id="DAZN F1" group-title="Desconocido",DAZN F1
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=d65257bb934b73647374224fd62d836815804be2
 #EXTINF:-1 tvg-id="DAZN F1" group-title="Desconocido",DAZN F1
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=b04372b9543d763bd2dbd2a1842d9723fd080076
+#EXTINF:-1 tvg-id="DAZN F1" group-title="Desconocido",DAZN F1
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=#EXTINF:-1,beIN SPORTS 1 [TR] (regional)
+#EXTINF:-1 tvg-id="DAZN F1" group-title="Desconocido",DAZN F1
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=#EXTINF:-1,beIN SPORTS 3 [TR] (regional)
+#EXTINF:-1 tvg-id="DAZN F1" group-title="Desconocido",DAZN F1
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=#EXTINF:-1,ESPN (sport)
+#EXTINF:-1 tvg-id="DAZN F1" group-title="Desconocido",DAZN F1
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=#EXTINF:-1,DAZN F1 (sport)
+#EXTINF:-1 tvg-id="DAZN F1" group-title="Desconocido",DAZN F1
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=#EXTINF:-1,Eleven Sports 3 (sport)
+#EXTINF:-1 tvg-id="DAZN F1" group-title="Desconocido",DAZN F1
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=#EXTINF:-1,Eleven Sports 4 (sport)
+#EXTINF:-1 tvg-id="DAZN F1" group-title="Desconocido",DAZN F1
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=#EXTINF:-1,ESPN 4 (sport)
+#EXTINF:-1 tvg-id="DAZN F1" group-title="Desconocido",DAZN F1
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=#EXTINF:-1,ESPN 2 (sport)
+#EXTINF:-1 tvg-id="DAZN F1" group-title="Desconocido",DAZN F1
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=#EXTINF:-1,Eurosport 360 8 (regional)
+#EXTINF:-1 tvg-id="DAZN F1" group-title="Desconocido",DAZN F1
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=#EXTINF:-1,STAR Channel Sports 1 (sport)
+#EXTINF:-1 tvg-id="DAZN F1" group-title="Desconocido",DAZN F1
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=#EXTINF:-1,Magenta Sport 1 [DE] (regional)
+#EXTINF:-1 tvg-id="DAZN F1" group-title="Desconocido",DAZN F1
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=#EXTINF:-1,Magenta Sport 9 [DE] (regional)
+#EXTINF:-1 tvg-id="DAZN F1" group-title="Desconocido",DAZN F1
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=#EXTINF:-1,Polsat Sport Fight [PL] (regional)
+#EXTINF:-1 tvg-id="DAZN F1" group-title="Desconocido",DAZN F1
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=#EXTINF:-1,RTL+ SPORT EVENT 6 [DE] (regional)
+#EXTINF:-1 tvg-id="DAZN F1" group-title="Desconocido",DAZN F1
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=#EXTINF:-1,Sky Sport F1 [DE] (regional)
+#EXTINF:-1 tvg-id="DAZN F1" group-title="Desconocido",DAZN F1
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=#EXTINF:-1,Spiegel Geschichte [DE] (regional)
+#EXTINF:-1 tvg-id="DAZN F1" group-title="Desconocido",DAZN F1
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=#EXTINF:-1,Travel Channel [PL] (regional)
+#EXTINF:-1 tvg-id="DAZN F1" group-title="Desconocido",DAZN F1
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=#EXTINF:-1,TVP 2 [PL] (regional)
+#EXTINF:-1 tvg-id="DAZN F1" group-title="Desconocido",DAZN F1
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=#EXTINF:-1,TVP-Info [PL] (regional)
+#EXTINF:-1 tvg-id="DAZN F1" group-title="Desconocido",DAZN F1
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=#EXTINF:-1,Universal TV [DE] (regional)
+#EXTINF:-1 tvg-id="DAZN F1" group-title="Desconocido",DAZN F1
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=#EXTINF:-1,Warner TV Serie [DE] (regional)
+#EXTINF:-1 tvg-id="DAZN F1" group-title="Desconocido",DAZN F1
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=#EXTINF:-1,WP [PL] (regional)
+#EXTINF:-1 tvg-id="DAZN F1" group-title="Desconocido",DAZN F1
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=#EXTINF:-1,Матч! ТВ [RU] (sport)
+#EXTINF:-1 tvg-id="DAZN F1" group-title="Desconocido",DAZN F1
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=#EXTINF:-1,Наша сибирь [RU] (regional)
+#EXTINF:-1 tvg-id="DAZN F1" group-title="Desconocido",DAZN F1
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=#EXTINF:-1,Спортивный [RU] (sport)
+#EXTINF:-1 tvg-id="DAZN F1" group-title="Desconocido",DAZN F1
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=#EXTINF:-1,ТНТ4 [RU] (regional)
+#EXTINF:-1 tvg-id="DAZN F1" group-title="Desconocido",DAZN F1
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=#EXTINF:-1,Футбол [RU] (sport)
 #EXTINF:-1 tvg-id="DAZN F1" group-title="Elcano",DAZN F1
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
+#EXTINF:-1 tvg-id="DAZN F1" group-title="New Era",DAZN F1
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=b5f3cc5cd66c98bae9d65df43ecee6c02d18aebd
+#EXTINF:-1 tvg-id="DAZN F1" group-title="New Era",DAZN F1
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=38e9ae1ee0c96d7c6187c9c4cc60ffccb565bdf7
 #EXTINF:-1 tvg-id="Rally TV" group-title="New Era",Rally TV
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=8e96e35afd910d1a056dc7bf25139b8e2849b2ea
 #EXTINF:-1 tvg-id="Rally TV" group-title="New Era",Rally TV
@@ -433,8 +487,6 @@ pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=50b6d2b5fd5
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=5ccaf1da1ab3972502f2b35e581d7ab2f9b4965e
 #EXTINF:-1 tvg-id="TNT Sports" group-title="New Era",TNT Sports
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=363f1d119b1971237318c0d953ab6eea5eb7c592
-#EXTINF:-1 tvg-id="Canal Motor" group-title="New Loop",Canal Motor
-pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=35e17cc84abc5e393b5acd688536a9681105f2d5
 #EXTINF:-1 tvg-id="Motors TV" group-title="New Loop",Motors TV
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=442aeb6643b8836f9d00361c9e48eeb0841ddf98
 #EXTINF:-1 tvg-id="Retrovision Motor" group-title="New Loop",Retrovision Motor
@@ -457,8 +509,6 @@ pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=ab9bf0a75f1
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=108aebe20efc826e56f3a1cb01117a124a6b89ad
 #EXTINF:-1 tvg-id="FOX PREMIUM UFC" group-title="New Era",FOX PREMIUM UFC
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=ade70f2c51cca519a4d8de1bb181af6e8532e1e1
-#EXTINF:-1 tvg-id="Tennis Channel" group-title="New Loop",Tennis Channel
-pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="Tennis Channel" group-title="New Era",Tennis Channel
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0
 #EXTINF:-1 tvg-id="Tennis Channel" group-title="New Era",Tennis Channel
@@ -481,8 +531,6 @@ pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=36bd5c1fdf0
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=df94afd23701839b3fdcdf669c73f2e3d656126e
 #EXTINF:-1 tvg-id="Sky Sport Bundesliga 1" group-title="Desconocido",Sky Sport Bundesliga 1
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=38d8789a448dd0eaf99e0274b555974e4e8f3f3b
-#EXTINF:-1 tvg-id="MOTORVISION.TV" group-title="New Loop",MOTORVISION.TV
-pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=9c75e6ed0671eec6670cb2eabcc7d78267c7f404
 #EXTINF:-1 tvg-id="MOTORVISION.TV" group-title="Desconocido",MOTORVISION.TV
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=acd7e3ae185a376e6596e60a414bebbf3321b37f
 #EXTINF:-1 tvg-id="Eurosport 360 9" group-title="Antigua",Eurosport 360 9
@@ -533,8 +581,6 @@ pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=8ebf8cded98
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=0969a38e2b12d718f09e88e0925aed88f24a957b
 #EXTINF:-1 tvg-id="UniNettuno University TV" group-title="Antigua",UniNettuno University TV
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=4e17bac6b2decc70fd7bd704ce7013072fefd1f0
-#EXTINF:-1 tvg-id="beIN SPORTS XTRA ñ" group-title="New Loop",beIN SPORTS XTRA ñ
-pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=e8e459656f964f601ad4bcda8b81a43ba41c68f9
 #EXTINF:-1 tvg-id="beIN SPORTS XTRA ñ" group-title="Antigua",beIN SPORTS XTRA ñ
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=92a7dcc55392efc6dd5d012c4ff3878891eb6a6e
 #EXTINF:-1 tvg-id="NBA TV" group-title="New Era",NBA TV
