@@ -1,351 +1,407 @@
 #EXTM3U 
 #EXTINF:-1 tvg-id="05:10-WTA Pekín 1/8 de final-B. Bencic-C. Gauff" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",05:10-WTA Pekín 1/8 de final-B. Bencic-C. Gauff
-http://127.0.0.1:6878/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee&pid=1
+http://127.0.0.1:6878/ace/getstream?id=192.168.1.12:6878/ace/getstream?id=ed81c333815247536edfcdb2755147e8c4144d62&pid=1
 #EXTINF:-1 tvg-id="05:10-WTA Pekín 1/8 de final-B. Bencic-C. Gauff" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",05:10-WTA Pekín 1/8 de final-B. Bencic-C. Gauff
-http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0&pid=2
+http://127.0.0.1:6878/ace/getstream?id=#EXTINF:-1" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",SuperTennis HD (sport)</a&pid=2
 #EXTINF:-1 tvg-id="05:10-WTA Pekín 1/8 de final-B. Bencic-C. Gauff" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",05:10-WTA Pekín 1/8 de final-B. Bencic-C. Gauff
-http://127.0.0.1:6878/ace/getstream?id=aa31953b8af44b461102852d5b1247eea95b8050&pid=3
+http://127.0.0.1:6878/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee&pid=3
 #EXTINF:-1 tvg-id="05:10-WTA Pekín 1/8 de final-B. Bencic-C. Gauff" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",05:10-WTA Pekín 1/8 de final-B. Bencic-C. Gauff
-http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac&pid=4
+http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0&pid=4
+#EXTINF:-1 tvg-id="05:10-WTA Pekín 1/8 de final-B. Bencic-C. Gauff" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",05:10-WTA Pekín 1/8 de final-B. Bencic-C. Gauff
+http://127.0.0.1:6878/ace/getstream?id=aa31953b8af44b461102852d5b1247eea95b8050&pid=5
+#EXTINF:-1 tvg-id="05:10-WTA Pekín 1/8 de final-B. Bencic-C. Gauff" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",05:10-WTA Pekín 1/8 de final-B. Bencic-C. Gauff
+http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac&pid=6
 #EXTINF:-1 tvg-id="18:45-Champions League Fase Liga-Atalanta-Club Brugge" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Champions League Fase Liga-Atalanta-Club Brugge
-http://127.0.0.1:6878/ace/getstream?id=17b8bc4bf8e29547b0071c742e3d7da3bcbc484d&pid=5
+http://127.0.0.1:6878/ace/getstream?id=17b8bc4bf8e29547b0071c742e3d7da3bcbc484d&pid=7
 #EXTINF:-1 tvg-id="18:45-Champions League Fase Liga-Atalanta-Club Brugge" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Champions League Fase Liga-Atalanta-Club Brugge
-http://127.0.0.1:6878/ace/getstream?id=1dece791d28be6a5af78537ac4864ec01fa0a6d8&pid=6
+http://127.0.0.1:6878/ace/getstream?id=1dece791d28be6a5af78537ac4864ec01fa0a6d8&pid=8
 #EXTINF:-1 tvg-id="18:45-Champions League Fase Liga-Atalanta-Club Brugge" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Champions League Fase Liga-Atalanta-Club Brugge
-http://127.0.0.1:6878/ace/getstream?id=2b5129adc57d43790634d796fe3468b9fd061259&pid=7
+http://127.0.0.1:6878/ace/getstream?id=2b5129adc57d43790634d796fe3468b9fd061259&pid=9
 #EXTINF:-1 tvg-id="18:45-Champions League Fase Liga-Atalanta-Club Brugge" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Champions League Fase Liga-Atalanta-Club Brugge
-http://127.0.0.1:6878/ace/getstream?id=4416843c96b7f7a1bc55c476091a60fff0922bc7&pid=8
+http://127.0.0.1:6878/ace/getstream?id=4416843c96b7f7a1bc55c476091a60fff0922bc7&pid=10
 #EXTINF:-1 tvg-id="18:45-Champions League Fase Liga-Atalanta-Club Brugge" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Champions League Fase Liga-Atalanta-Club Brugge
-http://127.0.0.1:6878/ace/getstream?id=cfc371890bfb502737a26de5215e50929c52d0f9&pid=9
+http://127.0.0.1:6878/ace/getstream?id=cfc371890bfb502737a26de5215e50929c52d0f9&pid=11
+#EXTINF:-1 tvg-id="18:45-Champions League Fase Liga-Atalanta-Club Brugge" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Champions League Fase Liga-Atalanta-Club Brugge
+http://127.0.0.1:6878/ace/getstream?id=90f7941c6bf7ca4b18084a1dca7bc15b9b179373&pid=12
 #EXTINF:-1 tvg-id="18:45-Champions League Fase Liga-FC Kairat-Real Madrid" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Champions League Fase Liga-FC Kairat-Real Madrid
-http://127.0.0.1:6878/ace/getstream?id=c16b4fab1f724c94cad92081cbb7fc7c6fe8a2cc&pid=10
+http://127.0.0.1:6878/ace/getstream?id=c16b4fab1f724c94cad92081cbb7fc7c6fe8a2cc&pid=13
 #EXTINF:-1 tvg-id="18:45-Champions League Fase Liga-FC Kairat-Real Madrid" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Champions League Fase Liga-FC Kairat-Real Madrid
-http://127.0.0.1:6878/ace/getstream?id=778f08cbae9596ed9e8b2ae0af33ee7a6fe24c6a&pid=11
+http://127.0.0.1:6878/ace/getstream?id=778f08cbae9596ed9e8b2ae0af33ee7a6fe24c6a&pid=14
 #EXTINF:-1 tvg-id="18:45-Champions League Fase Liga-FC Kairat-Real Madrid" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Champions League Fase Liga-FC Kairat-Real Madrid
-http://127.0.0.1:6878/ace/getstream?id=afbf2a479c5a5072698139f0f556ef3e77a99bd0&pid=12
+http://127.0.0.1:6878/ace/getstream?id=afbf2a479c5a5072698139f0f556ef3e77a99bd0&pid=15
 #EXTINF:-1 tvg-id="18:45-Champions League Fase Liga-FC Kairat-Real Madrid" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Champions League Fase Liga-FC Kairat-Real Madrid
-http://127.0.0.1:6878/ace/getstream?id=a6620445cbe43b939a66a739e88dfde9d4469779&pid=13
+http://127.0.0.1:6878/ace/getstream?id=a6620445cbe43b939a66a739e88dfde9d4469779&pid=16
 #EXTINF:-1 tvg-id="18:45-Champions League Fase Liga-FC Kairat-Real Madrid" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Champions League Fase Liga-FC Kairat-Real Madrid
-http://127.0.0.1:6878/ace/getstream?id=0f7842f8b6c26571e5a974407b61623e56e6a052&pid=14
+http://127.0.0.1:6878/ace/getstream?id=0f7842f8b6c26571e5a974407b61623e56e6a052&pid=17
 #EXTINF:-1 tvg-id="18:45-Champions League Fase Liga-FC Kairat-Real Madrid" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Champions League Fase Liga-FC Kairat-Real Madrid
-http://127.0.0.1:6878/ace/getstream?id=f3eea003e23f94dc2d527306de9dd386e3ebf4ba&pid=15
+http://127.0.0.1:6878/ace/getstream?id=f3eea003e23f94dc2d527306de9dd386e3ebf4ba&pid=18
 #EXTINF:-1 tvg-id="18:45-Champions League Fase Liga-FC Kairat-Real Madrid" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Champions League Fase Liga-FC Kairat-Real Madrid
-http://127.0.0.1:6878/ace/getstream?id=97df5b7824948972d041d8ca2a4d29c90b641bc9&pid=16
+http://127.0.0.1:6878/ace/getstream?id=97df5b7824948972d041d8ca2a4d29c90b641bc9&pid=19
 #EXTINF:-1 tvg-id="18:45-Champions League Fase Liga-FC Kairat-Real Madrid" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Champions League Fase Liga-FC Kairat-Real Madrid
-http://127.0.0.1:6878/ace/getstream?id=2b51710cee513e8939785fa3e7980f32d4e0415f&pid=17
+http://127.0.0.1:6878/ace/getstream?id=2b51710cee513e8939785fa3e7980f32d4e0415f&pid=20
 #EXTINF:-1 tvg-id="18:45-Champions League Fase Liga-FC Kairat-Real Madrid" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Champions League Fase Liga-FC Kairat-Real Madrid
-http://127.0.0.1:6878/ace/getstream?id=9db029dff6a9c637d1f670e78dbc1a479b9b406e&pid=18
+http://127.0.0.1:6878/ace/getstream?id=9db029dff6a9c637d1f670e78dbc1a479b9b406e&pid=21
 #EXTINF:-1 tvg-id="18:45-Champions League Fase Liga-FC Kairat-Real Madrid" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Champions League Fase Liga-FC Kairat-Real Madrid
-http://127.0.0.1:6878/ace/getstream?id=e572a5178ff72eed7d1d751a18b4b3419699f370&pid=19
+http://127.0.0.1:6878/ace/getstream?id=e572a5178ff72eed7d1d751a18b4b3419699f370&pid=22
 #EXTINF:-1 tvg-id="19:45-Euroliga Liga Regular-Anadolu Efes Istanbul-Maccabi Tel Aviv BC" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",19:45-Euroliga Liga Regular-Anadolu Efes Istanbul-Maccabi Tel Aviv BC
-http://127.0.0.1:6878/ace/getstream?id=58a4c880ab18486d914751db32a12760e74b75a4&pid=20
+http://127.0.0.1:6878/ace/getstream?id=58a4c880ab18486d914751db32a12760e74b75a4&pid=23
 #EXTINF:-1 tvg-id="19:45-Euroliga Liga Regular-Anadolu Efes Istanbul-Maccabi Tel Aviv BC" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",19:45-Euroliga Liga Regular-Anadolu Efes Istanbul-Maccabi Tel Aviv BC
-http://127.0.0.1:6878/ace/getstream?id=3f97bafa133b10cfe5c62311e11501326d886a53&pid=21
+http://127.0.0.1:6878/ace/getstream?id=3f97bafa133b10cfe5c62311e11501326d886a53&pid=24
 #EXTINF:-1 tvg-id="19:45-Euroliga Liga Regular-Anadolu Efes Istanbul-Maccabi Tel Aviv BC" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",19:45-Euroliga Liga Regular-Anadolu Efes Istanbul-Maccabi Tel Aviv BC
-http://127.0.0.1:6878/ace/getstream?id=37825883ed185365e3194a79207347f6c7bd5ba5&pid=22
+http://127.0.0.1:6878/ace/getstream?id=37825883ed185365e3194a79207347f6c7bd5ba5&pid=25
 #EXTINF:-1 tvg-id="19:45-Euroliga Liga Regular-Anadolu Efes Istanbul-Maccabi Tel Aviv BC" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",19:45-Euroliga Liga Regular-Anadolu Efes Istanbul-Maccabi Tel Aviv BC
-http://127.0.0.1:6878/ace/getstream?id=b40e1de2dcbd7c665f54877b14c830ed67b32a96&pid=23
+http://127.0.0.1:6878/ace/getstream?id=b40e1de2dcbd7c665f54877b14c830ed67b32a96&pid=26
+#EXTINF:-1 tvg-id="19:45-Euroliga Liga Regular-Anadolu Efes Istanbul-Maccabi Tel Aviv BC" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",19:45-Euroliga Liga Regular-Anadolu Efes Istanbul-Maccabi Tel Aviv BC
+http://127.0.0.1:6878/ace/getstream?id=8b5f9d967384afab226dd759e6e9dfaee9993869&pid=27
 #EXTINF:-1 tvg-id="20:00-Primera-Valencia CF-Real Oviedo" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",20:00-Primera-Valencia CF-Real Oviedo
-http://127.0.0.1:6878/ace/getstream?id=0e50439e68aa2435b38f0563bb2f2e98f32ff4b1&pid=24
+http://127.0.0.1:6878/ace/getstream?id=0e50439e68aa2435b38f0563bb2f2e98f32ff4b1&pid=28
 #EXTINF:-1 tvg-id="20:00-Primera-Valencia CF-Real Oviedo" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",20:00-Primera-Valencia CF-Real Oviedo
-http://127.0.0.1:6878/ace/getstream?id=1bb5bf76fb2018d6db9aaa29b1467ecdfabe2884&pid=25
+http://127.0.0.1:6878/ace/getstream?id=1bb5bf76fb2018d6db9aaa29b1467ecdfabe2884&pid=29
 #EXTINF:-1 tvg-id="20:00-Primera-Valencia CF-Real Oviedo" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",20:00-Primera-Valencia CF-Real Oviedo
-http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05&pid=26
+http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05&pid=30
 #EXTINF:-1 tvg-id="20:00-Primera-Valencia CF-Real Oviedo" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",20:00-Primera-Valencia CF-Real Oviedo
-http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618&pid=27
+http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618&pid=31
+#EXTINF:-1 tvg-id="20:00-Primera-Valencia CF-Real Oviedo" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",20:00-Primera-Valencia CF-Real Oviedo
+http://127.0.0.1:6878/ace/getstream?id=dda5d2cace9bc4cb0918e62bc50d657d4a10496a&pid=32
 #EXTINF:-1 tvg-id="20:00-Euroliga Liga Regular-Crvena Zvezda MTS Belgrade-AX Olimpia Milano" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:00-Euroliga Liga Regular-Crvena Zvezda MTS Belgrade-AX Olimpia Milano
-http://127.0.0.1:6878/ace/getstream?id=5913205fb6d6d162a50222709aab6129eb7cf916&pid=28
+http://127.0.0.1:6878/ace/getstream?id=5913205fb6d6d162a50222709aab6129eb7cf916&pid=33
 #EXTINF:-1 tvg-id="20:00-Euroliga Liga Regular-Crvena Zvezda MTS Belgrade-AX Olimpia Milano" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:00-Euroliga Liga Regular-Crvena Zvezda MTS Belgrade-AX Olimpia Milano
-http://127.0.0.1:6878/ace/getstream?id=2d19e39c92f7d8ce90b271d8aaf6f42e733eedc2&pid=29
+http://127.0.0.1:6878/ace/getstream?id=2d19e39c92f7d8ce90b271d8aaf6f42e733eedc2&pid=34
 #EXTINF:-1 tvg-id="20:00-Euroliga Liga Regular-Crvena Zvezda MTS Belgrade-AX Olimpia Milano" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:00-Euroliga Liga Regular-Crvena Zvezda MTS Belgrade-AX Olimpia Milano
-http://127.0.0.1:6878/ace/getstream?id=6dc4ac4eeae18e9daec433b01db82435cf84c57c&pid=30
+http://127.0.0.1:6878/ace/getstream?id=6dc4ac4eeae18e9daec433b01db82435cf84c57c&pid=35
 #EXTINF:-1 tvg-id="20:00-Euroliga Liga Regular-Crvena Zvezda MTS Belgrade-AX Olimpia Milano" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:00-Euroliga Liga Regular-Crvena Zvezda MTS Belgrade-AX Olimpia Milano
-http://127.0.0.1:6878/ace/getstream?id=7b361369a40046ad3011086f9d4ae2982fb4d5aa&pid=31
+http://127.0.0.1:6878/ace/getstream?id=7b361369a40046ad3011086f9d4ae2982fb4d5aa&pid=36
+#EXTINF:-1 tvg-id="20:00-Euroliga Liga Regular-Crvena Zvezda MTS Belgrade-AX Olimpia Milano" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:00-Euroliga Liga Regular-Crvena Zvezda MTS Belgrade-AX Olimpia Milano
+http://127.0.0.1:6878/ace/getstream?id=3230cdca852a10325222e3c546e499e31d547a90&pid=37
 #EXTINF:-1 tvg-id="20:15-Euroliga Liga Regular-Panathinaikos BC-FC Bayern Basketball" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:15-Euroliga Liga Regular-Panathinaikos BC-FC Bayern Basketball
-http://127.0.0.1:6878/ace/getstream?id=753d4b1f7c4ef43238b5cf23b05572b550a44eee&pid=32
+http://127.0.0.1:6878/ace/getstream?id=753d4b1f7c4ef43238b5cf23b05572b550a44eee&pid=38
 #EXTINF:-1 tvg-id="20:15-Euroliga Liga Regular-Panathinaikos BC-FC Bayern Basketball" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:15-Euroliga Liga Regular-Panathinaikos BC-FC Bayern Basketball
-http://127.0.0.1:6878/ace/getstream?id=29d786d72d4b53dbc333af3a50f8fb021aa0296f&pid=33
+http://127.0.0.1:6878/ace/getstream?id=29d786d72d4b53dbc333af3a50f8fb021aa0296f&pid=39
 #EXTINF:-1 tvg-id="20:15-Euroliga Liga Regular-Panathinaikos BC-FC Bayern Basketball" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:15-Euroliga Liga Regular-Panathinaikos BC-FC Bayern Basketball
-http://127.0.0.1:6878/ace/getstream?id=799c6b5ee1cf41af077d14e3f9c45a32697eb903&pid=34
+http://127.0.0.1:6878/ace/getstream?id=799c6b5ee1cf41af077d14e3f9c45a32697eb903&pid=40
 #EXTINF:-1 tvg-id="20:15-Euroliga Liga Regular-Panathinaikos BC-FC Bayern Basketball" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:15-Euroliga Liga Regular-Panathinaikos BC-FC Bayern Basketball
-http://127.0.0.1:6878/ace/getstream?id=2fd410c5d89e7a627cd3785685b7915b8e4bd534&pid=35
+http://127.0.0.1:6878/ace/getstream?id=2fd410c5d89e7a627cd3785685b7915b8e4bd534&pid=41
+#EXTINF:-1 tvg-id="20:15-Euroliga Liga Regular-Panathinaikos BC-FC Bayern Basketball" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:15-Euroliga Liga Regular-Panathinaikos BC-FC Bayern Basketball
+http://127.0.0.1:6878/ace/getstream?id=39fefdecfc953dcf6e7c589739bf486c2e605ed0&pid=42
 #EXTINF:-1 tvg-id="20:30-Euroliga Liga Regular-Baskonia-Olympiacos Piraeus" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:30-Euroliga Liga Regular-Baskonia-Olympiacos Piraeus
-http://127.0.0.1:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&pid=36
+http://127.0.0.1:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&pid=43
 #EXTINF:-1 tvg-id="20:30-Euroliga Liga Regular-Baskonia-Olympiacos Piraeus" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:30-Euroliga Liga Regular-Baskonia-Olympiacos Piraeus
-http://127.0.0.1:6878/ace/getstream?id=6e212a916c83638268047dd2757c95b14f7d25a3&pid=37
+http://127.0.0.1:6878/ace/getstream?id=6e212a916c83638268047dd2757c95b14f7d25a3&pid=44
 #EXTINF:-1 tvg-id="20:30-Euroliga Liga Regular-Baskonia-Olympiacos Piraeus" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:30-Euroliga Liga Regular-Baskonia-Olympiacos Piraeus
-http://127.0.0.1:6878/ace/getstream?id=73d38feaa770d788848ec098470e32670fe55a61&pid=38
+http://127.0.0.1:6878/ace/getstream?id=73d38feaa770d788848ec098470e32670fe55a61&pid=45
 #EXTINF:-1 tvg-id="20:30-Euroliga Liga Regular-Baskonia-Olympiacos Piraeus" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:30-Euroliga Liga Regular-Baskonia-Olympiacos Piraeus
-http://127.0.0.1:6878/ace/getstream?id=f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0&pid=39
+http://127.0.0.1:6878/ace/getstream?id=f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0&pid=46
 #EXTINF:-1 tvg-id="20:30-Euroliga Liga Regular-Baskonia-Olympiacos Piraeus" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:30-Euroliga Liga Regular-Baskonia-Olympiacos Piraeus
-http://127.0.0.1:6878/ace/getstream?id=bfa01c11c5c6b7a616a516de4f2c769a89d26b25&pid=40
+http://127.0.0.1:6878/ace/getstream?id=bfa01c11c5c6b7a616a516de4f2c769a89d26b25&pid=47
+#EXTINF:-1 tvg-id="20:30-Euroliga Liga Regular-Baskonia-Olympiacos Piraeus" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:30-Euroliga Liga Regular-Baskonia-Olympiacos Piraeus
+http://127.0.0.1:6878/ace/getstream?id=3afe1af18f8ff78e9946856911b00c67477052b5&pid=48
 #EXTINF:-1 tvg-id="20:45-Euroliga Liga Regular-Virtus Bologna-Real Madrid Baloncesto" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:45-Euroliga Liga Regular-Virtus Bologna-Real Madrid Baloncesto
-http://127.0.0.1:6878/ace/getstream?id=ef9dcc4eaac36a0f608b52a31f8ab237859e071a&pid=41
+http://127.0.0.1:6878/ace/getstream?id=ef9dcc4eaac36a0f608b52a31f8ab237859e071a&pid=49
 #EXTINF:-1 tvg-id="20:45-Euroliga Liga Regular-Virtus Bologna-Real Madrid Baloncesto" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:45-Euroliga Liga Regular-Virtus Bologna-Real Madrid Baloncesto
-http://127.0.0.1:6878/ace/getstream?id=332d8fdeb9c51385230b8c9448e047ccc4a6355d&pid=42
+http://127.0.0.1:6878/ace/getstream?id=332d8fdeb9c51385230b8c9448e047ccc4a6355d&pid=50
 #EXTINF:-1 tvg-id="20:45-Euroliga Liga Regular-Virtus Bologna-Real Madrid Baloncesto" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:45-Euroliga Liga Regular-Virtus Bologna-Real Madrid Baloncesto
-http://127.0.0.1:6878/ace/getstream?id=f828a32d8ea03a3cabd3ce3ebecb249ec111c7e5&pid=43
+http://127.0.0.1:6878/ace/getstream?id=f828a32d8ea03a3cabd3ce3ebecb249ec111c7e5&pid=51
 #EXTINF:-1 tvg-id="20:45-Euroliga Liga Regular-Virtus Bologna-Real Madrid Baloncesto" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:45-Euroliga Liga Regular-Virtus Bologna-Real Madrid Baloncesto
-http://127.0.0.1:6878/ace/getstream?id=5d3f582738467aaf213e408601aca5cc13fa9359&pid=44
+http://127.0.0.1:6878/ace/getstream?id=5d3f582738467aaf213e408601aca5cc13fa9359&pid=52
 #EXTINF:-1 tvg-id="20:45-Euroliga Liga Regular-Virtus Bologna-Real Madrid Baloncesto" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:45-Euroliga Liga Regular-Virtus Bologna-Real Madrid Baloncesto
-http://127.0.0.1:6878/ace/getstream?id=3692ea4cdda97eb0062ed5d656ebd61f149ebd0b&pid=45
+http://127.0.0.1:6878/ace/getstream?id=3692ea4cdda97eb0062ed5d656ebd61f149ebd0b&pid=53
 #EXTINF:-1 tvg-id="20:45-Euroliga Liga Regular-Virtus Bologna-Real Madrid Baloncesto" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:45-Euroliga Liga Regular-Virtus Bologna-Real Madrid Baloncesto
-http://127.0.0.1:6878/ace/getstream?id=ebca4a63ce3bfda7b272964a1acc5227218184a4&pid=46
+http://127.0.0.1:6878/ace/getstream?id=ebca4a63ce3bfda7b272964a1acc5227218184a4&pid=54
 #EXTINF:-1 tvg-id="20:45-Euroliga Liga Regular-Virtus Bologna-Real Madrid Baloncesto" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:45-Euroliga Liga Regular-Virtus Bologna-Real Madrid Baloncesto
-http://127.0.0.1:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3&pid=47
+http://127.0.0.1:6878/ace/getstream?id=192.168.1.12:6878/ace/getstream?id=a28e1f7e87ba7ca186f4ecaeab959c698fe1d759&pid=55
 #EXTINF:-1 tvg-id="20:45-Euroliga Liga Regular-Virtus Bologna-Real Madrid Baloncesto" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:45-Euroliga Liga Regular-Virtus Bologna-Real Madrid Baloncesto
-http://127.0.0.1:6878/ace/getstream?id=8c67cdb5ba81976662c3a67984a9545d9cfb0f70&pid=48
+http://127.0.0.1:6878/ace/getstream?id=#EXTINF:-1" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",M+ Deportes HD (sport)</a&pid=56
 #EXTINF:-1 tvg-id="20:45-Euroliga Liga Regular-Virtus Bologna-Real Madrid Baloncesto" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:45-Euroliga Liga Regular-Virtus Bologna-Real Madrid Baloncesto
-http://127.0.0.1:6878/ace/getstream?id=b6ffbbc72a5b6b579faf79ebac229af7a25b933b&pid=49
+http://127.0.0.1:6878/ace/getstream?id=8c67cdb5ba81976662c3a67984a9545d9cfb0f70&pid=57
 #EXTINF:-1 tvg-id="20:45-Euroliga Liga Regular-Virtus Bologna-Real Madrid Baloncesto" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:45-Euroliga Liga Regular-Virtus Bologna-Real Madrid Baloncesto
-http://127.0.0.1:6878/ace/getstream?id=199190e3f28c1de0be34bccf0d3568dc65209b99&pid=50
+http://127.0.0.1:6878/ace/getstream?id=b6ffbbc72a5b6b579faf79ebac229af7a25b933b&pid=58
 #EXTINF:-1 tvg-id="20:45-Euroliga Liga Regular-Virtus Bologna-Real Madrid Baloncesto" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:45-Euroliga Liga Regular-Virtus Bologna-Real Madrid Baloncesto
-http://127.0.0.1:6878/ace/getstream?id=5866e83279307bf919068ae7a0d250e4e424e464&pid=51
+http://127.0.0.1:6878/ace/getstream?id=199190e3f28c1de0be34bccf0d3568dc65209b99&pid=59
 #EXTINF:-1 tvg-id="20:45-Euroliga Liga Regular-Virtus Bologna-Real Madrid Baloncesto" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:45-Euroliga Liga Regular-Virtus Bologna-Real Madrid Baloncesto
-http://127.0.0.1:6878/ace/getstream?id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78&pid=52
+http://127.0.0.1:6878/ace/getstream?id=5866e83279307bf919068ae7a0d250e4e424e464&pid=60
 #EXTINF:-1 tvg-id="20:45-Euroliga Liga Regular-Virtus Bologna-Real Madrid Baloncesto" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:45-Euroliga Liga Regular-Virtus Bologna-Real Madrid Baloncesto
-http://127.0.0.1:6878/ace/getstream?id=755483260c00e095f825286bc8b3562966814022&pid=53
-#EXTINF:-1 tvg-id="20:45-Euroliga Liga Regular-Virtus Bologna-Real Madrid Baloncesto" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:45-Euroliga Liga Regular-Virtus Bologna-Real Madrid Baloncesto
-http://127.0.0.1:6878/ace/getstream?id=96efcc0185c54003ef34c915f6896b92fee9f07a&pid=54
+http://127.0.0.1:6878/ace/getstream?id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78&pid=61
 #EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-At. Madrid-Eintracht Frankfurt" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-At. Madrid-Eintracht Frankfurt
-http://127.0.0.1:6878/ace/getstream?id=c16b4fab1f724c94cad92081cbb7fc7c6fe8a2cc&pid=55
+http://127.0.0.1:6878/ace/getstream?id=c16b4fab1f724c94cad92081cbb7fc7c6fe8a2cc&pid=62
 #EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-At. Madrid-Eintracht Frankfurt" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-At. Madrid-Eintracht Frankfurt
-http://127.0.0.1:6878/ace/getstream?id=778f08cbae9596ed9e8b2ae0af33ee7a6fe24c6a&pid=56
+http://127.0.0.1:6878/ace/getstream?id=778f08cbae9596ed9e8b2ae0af33ee7a6fe24c6a&pid=63
 #EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-At. Madrid-Eintracht Frankfurt" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-At. Madrid-Eintracht Frankfurt
-http://127.0.0.1:6878/ace/getstream?id=afbf2a479c5a5072698139f0f556ef3e77a99bd0&pid=57
+http://127.0.0.1:6878/ace/getstream?id=afbf2a479c5a5072698139f0f556ef3e77a99bd0&pid=64
 #EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-At. Madrid-Eintracht Frankfurt" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-At. Madrid-Eintracht Frankfurt
-http://127.0.0.1:6878/ace/getstream?id=a6620445cbe43b939a66a739e88dfde9d4469779&pid=58
+http://127.0.0.1:6878/ace/getstream?id=a6620445cbe43b939a66a739e88dfde9d4469779&pid=65
 #EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-At. Madrid-Eintracht Frankfurt" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-At. Madrid-Eintracht Frankfurt
-http://127.0.0.1:6878/ace/getstream?id=0f7842f8b6c26571e5a974407b61623e56e6a052&pid=59
+http://127.0.0.1:6878/ace/getstream?id=0f7842f8b6c26571e5a974407b61623e56e6a052&pid=66
 #EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-At. Madrid-Eintracht Frankfurt" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-At. Madrid-Eintracht Frankfurt
-http://127.0.0.1:6878/ace/getstream?id=f3eea003e23f94dc2d527306de9dd386e3ebf4ba&pid=60
+http://127.0.0.1:6878/ace/getstream?id=f3eea003e23f94dc2d527306de9dd386e3ebf4ba&pid=67
 #EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-At. Madrid-Eintracht Frankfurt" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-At. Madrid-Eintracht Frankfurt
-http://127.0.0.1:6878/ace/getstream?id=97df5b7824948972d041d8ca2a4d29c90b641bc9&pid=61
+http://127.0.0.1:6878/ace/getstream?id=97df5b7824948972d041d8ca2a4d29c90b641bc9&pid=68
 #EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-At. Madrid-Eintracht Frankfurt" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-At. Madrid-Eintracht Frankfurt
-http://127.0.0.1:6878/ace/getstream?id=2b51710cee513e8939785fa3e7980f32d4e0415f&pid=62
+http://127.0.0.1:6878/ace/getstream?id=2b51710cee513e8939785fa3e7980f32d4e0415f&pid=69
 #EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-At. Madrid-Eintracht Frankfurt" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-At. Madrid-Eintracht Frankfurt
-http://127.0.0.1:6878/ace/getstream?id=9db029dff6a9c637d1f670e78dbc1a479b9b406e&pid=63
+http://127.0.0.1:6878/ace/getstream?id=9db029dff6a9c637d1f670e78dbc1a479b9b406e&pid=70
 #EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-At. Madrid-Eintracht Frankfurt" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-At. Madrid-Eintracht Frankfurt
-http://127.0.0.1:6878/ace/getstream?id=e572a5178ff72eed7d1d751a18b4b3419699f370&pid=64
+http://127.0.0.1:6878/ace/getstream?id=e572a5178ff72eed7d1d751a18b4b3419699f370&pid=71
 #EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-At. Madrid-Eintracht Frankfurt" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-At. Madrid-Eintracht Frankfurt
-http://127.0.0.1:6878/ace/getstream?id=152169ce99e1fd27f2249c18384a121079cdef29&pid=65
+http://127.0.0.1:6878/ace/getstream?id=152169ce99e1fd27f2249c18384a121079cdef29&pid=72
 #EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-At. Madrid-Eintracht Frankfurt" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-At. Madrid-Eintracht Frankfurt
-http://127.0.0.1:6878/ace/getstream?id=77998f8161373611ff6b348e7eda5b4e97d3ec29&pid=66
+http://127.0.0.1:6878/ace/getstream?id=77998f8161373611ff6b348e7eda5b4e97d3ec29&pid=73
 #EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-At. Madrid-Eintracht Frankfurt" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-At. Madrid-Eintracht Frankfurt
-http://127.0.0.1:6878/ace/getstream?id=53cd86466d1faed03a607be92af601f7e8da128f&pid=67
+http://127.0.0.1:6878/ace/getstream?id=53cd86466d1faed03a607be92af601f7e8da128f&pid=74
 #EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-At. Madrid-Eintracht Frankfurt" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-At. Madrid-Eintracht Frankfurt
-http://127.0.0.1:6878/ace/getstream?id=e9f4493d2d851f4636720f639113e05b4a21a74c&pid=68
+http://127.0.0.1:6878/ace/getstream?id=e9f4493d2d851f4636720f639113e05b4a21a74c&pid=75
+#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-At. Madrid-Eintracht Frankfurt" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-At. Madrid-Eintracht Frankfurt
+http://127.0.0.1:6878/ace/getstream?id=6fbab1d8d6bf93c4bc7552714aa3bb54ebf7b661&pid=76
 #EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Inter Milan-Slavia Praha" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Inter Milan-Slavia Praha
-http://127.0.0.1:6878/ace/getstream?id=152169ce99e1fd27f2249c18384a121079cdef29&pid=69
+http://127.0.0.1:6878/ace/getstream?id=152169ce99e1fd27f2249c18384a121079cdef29&pid=77
 #EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Inter Milan-Slavia Praha" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Inter Milan-Slavia Praha
-http://127.0.0.1:6878/ace/getstream?id=77998f8161373611ff6b348e7eda5b4e97d3ec29&pid=70
+http://127.0.0.1:6878/ace/getstream?id=77998f8161373611ff6b348e7eda5b4e97d3ec29&pid=78
 #EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Inter Milan-Slavia Praha" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Inter Milan-Slavia Praha
-http://127.0.0.1:6878/ace/getstream?id=53cd86466d1faed03a607be92af601f7e8da128f&pid=71
+http://127.0.0.1:6878/ace/getstream?id=53cd86466d1faed03a607be92af601f7e8da128f&pid=79
 #EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Inter Milan-Slavia Praha" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Inter Milan-Slavia Praha
-http://127.0.0.1:6878/ace/getstream?id=e9f4493d2d851f4636720f639113e05b4a21a74c&pid=72
+http://127.0.0.1:6878/ace/getstream?id=e9f4493d2d851f4636720f639113e05b4a21a74c&pid=80
+#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Inter Milan-Slavia Praha" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Inter Milan-Slavia Praha
+http://127.0.0.1:6878/ace/getstream?id=6fbab1d8d6bf93c4bc7552714aa3bb54ebf7b661&pid=81
 #EXTINF:-1 tvg-id="07:45-WTA Pekín 1/8 de final-E. Lys-M. Kessler" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",07:45-WTA Pekín 1/8 de final-E. Lys-M. Kessler
-http://127.0.0.1:6878/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee&pid=73
+http://127.0.0.1:6878/ace/getstream?id=192.168.1.12:6878/ace/getstream?id=ed81c333815247536edfcdb2755147e8c4144d62&pid=82
 #EXTINF:-1 tvg-id="07:45-WTA Pekín 1/8 de final-E. Lys-M. Kessler" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",07:45-WTA Pekín 1/8 de final-E. Lys-M. Kessler
-http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0&pid=74
+http://127.0.0.1:6878/ace/getstream?id=#EXTINF:-1" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",SuperTennis HD (sport)</a&pid=83
 #EXTINF:-1 tvg-id="07:45-WTA Pekín 1/8 de final-E. Lys-M. Kessler" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",07:45-WTA Pekín 1/8 de final-E. Lys-M. Kessler
-http://127.0.0.1:6878/ace/getstream?id=aa31953b8af44b461102852d5b1247eea95b8050&pid=75
+http://127.0.0.1:6878/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee&pid=84
 #EXTINF:-1 tvg-id="07:45-WTA Pekín 1/8 de final-E. Lys-M. Kessler" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",07:45-WTA Pekín 1/8 de final-E. Lys-M. Kessler
-http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac&pid=76
+http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0&pid=85
+#EXTINF:-1 tvg-id="07:45-WTA Pekín 1/8 de final-E. Lys-M. Kessler" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",07:45-WTA Pekín 1/8 de final-E. Lys-M. Kessler
+http://127.0.0.1:6878/ace/getstream?id=aa31953b8af44b461102852d5b1247eea95b8050&pid=86
+#EXTINF:-1 tvg-id="07:45-WTA Pekín 1/8 de final-E. Lys-M. Kessler" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",07:45-WTA Pekín 1/8 de final-E. Lys-M. Kessler
+http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac&pid=87
 #EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Chelsea-Benfica" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Chelsea-Benfica
-http://127.0.0.1:6878/ace/getstream?id=17b8bc4bf8e29547b0071c742e3d7da3bcbc484d&pid=77
+http://127.0.0.1:6878/ace/getstream?id=17b8bc4bf8e29547b0071c742e3d7da3bcbc484d&pid=88
 #EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Chelsea-Benfica" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Chelsea-Benfica
-http://127.0.0.1:6878/ace/getstream?id=1dece791d28be6a5af78537ac4864ec01fa0a6d8&pid=78
+http://127.0.0.1:6878/ace/getstream?id=1dece791d28be6a5af78537ac4864ec01fa0a6d8&pid=89
 #EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Chelsea-Benfica" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Chelsea-Benfica
-http://127.0.0.1:6878/ace/getstream?id=2b5129adc57d43790634d796fe3468b9fd061259&pid=79
+http://127.0.0.1:6878/ace/getstream?id=2b5129adc57d43790634d796fe3468b9fd061259&pid=90
 #EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Chelsea-Benfica" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Chelsea-Benfica
-http://127.0.0.1:6878/ace/getstream?id=4416843c96b7f7a1bc55c476091a60fff0922bc7&pid=80
+http://127.0.0.1:6878/ace/getstream?id=4416843c96b7f7a1bc55c476091a60fff0922bc7&pid=91
 #EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Chelsea-Benfica" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Chelsea-Benfica
-http://127.0.0.1:6878/ace/getstream?id=cfc371890bfb502737a26de5215e50929c52d0f9&pid=81
+http://127.0.0.1:6878/ace/getstream?id=cfc371890bfb502737a26de5215e50929c52d0f9&pid=92
 #EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Chelsea-Benfica" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Chelsea-Benfica
-http://127.0.0.1:6878/ace/getstream?id=152169ce99e1fd27f2249c18384a121079cdef29&pid=82
+http://127.0.0.1:6878/ace/getstream?id=90f7941c6bf7ca4b18084a1dca7bc15b9b179373&pid=93
 #EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Chelsea-Benfica" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Chelsea-Benfica
-http://127.0.0.1:6878/ace/getstream?id=77998f8161373611ff6b348e7eda5b4e97d3ec29&pid=83
+http://127.0.0.1:6878/ace/getstream?id=152169ce99e1fd27f2249c18384a121079cdef29&pid=94
 #EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Chelsea-Benfica" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Chelsea-Benfica
-http://127.0.0.1:6878/ace/getstream?id=53cd86466d1faed03a607be92af601f7e8da128f&pid=84
+http://127.0.0.1:6878/ace/getstream?id=77998f8161373611ff6b348e7eda5b4e97d3ec29&pid=95
 #EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Chelsea-Benfica" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Chelsea-Benfica
-http://127.0.0.1:6878/ace/getstream?id=e9f4493d2d851f4636720f639113e05b4a21a74c&pid=85
+http://127.0.0.1:6878/ace/getstream?id=53cd86466d1faed03a607be92af601f7e8da128f&pid=96
+#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Chelsea-Benfica" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Chelsea-Benfica
+http://127.0.0.1:6878/ace/getstream?id=e9f4493d2d851f4636720f639113e05b4a21a74c&pid=97
+#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Chelsea-Benfica" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Chelsea-Benfica
+http://127.0.0.1:6878/ace/getstream?id=6fbab1d8d6bf93c4bc7552714aa3bb54ebf7b661&pid=98
 #EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Galatasaray-Liverpool" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Galatasaray-Liverpool
-http://127.0.0.1:6878/ace/getstream?id=152169ce99e1fd27f2249c18384a121079cdef29&pid=86
+http://127.0.0.1:6878/ace/getstream?id=152169ce99e1fd27f2249c18384a121079cdef29&pid=99
 #EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Galatasaray-Liverpool" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Galatasaray-Liverpool
-http://127.0.0.1:6878/ace/getstream?id=77998f8161373611ff6b348e7eda5b4e97d3ec29&pid=87
+http://127.0.0.1:6878/ace/getstream?id=77998f8161373611ff6b348e7eda5b4e97d3ec29&pid=100
 #EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Galatasaray-Liverpool" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Galatasaray-Liverpool
-http://127.0.0.1:6878/ace/getstream?id=53cd86466d1faed03a607be92af601f7e8da128f&pid=88
+http://127.0.0.1:6878/ace/getstream?id=53cd86466d1faed03a607be92af601f7e8da128f&pid=101
 #EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Galatasaray-Liverpool" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Galatasaray-Liverpool
-http://127.0.0.1:6878/ace/getstream?id=e9f4493d2d851f4636720f639113e05b4a21a74c&pid=89
+http://127.0.0.1:6878/ace/getstream?id=e9f4493d2d851f4636720f639113e05b4a21a74c&pid=102
 #EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Galatasaray-Liverpool" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Galatasaray-Liverpool
-http://127.0.0.1:6878/ace/getstream?id=cb6410a6355a645cfc6f6f5a7c7d71298fcbc2c5&pid=90
+http://127.0.0.1:6878/ace/getstream?id=6fbab1d8d6bf93c4bc7552714aa3bb54ebf7b661&pid=103
 #EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Galatasaray-Liverpool" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Galatasaray-Liverpool
-http://127.0.0.1:6878/ace/getstream?id=5620c0ce3dcbf14a6375cb2c2d681207f45eb97d&pid=91
+http://127.0.0.1:6878/ace/getstream?id=cb6410a6355a645cfc6f6f5a7c7d71298fcbc2c5&pid=104
+#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Galatasaray-Liverpool" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Galatasaray-Liverpool
+http://127.0.0.1:6878/ace/getstream?id=5620c0ce3dcbf14a6375cb2c2d681207f45eb97d&pid=105
 #EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-O. Marseille-Ajax" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-O. Marseille-Ajax
-http://127.0.0.1:6878/ace/getstream?id=152169ce99e1fd27f2249c18384a121079cdef29&pid=92
+http://127.0.0.1:6878/ace/getstream?id=152169ce99e1fd27f2249c18384a121079cdef29&pid=106
 #EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-O. Marseille-Ajax" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-O. Marseille-Ajax
-http://127.0.0.1:6878/ace/getstream?id=77998f8161373611ff6b348e7eda5b4e97d3ec29&pid=93
+http://127.0.0.1:6878/ace/getstream?id=77998f8161373611ff6b348e7eda5b4e97d3ec29&pid=107
 #EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-O. Marseille-Ajax" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-O. Marseille-Ajax
-http://127.0.0.1:6878/ace/getstream?id=53cd86466d1faed03a607be92af601f7e8da128f&pid=94
+http://127.0.0.1:6878/ace/getstream?id=53cd86466d1faed03a607be92af601f7e8da128f&pid=108
 #EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-O. Marseille-Ajax" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-O. Marseille-Ajax
-http://127.0.0.1:6878/ace/getstream?id=e9f4493d2d851f4636720f639113e05b4a21a74c&pid=95
+http://127.0.0.1:6878/ace/getstream?id=e9f4493d2d851f4636720f639113e05b4a21a74c&pid=109
 #EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-O. Marseille-Ajax" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-O. Marseille-Ajax
-http://127.0.0.1:6878/ace/getstream?id=97f8a84212fe6b3d2ab15aadc83c7b5e6af656c9&pid=96
+http://127.0.0.1:6878/ace/getstream?id=6fbab1d8d6bf93c4bc7552714aa3bb54ebf7b661&pid=110
+#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-O. Marseille-Ajax" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-O. Marseille-Ajax
+http://127.0.0.1:6878/ace/getstream?id=97f8a84212fe6b3d2ab15aadc83c7b5e6af656c9&pid=111
 #EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Bodø Glimt-Tottenham" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Bodø Glimt-Tottenham
-http://127.0.0.1:6878/ace/getstream?id=152169ce99e1fd27f2249c18384a121079cdef29&pid=97
+http://127.0.0.1:6878/ace/getstream?id=152169ce99e1fd27f2249c18384a121079cdef29&pid=112
 #EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Bodø Glimt-Tottenham" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Bodø Glimt-Tottenham
-http://127.0.0.1:6878/ace/getstream?id=77998f8161373611ff6b348e7eda5b4e97d3ec29&pid=98
+http://127.0.0.1:6878/ace/getstream?id=77998f8161373611ff6b348e7eda5b4e97d3ec29&pid=113
 #EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Bodø Glimt-Tottenham" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Bodø Glimt-Tottenham
-http://127.0.0.1:6878/ace/getstream?id=53cd86466d1faed03a607be92af601f7e8da128f&pid=99
+http://127.0.0.1:6878/ace/getstream?id=53cd86466d1faed03a607be92af601f7e8da128f&pid=114
 #EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Bodø Glimt-Tottenham" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Bodø Glimt-Tottenham
-http://127.0.0.1:6878/ace/getstream?id=e9f4493d2d851f4636720f639113e05b4a21a74c&pid=100
+http://127.0.0.1:6878/ace/getstream?id=e9f4493d2d851f4636720f639113e05b4a21a74c&pid=115
+#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Bodø Glimt-Tottenham" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Bodø Glimt-Tottenham
+http://127.0.0.1:6878/ace/getstream?id=6fbab1d8d6bf93c4bc7552714aa3bb54ebf7b661&pid=116
 #EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Pafos FC-FC Bayern" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Pafos FC-FC Bayern
-http://127.0.0.1:6878/ace/getstream?id=152169ce99e1fd27f2249c18384a121079cdef29&pid=101
+http://127.0.0.1:6878/ace/getstream?id=152169ce99e1fd27f2249c18384a121079cdef29&pid=117
 #EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Pafos FC-FC Bayern" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Pafos FC-FC Bayern
-http://127.0.0.1:6878/ace/getstream?id=77998f8161373611ff6b348e7eda5b4e97d3ec29&pid=102
+http://127.0.0.1:6878/ace/getstream?id=77998f8161373611ff6b348e7eda5b4e97d3ec29&pid=118
 #EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Pafos FC-FC Bayern" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Pafos FC-FC Bayern
-http://127.0.0.1:6878/ace/getstream?id=53cd86466d1faed03a607be92af601f7e8da128f&pid=103
+http://127.0.0.1:6878/ace/getstream?id=53cd86466d1faed03a607be92af601f7e8da128f&pid=119
 #EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Pafos FC-FC Bayern" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Pafos FC-FC Bayern
-http://127.0.0.1:6878/ace/getstream?id=e9f4493d2d851f4636720f639113e05b4a21a74c&pid=104
+http://127.0.0.1:6878/ace/getstream?id=e9f4493d2d851f4636720f639113e05b4a21a74c&pid=120
+#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Pafos FC-FC Bayern" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Pafos FC-FC Bayern
+http://127.0.0.1:6878/ace/getstream?id=6fbab1d8d6bf93c4bc7552714aa3bb54ebf7b661&pid=121
 #EXTINF:-1 tvg-id="08:10-Torneo de Pekín Semifinal 1 ATP 500-J. Sinner-A. De Miñaur" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",08:10-Torneo de Pekín Semifinal 1 ATP 500-J. Sinner-A. De Miñaur
-http://127.0.0.1:6878/ace/getstream?id=ef9dcc4eaac36a0f608b52a31f8ab237859e071a&pid=105
+http://127.0.0.1:6878/ace/getstream?id=ef9dcc4eaac36a0f608b52a31f8ab237859e071a&pid=122
 #EXTINF:-1 tvg-id="08:10-Torneo de Pekín Semifinal 1 ATP 500-J. Sinner-A. De Miñaur" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",08:10-Torneo de Pekín Semifinal 1 ATP 500-J. Sinner-A. De Miñaur
-http://127.0.0.1:6878/ace/getstream?id=332d8fdeb9c51385230b8c9448e047ccc4a6355d&pid=106
+http://127.0.0.1:6878/ace/getstream?id=332d8fdeb9c51385230b8c9448e047ccc4a6355d&pid=123
 #EXTINF:-1 tvg-id="08:10-Torneo de Pekín Semifinal 1 ATP 500-J. Sinner-A. De Miñaur" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",08:10-Torneo de Pekín Semifinal 1 ATP 500-J. Sinner-A. De Miñaur
-http://127.0.0.1:6878/ace/getstream?id=f828a32d8ea03a3cabd3ce3ebecb249ec111c7e5&pid=107
+http://127.0.0.1:6878/ace/getstream?id=f828a32d8ea03a3cabd3ce3ebecb249ec111c7e5&pid=124
 #EXTINF:-1 tvg-id="08:10-Torneo de Pekín Semifinal 1 ATP 500-J. Sinner-A. De Miñaur" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",08:10-Torneo de Pekín Semifinal 1 ATP 500-J. Sinner-A. De Miñaur
-http://127.0.0.1:6878/ace/getstream?id=5d3f582738467aaf213e408601aca5cc13fa9359&pid=108
+http://127.0.0.1:6878/ace/getstream?id=5d3f582738467aaf213e408601aca5cc13fa9359&pid=125
 #EXTINF:-1 tvg-id="08:10-Torneo de Pekín Semifinal 1 ATP 500-J. Sinner-A. De Miñaur" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",08:10-Torneo de Pekín Semifinal 1 ATP 500-J. Sinner-A. De Miñaur
-http://127.0.0.1:6878/ace/getstream?id=3692ea4cdda97eb0062ed5d656ebd61f149ebd0b&pid=109
+http://127.0.0.1:6878/ace/getstream?id=3692ea4cdda97eb0062ed5d656ebd61f149ebd0b&pid=126
 #EXTINF:-1 tvg-id="08:10-Torneo de Pekín Semifinal 1 ATP 500-J. Sinner-A. De Miñaur" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",08:10-Torneo de Pekín Semifinal 1 ATP 500-J. Sinner-A. De Miñaur
-http://127.0.0.1:6878/ace/getstream?id=ebca4a63ce3bfda7b272964a1acc5227218184a4&pid=110
+http://127.0.0.1:6878/ace/getstream?id=ebca4a63ce3bfda7b272964a1acc5227218184a4&pid=127
 #EXTINF:-1 tvg-id="08:10-Torneo de Pekín Semifinal 1 ATP 500-J. Sinner-A. De Miñaur" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",08:10-Torneo de Pekín Semifinal 1 ATP 500-J. Sinner-A. De Miñaur
-http://127.0.0.1:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3&pid=111
+http://127.0.0.1:6878/ace/getstream?id=192.168.1.12:6878/ace/getstream?id=a28e1f7e87ba7ca186f4ecaeab959c698fe1d759&pid=128
 #EXTINF:-1 tvg-id="08:10-Torneo de Pekín Semifinal 1 ATP 500-J. Sinner-A. De Miñaur" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",08:10-Torneo de Pekín Semifinal 1 ATP 500-J. Sinner-A. De Miñaur
-http://127.0.0.1:6878/ace/getstream?id=8c67cdb5ba81976662c3a67984a9545d9cfb0f70&pid=112
+http://127.0.0.1:6878/ace/getstream?id=#EXTINF:-1" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",M+ Deportes HD (sport)</a&pid=129
 #EXTINF:-1 tvg-id="08:10-Torneo de Pekín Semifinal 1 ATP 500-J. Sinner-A. De Miñaur" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",08:10-Torneo de Pekín Semifinal 1 ATP 500-J. Sinner-A. De Miñaur
-http://127.0.0.1:6878/ace/getstream?id=b6ffbbc72a5b6b579faf79ebac229af7a25b933b&pid=113
+http://127.0.0.1:6878/ace/getstream?id=8c67cdb5ba81976662c3a67984a9545d9cfb0f70&pid=130
 #EXTINF:-1 tvg-id="08:10-Torneo de Pekín Semifinal 1 ATP 500-J. Sinner-A. De Miñaur" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",08:10-Torneo de Pekín Semifinal 1 ATP 500-J. Sinner-A. De Miñaur
-http://127.0.0.1:6878/ace/getstream?id=199190e3f28c1de0be34bccf0d3568dc65209b99&pid=114
+http://127.0.0.1:6878/ace/getstream?id=b6ffbbc72a5b6b579faf79ebac229af7a25b933b&pid=131
 #EXTINF:-1 tvg-id="08:10-Torneo de Pekín Semifinal 1 ATP 500-J. Sinner-A. De Miñaur" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",08:10-Torneo de Pekín Semifinal 1 ATP 500-J. Sinner-A. De Miñaur
-http://127.0.0.1:6878/ace/getstream?id=5866e83279307bf919068ae7a0d250e4e424e464&pid=115
+http://127.0.0.1:6878/ace/getstream?id=199190e3f28c1de0be34bccf0d3568dc65209b99&pid=132
 #EXTINF:-1 tvg-id="08:10-Torneo de Pekín Semifinal 1 ATP 500-J. Sinner-A. De Miñaur" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",08:10-Torneo de Pekín Semifinal 1 ATP 500-J. Sinner-A. De Miñaur
-http://127.0.0.1:6878/ace/getstream?id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78&pid=116
+http://127.0.0.1:6878/ace/getstream?id=5866e83279307bf919068ae7a0d250e4e424e464&pid=133
 #EXTINF:-1 tvg-id="08:10-Torneo de Pekín Semifinal 1 ATP 500-J. Sinner-A. De Miñaur" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",08:10-Torneo de Pekín Semifinal 1 ATP 500-J. Sinner-A. De Miñaur
-http://127.0.0.1:6878/ace/getstream?id=755483260c00e095f825286bc8b3562966814022&pid=117
+http://127.0.0.1:6878/ace/getstream?id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78&pid=134
 #EXTINF:-1 tvg-id="08:10-Torneo de Pekín Semifinal 1 ATP 500-J. Sinner-A. De Miñaur" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",08:10-Torneo de Pekín Semifinal 1 ATP 500-J. Sinner-A. De Miñaur
-http://127.0.0.1:6878/ace/getstream?id=96efcc0185c54003ef34c915f6896b92fee9f07a&pid=118
+http://127.0.0.1:6878/ace/getstream?id=3b2a8b41e7097c16b0468b42d7de0320886fa933&pid=135
 #EXTINF:-1 tvg-id="08:10-Torneo de Pekín Semifinal 1 ATP 500-J. Sinner-A. De Miñaur" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",08:10-Torneo de Pekín Semifinal 1 ATP 500-J. Sinner-A. De Miñaur
-http://127.0.0.1:6878/ace/getstream?id=3b2a8b41e7097c16b0468b42d7de0320886fa933&pid=119
+http://127.0.0.1:6878/ace/getstream?id=2940120bf034db79a7f5849846ccea0255172eae&pid=136
 #EXTINF:-1 tvg-id="08:10-Torneo de Pekín Semifinal 1 ATP 500-J. Sinner-A. De Miñaur" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",08:10-Torneo de Pekín Semifinal 1 ATP 500-J. Sinner-A. De Miñaur
-http://127.0.0.1:6878/ace/getstream?id=2940120bf034db79a7f5849846ccea0255172eae&pid=120
+http://127.0.0.1:6878/ace/getstream?id=651d6be899d1fafa107a265a9dc00ff914c1b548&pid=137
 #EXTINF:-1 tvg-id="08:10-Torneo de Pekín Semifinal 1 ATP 500-J. Sinner-A. De Miñaur" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",08:10-Torneo de Pekín Semifinal 1 ATP 500-J. Sinner-A. De Miñaur
-http://127.0.0.1:6878/ace/getstream?id=651d6be899d1fafa107a265a9dc00ff914c1b548&pid=121
+http://127.0.0.1:6878/ace/getstream?id=4e99e755aa32c4bc043a4bb1cd1de35f9bd94dde&pid=138
 #EXTINF:-1 tvg-id="08:10-Torneo de Pekín Semifinal 1 ATP 500-J. Sinner-A. De Miñaur" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",08:10-Torneo de Pekín Semifinal 1 ATP 500-J. Sinner-A. De Miñaur
-http://127.0.0.1:6878/ace/getstream?id=4e99e755aa32c4bc043a4bb1cd1de35f9bd94dde&pid=122
+http://127.0.0.1:6878/ace/getstream?id=c7c81acdd1a03ecc418c94c2f28e2adb0556c40b&pid=139
 #EXTINF:-1 tvg-id="08:10-Torneo de Pekín Semifinal 1 ATP 500-J. Sinner-A. De Miñaur" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",08:10-Torneo de Pekín Semifinal 1 ATP 500-J. Sinner-A. De Miñaur
-http://127.0.0.1:6878/ace/getstream?id=c7c81acdd1a03ecc418c94c2f28e2adb0556c40b&pid=123
+http://127.0.0.1:6878/ace/getstream?id=192.168.1.12:6878/ace/getstream?id=b69ee17ee716edaabd5dd32934c71be4d23736a8&pid=140
 #EXTINF:-1 tvg-id="08:10-Torneo de Pekín Semifinal 1 ATP 500-J. Sinner-A. De Miñaur" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",08:10-Torneo de Pekín Semifinal 1 ATP 500-J. Sinner-A. De Miñaur
-http://127.0.0.1:6878/ace/getstream?id=0e5d8c9724fa9163f49096b70484e315251eb785&pid=124
+http://127.0.0.1:6878/ace/getstream?id=192.168.1.12:6878/ace/getstream?id=ed81c333815247536edfcdb2755147e8c4144d62&pid=141
 #EXTINF:-1 tvg-id="08:10-Torneo de Pekín Semifinal 1 ATP 500-J. Sinner-A. De Miñaur" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",08:10-Torneo de Pekín Semifinal 1 ATP 500-J. Sinner-A. De Miñaur
-http://127.0.0.1:6878/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee&pid=125
+http://127.0.0.1:6878/ace/getstream?id=#EXTINF:-1" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",SuperTennis HD (sport)</a&pid=142
 #EXTINF:-1 tvg-id="08:10-Torneo de Pekín Semifinal 1 ATP 500-J. Sinner-A. De Miñaur" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",08:10-Torneo de Pekín Semifinal 1 ATP 500-J. Sinner-A. De Miñaur
-http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0&pid=126
+http://127.0.0.1:6878/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee&pid=143
 #EXTINF:-1 tvg-id="08:10-Torneo de Pekín Semifinal 1 ATP 500-J. Sinner-A. De Miñaur" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",08:10-Torneo de Pekín Semifinal 1 ATP 500-J. Sinner-A. De Miñaur
-http://127.0.0.1:6878/ace/getstream?id=aa31953b8af44b461102852d5b1247eea95b8050&pid=127
+http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0&pid=144
 #EXTINF:-1 tvg-id="08:10-Torneo de Pekín Semifinal 1 ATP 500-J. Sinner-A. De Miñaur" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",08:10-Torneo de Pekín Semifinal 1 ATP 500-J. Sinner-A. De Miñaur
-http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac&pid=128
+http://127.0.0.1:6878/ace/getstream?id=aa31953b8af44b461102852d5b1247eea95b8050&pid=145
+#EXTINF:-1 tvg-id="08:10-Torneo de Pekín Semifinal 1 ATP 500-J. Sinner-A. De Miñaur" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",08:10-Torneo de Pekín Semifinal 1 ATP 500-J. Sinner-A. De Miñaur
+http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac&pid=146
 #EXTINF:-1 tvg-id="11:00-Torneo de Tokio Final ATP 500-C. Alcaraz-T. Fritz" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",11:00-Torneo de Tokio Final ATP 500-C. Alcaraz-T. Fritz
-http://127.0.0.1:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&pid=129
+http://127.0.0.1:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&pid=147
 #EXTINF:-1 tvg-id="11:00-Torneo de Tokio Final ATP 500-C. Alcaraz-T. Fritz" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",11:00-Torneo de Tokio Final ATP 500-C. Alcaraz-T. Fritz
-http://127.0.0.1:6878/ace/getstream?id=6e212a916c83638268047dd2757c95b14f7d25a3&pid=130
+http://127.0.0.1:6878/ace/getstream?id=6e212a916c83638268047dd2757c95b14f7d25a3&pid=148
 #EXTINF:-1 tvg-id="11:00-Torneo de Tokio Final ATP 500-C. Alcaraz-T. Fritz" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",11:00-Torneo de Tokio Final ATP 500-C. Alcaraz-T. Fritz
-http://127.0.0.1:6878/ace/getstream?id=73d38feaa770d788848ec098470e32670fe55a61&pid=131
+http://127.0.0.1:6878/ace/getstream?id=73d38feaa770d788848ec098470e32670fe55a61&pid=149
 #EXTINF:-1 tvg-id="11:00-Torneo de Tokio Final ATP 500-C. Alcaraz-T. Fritz" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",11:00-Torneo de Tokio Final ATP 500-C. Alcaraz-T. Fritz
-http://127.0.0.1:6878/ace/getstream?id=f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0&pid=132
+http://127.0.0.1:6878/ace/getstream?id=f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0&pid=150
 #EXTINF:-1 tvg-id="11:00-Torneo de Tokio Final ATP 500-C. Alcaraz-T. Fritz" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",11:00-Torneo de Tokio Final ATP 500-C. Alcaraz-T. Fritz
-http://127.0.0.1:6878/ace/getstream?id=bfa01c11c5c6b7a616a516de4f2c769a89d26b25&pid=133
+http://127.0.0.1:6878/ace/getstream?id=bfa01c11c5c6b7a616a516de4f2c769a89d26b25&pid=151
 #EXTINF:-1 tvg-id="11:00-Torneo de Tokio Final ATP 500-C. Alcaraz-T. Fritz" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",11:00-Torneo de Tokio Final ATP 500-C. Alcaraz-T. Fritz
-http://127.0.0.1:6878/ace/getstream?id=8c67cdb5ba81976662c3a67984a9545d9cfb0f70&pid=134
+http://127.0.0.1:6878/ace/getstream?id=3afe1af18f8ff78e9946856911b00c67477052b5&pid=152
 #EXTINF:-1 tvg-id="11:00-Torneo de Tokio Final ATP 500-C. Alcaraz-T. Fritz" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",11:00-Torneo de Tokio Final ATP 500-C. Alcaraz-T. Fritz
-http://127.0.0.1:6878/ace/getstream?id=b6ffbbc72a5b6b579faf79ebac229af7a25b933b&pid=135
+http://127.0.0.1:6878/ace/getstream?id=8c67cdb5ba81976662c3a67984a9545d9cfb0f70&pid=153
 #EXTINF:-1 tvg-id="11:00-Torneo de Tokio Final ATP 500-C. Alcaraz-T. Fritz" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",11:00-Torneo de Tokio Final ATP 500-C. Alcaraz-T. Fritz
-http://127.0.0.1:6878/ace/getstream?id=199190e3f28c1de0be34bccf0d3568dc65209b99&pid=136
+http://127.0.0.1:6878/ace/getstream?id=b6ffbbc72a5b6b579faf79ebac229af7a25b933b&pid=154
 #EXTINF:-1 tvg-id="11:00-Torneo de Tokio Final ATP 500-C. Alcaraz-T. Fritz" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",11:00-Torneo de Tokio Final ATP 500-C. Alcaraz-T. Fritz
-http://127.0.0.1:6878/ace/getstream?id=5866e83279307bf919068ae7a0d250e4e424e464&pid=137
+http://127.0.0.1:6878/ace/getstream?id=199190e3f28c1de0be34bccf0d3568dc65209b99&pid=155
 #EXTINF:-1 tvg-id="11:00-Torneo de Tokio Final ATP 500-C. Alcaraz-T. Fritz" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",11:00-Torneo de Tokio Final ATP 500-C. Alcaraz-T. Fritz
-http://127.0.0.1:6878/ace/getstream?id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78&pid=138
+http://127.0.0.1:6878/ace/getstream?id=5866e83279307bf919068ae7a0d250e4e424e464&pid=156
 #EXTINF:-1 tvg-id="11:00-Torneo de Tokio Final ATP 500-C. Alcaraz-T. Fritz" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",11:00-Torneo de Tokio Final ATP 500-C. Alcaraz-T. Fritz
-http://127.0.0.1:6878/ace/getstream?id=755483260c00e095f825286bc8b3562966814022&pid=139
+http://127.0.0.1:6878/ace/getstream?id=192.168.1.12:6878/ace/getstream?id=b69ee17ee716edaabd5dd32934c71be4d23736a8&pid=157
 #EXTINF:-1 tvg-id="11:00-Torneo de Tokio Final ATP 500-C. Alcaraz-T. Fritz" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",11:00-Torneo de Tokio Final ATP 500-C. Alcaraz-T. Fritz
-http://127.0.0.1:6878/ace/getstream?id=96efcc0185c54003ef34c915f6896b92fee9f07a&pid=140
+http://127.0.0.1:6878/ace/getstream?id=192.168.1.12:6878/ace/getstream?id=ed81c333815247536edfcdb2755147e8c4144d62&pid=158
 #EXTINF:-1 tvg-id="11:00-Torneo de Tokio Final ATP 500-C. Alcaraz-T. Fritz" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",11:00-Torneo de Tokio Final ATP 500-C. Alcaraz-T. Fritz
-http://127.0.0.1:6878/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee&pid=141
+http://127.0.0.1:6878/ace/getstream?id=#EXTINF:-1" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",SuperTennis HD (sport)</a&pid=159
 #EXTINF:-1 tvg-id="11:00-Torneo de Tokio Final ATP 500-C. Alcaraz-T. Fritz" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",11:00-Torneo de Tokio Final ATP 500-C. Alcaraz-T. Fritz
-http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0&pid=142
-#EXTINF:-1 tvg-id="11:00-Torneo de Tokio Final ATP 500-C. Alcaraz-T. Fritz" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",11:00-Torneo de Tokio Final ATP 500-C. Alcaraz-T. Fritz
-http://127.0.0.1:6878/ace/getstream?id=aa31953b8af44b461102852d5b1247eea95b8050&pid=143
-#EXTINF:-1 tvg-id="11:00-Torneo de Tokio Final ATP 500-C. Alcaraz-T. Fritz" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",11:00-Torneo de Tokio Final ATP 500-C. Alcaraz-T. Fritz
-http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac&pid=144
-#EXTINF:-1 tvg-id="11:10-Torneo de Pekín Semifinal 2 ATP 500-L. Tien-D. Medvedev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",11:10-Torneo de Pekín Semifinal 2 ATP 500-L. Tien-D. Medvedev
-http://127.0.0.1:6878/ace/getstream?id=ef9dcc4eaac36a0f608b52a31f8ab237859e071a&pid=145
-#EXTINF:-1 tvg-id="11:10-Torneo de Pekín Semifinal 2 ATP 500-L. Tien-D. Medvedev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",11:10-Torneo de Pekín Semifinal 2 ATP 500-L. Tien-D. Medvedev
-http://127.0.0.1:6878/ace/getstream?id=332d8fdeb9c51385230b8c9448e047ccc4a6355d&pid=146
-#EXTINF:-1 tvg-id="11:10-Torneo de Pekín Semifinal 2 ATP 500-L. Tien-D. Medvedev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",11:10-Torneo de Pekín Semifinal 2 ATP 500-L. Tien-D. Medvedev
-http://127.0.0.1:6878/ace/getstream?id=f828a32d8ea03a3cabd3ce3ebecb249ec111c7e5&pid=147
-#EXTINF:-1 tvg-id="11:10-Torneo de Pekín Semifinal 2 ATP 500-L. Tien-D. Medvedev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",11:10-Torneo de Pekín Semifinal 2 ATP 500-L. Tien-D. Medvedev
-http://127.0.0.1:6878/ace/getstream?id=5d3f582738467aaf213e408601aca5cc13fa9359&pid=148
-#EXTINF:-1 tvg-id="11:10-Torneo de Pekín Semifinal 2 ATP 500-L. Tien-D. Medvedev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",11:10-Torneo de Pekín Semifinal 2 ATP 500-L. Tien-D. Medvedev
-http://127.0.0.1:6878/ace/getstream?id=3692ea4cdda97eb0062ed5d656ebd61f149ebd0b&pid=149
-#EXTINF:-1 tvg-id="11:10-Torneo de Pekín Semifinal 2 ATP 500-L. Tien-D. Medvedev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",11:10-Torneo de Pekín Semifinal 2 ATP 500-L. Tien-D. Medvedev
-http://127.0.0.1:6878/ace/getstream?id=ebca4a63ce3bfda7b272964a1acc5227218184a4&pid=150
-#EXTINF:-1 tvg-id="11:10-Torneo de Pekín Semifinal 2 ATP 500-L. Tien-D. Medvedev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",11:10-Torneo de Pekín Semifinal 2 ATP 500-L. Tien-D. Medvedev
-http://127.0.0.1:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3&pid=151
-#EXTINF:-1 tvg-id="11:10-Torneo de Pekín Semifinal 2 ATP 500-L. Tien-D. Medvedev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",11:10-Torneo de Pekín Semifinal 2 ATP 500-L. Tien-D. Medvedev
-http://127.0.0.1:6878/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee&pid=152
-#EXTINF:-1 tvg-id="11:10-Torneo de Pekín Semifinal 2 ATP 500-L. Tien-D. Medvedev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",11:10-Torneo de Pekín Semifinal 2 ATP 500-L. Tien-D. Medvedev
-http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0&pid=153
-#EXTINF:-1 tvg-id="11:10-Torneo de Pekín Semifinal 2 ATP 500-L. Tien-D. Medvedev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",11:10-Torneo de Pekín Semifinal 2 ATP 500-L. Tien-D. Medvedev
-http://127.0.0.1:6878/ace/getstream?id=aa31953b8af44b461102852d5b1247eea95b8050&pid=154
-#EXTINF:-1 tvg-id="11:10-Torneo de Pekín Semifinal 2 ATP 500-L. Tien-D. Medvedev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",11:10-Torneo de Pekín Semifinal 2 ATP 500-L. Tien-D. Medvedev
-http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac&pid=155
-#EXTINF:-1 tvg-id="14:20-WTA Pekín 1/8 de final-K. Muchova-A. Anisimova" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:20-WTA Pekín 1/8 de final-K. Muchova-A. Anisimova
-http://127.0.0.1:6878/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee&pid=156
-#EXTINF:-1 tvg-id="14:20-WTA Pekín 1/8 de final-K. Muchova-A. Anisimova" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:20-WTA Pekín 1/8 de final-K. Muchova-A. Anisimova
-http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0&pid=157
-#EXTINF:-1 tvg-id="14:20-WTA Pekín 1/8 de final-K. Muchova-A. Anisimova" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:20-WTA Pekín 1/8 de final-K. Muchova-A. Anisimova
-http://127.0.0.1:6878/ace/getstream?id=aa31953b8af44b461102852d5b1247eea95b8050&pid=158
-#EXTINF:-1 tvg-id="14:20-WTA Pekín 1/8 de final-K. Muchova-A. Anisimova" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:20-WTA Pekín 1/8 de final-K. Muchova-A. Anisimova
-http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac&pid=159
-#EXTINF:-1 tvg-id="16:40-WTA Pekín 1/8 de final-J. Paolini-M. Bouzkova" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:40-WTA Pekín 1/8 de final-J. Paolini-M. Bouzkova
 http://127.0.0.1:6878/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee&pid=160
-#EXTINF:-1 tvg-id="16:40-WTA Pekín 1/8 de final-J. Paolini-M. Bouzkova" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:40-WTA Pekín 1/8 de final-J. Paolini-M. Bouzkova
+#EXTINF:-1 tvg-id="11:00-Torneo de Tokio Final ATP 500-C. Alcaraz-T. Fritz" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",11:00-Torneo de Tokio Final ATP 500-C. Alcaraz-T. Fritz
 http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0&pid=161
-#EXTINF:-1 tvg-id="16:40-WTA Pekín 1/8 de final-J. Paolini-M. Bouzkova" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:40-WTA Pekín 1/8 de final-J. Paolini-M. Bouzkova
+#EXTINF:-1 tvg-id="11:00-Torneo de Tokio Final ATP 500-C. Alcaraz-T. Fritz" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",11:00-Torneo de Tokio Final ATP 500-C. Alcaraz-T. Fritz
 http://127.0.0.1:6878/ace/getstream?id=aa31953b8af44b461102852d5b1247eea95b8050&pid=162
-#EXTINF:-1 tvg-id="16:40-WTA Pekín 1/8 de final-J. Paolini-M. Bouzkova" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:40-WTA Pekín 1/8 de final-J. Paolini-M. Bouzkova
+#EXTINF:-1 tvg-id="11:00-Torneo de Tokio Final ATP 500-C. Alcaraz-T. Fritz" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",11:00-Torneo de Tokio Final ATP 500-C. Alcaraz-T. Fritz
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac&pid=163
-#EXTINF:-1 tvg-id="18:00-Euroliga Liga Regular-Hapoel Tel Aviv BC-Barça Basket" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",18:00-Euroliga Liga Regular-Hapoel Tel Aviv BC-Barça Basket
+#EXTINF:-1 tvg-id="11:10-Torneo de Pekín Semifinal 2 ATP 500-L. Tien-D. Medvedev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",11:10-Torneo de Pekín Semifinal 2 ATP 500-L. Tien-D. Medvedev
 http://127.0.0.1:6878/ace/getstream?id=ef9dcc4eaac36a0f608b52a31f8ab237859e071a&pid=164
-#EXTINF:-1 tvg-id="18:00-Euroliga Liga Regular-Hapoel Tel Aviv BC-Barça Basket" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",18:00-Euroliga Liga Regular-Hapoel Tel Aviv BC-Barça Basket
+#EXTINF:-1 tvg-id="11:10-Torneo de Pekín Semifinal 2 ATP 500-L. Tien-D. Medvedev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",11:10-Torneo de Pekín Semifinal 2 ATP 500-L. Tien-D. Medvedev
 http://127.0.0.1:6878/ace/getstream?id=332d8fdeb9c51385230b8c9448e047ccc4a6355d&pid=165
-#EXTINF:-1 tvg-id="18:00-Euroliga Liga Regular-Hapoel Tel Aviv BC-Barça Basket" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",18:00-Euroliga Liga Regular-Hapoel Tel Aviv BC-Barça Basket
+#EXTINF:-1 tvg-id="11:10-Torneo de Pekín Semifinal 2 ATP 500-L. Tien-D. Medvedev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",11:10-Torneo de Pekín Semifinal 2 ATP 500-L. Tien-D. Medvedev
 http://127.0.0.1:6878/ace/getstream?id=f828a32d8ea03a3cabd3ce3ebecb249ec111c7e5&pid=166
-#EXTINF:-1 tvg-id="18:00-Euroliga Liga Regular-Hapoel Tel Aviv BC-Barça Basket" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",18:00-Euroliga Liga Regular-Hapoel Tel Aviv BC-Barça Basket
+#EXTINF:-1 tvg-id="11:10-Torneo de Pekín Semifinal 2 ATP 500-L. Tien-D. Medvedev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",11:10-Torneo de Pekín Semifinal 2 ATP 500-L. Tien-D. Medvedev
 http://127.0.0.1:6878/ace/getstream?id=5d3f582738467aaf213e408601aca5cc13fa9359&pid=167
-#EXTINF:-1 tvg-id="18:00-Euroliga Liga Regular-Hapoel Tel Aviv BC-Barça Basket" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",18:00-Euroliga Liga Regular-Hapoel Tel Aviv BC-Barça Basket
+#EXTINF:-1 tvg-id="11:10-Torneo de Pekín Semifinal 2 ATP 500-L. Tien-D. Medvedev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",11:10-Torneo de Pekín Semifinal 2 ATP 500-L. Tien-D. Medvedev
 http://127.0.0.1:6878/ace/getstream?id=3692ea4cdda97eb0062ed5d656ebd61f149ebd0b&pid=168
-#EXTINF:-1 tvg-id="18:00-Euroliga Liga Regular-Hapoel Tel Aviv BC-Barça Basket" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",18:00-Euroliga Liga Regular-Hapoel Tel Aviv BC-Barça Basket
+#EXTINF:-1 tvg-id="11:10-Torneo de Pekín Semifinal 2 ATP 500-L. Tien-D. Medvedev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",11:10-Torneo de Pekín Semifinal 2 ATP 500-L. Tien-D. Medvedev
 http://127.0.0.1:6878/ace/getstream?id=ebca4a63ce3bfda7b272964a1acc5227218184a4&pid=169
+#EXTINF:-1 tvg-id="11:10-Torneo de Pekín Semifinal 2 ATP 500-L. Tien-D. Medvedev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",11:10-Torneo de Pekín Semifinal 2 ATP 500-L. Tien-D. Medvedev
+http://127.0.0.1:6878/ace/getstream?id=192.168.1.12:6878/ace/getstream?id=a28e1f7e87ba7ca186f4ecaeab959c698fe1d759&pid=170
+#EXTINF:-1 tvg-id="11:10-Torneo de Pekín Semifinal 2 ATP 500-L. Tien-D. Medvedev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",11:10-Torneo de Pekín Semifinal 2 ATP 500-L. Tien-D. Medvedev
+http://127.0.0.1:6878/ace/getstream?id=192.168.1.12:6878/ace/getstream?id=b69ee17ee716edaabd5dd32934c71be4d23736a8&pid=171
+#EXTINF:-1 tvg-id="11:10-Torneo de Pekín Semifinal 2 ATP 500-L. Tien-D. Medvedev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",11:10-Torneo de Pekín Semifinal 2 ATP 500-L. Tien-D. Medvedev
+http://127.0.0.1:6878/ace/getstream?id=192.168.1.12:6878/ace/getstream?id=ed81c333815247536edfcdb2755147e8c4144d62&pid=172
+#EXTINF:-1 tvg-id="11:10-Torneo de Pekín Semifinal 2 ATP 500-L. Tien-D. Medvedev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",11:10-Torneo de Pekín Semifinal 2 ATP 500-L. Tien-D. Medvedev
+http://127.0.0.1:6878/ace/getstream?id=#EXTINF:-1" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",SuperTennis HD (sport)</a&pid=173
+#EXTINF:-1 tvg-id="11:10-Torneo de Pekín Semifinal 2 ATP 500-L. Tien-D. Medvedev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",11:10-Torneo de Pekín Semifinal 2 ATP 500-L. Tien-D. Medvedev
+http://127.0.0.1:6878/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee&pid=174
+#EXTINF:-1 tvg-id="11:10-Torneo de Pekín Semifinal 2 ATP 500-L. Tien-D. Medvedev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",11:10-Torneo de Pekín Semifinal 2 ATP 500-L. Tien-D. Medvedev
+http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0&pid=175
+#EXTINF:-1 tvg-id="11:10-Torneo de Pekín Semifinal 2 ATP 500-L. Tien-D. Medvedev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",11:10-Torneo de Pekín Semifinal 2 ATP 500-L. Tien-D. Medvedev
+http://127.0.0.1:6878/ace/getstream?id=aa31953b8af44b461102852d5b1247eea95b8050&pid=176
+#EXTINF:-1 tvg-id="11:10-Torneo de Pekín Semifinal 2 ATP 500-L. Tien-D. Medvedev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",11:10-Torneo de Pekín Semifinal 2 ATP 500-L. Tien-D. Medvedev
+http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac&pid=177
+#EXTINF:-1 tvg-id="14:20-WTA Pekín 1/8 de final-K. Muchova-A. Anisimova" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:20-WTA Pekín 1/8 de final-K. Muchova-A. Anisimova
+http://127.0.0.1:6878/ace/getstream?id=192.168.1.12:6878/ace/getstream?id=ed81c333815247536edfcdb2755147e8c4144d62&pid=178
+#EXTINF:-1 tvg-id="14:20-WTA Pekín 1/8 de final-K. Muchova-A. Anisimova" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:20-WTA Pekín 1/8 de final-K. Muchova-A. Anisimova
+http://127.0.0.1:6878/ace/getstream?id=#EXTINF:-1" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",SuperTennis HD (sport)</a&pid=179
+#EXTINF:-1 tvg-id="14:20-WTA Pekín 1/8 de final-K. Muchova-A. Anisimova" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:20-WTA Pekín 1/8 de final-K. Muchova-A. Anisimova
+http://127.0.0.1:6878/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee&pid=180
+#EXTINF:-1 tvg-id="14:20-WTA Pekín 1/8 de final-K. Muchova-A. Anisimova" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:20-WTA Pekín 1/8 de final-K. Muchova-A. Anisimova
+http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0&pid=181
+#EXTINF:-1 tvg-id="14:20-WTA Pekín 1/8 de final-K. Muchova-A. Anisimova" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:20-WTA Pekín 1/8 de final-K. Muchova-A. Anisimova
+http://127.0.0.1:6878/ace/getstream?id=aa31953b8af44b461102852d5b1247eea95b8050&pid=182
+#EXTINF:-1 tvg-id="14:20-WTA Pekín 1/8 de final-K. Muchova-A. Anisimova" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:20-WTA Pekín 1/8 de final-K. Muchova-A. Anisimova
+http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac&pid=183
+#EXTINF:-1 tvg-id="16:40-WTA Pekín 1/8 de final-J. Paolini-M. Bouzkova" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:40-WTA Pekín 1/8 de final-J. Paolini-M. Bouzkova
+http://127.0.0.1:6878/ace/getstream?id=192.168.1.12:6878/ace/getstream?id=ed81c333815247536edfcdb2755147e8c4144d62&pid=184
+#EXTINF:-1 tvg-id="16:40-WTA Pekín 1/8 de final-J. Paolini-M. Bouzkova" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:40-WTA Pekín 1/8 de final-J. Paolini-M. Bouzkova
+http://127.0.0.1:6878/ace/getstream?id=#EXTINF:-1" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",SuperTennis HD (sport)</a&pid=185
+#EXTINF:-1 tvg-id="16:40-WTA Pekín 1/8 de final-J. Paolini-M. Bouzkova" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:40-WTA Pekín 1/8 de final-J. Paolini-M. Bouzkova
+http://127.0.0.1:6878/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee&pid=186
+#EXTINF:-1 tvg-id="16:40-WTA Pekín 1/8 de final-J. Paolini-M. Bouzkova" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:40-WTA Pekín 1/8 de final-J. Paolini-M. Bouzkova
+http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0&pid=187
+#EXTINF:-1 tvg-id="16:40-WTA Pekín 1/8 de final-J. Paolini-M. Bouzkova" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:40-WTA Pekín 1/8 de final-J. Paolini-M. Bouzkova
+http://127.0.0.1:6878/ace/getstream?id=aa31953b8af44b461102852d5b1247eea95b8050&pid=188
+#EXTINF:-1 tvg-id="16:40-WTA Pekín 1/8 de final-J. Paolini-M. Bouzkova" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:40-WTA Pekín 1/8 de final-J. Paolini-M. Bouzkova
+http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac&pid=189
 #EXTINF:-1 tvg-id="18:00-Euroliga Liga Regular-Hapoel Tel Aviv BC-Barça Basket" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",18:00-Euroliga Liga Regular-Hapoel Tel Aviv BC-Barça Basket
-http://127.0.0.1:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3&pid=170
+http://127.0.0.1:6878/ace/getstream?id=ef9dcc4eaac36a0f608b52a31f8ab237859e071a&pid=190
+#EXTINF:-1 tvg-id="18:00-Euroliga Liga Regular-Hapoel Tel Aviv BC-Barça Basket" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",18:00-Euroliga Liga Regular-Hapoel Tel Aviv BC-Barça Basket
+http://127.0.0.1:6878/ace/getstream?id=332d8fdeb9c51385230b8c9448e047ccc4a6355d&pid=191
+#EXTINF:-1 tvg-id="18:00-Euroliga Liga Regular-Hapoel Tel Aviv BC-Barça Basket" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",18:00-Euroliga Liga Regular-Hapoel Tel Aviv BC-Barça Basket
+http://127.0.0.1:6878/ace/getstream?id=f828a32d8ea03a3cabd3ce3ebecb249ec111c7e5&pid=192
+#EXTINF:-1 tvg-id="18:00-Euroliga Liga Regular-Hapoel Tel Aviv BC-Barça Basket" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",18:00-Euroliga Liga Regular-Hapoel Tel Aviv BC-Barça Basket
+http://127.0.0.1:6878/ace/getstream?id=5d3f582738467aaf213e408601aca5cc13fa9359&pid=193
+#EXTINF:-1 tvg-id="18:00-Euroliga Liga Regular-Hapoel Tel Aviv BC-Barça Basket" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",18:00-Euroliga Liga Regular-Hapoel Tel Aviv BC-Barça Basket
+http://127.0.0.1:6878/ace/getstream?id=3692ea4cdda97eb0062ed5d656ebd61f149ebd0b&pid=194
+#EXTINF:-1 tvg-id="18:00-Euroliga Liga Regular-Hapoel Tel Aviv BC-Barça Basket" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",18:00-Euroliga Liga Regular-Hapoel Tel Aviv BC-Barça Basket
+http://127.0.0.1:6878/ace/getstream?id=ebca4a63ce3bfda7b272964a1acc5227218184a4&pid=195
+#EXTINF:-1 tvg-id="18:00-Euroliga Liga Regular-Hapoel Tel Aviv BC-Barça Basket" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",18:00-Euroliga Liga Regular-Hapoel Tel Aviv BC-Barça Basket
+http://127.0.0.1:6878/ace/getstream?id=192.168.1.12:6878/ace/getstream?id=a28e1f7e87ba7ca186f4ecaeab959c698fe1d759&pid=196
+#EXTINF:-1 tvg-id="18:00-Euroliga Liga Regular-Hapoel Tel Aviv BC-Barça Basket" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",18:00-Euroliga Liga Regular-Hapoel Tel Aviv BC-Barça Basket
+http://127.0.0.1:6878/ace/getstream?id=#EXTINF:-1" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",M+ Deportes HD (sport)</a&pid=197
 #EXTINF:-1 tvg-id="18:00-Euroliga Liga Regular-Dubai Basketball-BC Partizan Beograd" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",18:00-Euroliga Liga Regular-Dubai Basketball-BC Partizan Beograd
-http://127.0.0.1:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&pid=171
+http://127.0.0.1:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&pid=198
 #EXTINF:-1 tvg-id="18:00-Euroliga Liga Regular-Dubai Basketball-BC Partizan Beograd" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",18:00-Euroliga Liga Regular-Dubai Basketball-BC Partizan Beograd
-http://127.0.0.1:6878/ace/getstream?id=6e212a916c83638268047dd2757c95b14f7d25a3&pid=172
+http://127.0.0.1:6878/ace/getstream?id=6e212a916c83638268047dd2757c95b14f7d25a3&pid=199
 #EXTINF:-1 tvg-id="18:00-Euroliga Liga Regular-Dubai Basketball-BC Partizan Beograd" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",18:00-Euroliga Liga Regular-Dubai Basketball-BC Partizan Beograd
-http://127.0.0.1:6878/ace/getstream?id=73d38feaa770d788848ec098470e32670fe55a61&pid=173
+http://127.0.0.1:6878/ace/getstream?id=73d38feaa770d788848ec098470e32670fe55a61&pid=200
 #EXTINF:-1 tvg-id="18:00-Euroliga Liga Regular-Dubai Basketball-BC Partizan Beograd" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",18:00-Euroliga Liga Regular-Dubai Basketball-BC Partizan Beograd
-http://127.0.0.1:6878/ace/getstream?id=f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0&pid=174
+http://127.0.0.1:6878/ace/getstream?id=f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0&pid=201
 #EXTINF:-1 tvg-id="18:00-Euroliga Liga Regular-Dubai Basketball-BC Partizan Beograd" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",18:00-Euroliga Liga Regular-Dubai Basketball-BC Partizan Beograd
-http://127.0.0.1:6878/ace/getstream?id=bfa01c11c5c6b7a616a516de4f2c769a89d26b25&pid=175
+http://127.0.0.1:6878/ace/getstream?id=bfa01c11c5c6b7a616a516de4f2c769a89d26b25&pid=202
+#EXTINF:-1 tvg-id="18:00-Euroliga Liga Regular-Dubai Basketball-BC Partizan Beograd" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",18:00-Euroliga Liga Regular-Dubai Basketball-BC Partizan Beograd
+http://127.0.0.1:6878/ace/getstream?id=3afe1af18f8ff78e9946856911b00c67477052b5&pid=203
