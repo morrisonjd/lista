@@ -355,6 +355,8 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=bdc32e0f99653f96e0e1a3b98c88764b631ed
 http://127.0.0.1:6878/ace/manifest.m3u8?id=7a955964c91c66311eef9137a96332352dbb891e
 #EXTINF:-1 tvg-id="Caza y Pesca" group-title="New Era",Caza y Pesca
 http://127.0.0.1:6878/ace/manifest.m3u8?id=277a6fb47189db801c5b7b05ad89c690571f3e9c
+#EXTINF:-1 tvg-id="TVP Historia" group-title="Desconocido",TVP Historia
+http://127.0.0.1:6878/ace/manifest.m3u8?id=a392b5865031ec8bbdd6120b3418879b0b035f08
 #EXTINF:-1 tvg-id="Discovery" group-title="New Era",Discovery
 http://127.0.0.1:6878/ace/manifest.m3u8?id=670519ffe8db1e20d0c753d4f756c009e71173d8
 #EXTINF:-1 tvg-id="Canal Cocina" group-title="New Era",Canal Cocina
@@ -477,6 +479,20 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=b63943c30eebd1c3d1a7292af23ce12f8867f
 http://127.0.0.1:6878/ace/manifest.m3u8?id=36bd5c1fdf09e5e92aa68cc642ae2d4db6694526
 #EXTINF:-1 tvg-id="FOX RU" group-title="Antigua",FOX RU
 http://127.0.0.1:6878/ace/manifest.m3u8?id=df94afd23701839b3fdcdf669c73f2e3d656126e
+#EXTINF:-1 tvg-id="TVP Sport" group-title="Desconocido",TVP Sport
+http://127.0.0.1:6878/ace/manifest.m3u8?id=d6f0a6377c31f68b1c1c071e0a8f9f105a455867
+#EXTINF:-1 tvg-id="TVP 1" group-title="Desconocido",TVP 1
+http://127.0.0.1:6878/ace/manifest.m3u8?id=d31d828052a432246e59e7d0d640bd55a64f1859
+#EXTINF:-1 tvg-id="Polsat Sport Premium 1" group-title="Desconocido",Polsat Sport Premium 1
+http://127.0.0.1:6878/ace/manifest.m3u8?id=4ce55db7e578ff52a6e526cf610e477464b8a99f
+#EXTINF:-1 tvg-id="Polsat Sport Premium 2" group-title="Desconocido",Polsat Sport Premium 2
+http://127.0.0.1:6878/ace/manifest.m3u8?id=3147c586346aee00c005d1caa55204d38678c95f
+#EXTINF:-1 tvg-id="Polsat Sport" group-title="Desconocido",Polsat Sport
+http://127.0.0.1:6878/ace/manifest.m3u8?id=92b6ba09dae4bbb8a67a405125d08ca8d15380ee
+#EXTINF:-1 tvg-id="Polsat Sport Extra" group-title="Desconocido",Polsat Sport Extra
+http://127.0.0.1:6878/ace/manifest.m3u8?id=ef2cf11fc83f4f15a33c9a514a7afd2bce73122f
+#EXTINF:-1 tvg-id="Polsat Sport Fight" group-title="Desconocido",Polsat Sport Fight
+http://127.0.0.1:6878/ace/manifest.m3u8?id=9e7fe279f421b734a8af9e68320955fd16f80b4b
 #EXTINF:-1 tvg-id="FOX Comedy" group-title="Antigua",FOX Comedy
 http://127.0.0.1:6878/ace/manifest.m3u8?id=8fb7f8107213a9020f298c8d0068ea86d0713d01
 #EXTINF:-1 tvg-id="FOX PL" group-title="Antigua",FOX PL
@@ -489,28 +505,32 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=7d50d90895f44e97039eca21ae6bc17172acc
 http://127.0.0.1:6878/ace/manifest.m3u8?id=c9d6412050226de0968cea19a383b50dc1966363
 #EXTINF:-1 tvg-id="ORF 2" group-title="Antigua",ORF 2
 http://127.0.0.1:6878/ace/manifest.m3u8?id=f5d3ea421c4c067b5c90161a8ae4d93482fb9edd
-#EXTINF:-1 tvg-id="SPORTDIGITAL FUSSBALL GER" group-title="Desconocido",SPORTDIGITAL FUSSBALL GER
-http://127.0.0.1:6878/ace/manifest.m3u8?id=5e94200ae8b1d95cb559fb150e5993d92e15d4e7
 #EXTINF:-1 tvg-id="MOTORVISION.TV" group-title="New Loop",MOTORVISION.TV
 http://127.0.0.1:6878/ace/manifest.m3u8?id=9c75e6ed0671eec6670cb2eabcc7d78267c7f404
 #EXTINF:-1 tvg-id="MOTORVISION.TV" group-title="Desconocido",MOTORVISION.TV
 http://127.0.0.1:6878/ace/manifest.m3u8?id=acd7e3ae185a376e6596e60a414bebbf3321b37f
-#EXTINF:-1 tvg-id="Eurosport 360 1" group-title="Desconocido",Eurosport 360 1
-http://127.0.0.1:6878/ace/manifest.m3u8?id=22df9a5fae8cae52fec925c2bb44b74f96a4200c
-#EXTINF:-1 tvg-id="Eurosport 360 2" group-title="Desconocido",Eurosport 360 2
-http://127.0.0.1:6878/ace/manifest.m3u8?id=57f95543ac41656d473b1a27123fc413388a728c
-#EXTINF:-1 tvg-id="Eurosport 360 3" group-title="Desconocido",Eurosport 360 3
-http://127.0.0.1:6878/ace/manifest.m3u8?id=7adbca42657ace1fe228142d351d0896974bbe0c
-#EXTINF:-1 tvg-id="Eurosport 360 4" group-title="Desconocido",Eurosport 360 4
-http://127.0.0.1:6878/ace/manifest.m3u8?id=1b6b6c0ddc0534236b3bae78f41d2bc27cd11f64
-#EXTINF:-1 tvg-id="Eurosport 360 5" group-title="Desconocido",Eurosport 360 5
-http://127.0.0.1:6878/ace/manifest.m3u8?id=148921c4dda96df445e253d6f26c4d092bf85809
-#EXTINF:-1 tvg-id="Eurosport 360 6" group-title="Desconocido",Eurosport 360 6
-http://127.0.0.1:6878/ace/manifest.m3u8?id=005ac522315699bd93bbf743329eb2f3c347dc3f
-#EXTINF:-1 tvg-id="Eurosport 360 7" group-title="Desconocido",Eurosport 360 7
-http://127.0.0.1:6878/ace/manifest.m3u8?id=b18657f64507cc859cd7edef1aef90feb053e791
-#EXTINF:-1 tvg-id="Eurosport 360 8" group-title="Desconocido",Eurosport 360 8
-http://127.0.0.1:6878/ace/manifest.m3u8?id=8f4f572005ca2557743474087aa622693ba9b5fe
+#EXTINF:-1 tvg-id="Magenta Sport 1" group-title="Desconocido",Magenta Sport 1
+http://127.0.0.1:6878/ace/manifest.m3u8?id=501141c649a2b78c4965cbf3257224181cc55072
+#EXTINF:-1 tvg-id="Magenta Sport 2" group-title="Desconocido",Magenta Sport 2
+http://127.0.0.1:6878/ace/manifest.m3u8?id=ab0d54995bdcea2d8f9f588ef631ebbfb3f5a9ab
+#EXTINF:-1 tvg-id="Magenta Sport 3" group-title="Desconocido",Magenta Sport 3
+http://127.0.0.1:6878/ace/manifest.m3u8?id=d0ca51f6145514ee605c2ef5d5a137e2a08c95b8
+#EXTINF:-1 tvg-id="Magenta Sport 4" group-title="Desconocido",Magenta Sport 4
+http://127.0.0.1:6878/ace/manifest.m3u8?id=1fb794b1503c5955b75ea0106ee6360b80d78849
+#EXTINF:-1 tvg-id="Magenta Sport 5" group-title="Desconocido",Magenta Sport 5
+http://127.0.0.1:6878/ace/manifest.m3u8?id=428b92f3c71cd3cbf66ef6193808b39d16a52730
+#EXTINF:-1 tvg-id="Magenta Sport 6" group-title="Desconocido",Magenta Sport 6
+http://127.0.0.1:6878/ace/manifest.m3u8?id=14317c55fadc80ef2b7fb42b3d53e8ccb3b52cd8
+#EXTINF:-1 tvg-id="Magenta Sport 7" group-title="Desconocido",Magenta Sport 7
+http://127.0.0.1:6878/ace/manifest.m3u8?id=ac839cda9709255c21a98af455731f037e77a9e4
+#EXTINF:-1 tvg-id="Magenta Sport 8" group-title="Desconocido",Magenta Sport 8
+http://127.0.0.1:6878/ace/manifest.m3u8?id=11c5823d4196a90b509f03df1fe78e13cfbbb175
+#EXTINF:-1 tvg-id="Magenta Sport 9" group-title="Desconocido",Magenta Sport 9
+http://127.0.0.1:6878/ace/manifest.m3u8?id=86495fe134ff065d5217497babe6be33f81d37d1
+#EXTINF:-1 tvg-id="Magenta Sport 10" group-title="Desconocido",Magenta Sport 10
+http://127.0.0.1:6878/ace/manifest.m3u8?id=6058a4c0f2569bd81c687aa7dfb48b8a9569fb29
+#EXTINF:-1 tvg-id="Magenta Sport 11" group-title="Desconocido",Magenta Sport 11
+http://127.0.0.1:6878/ace/manifest.m3u8?id=c21316ad4b7f44eaf6fcfb2c245c46de8b746cc6
 #EXTINF:-1 tvg-id="Eurosport 360 9" group-title="Antigua",Eurosport 360 9
 http://127.0.0.1:6878/ace/manifest.m3u8?id=7993cecc31917793e2bfa2fe98faa9fe1ab62d47
 #EXTINF:-1 tvg-id="Sky Sports Main Event" group-title="New Loop",Sky Sports Main Event
@@ -579,9 +599,19 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=fcd7621df513f600652b4813d5d8fd1daed60
 http://127.0.0.1:6878/ace/manifest.m3u8?id=868a6187d6aeec65ded84bd777814c9f7b7a9027
 #EXTINF:-1 tvg-id="Ziggo Sport 6" group-title="New Loop",Ziggo Sport 6
 http://127.0.0.1:6878/ace/manifest.m3u8?id=9231f38e71a85ad24b4c11a5e360992e30c916ed
+#EXTINF:-1 tvg-id="beIN SPORTS HABER" group-title="Desconocido",beIN SPORTS HABER
+http://127.0.0.1:6878/ace/manifest.m3u8?id=47c1b3a68d03bd190fed521d144ad08fa0f195f3
+#EXTINF:-1 tvg-id="beIN SPORTS 1" group-title="Desconocido",beIN SPORTS 1
+http://127.0.0.1:6878/ace/manifest.m3u8?id=118416583faa3fb4f03800173429b6b844b43a52
 #EXTINF:-1 tvg-id="beIN SPORTS 1" group-title="New Loop",beIN SPORTS 1
 http://127.0.0.1:6878/ace/manifest.m3u8?id=bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
+#EXTINF:-1 tvg-id="beIN SPORTS 2" group-title="Desconocido",beIN SPORTS 2
+http://127.0.0.1:6878/ace/manifest.m3u8?id=48bee10b883f17c7186d60f1e8022dca0ba41a05
 #EXTINF:-1 tvg-id="beIN SPORTS 2" group-title="New Loop",beIN SPORTS 2
 http://127.0.0.1:6878/ace/manifest.m3u8?id=edb507e38394d614c9ff55805c9d354ae13210bc
+#EXTINF:-1 tvg-id="beIN SPORTS 3" group-title="Desconocido",beIN SPORTS 3
+http://127.0.0.1:6878/ace/manifest.m3u8?id=ed81c333815247536edfcdb2755147e8c4144d62
 #EXTINF:-1 tvg-id="beIN SPORTS 3" group-title="New Loop",beIN SPORTS 3
 http://127.0.0.1:6878/ace/manifest.m3u8?id=731bd3336ec0986ff9100efe40dbaf1473a22cf8
+#EXTINF:-1 tvg-id="beIN SPORTS 4" group-title="Desconocido",beIN SPORTS 4
+http://127.0.0.1:6878/ace/manifest.m3u8?id=7683cd0cbacf55fa8b39c363219ffba1bc47cf9d
