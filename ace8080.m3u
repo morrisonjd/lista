@@ -479,8 +479,94 @@ pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=b63943c30ee
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=36bd5c1fdf09e5e92aa68cc642ae2d4db6694526
 #EXTINF:-1 tvg-id="FOX RU" group-title="Antigua",FOX RU
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=df94afd23701839b3fdcdf669c73f2e3d656126e
+#EXTINF:-1 tvg-id="Russian Extreme Ultra" group-title="Desconocido",Russian Extreme Ultra
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=9214a597a38ed669aba1fe73351a580b1a77ce6e
+#EXTINF:-1 tvg-id="Бокс ТВ" group-title="Desconocido",Бокс ТВ
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=1acaf203502983cd2993c6835bf0cbde8d016c3d
+#EXTINF:-1 tvg-id="Дождь" group-title="Desconocido",Дождь
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=4b91bbf01a5574583e7e4af5b258de3e454d83e4
+#EXTINF:-1 tvg-id="Домашний" group-title="Desconocido",Домашний
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=66e2f44bd0a7687a61f5cc4f03bcfc20a505057c
+#EXTINF:-1 tvg-id="КИНО" group-title="Desconocido",КИНО
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=038b448c810cad19a2a9e615d94696a23141e379
+#EXTINF:-1 tvg-id="Конный мир" group-title="Desconocido",Конный мир
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=96951e5de62a3e7095a1ed8a191817c8935e7017
+#EXTINF:-1 tvg-id="Кто есть кто" group-title="Desconocido",Кто есть кто
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=16201468d380dafc1921287db09289dc83d688c0
+#EXTINF:-1 tvg-id="Кухня ТВ" group-title="Desconocido",Кухня ТВ
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=a90a4172c6e146c87a92e32b5a8ed6af12ba0237
+#EXTINF:-1 tvg-id="КХЛ" group-title="Desconocido",КХЛ
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=dcda9de85f7d662c5c3c2efd74eca0fb5c6aab3b
+#EXTINF:-1 tvg-id="Матч! Арена" group-title="Desconocido",Матч! Арена
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=a1d67cb505881b2b5bc58ce2af367e5e6d26cab5
+#EXTINF:-1 tvg-id="Матч! Боец" group-title="Desconocido",Матч! Боец
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=822654b2c0db24d1de149cb21fdd44a3b968fbfa
+#EXTINF:-1 tvg-id="Матч! Игра" group-title="Desconocido",Матч! Игра
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=762e1d11f7d07029f316c6f61b8ef73289c6673c
+#EXTINF:-1 tvg-id="МАТЧ! Планета" group-title="Desconocido",МАТЧ! Планета
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=106c8656fca0ca91a696110467788d202d7111af
+#EXTINF:-1 tvg-id="Матч! Премьер" group-title="Desconocido",Матч! Премьер
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12
+#EXTINF:-1 tvg-id="Матч! Страна" group-title="Desconocido",Матч! Страна
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=ef9c77bd94783448b8edb552109f5f15b2bd82d1
+#EXTINF:-1 tvg-id="Матч! ТВ" group-title="Desconocido",Матч! ТВ
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
+#EXTINF:-1 tvg-id="Матч! Футбол 1" group-title="Desconocido",Матч! Футбол 1
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=b28db77c5084da7993395d77df96c30bb134f0a9
+#EXTINF:-1 tvg-id="Матч! Футбол 2" group-title="Desconocido",Матч! Футбол 2
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=ffbf8c687c788d9a1a7c651e24802ee773ff3f04
+#EXTINF:-1 tvg-id="Матч! Футбол 3" group-title="Desconocido",Матч! Футбол 3
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e
+#EXTINF:-1 tvg-id="Мир Баскетбола" group-title="Desconocido",Мир Баскетбола
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=c4acde347445b0a07a9e8695b4254bee2b2df570
+#EXTINF:-1 tvg-id="Наша сибирь" group-title="Desconocido",Наша сибирь
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=4b7237f2e654d6c1e03ece1d2fffc249e0324ae6
+#EXTINF:-1 tvg-id="Пятница" group-title="Desconocido",Пятница
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=10d62d03d9fd2a9e84f639ed40a42e6a13940fce
+#EXTINF:-1 tvg-id="Русский Экстрим" group-title="Desconocido",Русский Экстрим
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=ed63659df12baa6febbe70f4125b6527aa1ae413
+#EXTINF:-1 tvg-id="Спортивный" group-title="Desconocido",Спортивный
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=8410d89a5767b250cd752381672aeb5fbe2240d3
+#EXTINF:-1 tvg-id="Старт" group-title="Desconocido",Старт
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=4b129146077c1e357e4ab341448b9fb629f939dc
+#EXTINF:-1 tvg-id="СТС" group-title="Desconocido",СТС
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=5e06a45d6939341fb7427189245380086c1d63c7
+#EXTINF:-1 tvg-id="СТС Love" group-title="Desconocido",СТС Love
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=d586953ebbdb28493eecd8d8e8527557a231201d
+#EXTINF:-1 tvg-id="Суббота!" group-title="Desconocido",Суббота!
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=14002498165f0a7aaaea284ebb9965f078eb0f69
+#EXTINF:-1 tvg-id="ТВ 3" group-title="Desconocido",ТВ 3
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=3b878b202b26e2b15bf7304e21a7d5283ebf236b
+#EXTINF:-1 tvg-id="ТНТ4" group-title="Desconocido",ТНТ4
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=da27959a3e9ee97647df5aadd056021099e2d845
+#EXTINF:-1 tvg-id="Точка отрыва" group-title="Desconocido",Точка отрыва
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=ee5cd7316e917f156bf8d176a11da98fe403b0b2
+#EXTINF:-1 tvg-id="Футбол" group-title="Desconocido",Футбол
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=fce354f24fe26ca527e2c38b14eb7b0c81f756dd
+#EXTINF:-1 tvg-id="Футбольный" group-title="Desconocido",Футбольный
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=92f8939c7bff6bcb7e6da39379bb3d7a6a76693f
+#EXTINF:-1 tvg-id="Хоккейный" group-title="Desconocido",Хоккейный
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=99f0646986e9266836dd79047dedecb04e243857
+#EXTINF:-1 tvg-id="arte" group-title="Desconocido",arte
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=101c4c7e056242758b112382c4e314472795ae37
+#EXTINF:-1 tvg-id="DAZN PVV" group-title="New Era",DAZN PVV
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=34944c86bad01c3963ef113c28c033858085adb7
+#EXTINF:-1 tvg-id="E!" group-title="Desconocido",E!
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=70cd3b5f96fb8d415099263226309aab3c616459
+#EXTINF:-1 tvg-id="Setanta Live 1" group-title="Desconocido",Setanta Live 1
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
+#EXTINF:-1 tvg-id="Setanta Live 2" group-title="Desconocido",Setanta Live 2
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=f6d68cfa8694f814983f2a5757f4e0c4964b880c
 #EXTINF:-1 tvg-id="TVP Sport" group-title="Desconocido",TVP Sport
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=d6f0a6377c31f68b1c1c071e0a8f9f105a455867
+#EXTINF:-1 tvg-id="Extreme Sp" group-title="Desconocido",Extreme Sp
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=73ff07648e367efebd94636047b07625f664a082
+"FastacestreamFunbox" group-title="Desconocido",FastacestreamFunbox
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=c811cde690d467a2e45d3c263c4f0960a3933d18
+#EXTINF:-1 tvg-id="FightBox" group-title="Desconocido",FightBox
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=49b734a5a3365674480089264be00ae28fabb640
+#EXTINF:-1 tvg-id="FightBox" group-title="Desconocido",FightBox
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=d9e5e213121f3ea7fbcb216b48c306cd935b017a
 #EXTINF:-1 tvg-id="TVP 1" group-title="Desconocido",TVP 1
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=d31d828052a432246e59e7d0d640bd55a64f1859
 #EXTINF:-1 tvg-id="Polsat Sport Premium 1" group-title="Desconocido",Polsat Sport Premium 1
@@ -531,8 +617,166 @@ pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=86495fe134f
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=6058a4c0f2569bd81c687aa7dfb48b8a9569fb29
 #EXTINF:-1 tvg-id="Magenta Sport 11" group-title="Desconocido",Magenta Sport 11
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=c21316ad4b7f44eaf6fcfb2c245c46de8b746cc6
+#EXTINF:-1 tvg-id="Eurosport 360 1" group-title="Desconocido",Eurosport 360 1
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=22df9a5fae8cae52fec925c2bb44b74f96a4200c
+#EXTINF:-1 tvg-id="Eurosport 360 2" group-title="Desconocido",Eurosport 360 2
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=57f95543ac41656d473b1a27123fc413388a728c
+#EXTINF:-1 tvg-id="Eurosport 360 3" group-title="Desconocido",Eurosport 360 3
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=7adbca42657ace1fe228142d351d0896974bbe0c
+#EXTINF:-1 tvg-id="Eurosport 360 4" group-title="Desconocido",Eurosport 360 4
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=1b6b6c0ddc0534236b3bae78f41d2bc27cd11f64
+#EXTINF:-1 tvg-id="Eurosport 360 5" group-title="Desconocido",Eurosport 360 5
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=148921c4dda96df445e253d6f26c4d092bf85809
+#EXTINF:-1 tvg-id="Eurosport 360 6" group-title="Desconocido",Eurosport 360 6
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=005ac522315699bd93bbf743329eb2f3c347dc3f
+#EXTINF:-1 tvg-id="Eurosport 360 7" group-title="Desconocido",Eurosport 360 7
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=b18657f64507cc859cd7edef1aef90feb053e791
+#EXTINF:-1 tvg-id="Eurosport 360 8" group-title="Desconocido",Eurosport 360 8
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=8f4f572005ca2557743474087aa622693ba9b5fe
 #EXTINF:-1 tvg-id="Eurosport 360 9" group-title="Antigua",Eurosport 360 9
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=7993cecc31917793e2bfa2fe98faa9fe1ab62d47
+#EXTINF:-1 tvg-id="Golf Channel" group-title="Desconocido",Golf Channel
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=d4acffe8f08b7728d3b489ab5ca37398a5636689
+#EXTINF:-1 tvg-id="HR" group-title="Desconocido",HR
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=8385abc4f836cc502de197789426ba1d7eba089b
+#EXTINF:-1 tvg-id="Insight" group-title="Desconocido",Insight
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=2bc787fab6cfce8b5c7a7c6b85e862066d967a68
+#EXTINF:-1 tvg-id="M-1 Global" group-title="Desconocido",M-1 Global
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=a7e4499c869037073c97deb47a50d1e7090b1c04
+#EXTINF:-1 tvg-id="Motowizja" group-title="Desconocido",Motowizja
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=8ef4e74336a0114d6def70de9d15cc4817d2f350
+#EXTINF:-1 tvg-id="Canal +" group-title="Desconocido",Canal +
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=7a2c53a15cbd5b694759bb107dd099db6f84808d
+#EXTINF:-1 tvg-id="CANAL+ 1" group-title="Desconocido",CANAL+ 1
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=9def614ad2e9dab30a710ecb6868b4ed3746ca4e
+#EXTINF:-1 tvg-id="Canal+ Family" group-title="Desconocido",Canal+ Family
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=1613812c13e27c7748272e2a156ad88da3e0657d
+#EXTINF:-1 tvg-id="MTV 90s" group-title="Desconocido",MTV 90s
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=6de86153b53f8abcc16f56b479f26e79f7bf77bf
+#EXTINF:-1 tvg-id="MTV Live" group-title="Desconocido",MTV Live
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=d8dde4a3b7964a19f144c5ac4c516933831ce782
+#EXTINF:-1 tvg-id="nSport+" group-title="Desconocido",nSport+
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=5f595b1bbade5e7c915d99f90645f4c30d4ba540
+#EXTINF:-1 tvg-id="n-tv" group-title="Desconocido",n-tv
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=b69ee17ee716edaabd5dd32934c71be4d23736a8
+#EXTINF:-1 tvg-id="ORF" group-title="Desconocido",ORF
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=41ac7892b8fde95d5110d83d7324044145c7f86a
+#EXTINF:-1 tvg-id="ORF SPORT+" group-title="Desconocido",ORF SPORT+
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=0dfa37340ca0300a41f7a78bd3a0f024c3296974
+#EXTINF:-1 tvg-id="Canal+ Sport" group-title="Desconocido",Canal+ Sport
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=cc7b8c39f70aa342248d02c8ab55bafdb4116ed7
+#EXTINF:-1 tvg-id="Canal+ Sport 2" group-title="Desconocido",Canal+ Sport 2
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=6390b1ab967a25777ea2dde1d41b7400cc0601d3
+#EXTINF:-1 tvg-id="CANAL+ Sport 3" group-title="Desconocido",CANAL+ Sport 3
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=3e87464ed8c42ed14464461ea08860a3040a8944
+#EXTINF:-1 tvg-id="CANAL+ Sport 4" group-title="Desconocido",CANAL+ Sport 4
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=04448c3ca0b7518819491e468adbabc8a2551bd7
+#EXTINF:-1 tvg-id="RTL+ SPORT EVENT 1" group-title="Desconocido",RTL+ SPORT EVENT 1
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=a7319ebd54cb1db9a9db1574929ca8d305a323d3
+#EXTINF:-1 tvg-id="RTL+ SPORT EVENT 2" group-title="Desconocido",RTL+ SPORT EVENT 2
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=e360a96fb4bbe1cb8a7862a6514c4c284eeec466
+#EXTINF:-1 tvg-id="RTL+ SPORT EVENT 3" group-title="Desconocido",RTL+ SPORT EVENT 3
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=8b3c5f9ec938c3d3950bc4c989428d266bd4bd5b
+#EXTINF:-1 tvg-id="RTL+ SPORT EVENT 4" group-title="Desconocido",RTL+ SPORT EVENT 4
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=784da1ced871f6d3f6bf25f29664bfd39f6130a6
+#EXTINF:-1 tvg-id="RTL+ SPORT EVENT 5" group-title="Desconocido",RTL+ SPORT EVENT 5
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=81284e9a279ee23cbc4a7400bd9531f127d20fe5
+#EXTINF:-1 tvg-id="RTL+ SPORT EVENT 6" group-title="Desconocido",RTL+ SPORT EVENT 6
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=c065ab169f75ced1d34fbcab6b84a5fa4ca73e30
+#EXTINF:-1 tvg-id="RTL+ SPORT EVENT 7" group-title="Desconocido",RTL+ SPORT EVENT 7
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=eec3f8107e008cec3679f76e078deeefd1348a3e
+#EXTINF:-1 tvg-id="RTL+ SPORT EVENT 8" group-title="Desconocido",RTL+ SPORT EVENT 8
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=ce4ae0c3491acd4272340029139ba25642e2516b
+#EXTINF:-1 tvg-id="RTL+ SPORT EVENT 9" group-title="Desconocido",RTL+ SPORT EVENT 9
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=a435581e6cba56972e48cf4519d1b2af735eec2f
+#EXTINF:-1 tvg-id="RTL+ SPORT EVENT 10" group-title="Desconocido",RTL+ SPORT EVENT 10
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=e6cce13cb4005ec3c7d77db47865385927a7ab7e
+#EXTINF:-1 tvg-id="SkySP PL" group-title="Desconocido",SkySP PL
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=ec5eabe0144ccfffc337e1d6708e2afb81d0638e
+#EXTINF:-1 tvg-id="Spiegel Geschichte" group-title="Desconocido",Spiegel Geschichte
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=74612cfcc8fedbb06381deaf79edbcee971cadd3
+#EXTINF:-1 tvg-id="Sport Digital" group-title="Desconocido",Sport Digital
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=5e94200ae8b1d95cb559fb150e5993d92e15d4e7
+#EXTINF:-1 tvg-id="Sport Klub" group-title="Desconocido",Sport Klub
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=35575a31d76f6c5f5e9e6364dacfdeca3b85f2ee
+#EXTINF:-1 tvg-id="SPORT1" group-title="Desconocido",SPORT1
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=1950633a3723cb52b17c764125decc04445bd5ff
+#EXTINF:-1 tvg-id="SPORT1+" group-title="Desconocido",SPORT1+
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=e61b6538df35e5016635dfa2b3073f5b82ee4c2b
+#EXTINF:-1 tvg-id="T€st" group-title="New Era",T€st
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=678a1e93fbfbd499c329886bfdda780e73ac1786
+#EXTINF:-1 tvg-id="Teletoon+" group-title="Desconocido",Teletoon+
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=7a8cf88f62f612d7741d5bae2d2be94573f1ca1b
+#EXTINF:-1 tvg-id="TNT" group-title="Desconocido",TNT
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=d0842346aad155a78f94dffe7d4ca313c33882a4
+#EXTINF:-1 tvg-id="Travel Channel" group-title="Desconocido",Travel Channel
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=70a711891dcdf1aaf7a39788a55bc5f82505eea8
+#EXTINF:-1 tvg-id="TTV" group-title="Desconocido",TTV
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=1680930cfa77a0b262ab116702278c05c52a5d27
+#EXTINF:-1 tvg-id="TV 6" group-title="Desconocido",TV 6
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=2cce15d162684894f043da9bb6631ee9081f6af0
+#EXTINF:-1 tvg-id="TV Puls" group-title="Desconocido",TV Puls
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=350406cf5abc907f820e55f7dd576317609a3a87
+#EXTINF:-1 tvg-id="TV Puls 2" group-title="Desconocido",TV Puls 2
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=a28e1f7e87ba7ca186f4ecaeab959c698fe1d759
+#EXTINF:-1 tvg-id="TV4" group-title="Desconocido",TV4
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=35ff81559d433f7ba8dbcee7b8ddb61082e88b83
+#EXTINF:-1 tvg-id="TVN" group-title="Desconocido",TVN
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=87ea602f75b96aebc06bdc96b135e21756706702
+#EXTINF:-1 tvg-id="TVN 7" group-title="Desconocido",TVN 7
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=6e7d38341a3c8b7bed8ef0792cbae4bedd77834d
+#EXTINF:-1 tvg-id="TVN 24" group-title="Desconocido",TVN 24
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=b40887a75fbb511f95a43c33b24e058b3050143d
+#EXTINF:-1 tvg-id="TVN 24 BiS" group-title="Desconocido",TVN 24 BiS
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=02aa440de4e830af786d76f90c4695015130c9ab
+#EXTINF:-1 tvg-id="TVN Fabula" group-title="Desconocido",TVN Fabula
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=584961f4e6fd89e1a07253a1848c867203215857
+#EXTINF:-1 tvg-id="TVN Style" group-title="Desconocido",TVN Style
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=f0736374096137942d6befa8577390d6c40a4d0d
+#EXTINF:-1 tvg-id="TVN Turbo" group-title="Desconocido",TVN Turbo
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=7231e7cafb290ee9190178678a4cda75603af9cf
+#EXTINF:-1 tvg-id="TVP" group-title="Desconocido",TVP
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=0273a9a25ecde79d7bda2dafb897c7ca86afcaf0
+#EXTINF:-1 tvg-id="TVP 2" group-title="Desconocido",TVP 2
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=dad9d9e595bcfd251469ed58d380e53bfb46bb18
+#EXTINF:-1 tvg-id="TVP3" group-title="Desconocido",TVP3
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=38efc26a90d79b2d8c70024ab13631829292764c
+#EXTINF:-1 tvg-id="TVP ABC" group-title="Desconocido",TVP ABC
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=fa070b8e13fd3a8a863b2e18dcc85ede6a6c3b0a
+#EXTINF:-1 tvg-id="TVP Rozrywka" group-title="Desconocido",TVP Rozrywka
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=89a38a74e88c5f468e05812253d64ac197d643bb
+#EXTINF:-1 tvg-id="TVP-Info" group-title="Desconocido",TVP-Info
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=54c5166475563784a367313ffd231402eeedadcd
+#EXTINF:-1 tvg-id="TVP-Kultura" group-title="Desconocido",TVP-Kultura
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=d585b59b042293dd37494daf7cee7eb647ad0bab
+#EXTINF:-1 tvg-id="UFC" group-title="Desconocido",UFC
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=d2374e2375a4275738e0dbed2f47d0114ad1cb64
+#EXTINF:-1 tvg-id="Universal TV" group-title="Desconocido",Universal TV
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=7f8a688bbe9367c1ecbe733116a6aefb1bd22bb6
+#EXTINF:-1 tvg-id="Viasat Explorer" group-title="Desconocido",Viasat Explorer
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=de32b979b7d44350a0444f20c70352b4ece06ed4
+#EXTINF:-1 tvg-id="VIASAT SPORT" group-title="Desconocido",VIASAT SPORT
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=dec96c86080c26ddf667ea90adfb513a40007a0b
+#EXTINF:-1 tvg-id="VOX" group-title="Desconocido",VOX
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=85abb9490b27b56d5ceb3c554a47ccb3af60ceb6
+#EXTINF:-1 tvg-id="VOXup" group-title="Desconocido",VOXup
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=edb7eea337e2b6d6aee8838a3936a7451dfaccfd
+#EXTINF:-1 tvg-id="Waldwerk" group-title="Desconocido",Waldwerk
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=0f9a44fbf18f7f50006d8348d6e2f0194f104a51
+#EXTINF:-1 tvg-id="Warner TV Serie" group-title="Desconocido",Warner TV Serie
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=6f8beb8b4f5e4b9166b6208a6b0a2faa12085555
+#EXTINF:-1 tvg-id="WDR Aachen" group-title="Desconocido",WDR Aachen
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=eba141d913e4a32251b490273c9cfc48d76e1802
+#EXTINF:-1 tvg-id="WELT" group-title="Desconocido",WELT
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=e16d2e6743d96f34350711f10780080a002ed63e
+#EXTINF:-1 tvg-id="WP" group-title="Desconocido",WP
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=443c632ed7952434279c77fead90b5124ea1610a
+#EXTINF:-1 tvg-id="ZDF" group-title="Desconocido",ZDF
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=c71fb593810ce837545e8d8b384e50a42c35a316
+#EXTINF:-1 tvg-id="ZDF INFO" group-title="Desconocido",ZDF INFO
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=fcfb2b67793235ff4ff265f541a34a237a01d299
+#EXTINF:-1 tvg-id="ZDF NEO" group-title="Desconocido",ZDF NEO
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=b39c136256356dd88f812114587f0ed3b7846e7f
 #EXTINF:-1 tvg-id="Sky Sports Main Event" group-title="New Loop",Sky Sports Main Event
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
 #EXTINF:-1 tvg-id="Sky Sports Football" group-title="New Loop",Sky Sports Football
@@ -577,6 +821,8 @@ pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=8ebf8cded98
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=0969a38e2b12d718f09e88e0925aed88f24a957b
 #EXTINF:-1 tvg-id="UniNettuno University TV" group-title="Antigua",UniNettuno University TV
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=4e17bac6b2decc70fd7bd704ce7013072fefd1f0
+#EXTINF:-1 tvg-id="AMAZON PRIME VIDEO 6" group-title="Desconocido",AMAZON PRIME VIDEO 6
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=26e31f091414fb036917a255b4adaf12b2f3da5b
 #EXTINF:-1 tvg-id="beIN SPORTS XTRA ñ" group-title="Antigua",beIN SPORTS XTRA ñ
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=92a7dcc55392efc6dd5d012c4ff3878891eb6a6e
 #EXTINF:-1 tvg-id="NBA TV" group-title="New Era",NBA TV
@@ -615,3 +861,19 @@ pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=ed81c333815
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=731bd3336ec0986ff9100efe40dbaf1473a22cf8
 #EXTINF:-1 tvg-id="beIN SPORTS 4" group-title="Desconocido",beIN SPORTS 4
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=7683cd0cbacf55fa8b39c363219ffba1bc47cf9d
+#EXTINF:-1 tvg-id="SAT1 GOLD" group-title="Desconocido",SAT1 GOLD
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=80db6eb9c3c0da5ddf03e2912e502a1ff8927f8b
+#EXTINF:-1 tvg-id="Sat.1" group-title="Desconocido",Sat.1
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=58616a92d5b871848dd6e66321da89062140c024
+#EXTINF:-1 tvg-id="Servus TV" group-title="Desconocido",Servus TV
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=988f4d88d74ec0d2b3584f6c7e067fcbdb501115
+#EXTINF:-1 tvg-id="SIXX" group-title="Desconocido",SIXX
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=80ccf9375ef9b8a71d77d21e3bfca7a794eca1fb
+#EXTINF:-1 tvg-id="Sky Documentaries" group-title="Desconocido",Sky Documentaries
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=b7f02e90a06047dff0a8470db1327a9c43f715aa
+#EXTINF:-1 tvg-id="Sky Sport 1" group-title="Desconocido",Sky Sport 1
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=7c12288663069a12aff58f3f62e8ea47ab78c65d
+#EXTINF:-1 tvg-id="Sky Sport 2" group-title="Desconocido",Sky Sport 2
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=fc9f1f580da8f641a5991d44b399982a3a069f69
+#EXTINF:-1 tvg-id="Sky Sport News" group-title="Desconocido",Sky Sport News
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=07cab7f4a1a4ecc0ed35bea52346f1b79b1016a8
