@@ -1,235 +1,163 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="05:10-WTA Wuhan 1ª Ronda-A. Krueger-H. Baptiste" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",05:10-WTA Wuhan 1ª Ronda-A. Krueger-H. Baptiste
+#EXTINF:-1 tvg-id="05:00-WTA Wuhan 1ª Ronda-N. Osaka-L. Fernández" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",05:00-WTA Wuhan 1ª Ronda-N. Osaka-L. Fernández
 http://127.0.0.1:6878/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee&pid=1
-#EXTINF:-1 tvg-id="05:10-WTA Wuhan 1ª Ronda-A. Krueger-H. Baptiste" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",05:10-WTA Wuhan 1ª Ronda-A. Krueger-H. Baptiste
+#EXTINF:-1 tvg-id="05:00-WTA Wuhan 1ª Ronda-N. Osaka-L. Fernández" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",05:00-WTA Wuhan 1ª Ronda-N. Osaka-L. Fernández
 http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0&pid=2
-#EXTINF:-1 tvg-id="05:10-WTA Wuhan 1ª Ronda-A. Krueger-H. Baptiste" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",05:10-WTA Wuhan 1ª Ronda-A. Krueger-H. Baptiste
+#EXTINF:-1 tvg-id="05:00-WTA Wuhan 1ª Ronda-N. Osaka-L. Fernández" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",05:00-WTA Wuhan 1ª Ronda-N. Osaka-L. Fernández
 http://127.0.0.1:6878/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7&pid=3
-#EXTINF:-1 tvg-id="05:10-WTA Wuhan 1ª Ronda-A. Krueger-H. Baptiste" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",05:10-WTA Wuhan 1ª Ronda-A. Krueger-H. Baptiste
+#EXTINF:-1 tvg-id="05:00-WTA Wuhan 1ª Ronda-N. Osaka-L. Fernández" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",05:00-WTA Wuhan 1ª Ronda-N. Osaka-L. Fernández
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf&pid=4
-#EXTINF:-1 tvg-id="05:10-WTA Wuhan 1ª Ronda-A. Krueger-H. Baptiste" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",05:10-WTA Wuhan 1ª Ronda-A. Krueger-H. Baptiste
+#EXTINF:-1 tvg-id="05:00-WTA Wuhan 1ª Ronda-N. Osaka-L. Fernández" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",05:00-WTA Wuhan 1ª Ronda-N. Osaka-L. Fernández
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac&pid=5
-#EXTINF:-1 tvg-id="12:40-Masters Shanghai 3ª Ronda-A. Zverev-A. Rinderknech" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",12:40-Masters Shanghai 3ª Ronda-A. Zverev-A. Rinderknech
+#EXTINF:-1 tvg-id="14:00-Masters Shanghai 1/8 de final-V. Vacherot-T. Griekspoor" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:00-Masters Shanghai 1/8 de final-V. Vacherot-T. Griekspoor
 http://127.0.0.1:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&pid=6
-#EXTINF:-1 tvg-id="12:40-Masters Shanghai 3ª Ronda-A. Zverev-A. Rinderknech" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",12:40-Masters Shanghai 3ª Ronda-A. Zverev-A. Rinderknech
+#EXTINF:-1 tvg-id="14:00-Masters Shanghai 1/8 de final-V. Vacherot-T. Griekspoor" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:00-Masters Shanghai 1/8 de final-V. Vacherot-T. Griekspoor
 http://127.0.0.1:6878/ace/getstream?id=6e212a916c83638268047dd2757c95b14f7d25a3&pid=7
-#EXTINF:-1 tvg-id="12:40-Masters Shanghai 3ª Ronda-A. Zverev-A. Rinderknech" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",12:40-Masters Shanghai 3ª Ronda-A. Zverev-A. Rinderknech
+#EXTINF:-1 tvg-id="14:00-Masters Shanghai 1/8 de final-V. Vacherot-T. Griekspoor" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:00-Masters Shanghai 1/8 de final-V. Vacherot-T. Griekspoor
 http://127.0.0.1:6878/ace/getstream?id=73d38feaa770d788848ec098470e32670fe55a61&pid=8
-#EXTINF:-1 tvg-id="12:40-Masters Shanghai 3ª Ronda-A. Zverev-A. Rinderknech" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",12:40-Masters Shanghai 3ª Ronda-A. Zverev-A. Rinderknech
+#EXTINF:-1 tvg-id="14:00-Masters Shanghai 1/8 de final-V. Vacherot-T. Griekspoor" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:00-Masters Shanghai 1/8 de final-V. Vacherot-T. Griekspoor
 http://127.0.0.1:6878/ace/getstream?id=f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0&pid=9
-#EXTINF:-1 tvg-id="12:40-Masters Shanghai 3ª Ronda-A. Zverev-A. Rinderknech" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",12:40-Masters Shanghai 3ª Ronda-A. Zverev-A. Rinderknech
+#EXTINF:-1 tvg-id="14:00-Masters Shanghai 1/8 de final-V. Vacherot-T. Griekspoor" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:00-Masters Shanghai 1/8 de final-V. Vacherot-T. Griekspoor
 http://127.0.0.1:6878/ace/getstream?id=bfa01c11c5c6b7a616a516de4f2c769a89d26b25&pid=10
-#EXTINF:-1 tvg-id="12:40-Masters Shanghai 3ª Ronda-A. Zverev-A. Rinderknech" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",12:40-Masters Shanghai 3ª Ronda-A. Zverev-A. Rinderknech
+#EXTINF:-1 tvg-id="14:00-Masters Shanghai 1/8 de final-V. Vacherot-T. Griekspoor" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:00-Masters Shanghai 1/8 de final-V. Vacherot-T. Griekspoor
 http://127.0.0.1:6878/ace/getstream?id=3afe1af18f8ff78e9946856911b00c67477052b5&pid=11
-#EXTINF:-1 tvg-id="12:40-Masters Shanghai 3ª Ronda-A. Zverev-A. Rinderknech" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",12:40-Masters Shanghai 3ª Ronda-A. Zverev-A. Rinderknech
+#EXTINF:-1 tvg-id="14:00-Masters Shanghai 1/8 de final-V. Vacherot-T. Griekspoor" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:00-Masters Shanghai 1/8 de final-V. Vacherot-T. Griekspoor
 http://127.0.0.1:6878/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee&pid=12
-#EXTINF:-1 tvg-id="12:40-Masters Shanghai 3ª Ronda-A. Zverev-A. Rinderknech" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",12:40-Masters Shanghai 3ª Ronda-A. Zverev-A. Rinderknech
+#EXTINF:-1 tvg-id="14:00-Masters Shanghai 1/8 de final-V. Vacherot-T. Griekspoor" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:00-Masters Shanghai 1/8 de final-V. Vacherot-T. Griekspoor
 http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0&pid=13
-#EXTINF:-1 tvg-id="12:40-Masters Shanghai 3ª Ronda-A. Zverev-A. Rinderknech" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",12:40-Masters Shanghai 3ª Ronda-A. Zverev-A. Rinderknech
+#EXTINF:-1 tvg-id="14:00-Masters Shanghai 1/8 de final-V. Vacherot-T. Griekspoor" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:00-Masters Shanghai 1/8 de final-V. Vacherot-T. Griekspoor
 http://127.0.0.1:6878/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7&pid=14
-#EXTINF:-1 tvg-id="12:40-Masters Shanghai 3ª Ronda-A. Zverev-A. Rinderknech" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",12:40-Masters Shanghai 3ª Ronda-A. Zverev-A. Rinderknech
+#EXTINF:-1 tvg-id="14:00-Masters Shanghai 1/8 de final-V. Vacherot-T. Griekspoor" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:00-Masters Shanghai 1/8 de final-V. Vacherot-T. Griekspoor
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf&pid=15
-#EXTINF:-1 tvg-id="12:40-Masters Shanghai 3ª Ronda-A. Zverev-A. Rinderknech" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",12:40-Masters Shanghai 3ª Ronda-A. Zverev-A. Rinderknech
+#EXTINF:-1 tvg-id="14:00-Masters Shanghai 1/8 de final-V. Vacherot-T. Griekspoor" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:00-Masters Shanghai 1/8 de final-V. Vacherot-T. Griekspoor
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac&pid=16
-#EXTINF:-1 tvg-id="13:15-Masters Shanghai 3ª Ronda-L. Tien-C. Norrie" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",13:15-Masters Shanghai 3ª Ronda-L. Tien-C. Norrie
-http://127.0.0.1:6878/ace/getstream?id=753d4b1f7c4ef43238b5cf23b05572b550a44eee&pid=17
-#EXTINF:-1 tvg-id="13:15-Masters Shanghai 3ª Ronda-L. Tien-C. Norrie" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",13:15-Masters Shanghai 3ª Ronda-L. Tien-C. Norrie
-http://127.0.0.1:6878/ace/getstream?id=29d786d72d4b53dbc333af3a50f8fb021aa0296f&pid=18
-#EXTINF:-1 tvg-id="13:15-Masters Shanghai 3ª Ronda-L. Tien-C. Norrie" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",13:15-Masters Shanghai 3ª Ronda-L. Tien-C. Norrie
-http://127.0.0.1:6878/ace/getstream?id=799c6b5ee1cf41af077d14e3f9c45a32697eb903&pid=19
-#EXTINF:-1 tvg-id="13:15-Masters Shanghai 3ª Ronda-L. Tien-C. Norrie" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",13:15-Masters Shanghai 3ª Ronda-L. Tien-C. Norrie
-http://127.0.0.1:6878/ace/getstream?id=2fd410c5d89e7a627cd3785685b7915b8e4bd534&pid=20
-#EXTINF:-1 tvg-id="13:15-Masters Shanghai 3ª Ronda-L. Tien-C. Norrie" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",13:15-Masters Shanghai 3ª Ronda-L. Tien-C. Norrie
-http://127.0.0.1:6878/ace/getstream?id=39fefdecfc953dcf6e7c589739bf486c2e605ed0&pid=21
-#EXTINF:-1 tvg-id="13:15-Masters Shanghai 3ª Ronda-L. Tien-C. Norrie" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",13:15-Masters Shanghai 3ª Ronda-L. Tien-C. Norrie
-http://127.0.0.1:6878/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee&pid=22
-#EXTINF:-1 tvg-id="13:15-Masters Shanghai 3ª Ronda-L. Tien-C. Norrie" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",13:15-Masters Shanghai 3ª Ronda-L. Tien-C. Norrie
-http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0&pid=23
-#EXTINF:-1 tvg-id="13:15-Masters Shanghai 3ª Ronda-L. Tien-C. Norrie" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",13:15-Masters Shanghai 3ª Ronda-L. Tien-C. Norrie
-http://127.0.0.1:6878/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7&pid=24
-#EXTINF:-1 tvg-id="13:15-Masters Shanghai 3ª Ronda-L. Tien-C. Norrie" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",13:15-Masters Shanghai 3ª Ronda-L. Tien-C. Norrie
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf&pid=25
-#EXTINF:-1 tvg-id="13:15-Masters Shanghai 3ª Ronda-L. Tien-C. Norrie" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",13:15-Masters Shanghai 3ª Ronda-L. Tien-C. Norrie
-http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac&pid=26
-#EXTINF:-1 tvg-id="13:40-WTA Wuhan 1ª Ronda-M. Uchijima-X. Wang" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",13:40-WTA Wuhan 1ª Ronda-M. Uchijima-X. Wang
-http://127.0.0.1:6878/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee&pid=27
-#EXTINF:-1 tvg-id="13:40-WTA Wuhan 1ª Ronda-M. Uchijima-X. Wang" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",13:40-WTA Wuhan 1ª Ronda-M. Uchijima-X. Wang
-http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0&pid=28
-#EXTINF:-1 tvg-id="13:40-WTA Wuhan 1ª Ronda-M. Uchijima-X. Wang" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",13:40-WTA Wuhan 1ª Ronda-M. Uchijima-X. Wang
-http://127.0.0.1:6878/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7&pid=29
-#EXTINF:-1 tvg-id="13:40-WTA Wuhan 1ª Ronda-M. Uchijima-X. Wang" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",13:40-WTA Wuhan 1ª Ronda-M. Uchijima-X. Wang
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf&pid=30
-#EXTINF:-1 tvg-id="13:40-WTA Wuhan 1ª Ronda-M. Uchijima-X. Wang" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",13:40-WTA Wuhan 1ª Ronda-M. Uchijima-X. Wang
-http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac&pid=31
-#EXTINF:-1 tvg-id="15:20-Masters Shanghai 3ª Ronda-A. Davidovich-D. Medvedev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:20-Masters Shanghai 3ª Ronda-A. Davidovich-D. Medvedev
-http://127.0.0.1:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&pid=32
-#EXTINF:-1 tvg-id="15:20-Masters Shanghai 3ª Ronda-A. Davidovich-D. Medvedev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:20-Masters Shanghai 3ª Ronda-A. Davidovich-D. Medvedev
-http://127.0.0.1:6878/ace/getstream?id=6e212a916c83638268047dd2757c95b14f7d25a3&pid=33
-#EXTINF:-1 tvg-id="15:20-Masters Shanghai 3ª Ronda-A. Davidovich-D. Medvedev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:20-Masters Shanghai 3ª Ronda-A. Davidovich-D. Medvedev
-http://127.0.0.1:6878/ace/getstream?id=73d38feaa770d788848ec098470e32670fe55a61&pid=34
-#EXTINF:-1 tvg-id="15:20-Masters Shanghai 3ª Ronda-A. Davidovich-D. Medvedev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:20-Masters Shanghai 3ª Ronda-A. Davidovich-D. Medvedev
-http://127.0.0.1:6878/ace/getstream?id=f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0&pid=35
-#EXTINF:-1 tvg-id="15:20-Masters Shanghai 3ª Ronda-A. Davidovich-D. Medvedev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:20-Masters Shanghai 3ª Ronda-A. Davidovich-D. Medvedev
-http://127.0.0.1:6878/ace/getstream?id=bfa01c11c5c6b7a616a516de4f2c769a89d26b25&pid=36
-#EXTINF:-1 tvg-id="15:20-Masters Shanghai 3ª Ronda-A. Davidovich-D. Medvedev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:20-Masters Shanghai 3ª Ronda-A. Davidovich-D. Medvedev
-http://127.0.0.1:6878/ace/getstream?id=3afe1af18f8ff78e9946856911b00c67477052b5&pid=37
-#EXTINF:-1 tvg-id="15:20-Masters Shanghai 3ª Ronda-A. Davidovich-D. Medvedev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:20-Masters Shanghai 3ª Ronda-A. Davidovich-D. Medvedev
-http://127.0.0.1:6878/ace/getstream?id=8c67cdb5ba81976662c3a67984a9545d9cfb0f70&pid=38
-#EXTINF:-1 tvg-id="15:20-Masters Shanghai 3ª Ronda-A. Davidovich-D. Medvedev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:20-Masters Shanghai 3ª Ronda-A. Davidovich-D. Medvedev
-http://127.0.0.1:6878/ace/getstream?id=b6ffbbc72a5b6b579faf79ebac229af7a25b933b&pid=39
-#EXTINF:-1 tvg-id="15:20-Masters Shanghai 3ª Ronda-A. Davidovich-D. Medvedev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:20-Masters Shanghai 3ª Ronda-A. Davidovich-D. Medvedev
-http://127.0.0.1:6878/ace/getstream?id=199190e3f28c1de0be34bccf0d3568dc65209b99&pid=40
-#EXTINF:-1 tvg-id="15:20-Masters Shanghai 3ª Ronda-A. Davidovich-D. Medvedev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:20-Masters Shanghai 3ª Ronda-A. Davidovich-D. Medvedev
-http://127.0.0.1:6878/ace/getstream?id=5866e83279307bf919068ae7a0d250e4e424e464&pid=41
-#EXTINF:-1 tvg-id="15:20-Masters Shanghai 3ª Ronda-A. Davidovich-D. Medvedev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:20-Masters Shanghai 3ª Ronda-A. Davidovich-D. Medvedev
-http://127.0.0.1:6878/ace/getstream?id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78&pid=42
-#EXTINF:-1 tvg-id="15:20-Masters Shanghai 3ª Ronda-A. Davidovich-D. Medvedev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:20-Masters Shanghai 3ª Ronda-A. Davidovich-D. Medvedev
-http://127.0.0.1:6878/ace/getstream?id=96efcc0185c54003ef34c915f6896b92fee9f07a&pid=43
-#EXTINF:-1 tvg-id="15:20-Masters Shanghai 3ª Ronda-A. Davidovich-D. Medvedev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:20-Masters Shanghai 3ª Ronda-A. Davidovich-D. Medvedev
-http://127.0.0.1:6878/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee&pid=44
-#EXTINF:-1 tvg-id="15:20-Masters Shanghai 3ª Ronda-A. Davidovich-D. Medvedev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:20-Masters Shanghai 3ª Ronda-A. Davidovich-D. Medvedev
-http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0&pid=45
-#EXTINF:-1 tvg-id="15:20-Masters Shanghai 3ª Ronda-A. Davidovich-D. Medvedev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:20-Masters Shanghai 3ª Ronda-A. Davidovich-D. Medvedev
-http://127.0.0.1:6878/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7&pid=46
-#EXTINF:-1 tvg-id="15:20-Masters Shanghai 3ª Ronda-A. Davidovich-D. Medvedev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:20-Masters Shanghai 3ª Ronda-A. Davidovich-D. Medvedev
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf&pid=47
-#EXTINF:-1 tvg-id="15:20-Masters Shanghai 3ª Ronda-A. Davidovich-D. Medvedev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:20-Masters Shanghai 3ª Ronda-A. Davidovich-D. Medvedev
-http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac&pid=48
-#EXTINF:-1 tvg-id="16:00-WTA Wuhan 1ª Ronda-E. Alexandrova-V. Mboko" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:00-WTA Wuhan 1ª Ronda-E. Alexandrova-V. Mboko
-http://127.0.0.1:6878/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee&pid=49
-#EXTINF:-1 tvg-id="16:00-WTA Wuhan 1ª Ronda-E. Alexandrova-V. Mboko" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:00-WTA Wuhan 1ª Ronda-E. Alexandrova-V. Mboko
-http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0&pid=50
-#EXTINF:-1 tvg-id="16:00-WTA Wuhan 1ª Ronda-E. Alexandrova-V. Mboko" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:00-WTA Wuhan 1ª Ronda-E. Alexandrova-V. Mboko
-http://127.0.0.1:6878/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7&pid=51
-#EXTINF:-1 tvg-id="16:00-WTA Wuhan 1ª Ronda-E. Alexandrova-V. Mboko" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:00-WTA Wuhan 1ª Ronda-E. Alexandrova-V. Mboko
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf&pid=52
-#EXTINF:-1 tvg-id="16:00-WTA Wuhan 1ª Ronda-E. Alexandrova-V. Mboko" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:00-WTA Wuhan 1ª Ronda-E. Alexandrova-V. Mboko
-http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac&pid=53
-#EXTINF:-1 tvg-id="06:40-Masters Shanghai 3ª Ronda-K. Majchrzak-A. De Miñaur" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",06:40-Masters Shanghai 3ª Ronda-K. Majchrzak-A. De Miñaur
-http://127.0.0.1:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&pid=54
-#EXTINF:-1 tvg-id="06:40-Masters Shanghai 3ª Ronda-K. Majchrzak-A. De Miñaur" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",06:40-Masters Shanghai 3ª Ronda-K. Majchrzak-A. De Miñaur
-http://127.0.0.1:6878/ace/getstream?id=6e212a916c83638268047dd2757c95b14f7d25a3&pid=55
-#EXTINF:-1 tvg-id="06:40-Masters Shanghai 3ª Ronda-K. Majchrzak-A. De Miñaur" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",06:40-Masters Shanghai 3ª Ronda-K. Majchrzak-A. De Miñaur
-http://127.0.0.1:6878/ace/getstream?id=73d38feaa770d788848ec098470e32670fe55a61&pid=56
-#EXTINF:-1 tvg-id="06:40-Masters Shanghai 3ª Ronda-K. Majchrzak-A. De Miñaur" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",06:40-Masters Shanghai 3ª Ronda-K. Majchrzak-A. De Miñaur
-http://127.0.0.1:6878/ace/getstream?id=f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0&pid=57
-#EXTINF:-1 tvg-id="06:40-Masters Shanghai 3ª Ronda-K. Majchrzak-A. De Miñaur" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",06:40-Masters Shanghai 3ª Ronda-K. Majchrzak-A. De Miñaur
-http://127.0.0.1:6878/ace/getstream?id=bfa01c11c5c6b7a616a516de4f2c769a89d26b25&pid=58
-#EXTINF:-1 tvg-id="06:40-Masters Shanghai 3ª Ronda-K. Majchrzak-A. De Miñaur" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",06:40-Masters Shanghai 3ª Ronda-K. Majchrzak-A. De Miñaur
-http://127.0.0.1:6878/ace/getstream?id=3afe1af18f8ff78e9946856911b00c67477052b5&pid=59
-#EXTINF:-1 tvg-id="06:40-Masters Shanghai 3ª Ronda-K. Majchrzak-A. De Miñaur" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",06:40-Masters Shanghai 3ª Ronda-K. Majchrzak-A. De Miñaur
-http://127.0.0.1:6878/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee&pid=60
-#EXTINF:-1 tvg-id="06:40-Masters Shanghai 3ª Ronda-K. Majchrzak-A. De Miñaur" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",06:40-Masters Shanghai 3ª Ronda-K. Majchrzak-A. De Miñaur
-http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0&pid=61
-#EXTINF:-1 tvg-id="06:40-Masters Shanghai 3ª Ronda-K. Majchrzak-A. De Miñaur" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",06:40-Masters Shanghai 3ª Ronda-K. Majchrzak-A. De Miñaur
-http://127.0.0.1:6878/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7&pid=62
-#EXTINF:-1 tvg-id="06:40-Masters Shanghai 3ª Ronda-K. Majchrzak-A. De Miñaur" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",06:40-Masters Shanghai 3ª Ronda-K. Majchrzak-A. De Miñaur
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf&pid=63
-#EXTINF:-1 tvg-id="06:40-Masters Shanghai 3ª Ronda-K. Majchrzak-A. De Miñaur" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",06:40-Masters Shanghai 3ª Ronda-K. Majchrzak-A. De Miñaur
-http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac&pid=64
-#EXTINF:-1 tvg-id="06:40-Masters Shanghai 3ª Ronda-F. Auger-Aliassime-J. De Jong" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",06:40-Masters Shanghai 3ª Ronda-F. Auger-Aliassime-J. De Jong
-http://127.0.0.1:6878/ace/getstream?id=753d4b1f7c4ef43238b5cf23b05572b550a44eee&pid=65
-#EXTINF:-1 tvg-id="06:40-Masters Shanghai 3ª Ronda-F. Auger-Aliassime-J. De Jong" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",06:40-Masters Shanghai 3ª Ronda-F. Auger-Aliassime-J. De Jong
-http://127.0.0.1:6878/ace/getstream?id=29d786d72d4b53dbc333af3a50f8fb021aa0296f&pid=66
-#EXTINF:-1 tvg-id="06:40-Masters Shanghai 3ª Ronda-F. Auger-Aliassime-J. De Jong" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",06:40-Masters Shanghai 3ª Ronda-F. Auger-Aliassime-J. De Jong
-http://127.0.0.1:6878/ace/getstream?id=799c6b5ee1cf41af077d14e3f9c45a32697eb903&pid=67
-#EXTINF:-1 tvg-id="06:40-Masters Shanghai 3ª Ronda-F. Auger-Aliassime-J. De Jong" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",06:40-Masters Shanghai 3ª Ronda-F. Auger-Aliassime-J. De Jong
-http://127.0.0.1:6878/ace/getstream?id=2fd410c5d89e7a627cd3785685b7915b8e4bd534&pid=68
-#EXTINF:-1 tvg-id="06:40-Masters Shanghai 3ª Ronda-F. Auger-Aliassime-J. De Jong" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",06:40-Masters Shanghai 3ª Ronda-F. Auger-Aliassime-J. De Jong
-http://127.0.0.1:6878/ace/getstream?id=39fefdecfc953dcf6e7c589739bf486c2e605ed0&pid=69
-#EXTINF:-1 tvg-id="06:40-Masters Shanghai 3ª Ronda-F. Auger-Aliassime-J. De Jong" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",06:40-Masters Shanghai 3ª Ronda-F. Auger-Aliassime-J. De Jong
-http://127.0.0.1:6878/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee&pid=70
-#EXTINF:-1 tvg-id="06:40-Masters Shanghai 3ª Ronda-F. Auger-Aliassime-J. De Jong" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",06:40-Masters Shanghai 3ª Ronda-F. Auger-Aliassime-J. De Jong
-http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0&pid=71
-#EXTINF:-1 tvg-id="06:40-Masters Shanghai 3ª Ronda-F. Auger-Aliassime-J. De Jong" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",06:40-Masters Shanghai 3ª Ronda-F. Auger-Aliassime-J. De Jong
-http://127.0.0.1:6878/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7&pid=72
-#EXTINF:-1 tvg-id="06:40-Masters Shanghai 3ª Ronda-F. Auger-Aliassime-J. De Jong" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",06:40-Masters Shanghai 3ª Ronda-F. Auger-Aliassime-J. De Jong
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf&pid=73
-#EXTINF:-1 tvg-id="06:40-Masters Shanghai 3ª Ronda-F. Auger-Aliassime-J. De Jong" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",06:40-Masters Shanghai 3ª Ronda-F. Auger-Aliassime-J. De Jong
-http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac&pid=74
-#EXTINF:-1 tvg-id="07:20-WTA Wuhan 1ª Ronda-K. Siniakova-D. Shnaider" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",07:20-WTA Wuhan 1ª Ronda-K. Siniakova-D. Shnaider
-http://127.0.0.1:6878/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee&pid=75
-#EXTINF:-1 tvg-id="07:20-WTA Wuhan 1ª Ronda-K. Siniakova-D. Shnaider" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",07:20-WTA Wuhan 1ª Ronda-K. Siniakova-D. Shnaider
-http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0&pid=76
-#EXTINF:-1 tvg-id="07:20-WTA Wuhan 1ª Ronda-K. Siniakova-D. Shnaider" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",07:20-WTA Wuhan 1ª Ronda-K. Siniakova-D. Shnaider
-http://127.0.0.1:6878/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7&pid=77
-#EXTINF:-1 tvg-id="07:20-WTA Wuhan 1ª Ronda-K. Siniakova-D. Shnaider" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",07:20-WTA Wuhan 1ª Ronda-K. Siniakova-D. Shnaider
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf&pid=78
-#EXTINF:-1 tvg-id="07:20-WTA Wuhan 1ª Ronda-K. Siniakova-D. Shnaider" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",07:20-WTA Wuhan 1ª Ronda-K. Siniakova-D. Shnaider
-http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac&pid=79
-#EXTINF:-1 tvg-id="08:30-Masters Shanghai 3ª Ronda-J. Shang-N. Borges" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",08:30-Masters Shanghai 3ª Ronda-J. Shang-N. Borges
-http://127.0.0.1:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&pid=80
-#EXTINF:-1 tvg-id="08:30-Masters Shanghai 3ª Ronda-J. Shang-N. Borges" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",08:30-Masters Shanghai 3ª Ronda-J. Shang-N. Borges
-http://127.0.0.1:6878/ace/getstream?id=6e212a916c83638268047dd2757c95b14f7d25a3&pid=81
-#EXTINF:-1 tvg-id="08:30-Masters Shanghai 3ª Ronda-J. Shang-N. Borges" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",08:30-Masters Shanghai 3ª Ronda-J. Shang-N. Borges
-http://127.0.0.1:6878/ace/getstream?id=73d38feaa770d788848ec098470e32670fe55a61&pid=82
-#EXTINF:-1 tvg-id="08:30-Masters Shanghai 3ª Ronda-J. Shang-N. Borges" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",08:30-Masters Shanghai 3ª Ronda-J. Shang-N. Borges
-http://127.0.0.1:6878/ace/getstream?id=f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0&pid=83
-#EXTINF:-1 tvg-id="08:30-Masters Shanghai 3ª Ronda-J. Shang-N. Borges" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",08:30-Masters Shanghai 3ª Ronda-J. Shang-N. Borges
-http://127.0.0.1:6878/ace/getstream?id=bfa01c11c5c6b7a616a516de4f2c769a89d26b25&pid=84
-#EXTINF:-1 tvg-id="08:30-Masters Shanghai 3ª Ronda-J. Shang-N. Borges" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",08:30-Masters Shanghai 3ª Ronda-J. Shang-N. Borges
-http://127.0.0.1:6878/ace/getstream?id=3afe1af18f8ff78e9946856911b00c67477052b5&pid=85
-#EXTINF:-1 tvg-id="08:30-Masters Shanghai 3ª Ronda-J. Shang-N. Borges" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",08:30-Masters Shanghai 3ª Ronda-J. Shang-N. Borges
-http://127.0.0.1:6878/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee&pid=86
-#EXTINF:-1 tvg-id="08:30-Masters Shanghai 3ª Ronda-J. Shang-N. Borges" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",08:30-Masters Shanghai 3ª Ronda-J. Shang-N. Borges
-http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0&pid=87
-#EXTINF:-1 tvg-id="08:30-Masters Shanghai 3ª Ronda-J. Shang-N. Borges" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",08:30-Masters Shanghai 3ª Ronda-J. Shang-N. Borges
-http://127.0.0.1:6878/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7&pid=88
-#EXTINF:-1 tvg-id="08:30-Masters Shanghai 3ª Ronda-J. Shang-N. Borges" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",08:30-Masters Shanghai 3ª Ronda-J. Shang-N. Borges
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf&pid=89
-#EXTINF:-1 tvg-id="08:30-Masters Shanghai 3ª Ronda-J. Shang-N. Borges" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",08:30-Masters Shanghai 3ª Ronda-J. Shang-N. Borges
-http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac&pid=90
-#EXTINF:-1 tvg-id="08:45-Masters Shanghai 3ª Ronda-D. Shapovalov-J. Lehecka" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",08:45-Masters Shanghai 3ª Ronda-D. Shapovalov-J. Lehecka
-http://127.0.0.1:6878/ace/getstream?id=753d4b1f7c4ef43238b5cf23b05572b550a44eee&pid=91
-#EXTINF:-1 tvg-id="08:45-Masters Shanghai 3ª Ronda-D. Shapovalov-J. Lehecka" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",08:45-Masters Shanghai 3ª Ronda-D. Shapovalov-J. Lehecka
-http://127.0.0.1:6878/ace/getstream?id=29d786d72d4b53dbc333af3a50f8fb021aa0296f&pid=92
-#EXTINF:-1 tvg-id="08:45-Masters Shanghai 3ª Ronda-D. Shapovalov-J. Lehecka" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",08:45-Masters Shanghai 3ª Ronda-D. Shapovalov-J. Lehecka
-http://127.0.0.1:6878/ace/getstream?id=799c6b5ee1cf41af077d14e3f9c45a32697eb903&pid=93
-#EXTINF:-1 tvg-id="08:45-Masters Shanghai 3ª Ronda-D. Shapovalov-J. Lehecka" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",08:45-Masters Shanghai 3ª Ronda-D. Shapovalov-J. Lehecka
-http://127.0.0.1:6878/ace/getstream?id=2fd410c5d89e7a627cd3785685b7915b8e4bd534&pid=94
-#EXTINF:-1 tvg-id="08:45-Masters Shanghai 3ª Ronda-D. Shapovalov-J. Lehecka" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",08:45-Masters Shanghai 3ª Ronda-D. Shapovalov-J. Lehecka
-http://127.0.0.1:6878/ace/getstream?id=39fefdecfc953dcf6e7c589739bf486c2e605ed0&pid=95
-#EXTINF:-1 tvg-id="08:45-Masters Shanghai 3ª Ronda-D. Shapovalov-J. Lehecka" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",08:45-Masters Shanghai 3ª Ronda-D. Shapovalov-J. Lehecka
-http://127.0.0.1:6878/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee&pid=96
-#EXTINF:-1 tvg-id="08:45-Masters Shanghai 3ª Ronda-D. Shapovalov-J. Lehecka" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",08:45-Masters Shanghai 3ª Ronda-D. Shapovalov-J. Lehecka
-http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0&pid=97
-#EXTINF:-1 tvg-id="08:45-Masters Shanghai 3ª Ronda-D. Shapovalov-J. Lehecka" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",08:45-Masters Shanghai 3ª Ronda-D. Shapovalov-J. Lehecka
-http://127.0.0.1:6878/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7&pid=98
-#EXTINF:-1 tvg-id="08:45-Masters Shanghai 3ª Ronda-D. Shapovalov-J. Lehecka" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",08:45-Masters Shanghai 3ª Ronda-D. Shapovalov-J. Lehecka
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf&pid=99
-#EXTINF:-1 tvg-id="08:45-Masters Shanghai 3ª Ronda-D. Shapovalov-J. Lehecka" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",08:45-Masters Shanghai 3ª Ronda-D. Shapovalov-J. Lehecka
-http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac&pid=100
-#EXTINF:-1 tvg-id="09:15-WTA Wuhan 1ª Ronda-L. Zhu-M. Joint" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",09:15-WTA Wuhan 1ª Ronda-L. Zhu-M. Joint
-http://127.0.0.1:6878/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee&pid=101
-#EXTINF:-1 tvg-id="09:15-WTA Wuhan 1ª Ronda-L. Zhu-M. Joint" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",09:15-WTA Wuhan 1ª Ronda-L. Zhu-M. Joint
-http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0&pid=102
-#EXTINF:-1 tvg-id="09:15-WTA Wuhan 1ª Ronda-L. Zhu-M. Joint" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",09:15-WTA Wuhan 1ª Ronda-L. Zhu-M. Joint
-http://127.0.0.1:6878/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7&pid=103
-#EXTINF:-1 tvg-id="09:15-WTA Wuhan 1ª Ronda-L. Zhu-M. Joint" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",09:15-WTA Wuhan 1ª Ronda-L. Zhu-M. Joint
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf&pid=104
-#EXTINF:-1 tvg-id="09:15-WTA Wuhan 1ª Ronda-L. Zhu-M. Joint" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",09:15-WTA Wuhan 1ª Ronda-L. Zhu-M. Joint
-http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac&pid=105
-#EXTINF:-1 tvg-id="10:10-WTA Torneo de Mallorca 1ª Ronda-M. Thamm-M. Sherif" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",10:10-WTA Torneo de Mallorca 1ª Ronda-M. Thamm-M. Sherif
-http://127.0.0.1:6878/ace/getstream?id=bdc32e0f99653f96e0e1a3b98c88764b631ed9ef&pid=106
-#EXTINF:-1 tvg-id="10:10-WTA Torneo de Mallorca 1ª Ronda-M. Thamm-M. Sherif" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",10:10-WTA Torneo de Mallorca 1ª Ronda-M. Thamm-M. Sherif
-http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230&pid=107
-#EXTINF:-1 tvg-id="10:45-Masters Shanghai 3ª Ronda-L. Darderi-L. Musetti" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",10:45-Masters Shanghai 3ª Ronda-L. Darderi-L. Musetti
-http://127.0.0.1:6878/ace/getstream?id=753d4b1f7c4ef43238b5cf23b05572b550a44eee&pid=108
-#EXTINF:-1 tvg-id="10:45-Masters Shanghai 3ª Ronda-L. Darderi-L. Musetti" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",10:45-Masters Shanghai 3ª Ronda-L. Darderi-L. Musetti
-http://127.0.0.1:6878/ace/getstream?id=29d786d72d4b53dbc333af3a50f8fb021aa0296f&pid=109
-#EXTINF:-1 tvg-id="10:45-Masters Shanghai 3ª Ronda-L. Darderi-L. Musetti" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",10:45-Masters Shanghai 3ª Ronda-L. Darderi-L. Musetti
-http://127.0.0.1:6878/ace/getstream?id=799c6b5ee1cf41af077d14e3f9c45a32697eb903&pid=110
-#EXTINF:-1 tvg-id="10:45-Masters Shanghai 3ª Ronda-L. Darderi-L. Musetti" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",10:45-Masters Shanghai 3ª Ronda-L. Darderi-L. Musetti
-http://127.0.0.1:6878/ace/getstream?id=2fd410c5d89e7a627cd3785685b7915b8e4bd534&pid=111
-#EXTINF:-1 tvg-id="10:45-Masters Shanghai 3ª Ronda-L. Darderi-L. Musetti" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",10:45-Masters Shanghai 3ª Ronda-L. Darderi-L. Musetti
-http://127.0.0.1:6878/ace/getstream?id=39fefdecfc953dcf6e7c589739bf486c2e605ed0&pid=112
-#EXTINF:-1 tvg-id="10:45-Masters Shanghai 3ª Ronda-L. Darderi-L. Musetti" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",10:45-Masters Shanghai 3ª Ronda-L. Darderi-L. Musetti
-http://127.0.0.1:6878/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee&pid=113
-#EXTINF:-1 tvg-id="10:45-Masters Shanghai 3ª Ronda-L. Darderi-L. Musetti" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",10:45-Masters Shanghai 3ª Ronda-L. Darderi-L. Musetti
-http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0&pid=114
-#EXTINF:-1 tvg-id="10:45-Masters Shanghai 3ª Ronda-L. Darderi-L. Musetti" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",10:45-Masters Shanghai 3ª Ronda-L. Darderi-L. Musetti
-http://127.0.0.1:6878/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7&pid=115
-#EXTINF:-1 tvg-id="10:45-Masters Shanghai 3ª Ronda-L. Darderi-L. Musetti" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",10:45-Masters Shanghai 3ª Ronda-L. Darderi-L. Musetti
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf&pid=116
-#EXTINF:-1 tvg-id="10:45-Masters Shanghai 3ª Ronda-L. Darderi-L. Musetti" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",10:45-Masters Shanghai 3ª Ronda-L. Darderi-L. Musetti
-http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac&pid=117
+#EXTINF:-1 tvg-id="14:30-WTA Wuhan 2ª Ronda-M. Andreeva-L. Siegemund" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:30-WTA Wuhan 2ª Ronda-M. Andreeva-L. Siegemund
+http://127.0.0.1:6878/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee&pid=17
+#EXTINF:-1 tvg-id="14:30-WTA Wuhan 2ª Ronda-M. Andreeva-L. Siegemund" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:30-WTA Wuhan 2ª Ronda-M. Andreeva-L. Siegemund
+http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0&pid=18
+#EXTINF:-1 tvg-id="14:30-WTA Wuhan 2ª Ronda-M. Andreeva-L. Siegemund" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:30-WTA Wuhan 2ª Ronda-M. Andreeva-L. Siegemund
+http://127.0.0.1:6878/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7&pid=19
+#EXTINF:-1 tvg-id="14:30-WTA Wuhan 2ª Ronda-M. Andreeva-L. Siegemund" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:30-WTA Wuhan 2ª Ronda-M. Andreeva-L. Siegemund
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf&pid=20
+#EXTINF:-1 tvg-id="14:30-WTA Wuhan 2ª Ronda-M. Andreeva-L. Siegemund" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:30-WTA Wuhan 2ª Ronda-M. Andreeva-L. Siegemund
+http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac&pid=21
+#EXTINF:-1 tvg-id="19:30-Amistoso Femenino-España-Portugal" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",19:30-Amistoso Femenino-España-Portugal
+http://127.0.0.1:6878/ace/getstream?id=bdc32e0f99653f96e0e1a3b98c88764b631ed9ef&pid=22
+#EXTINF:-1 tvg-id="19:30-Amistoso Femenino-España-Portugal" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",19:30-Amistoso Femenino-España-Portugal
+http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230&pid=23
+#EXTINF:-1 tvg-id="06:30-Masters Shanghai 1/8 de final-G. Diallo-Z. Bergs" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",06:30-Masters Shanghai 1/8 de final-G. Diallo-Z. Bergs
+http://127.0.0.1:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&pid=24
+#EXTINF:-1 tvg-id="06:30-Masters Shanghai 1/8 de final-G. Diallo-Z. Bergs" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",06:30-Masters Shanghai 1/8 de final-G. Diallo-Z. Bergs
+http://127.0.0.1:6878/ace/getstream?id=6e212a916c83638268047dd2757c95b14f7d25a3&pid=25
+#EXTINF:-1 tvg-id="06:30-Masters Shanghai 1/8 de final-G. Diallo-Z. Bergs" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",06:30-Masters Shanghai 1/8 de final-G. Diallo-Z. Bergs
+http://127.0.0.1:6878/ace/getstream?id=73d38feaa770d788848ec098470e32670fe55a61&pid=26
+#EXTINF:-1 tvg-id="06:30-Masters Shanghai 1/8 de final-G. Diallo-Z. Bergs" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",06:30-Masters Shanghai 1/8 de final-G. Diallo-Z. Bergs
+http://127.0.0.1:6878/ace/getstream?id=f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0&pid=27
+#EXTINF:-1 tvg-id="06:30-Masters Shanghai 1/8 de final-G. Diallo-Z. Bergs" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",06:30-Masters Shanghai 1/8 de final-G. Diallo-Z. Bergs
+http://127.0.0.1:6878/ace/getstream?id=bfa01c11c5c6b7a616a516de4f2c769a89d26b25&pid=28
+#EXTINF:-1 tvg-id="06:30-Masters Shanghai 1/8 de final-G. Diallo-Z. Bergs" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",06:30-Masters Shanghai 1/8 de final-G. Diallo-Z. Bergs
+http://127.0.0.1:6878/ace/getstream?id=3afe1af18f8ff78e9946856911b00c67477052b5&pid=29
+#EXTINF:-1 tvg-id="06:30-Masters Shanghai 1/8 de final-G. Diallo-Z. Bergs" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",06:30-Masters Shanghai 1/8 de final-G. Diallo-Z. Bergs
+http://127.0.0.1:6878/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee&pid=30
+#EXTINF:-1 tvg-id="06:30-Masters Shanghai 1/8 de final-G. Diallo-Z. Bergs" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",06:30-Masters Shanghai 1/8 de final-G. Diallo-Z. Bergs
+http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0&pid=31
+#EXTINF:-1 tvg-id="06:30-Masters Shanghai 1/8 de final-G. Diallo-Z. Bergs" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",06:30-Masters Shanghai 1/8 de final-G. Diallo-Z. Bergs
+http://127.0.0.1:6878/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7&pid=32
+#EXTINF:-1 tvg-id="06:30-Masters Shanghai 1/8 de final-G. Diallo-Z. Bergs" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",06:30-Masters Shanghai 1/8 de final-G. Diallo-Z. Bergs
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf&pid=33
+#EXTINF:-1 tvg-id="06:30-Masters Shanghai 1/8 de final-G. Diallo-Z. Bergs" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",06:30-Masters Shanghai 1/8 de final-G. Diallo-Z. Bergs
+http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac&pid=34
+#EXTINF:-1 tvg-id="06:30-WTA Wuhan 1ª Ronda-E. Raducanu-A. Li" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",06:30-WTA Wuhan 1ª Ronda-E. Raducanu-A. Li
+http://127.0.0.1:6878/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee&pid=35
+#EXTINF:-1 tvg-id="06:30-WTA Wuhan 1ª Ronda-E. Raducanu-A. Li" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",06:30-WTA Wuhan 1ª Ronda-E. Raducanu-A. Li
+http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0&pid=36
+#EXTINF:-1 tvg-id="06:30-WTA Wuhan 1ª Ronda-E. Raducanu-A. Li" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",06:30-WTA Wuhan 1ª Ronda-E. Raducanu-A. Li
+http://127.0.0.1:6878/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7&pid=37
+#EXTINF:-1 tvg-id="06:30-WTA Wuhan 1ª Ronda-E. Raducanu-A. Li" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",06:30-WTA Wuhan 1ª Ronda-E. Raducanu-A. Li
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf&pid=38
+#EXTINF:-1 tvg-id="06:30-WTA Wuhan 1ª Ronda-E. Raducanu-A. Li" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",06:30-WTA Wuhan 1ª Ronda-E. Raducanu-A. Li
+http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac&pid=39
+#EXTINF:-1 tvg-id="08:00-Masters Shanghai 1/8 de final-G. Mpetshi Perricard-H. Rune" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",08:00-Masters Shanghai 1/8 de final-G. Mpetshi Perricard-H. Rune
+http://127.0.0.1:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&pid=40
+#EXTINF:-1 tvg-id="08:00-Masters Shanghai 1/8 de final-G. Mpetshi Perricard-H. Rune" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",08:00-Masters Shanghai 1/8 de final-G. Mpetshi Perricard-H. Rune
+http://127.0.0.1:6878/ace/getstream?id=6e212a916c83638268047dd2757c95b14f7d25a3&pid=41
+#EXTINF:-1 tvg-id="08:00-Masters Shanghai 1/8 de final-G. Mpetshi Perricard-H. Rune" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",08:00-Masters Shanghai 1/8 de final-G. Mpetshi Perricard-H. Rune
+http://127.0.0.1:6878/ace/getstream?id=73d38feaa770d788848ec098470e32670fe55a61&pid=42
+#EXTINF:-1 tvg-id="08:00-Masters Shanghai 1/8 de final-G. Mpetshi Perricard-H. Rune" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",08:00-Masters Shanghai 1/8 de final-G. Mpetshi Perricard-H. Rune
+http://127.0.0.1:6878/ace/getstream?id=f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0&pid=43
+#EXTINF:-1 tvg-id="08:00-Masters Shanghai 1/8 de final-G. Mpetshi Perricard-H. Rune" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",08:00-Masters Shanghai 1/8 de final-G. Mpetshi Perricard-H. Rune
+http://127.0.0.1:6878/ace/getstream?id=bfa01c11c5c6b7a616a516de4f2c769a89d26b25&pid=44
+#EXTINF:-1 tvg-id="08:00-Masters Shanghai 1/8 de final-G. Mpetshi Perricard-H. Rune" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",08:00-Masters Shanghai 1/8 de final-G. Mpetshi Perricard-H. Rune
+http://127.0.0.1:6878/ace/getstream?id=3afe1af18f8ff78e9946856911b00c67477052b5&pid=45
+#EXTINF:-1 tvg-id="08:00-Masters Shanghai 1/8 de final-G. Mpetshi Perricard-H. Rune" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",08:00-Masters Shanghai 1/8 de final-G. Mpetshi Perricard-H. Rune
+http://127.0.0.1:6878/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee&pid=46
+#EXTINF:-1 tvg-id="08:00-Masters Shanghai 1/8 de final-G. Mpetshi Perricard-H. Rune" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",08:00-Masters Shanghai 1/8 de final-G. Mpetshi Perricard-H. Rune
+http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0&pid=47
+#EXTINF:-1 tvg-id="08:00-Masters Shanghai 1/8 de final-G. Mpetshi Perricard-H. Rune" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",08:00-Masters Shanghai 1/8 de final-G. Mpetshi Perricard-H. Rune
+http://127.0.0.1:6878/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7&pid=48
+#EXTINF:-1 tvg-id="08:00-Masters Shanghai 1/8 de final-G. Mpetshi Perricard-H. Rune" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",08:00-Masters Shanghai 1/8 de final-G. Mpetshi Perricard-H. Rune
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf&pid=49
+#EXTINF:-1 tvg-id="08:00-Masters Shanghai 1/8 de final-G. Mpetshi Perricard-H. Rune" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",08:00-Masters Shanghai 1/8 de final-G. Mpetshi Perricard-H. Rune
+http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac&pid=50
+#EXTINF:-1 tvg-id="08:00-WTA Wuhan 1ª Ronda-E. Navarro-S. Zhang" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",08:00-WTA Wuhan 1ª Ronda-E. Navarro-S. Zhang
+http://127.0.0.1:6878/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee&pid=51
+#EXTINF:-1 tvg-id="08:00-WTA Wuhan 1ª Ronda-E. Navarro-S. Zhang" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",08:00-WTA Wuhan 1ª Ronda-E. Navarro-S. Zhang
+http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0&pid=52
+#EXTINF:-1 tvg-id="08:00-WTA Wuhan 1ª Ronda-E. Navarro-S. Zhang" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",08:00-WTA Wuhan 1ª Ronda-E. Navarro-S. Zhang
+http://127.0.0.1:6878/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7&pid=53
+#EXTINF:-1 tvg-id="08:00-WTA Wuhan 1ª Ronda-E. Navarro-S. Zhang" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",08:00-WTA Wuhan 1ª Ronda-E. Navarro-S. Zhang
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf&pid=54
+#EXTINF:-1 tvg-id="08:00-WTA Wuhan 1ª Ronda-E. Navarro-S. Zhang" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",08:00-WTA Wuhan 1ª Ronda-E. Navarro-S. Zhang
+http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac&pid=55
+#EXTINF:-1 tvg-id="10:00-WTA Torneo de Mallorca 2ª Ronda-M. Carle-N. Brancaccio" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",10:00-WTA Torneo de Mallorca 2ª Ronda-M. Carle-N. Brancaccio
+http://127.0.0.1:6878/ace/getstream?id=bdc32e0f99653f96e0e1a3b98c88764b631ed9ef&pid=56
+#EXTINF:-1 tvg-id="10:00-WTA Torneo de Mallorca 2ª Ronda-M. Carle-N. Brancaccio" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",10:00-WTA Torneo de Mallorca 2ª Ronda-M. Carle-N. Brancaccio
+http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230&pid=57
+#EXTINF:-1 tvg-id="12:00-WTA Torneo de Mallorca 1ª Ronda-M. Hodzic-S. Bejlek" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",12:00-WTA Torneo de Mallorca 1ª Ronda-M. Hodzic-S. Bejlek
+http://127.0.0.1:6878/ace/getstream?id=bdc32e0f99653f96e0e1a3b98c88764b631ed9ef&pid=58
+#EXTINF:-1 tvg-id="12:00-WTA Torneo de Mallorca 1ª Ronda-M. Hodzic-S. Bejlek" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",12:00-WTA Torneo de Mallorca 1ª Ronda-M. Hodzic-S. Bejlek
+http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230&pid=59
+#EXTINF:-1 tvg-id="12:30-Masters Shanghai 1/8 de final-J. Munar-N. Djokovic" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",12:30-Masters Shanghai 1/8 de final-J. Munar-N. Djokovic
+http://127.0.0.1:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&pid=60
+#EXTINF:-1 tvg-id="12:30-Masters Shanghai 1/8 de final-J. Munar-N. Djokovic" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",12:30-Masters Shanghai 1/8 de final-J. Munar-N. Djokovic
+http://127.0.0.1:6878/ace/getstream?id=6e212a916c83638268047dd2757c95b14f7d25a3&pid=61
+#EXTINF:-1 tvg-id="12:30-Masters Shanghai 1/8 de final-J. Munar-N. Djokovic" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",12:30-Masters Shanghai 1/8 de final-J. Munar-N. Djokovic
+http://127.0.0.1:6878/ace/getstream?id=73d38feaa770d788848ec098470e32670fe55a61&pid=62
+#EXTINF:-1 tvg-id="12:30-Masters Shanghai 1/8 de final-J. Munar-N. Djokovic" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",12:30-Masters Shanghai 1/8 de final-J. Munar-N. Djokovic
+http://127.0.0.1:6878/ace/getstream?id=f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0&pid=63
+#EXTINF:-1 tvg-id="12:30-Masters Shanghai 1/8 de final-J. Munar-N. Djokovic" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",12:30-Masters Shanghai 1/8 de final-J. Munar-N. Djokovic
+http://127.0.0.1:6878/ace/getstream?id=bfa01c11c5c6b7a616a516de4f2c769a89d26b25&pid=64
+#EXTINF:-1 tvg-id="12:30-Masters Shanghai 1/8 de final-J. Munar-N. Djokovic" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",12:30-Masters Shanghai 1/8 de final-J. Munar-N. Djokovic
+http://127.0.0.1:6878/ace/getstream?id=3afe1af18f8ff78e9946856911b00c67477052b5&pid=65
+#EXTINF:-1 tvg-id="12:30-Masters Shanghai 1/8 de final-J. Munar-N. Djokovic" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",12:30-Masters Shanghai 1/8 de final-J. Munar-N. Djokovic
+http://127.0.0.1:6878/ace/getstream?id=8c67cdb5ba81976662c3a67984a9545d9cfb0f70&pid=66
+#EXTINF:-1 tvg-id="12:30-Masters Shanghai 1/8 de final-J. Munar-N. Djokovic" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",12:30-Masters Shanghai 1/8 de final-J. Munar-N. Djokovic
+http://127.0.0.1:6878/ace/getstream?id=b6ffbbc72a5b6b579faf79ebac229af7a25b933b&pid=67
+#EXTINF:-1 tvg-id="12:30-Masters Shanghai 1/8 de final-J. Munar-N. Djokovic" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",12:30-Masters Shanghai 1/8 de final-J. Munar-N. Djokovic
+http://127.0.0.1:6878/ace/getstream?id=199190e3f28c1de0be34bccf0d3568dc65209b99&pid=68
+#EXTINF:-1 tvg-id="12:30-Masters Shanghai 1/8 de final-J. Munar-N. Djokovic" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",12:30-Masters Shanghai 1/8 de final-J. Munar-N. Djokovic
+http://127.0.0.1:6878/ace/getstream?id=5866e83279307bf919068ae7a0d250e4e424e464&pid=69
+#EXTINF:-1 tvg-id="12:30-Masters Shanghai 1/8 de final-J. Munar-N. Djokovic" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",12:30-Masters Shanghai 1/8 de final-J. Munar-N. Djokovic
+http://127.0.0.1:6878/ace/getstream?id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78&pid=70
+#EXTINF:-1 tvg-id="12:30-Masters Shanghai 1/8 de final-J. Munar-N. Djokovic" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",12:30-Masters Shanghai 1/8 de final-J. Munar-N. Djokovic
+http://127.0.0.1:6878/ace/getstream?id=96efcc0185c54003ef34c915f6896b92fee9f07a&pid=71
+#EXTINF:-1 tvg-id="12:30-Masters Shanghai 1/8 de final-J. Munar-N. Djokovic" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",12:30-Masters Shanghai 1/8 de final-J. Munar-N. Djokovic
+http://127.0.0.1:6878/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee&pid=72
+#EXTINF:-1 tvg-id="12:30-Masters Shanghai 1/8 de final-J. Munar-N. Djokovic" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",12:30-Masters Shanghai 1/8 de final-J. Munar-N. Djokovic
+http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0&pid=73
+#EXTINF:-1 tvg-id="12:30-Masters Shanghai 1/8 de final-J. Munar-N. Djokovic" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",12:30-Masters Shanghai 1/8 de final-J. Munar-N. Djokovic
+http://127.0.0.1:6878/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7&pid=74
+#EXTINF:-1 tvg-id="12:30-Masters Shanghai 1/8 de final-J. Munar-N. Djokovic" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",12:30-Masters Shanghai 1/8 de final-J. Munar-N. Djokovic
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf&pid=75
+#EXTINF:-1 tvg-id="12:30-Masters Shanghai 1/8 de final-J. Munar-N. Djokovic" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",12:30-Masters Shanghai 1/8 de final-J. Munar-N. Djokovic
+http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac&pid=76
+#EXTINF:-1 tvg-id="13:00-WTA Wuhan 2ª Ronda-M. Bouzkova-I. Swiatek" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",13:00-WTA Wuhan 2ª Ronda-M. Bouzkova-I. Swiatek
+http://127.0.0.1:6878/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee&pid=77
+#EXTINF:-1 tvg-id="13:00-WTA Wuhan 2ª Ronda-M. Bouzkova-I. Swiatek" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",13:00-WTA Wuhan 2ª Ronda-M. Bouzkova-I. Swiatek
+http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0&pid=78
+#EXTINF:-1 tvg-id="13:00-WTA Wuhan 2ª Ronda-M. Bouzkova-I. Swiatek" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",13:00-WTA Wuhan 2ª Ronda-M. Bouzkova-I. Swiatek
+http://127.0.0.1:6878/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7&pid=79
+#EXTINF:-1 tvg-id="13:00-WTA Wuhan 2ª Ronda-M. Bouzkova-I. Swiatek" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",13:00-WTA Wuhan 2ª Ronda-M. Bouzkova-I. Swiatek
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf&pid=80
+#EXTINF:-1 tvg-id="13:00-WTA Wuhan 2ª Ronda-M. Bouzkova-I. Swiatek" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",13:00-WTA Wuhan 2ª Ronda-M. Bouzkova-I. Swiatek
+http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac&pid=81
