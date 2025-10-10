@@ -67,6 +67,8 @@ pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=e4bce95dd4f
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=d7d3830018cfd93c7430c19ba703a053680476a0
 #EXTINF:-1 tvg-id="DARK" group-title="New Era",DARK
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=25465ea2deba65c623b7659136abf6fcc9f5dc20
+#EXTINF:-1 tvg-id="Be Mad" group-title="New Era",Be Mad
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=6e1b5fd8753352486aa932f802534a17556e1f60
 #EXTINF:-1 tvg-id="SyFy" group-title="New Era",SyFy
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=8e1bbcb6a6b8b9bb0e1144454fda35531107cdb3
 #EXTINF:-1 tvg-id="AMC" group-title="New Era",AMC
@@ -487,6 +489,8 @@ pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=3254851ab35
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=aa31953b8af44b461102852d5b1247eea95b8050
 #EXTINF:-1 tvg-id="SuperTennis" group-title="New Loop",SuperTennis
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee
+#EXTINF:-1 tvg-id="Canal de Tenis" group-title="New Era",Canal de Tenis
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
 #EXTINF:-1 tvg-id="Onetoro" group-title="New Era",Onetoro
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=cd0188292b6b3876ff66c99bd3d25eab88b41079
 #EXTINF:-1 tvg-id="Onetoro" group-title="New Era",Onetoro
@@ -555,6 +559,8 @@ pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=f6d68cfa869
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=d6f0a6377c31f68b1c1c071e0a8f9f105a455867
 #EXTINF:-1 tvg-id="Extreme Sp" group-title="New Era",Extreme Sp
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=73ff07648e367efebd94636047b07625f664a082
+#EXTINF:-1 tvg-id="FightKlub" group-title="Antigua",FightKlub
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=b73da828421018c98905ed05934b77ea35aa1b29
 "FastacestreamFunbox" group-title="New Era",FastacestreamFunbox
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=c811cde690d467a2e45d3c263c4f0960a3933d18
 #EXTINF:-1 tvg-id="FightBox" group-title="New Era",FightBox
@@ -639,6 +645,10 @@ pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=8f4f572005c
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=7993cecc31917793e2bfa2fe98faa9fe1ab62d47
 #EXTINF:-1 tvg-id="M-1 Global" group-title="New Era",M-1 Global
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=a7e4499c869037073c97deb47a50d1e7090b1c04
+#EXTINF:-1 tvg-id="CANAL+ Sport" group-title="New Era",CANAL+ Sport
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=cc7b8c39f70aa342248d02c8ab55bafdb4116ed7
+#EXTINF:-1 tvg-id="CANAL+ Sport 2" group-title="New Era",CANAL+ Sport 2
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=6390b1ab967a25777ea2dde1d41b7400cc0601d3
 #EXTINF:-1 tvg-id="nSport+" group-title="New Era",nSport+
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=5f595b1bbade5e7c915d99f90645f4c30d4ba540
 #EXTINF:-1 tvg-id="ORF SPORT+" group-title="New Era",ORF SPORT+
@@ -667,6 +677,8 @@ pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=ce4ae0c3491
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=a435581e6cba56972e48cf4519d1b2af735eec2f
 #EXTINF:-1 tvg-id="RTL+ SPORT EVENT 10" group-title="New Era",RTL+ SPORT EVENT 10
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=e6cce13cb4005ec3c7d77db47865385927a7ab7e
+#EXTINF:-1 tvg-id="SkySP PL" group-title="New Era",SkySP PL
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=ec5eabe0144ccfffc337e1d6708e2afb81d0638e
 #EXTINF:-1 tvg-id="Sport Digital" group-title="New Era",Sport Digital
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=5e94200ae8b1d95cb559fb150e5993d92e15d4e7
 #EXTINF:-1 tvg-id="Sport Klub" group-title="New Era",Sport Klub
