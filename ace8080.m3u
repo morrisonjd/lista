@@ -200,6 +200,8 @@ pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=f2f318919c0
 #EXTINF:-1 tvg-id="M+ Deportes" group-title="Elcano",M+ Deportes
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=2f3cfd199a49819cbd129689a840dc3d23ab93aa
 #EXTINF:-1 tvg-id="M+ Deportes 2" group-title="New Era",M+ Deportes 2
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=6e212a916c83638268047dd2757c95b14f7d25a3
+#EXTINF:-1 tvg-id="M+ Deportes 2" group-title="New Era",M+ Deportes 2
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c
 #EXTINF:-1 tvg-id="M+ Deportes 2" group-title="New Era",M+ Deportes 2
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=73d38feaa770d788848ec098470e32670fe55a61
@@ -454,8 +456,6 @@ pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=7e90956539f
 #EXTINF:-1 tvg-id="DAZN 4" group-title="New Era",DAZN 4
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=7e27e46c25d4308d16098d9dc67fcd8736e8c1f0
 #EXTINF:-1 tvg-id="DAZN 4" group-title="New Era",DAZN 4
-pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=c015d37d1ead8155b1e7b97e743a1fe9850f0af5
-#EXTINF:-1 tvg-id="DAZN 4" group-title="New Era",DAZN 4
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=eb884f77ce8815cf1028c4d85e8b092c27ea1693
 #EXTINF:-1 tvg-id="DAZN 4" group-title="New Era",DAZN 4
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
@@ -495,10 +495,6 @@ pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=ab9bf0a75f1
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=108aebe20efc826e56f3a1cb01117a124a6b89ad
 #EXTINF:-1 tvg-id="Tennis Channel" group-title="New Loop",Tennis Channel
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
-#EXTINF:-1 tvg-id="Tennis Channel" group-title="New Era",Tennis Channel
-pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0
-#EXTINF:-1 tvg-id="Tennis Channel" group-title="New Era",Tennis Channel
-pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7
 #EXTINF:-1 tvg-id="Tennis Channel" group-title="New Era",Tennis Channel
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=aa31953b8af44b461102852d5b1247eea95b8050
 #EXTINF:-1 tvg-id="SuperTennis" group-title="New Loop",SuperTennis
