@@ -7,8 +7,6 @@ pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=7597d4feb31
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=dad5e0e0825cb3e410008f1c4252387b868e740c
 #EXTINF:-1 tvg-id="La 1" group-title="Antigua",La 1
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=b897de3e62d7c6bee9ef1107d972f3d1075e03ff
-#EXTINF:-1 tvg-id="La 2" group-title="New Era",La 2
-pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=9934906503661142f97a044ae1509a294057c2ed
 #EXTINF:-1 tvg-id="Antena 3" group-title="New Era",Antena 3
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=f9d2a6d5da8d1f2423a0b6ed0047636a728040e9
 #EXTINF:-1 tvg-id="Cuatro" group-title="New Era",Cuatro
@@ -25,8 +23,6 @@ pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=3d376333ee9
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=44828a7580cd99fcb36245c327889c47f34b457f
 #EXTINF:-1 tvg-id="Movistar Plus+" group-title="New Era",Movistar Plus+
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=8c67cdb5ba81976662c3a67984a9545d9cfb0f70
-#EXTINF:-1 tvg-id="Movistar Plus+" group-title="New Era",Movistar Plus+
-pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=b6ffbbc72a5b6b579faf79ebac229af7a25b933b
 #EXTINF:-1 tvg-id="Movistar Plus+" group-title="New Era",Movistar Plus+
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=199190e3f28c1de0be34bccf0d3568dc65209b99
 #EXTINF:-1 tvg-id="Movistar Plus+" group-title="New Era",Movistar Plus+
@@ -226,8 +222,6 @@ pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=9b84af74b2f
 #EXTINF:-1 tvg-id="M+ Ellas Vamos" group-title="New Era",M+ Ellas Vamos
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=594b59d435527327c9b6965f247995b907bfc285
 #EXTINF:-1 tvg-id="M+ Golf" group-title="New Era",M+ Golf
-pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=8546cff89e4ee8bf3ad31cf6457c3bc2c4341031
-#EXTINF:-1 tvg-id="M+ Golf" group-title="New Era",M+ Golf
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=9be118a64eb603b5eb62be6cf27631d3891b5174
 #EXTINF:-1 tvg-id="M+ Golf" group-title="New Era",M+ Golf
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=9ed46050217ee6ed8236a64b72d7992f7b3b37f2
@@ -327,6 +321,8 @@ pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=ef2abf41958
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=c3da6c4f91d9d10ade00318a869435e19f204d0e
 #EXTINF:-1 tvg-id="Eurosport 1" group-title="New Loop",Eurosport 1
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=1b0bc4d4dcd609d3c092712e721392b199f50a62
+#EXTINF:-1 tvg-id="Eurosport 1" group-title="New Loop",Eurosport 1
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=547ab7146a86d6119c9332c011669544720124e3
 #EXTINF:-1 tvg-id="Eurosport 1" group-title="New Era",Eurosport 1
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=b8cad4710b1c3b2b84a82c1ece40c08517b8f766
 #EXTINF:-1 tvg-id="Eurosport 1" group-title="Elcano",Eurosport 1
@@ -351,10 +347,6 @@ pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=5c910d61489
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=c1ee6e1e0ef5928d8261f855c417de21794f437d
 #EXTINF:-1 tvg-id="Canal 2 1RFEF" group-title="New Era",Canal 2 1RFEF
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=8677d339ecddd75165c0015025f598b6215974cf
-#EXTINF:-1 tvg-id="Primera Federación" group-title="New Era",Primera Federación
-pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=599a2fda91aa55703e2c5a51562d9dbf5d3d31d9
-#EXTINF:-1 tvg-id="Primera Federación" group-title="New Era",Primera Federación
-pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=a2ed6f2ca3f804481131c41ce64d4286a5820476
 #EXTINF:-1 tvg-id="Primera Federación" group-title="New Era",Primera Federación
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=b40212c43e96e97542ea00f2129212a054853a57
 #EXTINF:-1 tvg-id="ESPORT 3" group-title="New Era",ESPORT 3
@@ -455,6 +447,8 @@ pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=b146ee4b6e1
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="DAZN 4" group-title="New Era",DAZN 4
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=7e27e46c25d4308d16098d9dc67fcd8736e8c1f0
+#EXTINF:-1 tvg-id="DAZN 4" group-title="New Era",DAZN 4
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=c015d37d1ead8155b1e7b97e743a1fe9850f0af5
 #EXTINF:-1 tvg-id="DAZN 4" group-title="New Era",DAZN 4
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=eb884f77ce8815cf1028c4d85e8b092c27ea1693
 #EXTINF:-1 tvg-id="DAZN 4" group-title="New Era",DAZN 4
@@ -751,8 +745,6 @@ pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=8ebf8cded98
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=0969a38e2b12d718f09e88e0925aed88f24a957b
 #EXTINF:-1 tvg-id="UniNettuno University TV" group-title="Antigua",UniNettuno University TV
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=4e17bac6b2decc70fd7bd704ce7013072fefd1f0
-#EXTINF:-1 tvg-id="beIN SPORTS XTRA ñ" group-title="New Loop",beIN SPORTS XTRA ñ
-pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=e8e459656f964f601ad4bcda8b81a43ba41c68f9
 #EXTINF:-1 tvg-id="beIN SPORTS XTRA ñ" group-title="Antigua",beIN SPORTS XTRA ñ
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=92a7dcc55392efc6dd5d012c4ff3878891eb6a6e
 #EXTINF:-1 tvg-id="NBA TV" group-title="New Era",NBA TV
