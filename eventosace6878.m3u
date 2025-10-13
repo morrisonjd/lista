@@ -1,53 +1,27 @@
 #EXTM3U 
 #EXTINF:-1 tvg-id="07:10-WTA Torneo de Ningbo 1ª Ronda-S. Kenin-M. Kessler" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",07:10-WTA Torneo de Ningbo 1ª Ronda-S. Kenin-M. Kessler
 http://127.0.0.1:6878/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee&pid=1
-#EXTINF:-1 tvg-id="07:10-WTA Torneo de Ningbo 1ª Ronda-S. Kenin-M. Kessler" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",07:10-WTA Torneo de Ningbo 1ª Ronda-S. Kenin-M. Kessler
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf&pid=2
-#EXTINF:-1 tvg-id="16:00-Torneo de Almaty 1ª Ronda-B. Tomic-C. Moutet" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:00-Torneo de Almaty 1ª Ronda-B. Tomic-C. Moutet
+#EXTINF:-1 tvg-id="16:10-Torneo de Almaty 1ª Ronda-B. Tomic-C. Moutet" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:10-Torneo de Almaty 1ª Ronda-B. Tomic-C. Moutet
+http://127.0.0.1:6878/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee&pid=2
+#EXTINF:-1 tvg-id="17:10-Torneo de Bruselas 1ª Ronda-R. Opelka-B. Bonzi" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:10-Torneo de Bruselas 1ª Ronda-R. Opelka-B. Bonzi
 http://127.0.0.1:6878/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee&pid=3
-#EXTINF:-1 tvg-id="16:00-Torneo de Almaty 1ª Ronda-B. Tomic-C. Moutet" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:00-Torneo de Almaty 1ª Ronda-B. Tomic-C. Moutet
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf&pid=4
-#EXTINF:-1 tvg-id="17:00-Torneo de Estocolmo 1ª Ronda-A. Popyrin-S. Korda" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:00-Torneo de Estocolmo 1ª Ronda-A. Popyrin-S. Korda
+#EXTINF:-1 tvg-id="17:55-Torneo de Estocolmo 1ª Ronda-A. Popyrin-S. Korda" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:55-Torneo de Estocolmo 1ª Ronda-A. Popyrin-S. Korda
+http://127.0.0.1:6878/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee&pid=4
+#EXTINF:-1 tvg-id="19:10-Torneo de Estocolmo 1ª Ronda-L. Borg-S. Ofner" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",19:10-Torneo de Estocolmo 1ª Ronda-L. Borg-S. Ofner
 http://127.0.0.1:6878/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee&pid=5
-#EXTINF:-1 tvg-id="17:00-Torneo de Estocolmo 1ª Ronda-A. Popyrin-S. Korda" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:00-Torneo de Estocolmo 1ª Ronda-A. Popyrin-S. Korda
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf&pid=6
-#EXTINF:-1 tvg-id="17:00-Torneo de Bruselas 1ª Ronda-R. Opelka-B. Bonzi" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:00-Torneo de Bruselas 1ª Ronda-R. Opelka-B. Bonzi
+#EXTINF:-1 tvg-id="08:10-Torneo de Almaty 1ª Ronda-F. Marozsan-L. Nardi" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",08:10-Torneo de Almaty 1ª Ronda-F. Marozsan-L. Nardi
+http://127.0.0.1:6878/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee&pid=6
+#EXTINF:-1 tvg-id="08:25-WTA Torneo de Ningbo 1ª Ronda-B. Bencic-M. Linette" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",08:25-WTA Torneo de Ningbo 1ª Ronda-B. Bencic-M. Linette
 http://127.0.0.1:6878/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee&pid=7
-#EXTINF:-1 tvg-id="17:00-Torneo de Bruselas 1ª Ronda-R. Opelka-B. Bonzi" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:00-Torneo de Bruselas 1ª Ronda-R. Opelka-B. Bonzi
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf&pid=8
-#EXTINF:-1 tvg-id="18:30-Torneo de Estocolmo 1ª Ronda-L. Borg-S. Ofner" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:30-Torneo de Estocolmo 1ª Ronda-L. Borg-S. Ofner
+#EXTINF:-1 tvg-id="09:50-Torneo de Almaty 1ª Ronda-G. Diallo-A. Omarkhanov" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",09:50-Torneo de Almaty 1ª Ronda-G. Diallo-A. Omarkhanov
+http://127.0.0.1:6878/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee&pid=8
+#EXTINF:-1 tvg-id="11:10-Torneo de Almaty 1ª Ronda-U. Blanchet-J. Duckworth" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",11:10-Torneo de Almaty 1ª Ronda-U. Blanchet-J. Duckworth
 http://127.0.0.1:6878/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee&pid=9
-#EXTINF:-1 tvg-id="18:30-Torneo de Estocolmo 1ª Ronda-L. Borg-S. Ofner" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:30-Torneo de Estocolmo 1ª Ronda-L. Borg-S. Ofner
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf&pid=10
-#EXTINF:-1 tvg-id="08:10-Torneo de Almaty 1ª Ronda-F. Marozsan-L. Nardi" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",08:10-Torneo de Almaty 1ª Ronda-F. Marozsan-L. Nardi
+#EXTINF:-1 tvg-id="13:10-Torneo de Estocolmo 1ª Ronda-M. Kecmanovic-A. Muller" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",13:10-Torneo de Estocolmo 1ª Ronda-M. Kecmanovic-A. Muller
+http://127.0.0.1:6878/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee&pid=10
+#EXTINF:-1 tvg-id="13:40-WTA Torneo de Ningbo 1ª Ronda-Xi. Wang-D. Shnaider" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",13:40-WTA Torneo de Ningbo 1ª Ronda-Xi. Wang-D. Shnaider
 http://127.0.0.1:6878/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee&pid=11
-#EXTINF:-1 tvg-id="08:10-Torneo de Almaty 1ª Ronda-F. Marozsan-L. Nardi" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",08:10-Torneo de Almaty 1ª Ronda-F. Marozsan-L. Nardi
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf&pid=12
-#EXTINF:-1 tvg-id="08:25-WTA Torneo de Ningbo 1ª Ronda-B. Bencic-M. Linette" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",08:25-WTA Torneo de Ningbo 1ª Ronda-B. Bencic-M. Linette
+#EXTINF:-1 tvg-id="14:55-Torneo de Estocolmo 1ª Ronda-T. Griekspoor-J. Fearnley" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:55-Torneo de Estocolmo 1ª Ronda-T. Griekspoor-J. Fearnley
+http://127.0.0.1:6878/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee&pid=12
+#EXTINF:-1 tvg-id="15:40-Torneo de Bruselas 1ª Ronda-M. Giron-M. Bellucci" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:40-Torneo de Bruselas 1ª Ronda-M. Giron-M. Bellucci
 http://127.0.0.1:6878/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee&pid=13
-#EXTINF:-1 tvg-id="08:25-WTA Torneo de Ningbo 1ª Ronda-B. Bencic-M. Linette" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",08:25-WTA Torneo de Ningbo 1ª Ronda-B. Bencic-M. Linette
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf&pid=14
-#EXTINF:-1 tvg-id="09:50-Torneo de Almaty 1ª Ronda-G. Diallo-A. Omarkhanov" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",09:50-Torneo de Almaty 1ª Ronda-G. Diallo-A. Omarkhanov
-http://127.0.0.1:6878/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee&pid=15
-#EXTINF:-1 tvg-id="09:50-Torneo de Almaty 1ª Ronda-G. Diallo-A. Omarkhanov" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",09:50-Torneo de Almaty 1ª Ronda-G. Diallo-A. Omarkhanov
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf&pid=16
-#EXTINF:-1 tvg-id="11:15-Torneo de Almaty 1ª Ronda-U. Blanchet-J. Duckworth" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",11:15-Torneo de Almaty 1ª Ronda-U. Blanchet-J. Duckworth
-http://127.0.0.1:6878/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee&pid=17
-#EXTINF:-1 tvg-id="11:15-Torneo de Almaty 1ª Ronda-U. Blanchet-J. Duckworth" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",11:15-Torneo de Almaty 1ª Ronda-U. Blanchet-J. Duckworth
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf&pid=18
-#EXTINF:-1 tvg-id="13:00-Torneo de Estocolmo 1ª Ronda-M. Kecmanovic-A. Muller" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",13:00-Torneo de Estocolmo 1ª Ronda-M. Kecmanovic-A. Muller
-http://127.0.0.1:6878/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee&pid=19
-#EXTINF:-1 tvg-id="13:00-Torneo de Estocolmo 1ª Ronda-M. Kecmanovic-A. Muller" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",13:00-Torneo de Estocolmo 1ª Ronda-M. Kecmanovic-A. Muller
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf&pid=20
-#EXTINF:-1 tvg-id="13:30-WTA Torneo de Ningbo 1ª Ronda-Xi. Wang-D. Shnaider" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",13:30-WTA Torneo de Ningbo 1ª Ronda-Xi. Wang-D. Shnaider
-http://127.0.0.1:6878/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee&pid=21
-#EXTINF:-1 tvg-id="13:30-WTA Torneo de Ningbo 1ª Ronda-Xi. Wang-D. Shnaider" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",13:30-WTA Torneo de Ningbo 1ª Ronda-Xi. Wang-D. Shnaider
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf&pid=22
-#EXTINF:-1 tvg-id="14:30-Torneo de Estocolmo 1ª Ronda-T. Griekspoor-J. Fearnley" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:30-Torneo de Estocolmo 1ª Ronda-T. Griekspoor-J. Fearnley
-http://127.0.0.1:6878/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee&pid=23
-#EXTINF:-1 tvg-id="14:30-Torneo de Estocolmo 1ª Ronda-T. Griekspoor-J. Fearnley" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:30-Torneo de Estocolmo 1ª Ronda-T. Griekspoor-J. Fearnley
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf&pid=24
-#EXTINF:-1 tvg-id="15:30-Torneo de Bruselas 1ª Ronda-M. Giron-M. Bellucci" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:30-Torneo de Bruselas 1ª Ronda-M. Giron-M. Bellucci
-http://127.0.0.1:6878/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee&pid=25
-#EXTINF:-1 tvg-id="15:30-Torneo de Bruselas 1ª Ronda-M. Giron-M. Bellucci" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:30-Torneo de Bruselas 1ª Ronda-M. Giron-M. Bellucci
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf&pid=26
