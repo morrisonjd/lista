@@ -70,6 +70,8 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=abdbfccdfd73bb5b1dcad598d539058040fb2
 #EXTINF:-1 tvg-id="M+ Copa del Rey" group-title="Antigua",M+ Copa del Rey
 http://127.0.0.1:6878/ace/manifest.m3u8?id=e31e5dd1a24cf347deecd6aaba8d30a8d9d84460
 #EXTINF:-1 tvg-id="M+ Vamos" group-title="New Era",M+ Vamos
+http://127.0.0.1:6878/ace/manifest.m3u8?id=3b2a8b41e7097c16b0468b42d7de0320886fa933
+#EXTINF:-1 tvg-id="M+ Vamos" group-title="New Era",M+ Vamos
 http://127.0.0.1:6878/ace/manifest.m3u8?id=651d6be899d1fafa107a265a9dc00ff914c1b548
 #EXTINF:-1 tvg-id="M+ Vamos" group-title="New Era",M+ Vamos
 http://127.0.0.1:6878/ace/manifest.m3u8?id=4e99e755aa32c4bc043a4bb1cd1de35f9bd94dde
@@ -411,6 +413,10 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=cb6410a6355a645cfc6f6f5a7c7d71298fcbc
 http://127.0.0.1:6878/ace/manifest.m3u8?id=5620c0ce3dcbf14a6375cb2c2d681207f45eb97d
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 6" group-title="New Era",M+ Liga de Campeones 6
 http://127.0.0.1:6878/ace/manifest.m3u8?id=976983697790ab8a07b764b08843529d38bc6444
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 7" group-title="New Era",M+ Liga de Campeones 7
+http://127.0.0.1:6878/ace/manifest.m3u8?id=83c02982581a536d1321e38a77dc0c520b1cb842
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 8" group-title="New Era",M+ Liga de Campeones 8
+http://127.0.0.1:6878/ace/manifest.m3u8?id=97f8a84212fe6b3d2ab15aadc83c7b5e6af656c9
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 13" group-title="New Era",M+ Liga de Campeones 13
 http://127.0.0.1:6878/ace/manifest.m3u8?id=9c246c5e6a153ba2b765e4b84f4d50e0836b3556
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 17" group-title="New Era",M+ Liga de Campeones 17
@@ -605,6 +611,8 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=f5d3ea421c4c067b5c90161a8ae4d93482fb9
 http://127.0.0.1:6878/ace/manifest.m3u8?id=41ac7892b8fde95d5110d83d7324044145c7f86a
 #EXTINF:-1 tvg-id="ServusTV GER" group-title="Antigua",ServusTV GER
 http://127.0.0.1:6878/ace/manifest.m3u8?id=988f4d88d74ec0d2b3584f6c7e067fcbdb501115
+#EXTINF:-1 tvg-id="MOTORVISION.TV" group-title="New Loop",MOTORVISION.TV
+http://127.0.0.1:6878/ace/manifest.m3u8?id=9c75e6ed0671eec6670cb2eabcc7d78267c7f404
 #EXTINF:-1 tvg-id="MOTORVISION.TV" group-title="Antigua",MOTORVISION.TV
 http://127.0.0.1:6878/ace/manifest.m3u8?id=acd7e3ae185a376e6596e60a414bebbf3321b37f
 #EXTINF:-1 tvg-id="Magenta Sport 1" group-title="Desconocido",Magenta Sport 1
