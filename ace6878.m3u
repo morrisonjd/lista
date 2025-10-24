@@ -69,8 +69,12 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=d7d3830018cfd93c7430c19ba703a05368047
 http://127.0.0.1:6878/ace/manifest.m3u8?id=25465ea2deba65c623b7659136abf6fcc9f5dc20
 #EXTINF:-1 tvg-id="Be Mad" group-title="New Era",Be Mad
 http://127.0.0.1:6878/ace/manifest.m3u8?id=6e1b5fd8753352486aa932f802534a17556e1f60
+#EXTINF:-1 tvg-id="SyFy" group-title="New Era",SyFy
+http://127.0.0.1:6878/ace/manifest.m3u8?id=8e1bbcb6a6b8b9bb0e1144454fda35531107cdb3
 #EXTINF:-1 tvg-id="AMC" group-title="New Era",AMC
 http://127.0.0.1:6878/ace/manifest.m3u8?id=55ff9ee631af351f365f51cf3601695bf1fd20f3
+#EXTINF:-1 tvg-id="Orange TV" group-title="New Loop",Orange TV
+http://127.0.0.1:6878/ace/manifest.m3u8?id=abdbfccdfd73bb5b1dcad598d539058040fb24fa
 #EXTINF:-1 tvg-id="M+ Copa del Rey" group-title="Antigua",M+ Copa del Rey
 http://127.0.0.1:6878/ace/manifest.m3u8?id=e31e5dd1a24cf347deecd6aaba8d30a8d9d84460
 #EXTINF:-1 tvg-id="M+ Vamos" group-title="New Era",M+ Vamos
@@ -453,6 +457,8 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=5a71a114fdf460fc90f88b959f83625b964a5
 http://127.0.0.1:6878/ace/manifest.m3u8?id=108aebe20efc826e56f3a1cb01117a124a6b89ad
 #EXTINF:-1 tvg-id="UFC Fight Pass" group-title="New Era",UFC Fight Pass
 http://127.0.0.1:6878/ace/manifest.m3u8?id=96537527b2d5e858b2e6c863a00dec304254091d
+#EXTINF:-1 tvg-id="Tennis Channel" group-title="New Loop",Tennis Channel
+http://127.0.0.1:6878/ace/manifest.m3u8?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="Tennis Channel" group-title="New Era",Tennis Channel
 http://127.0.0.1:6878/ace/manifest.m3u8?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0
 #EXTINF:-1 tvg-id="Tennis Channel" group-title="New Era",Tennis Channel
