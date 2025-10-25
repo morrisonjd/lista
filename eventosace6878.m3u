@@ -1,13 +1,13 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="05:00-WTA Torneo de Tokio Semifinal 1 500-L. Noskova-E. Rybakina" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",05:00-WTA Torneo de Tokio Semifinal 1 500-L. Noskova-E. Rybakina
+#EXTINF:-1 tvg-id="05:10-WTA Torneo de Tokio Semifinal 1 500-L. Noskova-E. Rybakina" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",05:10-WTA Torneo de Tokio Semifinal 1 500-L. Noskova-E. Rybakina
 http://127.0.0.1:6878/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee&pid=1
-#EXTINF:-1 tvg-id="05:00-WTA Torneo de Tokio Semifinal 1 500-L. Noskova-E. Rybakina" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",05:00-WTA Torneo de Tokio Semifinal 1 500-L. Noskova-E. Rybakina
+#EXTINF:-1 tvg-id="05:10-WTA Torneo de Tokio Semifinal 1 500-L. Noskova-E. Rybakina" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",05:10-WTA Torneo de Tokio Semifinal 1 500-L. Noskova-E. Rybakina
 http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0&pid=2
-#EXTINF:-1 tvg-id="05:00-WTA Torneo de Tokio Semifinal 1 500-L. Noskova-E. Rybakina" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",05:00-WTA Torneo de Tokio Semifinal 1 500-L. Noskova-E. Rybakina
+#EXTINF:-1 tvg-id="05:10-WTA Torneo de Tokio Semifinal 1 500-L. Noskova-E. Rybakina" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",05:10-WTA Torneo de Tokio Semifinal 1 500-L. Noskova-E. Rybakina
 http://127.0.0.1:6878/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7&pid=3
-#EXTINF:-1 tvg-id="05:00-WTA Torneo de Tokio Semifinal 1 500-L. Noskova-E. Rybakina" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",05:00-WTA Torneo de Tokio Semifinal 1 500-L. Noskova-E. Rybakina
+#EXTINF:-1 tvg-id="05:10-WTA Torneo de Tokio Semifinal 1 500-L. Noskova-E. Rybakina" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",05:10-WTA Torneo de Tokio Semifinal 1 500-L. Noskova-E. Rybakina
 http://127.0.0.1:6878/ace/getstream?id=aa31953b8af44b461102852d5b1247eea95b8050&pid=4
-#EXTINF:-1 tvg-id="05:00-WTA Torneo de Tokio Semifinal 1 500-L. Noskova-E. Rybakina" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",05:00-WTA Torneo de Tokio Semifinal 1 500-L. Noskova-E. Rybakina
+#EXTINF:-1 tvg-id="05:10-WTA Torneo de Tokio Semifinal 1 500-L. Noskova-E. Rybakina" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",05:10-WTA Torneo de Tokio Semifinal 1 500-L. Noskova-E. Rybakina
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf&pid=5
 #EXTINF:-1 tvg-id="16:00-Premier League-Chelsea-Sunderland" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",16:00-Premier League-Chelsea-Sunderland
 http://127.0.0.1:6878/ace/getstream?id=6538b79ce0da657d8455d1da6a5f342398899a0e&pid=6
@@ -57,47 +57,47 @@ http://127.0.0.1:6878/ace/getstream?id=70f22be1286ef224b5e4e9451d9a42468152cda4&
 http://127.0.0.1:6878/ace/getstream?id=87bb542f974b6b9e89d0f2e20ed6dc93426f4be0&pid=28
 #EXTINF:-1 tvg-id="16:15-Segunda-Albacete-Córdoba" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",16:15-Segunda-Albacete-Córdoba
 http://127.0.0.1:6878/ace/getstream?id=a4f072c9b614323ac1258a175f868a909ea3c8cd&pid=29
+#EXTINF:-1 tvg-id="16:30-Torneo de Viena Semifinal 2 ATP 500-L. Musetti-A. Zverev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:30-Torneo de Viena Semifinal 2 ATP 500-L. Musetti-A. Zverev
+http://127.0.0.1:6878/ace/getstream?id=ef9dcc4eaac36a0f608b52a31f8ab237859e071a&pid=30
+#EXTINF:-1 tvg-id="16:30-Torneo de Viena Semifinal 2 ATP 500-L. Musetti-A. Zverev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:30-Torneo de Viena Semifinal 2 ATP 500-L. Musetti-A. Zverev
+http://127.0.0.1:6878/ace/getstream?id=5d3f582738467aaf213e408601aca5cc13fa9359&pid=31
+#EXTINF:-1 tvg-id="16:30-Torneo de Viena Semifinal 2 ATP 500-L. Musetti-A. Zverev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:30-Torneo de Viena Semifinal 2 ATP 500-L. Musetti-A. Zverev
+http://127.0.0.1:6878/ace/getstream?id=3692ea4cdda97eb0062ed5d656ebd61f149ebd0b&pid=32
+#EXTINF:-1 tvg-id="16:30-Torneo de Viena Semifinal 2 ATP 500-L. Musetti-A. Zverev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:30-Torneo de Viena Semifinal 2 ATP 500-L. Musetti-A. Zverev
+http://127.0.0.1:6878/ace/getstream?id=ebca4a63ce3bfda7b272964a1acc5227218184a4&pid=33
+#EXTINF:-1 tvg-id="16:30-Torneo de Viena Semifinal 2 ATP 500-L. Musetti-A. Zverev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:30-Torneo de Viena Semifinal 2 ATP 500-L. Musetti-A. Zverev
+http://127.0.0.1:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3&pid=34
+#EXTINF:-1 tvg-id="16:30-Torneo de Viena Semifinal 2 ATP 500-L. Musetti-A. Zverev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:30-Torneo de Viena Semifinal 2 ATP 500-L. Musetti-A. Zverev
+http://127.0.0.1:6878/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee&pid=35
+#EXTINF:-1 tvg-id="16:30-Torneo de Viena Semifinal 2 ATP 500-L. Musetti-A. Zverev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:30-Torneo de Viena Semifinal 2 ATP 500-L. Musetti-A. Zverev
+http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0&pid=36
+#EXTINF:-1 tvg-id="16:30-Torneo de Viena Semifinal 2 ATP 500-L. Musetti-A. Zverev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:30-Torneo de Viena Semifinal 2 ATP 500-L. Musetti-A. Zverev
+http://127.0.0.1:6878/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7&pid=37
+#EXTINF:-1 tvg-id="16:30-Torneo de Viena Semifinal 2 ATP 500-L. Musetti-A. Zverev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:30-Torneo de Viena Semifinal 2 ATP 500-L. Musetti-A. Zverev
+http://127.0.0.1:6878/ace/getstream?id=aa31953b8af44b461102852d5b1247eea95b8050&pid=38
+#EXTINF:-1 tvg-id="16:30-Torneo de Viena Semifinal 2 ATP 500-L. Musetti-A. Zverev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:30-Torneo de Viena Semifinal 2 ATP 500-L. Musetti-A. Zverev
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf&pid=39
 #EXTINF:-1 tvg-id="17:00-Torneo de Basilea Semifinal 2 ATP 500-U. Humbert-A. Davidovich" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:00-Torneo de Basilea Semifinal 2 ATP 500-U. Humbert-A. Davidovich
-http://127.0.0.1:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&pid=30
+http://127.0.0.1:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&pid=40
 #EXTINF:-1 tvg-id="17:00-Torneo de Basilea Semifinal 2 ATP 500-U. Humbert-A. Davidovich" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:00-Torneo de Basilea Semifinal 2 ATP 500-U. Humbert-A. Davidovich
-http://127.0.0.1:6878/ace/getstream?id=6e212a916c83638268047dd2757c95b14f7d25a3&pid=31
+http://127.0.0.1:6878/ace/getstream?id=6e212a916c83638268047dd2757c95b14f7d25a3&pid=41
 #EXTINF:-1 tvg-id="17:00-Torneo de Basilea Semifinal 2 ATP 500-U. Humbert-A. Davidovich" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:00-Torneo de Basilea Semifinal 2 ATP 500-U. Humbert-A. Davidovich
-http://127.0.0.1:6878/ace/getstream?id=73d38feaa770d788848ec098470e32670fe55a61&pid=32
+http://127.0.0.1:6878/ace/getstream?id=73d38feaa770d788848ec098470e32670fe55a61&pid=42
 #EXTINF:-1 tvg-id="17:00-Torneo de Basilea Semifinal 2 ATP 500-U. Humbert-A. Davidovich" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:00-Torneo de Basilea Semifinal 2 ATP 500-U. Humbert-A. Davidovich
-http://127.0.0.1:6878/ace/getstream?id=f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0&pid=33
+http://127.0.0.1:6878/ace/getstream?id=f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0&pid=43
 #EXTINF:-1 tvg-id="17:00-Torneo de Basilea Semifinal 2 ATP 500-U. Humbert-A. Davidovich" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:00-Torneo de Basilea Semifinal 2 ATP 500-U. Humbert-A. Davidovich
-http://127.0.0.1:6878/ace/getstream?id=bfa01c11c5c6b7a616a516de4f2c769a89d26b25&pid=34
+http://127.0.0.1:6878/ace/getstream?id=bfa01c11c5c6b7a616a516de4f2c769a89d26b25&pid=44
 #EXTINF:-1 tvg-id="17:00-Torneo de Basilea Semifinal 2 ATP 500-U. Humbert-A. Davidovich" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:00-Torneo de Basilea Semifinal 2 ATP 500-U. Humbert-A. Davidovich
-http://127.0.0.1:6878/ace/getstream?id=3afe1af18f8ff78e9946856911b00c67477052b5&pid=35
+http://127.0.0.1:6878/ace/getstream?id=3afe1af18f8ff78e9946856911b00c67477052b5&pid=45
 #EXTINF:-1 tvg-id="17:00-Torneo de Basilea Semifinal 2 ATP 500-U. Humbert-A. Davidovich" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:00-Torneo de Basilea Semifinal 2 ATP 500-U. Humbert-A. Davidovich
-http://127.0.0.1:6878/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee&pid=36
-#EXTINF:-1 tvg-id="17:00-Torneo de Basilea Semifinal 2 ATP 500-U. Humbert-A. Davidovich" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:00-Torneo de Basilea Semifinal 2 ATP 500-U. Humbert-A. Davidovich
-http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0&pid=37
-#EXTINF:-1 tvg-id="17:00-Torneo de Basilea Semifinal 2 ATP 500-U. Humbert-A. Davidovich" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:00-Torneo de Basilea Semifinal 2 ATP 500-U. Humbert-A. Davidovich
-http://127.0.0.1:6878/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7&pid=38
-#EXTINF:-1 tvg-id="17:00-Torneo de Basilea Semifinal 2 ATP 500-U. Humbert-A. Davidovich" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:00-Torneo de Basilea Semifinal 2 ATP 500-U. Humbert-A. Davidovich
-http://127.0.0.1:6878/ace/getstream?id=aa31953b8af44b461102852d5b1247eea95b8050&pid=39
-#EXTINF:-1 tvg-id="17:00-Torneo de Basilea Semifinal 2 ATP 500-U. Humbert-A. Davidovich" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:00-Torneo de Basilea Semifinal 2 ATP 500-U. Humbert-A. Davidovich
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf&pid=40
-#EXTINF:-1 tvg-id="17:00-Torneo de Viena Semifinal 2 ATP 500-L. Musetti-A. Zverev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:00-Torneo de Viena Semifinal 2 ATP 500-L. Musetti-A. Zverev
-http://127.0.0.1:6878/ace/getstream?id=ef9dcc4eaac36a0f608b52a31f8ab237859e071a&pid=41
-#EXTINF:-1 tvg-id="17:00-Torneo de Viena Semifinal 2 ATP 500-L. Musetti-A. Zverev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:00-Torneo de Viena Semifinal 2 ATP 500-L. Musetti-A. Zverev
-http://127.0.0.1:6878/ace/getstream?id=5d3f582738467aaf213e408601aca5cc13fa9359&pid=42
-#EXTINF:-1 tvg-id="17:00-Torneo de Viena Semifinal 2 ATP 500-L. Musetti-A. Zverev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:00-Torneo de Viena Semifinal 2 ATP 500-L. Musetti-A. Zverev
-http://127.0.0.1:6878/ace/getstream?id=3692ea4cdda97eb0062ed5d656ebd61f149ebd0b&pid=43
-#EXTINF:-1 tvg-id="17:00-Torneo de Viena Semifinal 2 ATP 500-L. Musetti-A. Zverev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:00-Torneo de Viena Semifinal 2 ATP 500-L. Musetti-A. Zverev
-http://127.0.0.1:6878/ace/getstream?id=ebca4a63ce3bfda7b272964a1acc5227218184a4&pid=44
-#EXTINF:-1 tvg-id="17:00-Torneo de Viena Semifinal 2 ATP 500-L. Musetti-A. Zverev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:00-Torneo de Viena Semifinal 2 ATP 500-L. Musetti-A. Zverev
-http://127.0.0.1:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3&pid=45
-#EXTINF:-1 tvg-id="17:00-Torneo de Viena Semifinal 2 ATP 500-L. Musetti-A. Zverev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:00-Torneo de Viena Semifinal 2 ATP 500-L. Musetti-A. Zverev
 http://127.0.0.1:6878/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee&pid=46
-#EXTINF:-1 tvg-id="17:00-Torneo de Viena Semifinal 2 ATP 500-L. Musetti-A. Zverev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:00-Torneo de Viena Semifinal 2 ATP 500-L. Musetti-A. Zverev
+#EXTINF:-1 tvg-id="17:00-Torneo de Basilea Semifinal 2 ATP 500-U. Humbert-A. Davidovich" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:00-Torneo de Basilea Semifinal 2 ATP 500-U. Humbert-A. Davidovich
 http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0&pid=47
-#EXTINF:-1 tvg-id="17:00-Torneo de Viena Semifinal 2 ATP 500-L. Musetti-A. Zverev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:00-Torneo de Viena Semifinal 2 ATP 500-L. Musetti-A. Zverev
+#EXTINF:-1 tvg-id="17:00-Torneo de Basilea Semifinal 2 ATP 500-U. Humbert-A. Davidovich" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:00-Torneo de Basilea Semifinal 2 ATP 500-U. Humbert-A. Davidovich
 http://127.0.0.1:6878/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7&pid=48
-#EXTINF:-1 tvg-id="17:00-Torneo de Viena Semifinal 2 ATP 500-L. Musetti-A. Zverev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:00-Torneo de Viena Semifinal 2 ATP 500-L. Musetti-A. Zverev
+#EXTINF:-1 tvg-id="17:00-Torneo de Basilea Semifinal 2 ATP 500-U. Humbert-A. Davidovich" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:00-Torneo de Basilea Semifinal 2 ATP 500-U. Humbert-A. Davidovich
 http://127.0.0.1:6878/ace/getstream?id=aa31953b8af44b461102852d5b1247eea95b8050&pid=49
-#EXTINF:-1 tvg-id="17:00-Torneo de Viena Semifinal 2 ATP 500-L. Musetti-A. Zverev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:00-Torneo de Viena Semifinal 2 ATP 500-L. Musetti-A. Zverev
+#EXTINF:-1 tvg-id="17:00-Torneo de Basilea Semifinal 2 ATP 500-U. Humbert-A. Davidovich" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:00-Torneo de Basilea Semifinal 2 ATP 500-U. Humbert-A. Davidovich
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf&pid=50
 #EXTINF:-1 tvg-id="18:30-Primera-Athletic Club-Getafe" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:30-Primera-Athletic Club-Getafe
 http://127.0.0.1:6878/ace/getstream?id=0e50439e68aa2435b38f0563bb2f2e98f32ff4b1&pid=51
@@ -143,15 +143,15 @@ http://127.0.0.1:6878/ace/getstream?id=7ac2d74ef6df9d15012992d7e0e635a95f58c652&
 http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b&pid=71
 #EXTINF:-1 tvg-id="18:30-Premier League-Manchester Utd.-Brighton" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:30-Premier League-Manchester Utd.-Brighton
 http://127.0.0.1:6878/ace/getstream?id=14407b00d454cb7dc0d70aa26e8bbc554f457f00&pid=72
-#EXTINF:-1 tvg-id="06:30-WTA Torneo de Tokio Semifinal 2 500-B. Bencic-S. Kenin" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",06:30-WTA Torneo de Tokio Semifinal 2 500-B. Bencic-S. Kenin
+#EXTINF:-1 tvg-id="06:10-WTA Torneo de Tokio Semifinal 2 500-B. Bencic-S. Kenin" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",06:10-WTA Torneo de Tokio Semifinal 2 500-B. Bencic-S. Kenin
 http://127.0.0.1:6878/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee&pid=73
-#EXTINF:-1 tvg-id="06:30-WTA Torneo de Tokio Semifinal 2 500-B. Bencic-S. Kenin" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",06:30-WTA Torneo de Tokio Semifinal 2 500-B. Bencic-S. Kenin
+#EXTINF:-1 tvg-id="06:10-WTA Torneo de Tokio Semifinal 2 500-B. Bencic-S. Kenin" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",06:10-WTA Torneo de Tokio Semifinal 2 500-B. Bencic-S. Kenin
 http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0&pid=74
-#EXTINF:-1 tvg-id="06:30-WTA Torneo de Tokio Semifinal 2 500-B. Bencic-S. Kenin" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",06:30-WTA Torneo de Tokio Semifinal 2 500-B. Bencic-S. Kenin
+#EXTINF:-1 tvg-id="06:10-WTA Torneo de Tokio Semifinal 2 500-B. Bencic-S. Kenin" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",06:10-WTA Torneo de Tokio Semifinal 2 500-B. Bencic-S. Kenin
 http://127.0.0.1:6878/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7&pid=75
-#EXTINF:-1 tvg-id="06:30-WTA Torneo de Tokio Semifinal 2 500-B. Bencic-S. Kenin" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",06:30-WTA Torneo de Tokio Semifinal 2 500-B. Bencic-S. Kenin
+#EXTINF:-1 tvg-id="06:10-WTA Torneo de Tokio Semifinal 2 500-B. Bencic-S. Kenin" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",06:10-WTA Torneo de Tokio Semifinal 2 500-B. Bencic-S. Kenin
 http://127.0.0.1:6878/ace/getstream?id=aa31953b8af44b461102852d5b1247eea95b8050&pid=76
-#EXTINF:-1 tvg-id="06:30-WTA Torneo de Tokio Semifinal 2 500-B. Bencic-S. Kenin" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",06:30-WTA Torneo de Tokio Semifinal 2 500-B. Bencic-S. Kenin
+#EXTINF:-1 tvg-id="06:10-WTA Torneo de Tokio Semifinal 2 500-B. Bencic-S. Kenin" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",06:10-WTA Torneo de Tokio Semifinal 2 500-B. Bencic-S. Kenin
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf&pid=77
 #EXTINF:-1 tvg-id="21:00-Primera-Valencia CF-Villarreal" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera-Valencia CF-Villarreal
 http://127.0.0.1:6878/ace/getstream?id=d4ff041287a43e3114d411d671c4b4e92e21f33y&pid=78
