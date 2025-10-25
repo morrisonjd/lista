@@ -7,299 +7,287 @@ http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0&
 http://127.0.0.1:6878/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7&pid=3
 #EXTINF:-1 tvg-id="05:10-WTA Torneo de Tokio Semifinal 1 500-L. Noskova-E. Rybakina" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",05:10-WTA Torneo de Tokio Semifinal 1 500-L. Noskova-E. Rybakina
 http://127.0.0.1:6878/ace/getstream?id=aa31953b8af44b461102852d5b1247eea95b8050&pid=4
-#EXTINF:-1 tvg-id="05:10-WTA Torneo de Tokio Semifinal 1 500-L. Noskova-E. Rybakina" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",05:10-WTA Torneo de Tokio Semifinal 1 500-L. Noskova-E. Rybakina
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf&pid=5
 #EXTINF:-1 tvg-id="06:10-WTA Torneo de Tokio Semifinal 2 500-B. Bencic-S. Kenin" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",06:10-WTA Torneo de Tokio Semifinal 2 500-B. Bencic-S. Kenin
-http://127.0.0.1:6878/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee&pid=6
+http://127.0.0.1:6878/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee&pid=5
 #EXTINF:-1 tvg-id="06:10-WTA Torneo de Tokio Semifinal 2 500-B. Bencic-S. Kenin" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",06:10-WTA Torneo de Tokio Semifinal 2 500-B. Bencic-S. Kenin
-http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0&pid=7
+http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0&pid=6
 #EXTINF:-1 tvg-id="06:10-WTA Torneo de Tokio Semifinal 2 500-B. Bencic-S. Kenin" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",06:10-WTA Torneo de Tokio Semifinal 2 500-B. Bencic-S. Kenin
-http://127.0.0.1:6878/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7&pid=8
+http://127.0.0.1:6878/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7&pid=7
 #EXTINF:-1 tvg-id="06:10-WTA Torneo de Tokio Semifinal 2 500-B. Bencic-S. Kenin" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",06:10-WTA Torneo de Tokio Semifinal 2 500-B. Bencic-S. Kenin
-http://127.0.0.1:6878/ace/getstream?id=aa31953b8af44b461102852d5b1247eea95b8050&pid=9
-#EXTINF:-1 tvg-id="06:10-WTA Torneo de Tokio Semifinal 2 500-B. Bencic-S. Kenin" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",06:10-WTA Torneo de Tokio Semifinal 2 500-B. Bencic-S. Kenin
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf&pid=10
+http://127.0.0.1:6878/ace/getstream?id=aa31953b8af44b461102852d5b1247eea95b8050&pid=8
 #EXTINF:-1 tvg-id="11:00-Primera Federación Femenina-Roldán FSF-Poio Pescamar FS" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",11:00-Primera Federación Femenina-Roldán FSF-Poio Pescamar FS
+http://127.0.0.1:6878/ace/getstream?id=2d997da301573c5aba78f969d0d37eb6107941b2&pid=9
+#EXTINF:-1 tvg-id="11:00-Primera Federación Femenina-Roldán FSF-Poio Pescamar FS" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",11:00-Primera Federación Femenina-Roldán FSF-Poio Pescamar FS
+http://127.0.0.1:6878/ace/getstream?id=7d910d9480e023608d1fe77eaf47c2ed34592155&pid=10
+#EXTINF:-1 tvg-id="13:00-Primera Federación Futsal-Jimbee Cartagena FS-Barça FS" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",13:00-Primera Federación Futsal-Jimbee Cartagena FS-Barça FS
 http://127.0.0.1:6878/ace/getstream?id=2d997da301573c5aba78f969d0d37eb6107941b2&pid=11
-#EXTINF:-1 tvg-id="11:00-Primera Federación Femenina-Roldán FSF-Poio Pescamar FS" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",11:00-Primera Federación Femenina-Roldán FSF-Poio Pescamar FS
+#EXTINF:-1 tvg-id="13:00-Primera Federación Futsal-Jimbee Cartagena FS-Barça FS" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",13:00-Primera Federación Futsal-Jimbee Cartagena FS-Barça FS
 http://127.0.0.1:6878/ace/getstream?id=7d910d9480e023608d1fe77eaf47c2ed34592155&pid=12
-#EXTINF:-1 tvg-id="13:00-Primera Federación Futsal-Jimbee Cartagena FS-Barça FS" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",13:00-Primera Federación Futsal-Jimbee Cartagena FS-Barça FS
-http://127.0.0.1:6878/ace/getstream?id=2d997da301573c5aba78f969d0d37eb6107941b2&pid=13
-#EXTINF:-1 tvg-id="13:00-Primera Federación Futsal-Jimbee Cartagena FS-Barça FS" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",13:00-Primera Federación Futsal-Jimbee Cartagena FS-Barça FS
-http://127.0.0.1:6878/ace/getstream?id=7d910d9480e023608d1fe77eaf47c2ed34592155&pid=14
 #EXTINF:-1 tvg-id="14:00-Primera-Girona-Real Oviedo" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",14:00-Primera-Girona-Real Oviedo
-http://127.0.0.1:6878/ace/getstream?id=0e50439e68aa2435b38f0563bb2f2e98f32ff4b1&pid=15
+http://127.0.0.1:6878/ace/getstream?id=0e50439e68aa2435b38f0563bb2f2e98f32ff4b1&pid=13
 #EXTINF:-1 tvg-id="14:00-Primera-Girona-Real Oviedo" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",14:00-Primera-Girona-Real Oviedo
-http://127.0.0.1:6878/ace/getstream?id=1bb5bf76fb2018d6db9aaa29b1467ecdfabe2884&pid=16
+http://127.0.0.1:6878/ace/getstream?id=1bb5bf76fb2018d6db9aaa29b1467ecdfabe2884&pid=14
 #EXTINF:-1 tvg-id="14:00-Primera-Girona-Real Oviedo" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",14:00-Primera-Girona-Real Oviedo
-http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05&pid=17
+http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05&pid=15
 #EXTINF:-1 tvg-id="14:00-Primera-Girona-Real Oviedo" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",14:00-Primera-Girona-Real Oviedo
-http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618&pid=18
+http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618&pid=16
 #EXTINF:-1 tvg-id="14:00-Segunda-Cultural Leonesa-AD Ceuta" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",14:00-Segunda-Cultural Leonesa-AD Ceuta
-http://127.0.0.1:6878/ace/getstream?id=8ee52f6208e33706171856f99d2ed2dabd317f3a&pid=19
+http://127.0.0.1:6878/ace/getstream?id=8ee52f6208e33706171856f99d2ed2dabd317f3a&pid=17
 #EXTINF:-1 tvg-id="14:00-Segunda-Cultural Leonesa-AD Ceuta" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",14:00-Segunda-Cultural Leonesa-AD Ceuta
-http://127.0.0.1:6878/ace/getstream?id=70f22be1286ef224b5e4e9451d9a42468152cda4&pid=20
+http://127.0.0.1:6878/ace/getstream?id=70f22be1286ef224b5e4e9451d9a42468152cda4&pid=18
 #EXTINF:-1 tvg-id="14:00-Segunda-Cultural Leonesa-AD Ceuta" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",14:00-Segunda-Cultural Leonesa-AD Ceuta
-http://127.0.0.1:6878/ace/getstream?id=87bb542f974b6b9e89d0f2e20ed6dc93426f4be0&pid=21
+http://127.0.0.1:6878/ace/getstream?id=87bb542f974b6b9e89d0f2e20ed6dc93426f4be0&pid=19
 #EXTINF:-1 tvg-id="14:00-Segunda-Cultural Leonesa-AD Ceuta" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",14:00-Segunda-Cultural Leonesa-AD Ceuta
-http://127.0.0.1:6878/ace/getstream?id=a4f072c9b614323ac1258a175f868a909ea3c8cd&pid=22
+http://127.0.0.1:6878/ace/getstream?id=a4f072c9b614323ac1258a175f868a909ea3c8cd&pid=20
 #EXTINF:-1 tvg-id="15:00-Torneo de Basilea Semifinal 1 ATP 500-J. Fonseca-J. Munar" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:00-Torneo de Basilea Semifinal 1 ATP 500-J. Fonseca-J. Munar
-http://127.0.0.1:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&pid=23
+http://127.0.0.1:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&pid=21
 #EXTINF:-1 tvg-id="15:00-Torneo de Basilea Semifinal 1 ATP 500-J. Fonseca-J. Munar" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:00-Torneo de Basilea Semifinal 1 ATP 500-J. Fonseca-J. Munar
-http://127.0.0.1:6878/ace/getstream?id=6e212a916c83638268047dd2757c95b14f7d25a3&pid=24
+http://127.0.0.1:6878/ace/getstream?id=6e212a916c83638268047dd2757c95b14f7d25a3&pid=22
 #EXTINF:-1 tvg-id="15:00-Torneo de Basilea Semifinal 1 ATP 500-J. Fonseca-J. Munar" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:00-Torneo de Basilea Semifinal 1 ATP 500-J. Fonseca-J. Munar
-http://127.0.0.1:6878/ace/getstream?id=73d38feaa770d788848ec098470e32670fe55a61&pid=25
+http://127.0.0.1:6878/ace/getstream?id=73d38feaa770d788848ec098470e32670fe55a61&pid=23
 #EXTINF:-1 tvg-id="15:00-Torneo de Basilea Semifinal 1 ATP 500-J. Fonseca-J. Munar" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:00-Torneo de Basilea Semifinal 1 ATP 500-J. Fonseca-J. Munar
-http://127.0.0.1:6878/ace/getstream?id=f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0&pid=26
+http://127.0.0.1:6878/ace/getstream?id=f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0&pid=24
 #EXTINF:-1 tvg-id="15:00-Torneo de Basilea Semifinal 1 ATP 500-J. Fonseca-J. Munar" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:00-Torneo de Basilea Semifinal 1 ATP 500-J. Fonseca-J. Munar
-http://127.0.0.1:6878/ace/getstream?id=bfa01c11c5c6b7a616a516de4f2c769a89d26b25&pid=27
+http://127.0.0.1:6878/ace/getstream?id=bfa01c11c5c6b7a616a516de4f2c769a89d26b25&pid=25
 #EXTINF:-1 tvg-id="15:00-Torneo de Basilea Semifinal 1 ATP 500-J. Fonseca-J. Munar" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:00-Torneo de Basilea Semifinal 1 ATP 500-J. Fonseca-J. Munar
-http://127.0.0.1:6878/ace/getstream?id=3afe1af18f8ff78e9946856911b00c67477052b5&pid=28
+http://127.0.0.1:6878/ace/getstream?id=3afe1af18f8ff78e9946856911b00c67477052b5&pid=26
 #EXTINF:-1 tvg-id="15:00-Torneo de Basilea Semifinal 1 ATP 500-J. Fonseca-J. Munar" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:00-Torneo de Basilea Semifinal 1 ATP 500-J. Fonseca-J. Munar
-http://127.0.0.1:6878/ace/getstream?id=8c67cdb5ba81976662c3a67984a9545d9cfb0f70&pid=29
+http://127.0.0.1:6878/ace/getstream?id=8c67cdb5ba81976662c3a67984a9545d9cfb0f70&pid=27
 #EXTINF:-1 tvg-id="15:00-Torneo de Basilea Semifinal 1 ATP 500-J. Fonseca-J. Munar" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:00-Torneo de Basilea Semifinal 1 ATP 500-J. Fonseca-J. Munar
-http://127.0.0.1:6878/ace/getstream?id=b6ffbbc72a5b6b579faf79ebac229af7a25b933b&pid=30
+http://127.0.0.1:6878/ace/getstream?id=b6ffbbc72a5b6b579faf79ebac229af7a25b933b&pid=28
 #EXTINF:-1 tvg-id="15:00-Torneo de Basilea Semifinal 1 ATP 500-J. Fonseca-J. Munar" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:00-Torneo de Basilea Semifinal 1 ATP 500-J. Fonseca-J. Munar
-http://127.0.0.1:6878/ace/getstream?id=199190e3f28c1de0be34bccf0d3568dc65209b99&pid=31
+http://127.0.0.1:6878/ace/getstream?id=199190e3f28c1de0be34bccf0d3568dc65209b99&pid=29
 #EXTINF:-1 tvg-id="15:00-Torneo de Basilea Semifinal 1 ATP 500-J. Fonseca-J. Munar" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:00-Torneo de Basilea Semifinal 1 ATP 500-J. Fonseca-J. Munar
-http://127.0.0.1:6878/ace/getstream?id=5866e83279307bf919068ae7a0d250e4e424e464&pid=32
+http://127.0.0.1:6878/ace/getstream?id=5866e83279307bf919068ae7a0d250e4e424e464&pid=30
 #EXTINF:-1 tvg-id="15:00-Torneo de Basilea Semifinal 1 ATP 500-J. Fonseca-J. Munar" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:00-Torneo de Basilea Semifinal 1 ATP 500-J. Fonseca-J. Munar
-http://127.0.0.1:6878/ace/getstream?id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78&pid=33
+http://127.0.0.1:6878/ace/getstream?id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78&pid=31
 #EXTINF:-1 tvg-id="15:00-Torneo de Basilea Semifinal 1 ATP 500-J. Fonseca-J. Munar" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:00-Torneo de Basilea Semifinal 1 ATP 500-J. Fonseca-J. Munar
-http://127.0.0.1:6878/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee&pid=34
+http://127.0.0.1:6878/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee&pid=32
 #EXTINF:-1 tvg-id="15:00-Torneo de Basilea Semifinal 1 ATP 500-J. Fonseca-J. Munar" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:00-Torneo de Basilea Semifinal 1 ATP 500-J. Fonseca-J. Munar
-http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0&pid=35
+http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0&pid=33
 #EXTINF:-1 tvg-id="15:00-Torneo de Basilea Semifinal 1 ATP 500-J. Fonseca-J. Munar" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:00-Torneo de Basilea Semifinal 1 ATP 500-J. Fonseca-J. Munar
-http://127.0.0.1:6878/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7&pid=36
+http://127.0.0.1:6878/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7&pid=34
 #EXTINF:-1 tvg-id="15:00-Torneo de Basilea Semifinal 1 ATP 500-J. Fonseca-J. Munar" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:00-Torneo de Basilea Semifinal 1 ATP 500-J. Fonseca-J. Munar
-http://127.0.0.1:6878/ace/getstream?id=aa31953b8af44b461102852d5b1247eea95b8050&pid=37
-#EXTINF:-1 tvg-id="15:00-Torneo de Basilea Semifinal 1 ATP 500-J. Fonseca-J. Munar" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:00-Torneo de Basilea Semifinal 1 ATP 500-J. Fonseca-J. Munar
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf&pid=38
+http://127.0.0.1:6878/ace/getstream?id=aa31953b8af44b461102852d5b1247eea95b8050&pid=35
 #EXTINF:-1 tvg-id="15:00-Torneo de Viena Semifinal 1 ATP 500-J. Sinner-A. De Miñaur" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:00-Torneo de Viena Semifinal 1 ATP 500-J. Sinner-A. De Miñaur
-http://127.0.0.1:6878/ace/getstream?id=ef9dcc4eaac36a0f608b52a31f8ab237859e071a&pid=39
+http://127.0.0.1:6878/ace/getstream?id=ef9dcc4eaac36a0f608b52a31f8ab237859e071a&pid=36
 #EXTINF:-1 tvg-id="15:00-Torneo de Viena Semifinal 1 ATP 500-J. Sinner-A. De Miñaur" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:00-Torneo de Viena Semifinal 1 ATP 500-J. Sinner-A. De Miñaur
-http://127.0.0.1:6878/ace/getstream?id=5d3f582738467aaf213e408601aca5cc13fa9359&pid=40
+http://127.0.0.1:6878/ace/getstream?id=5d3f582738467aaf213e408601aca5cc13fa9359&pid=37
 #EXTINF:-1 tvg-id="15:00-Torneo de Viena Semifinal 1 ATP 500-J. Sinner-A. De Miñaur" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:00-Torneo de Viena Semifinal 1 ATP 500-J. Sinner-A. De Miñaur
-http://127.0.0.1:6878/ace/getstream?id=3692ea4cdda97eb0062ed5d656ebd61f149ebd0b&pid=41
+http://127.0.0.1:6878/ace/getstream?id=3692ea4cdda97eb0062ed5d656ebd61f149ebd0b&pid=38
 #EXTINF:-1 tvg-id="15:00-Torneo de Viena Semifinal 1 ATP 500-J. Sinner-A. De Miñaur" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:00-Torneo de Viena Semifinal 1 ATP 500-J. Sinner-A. De Miñaur
-http://127.0.0.1:6878/ace/getstream?id=ebca4a63ce3bfda7b272964a1acc5227218184a4&pid=42
+http://127.0.0.1:6878/ace/getstream?id=ebca4a63ce3bfda7b272964a1acc5227218184a4&pid=39
 #EXTINF:-1 tvg-id="15:00-Torneo de Viena Semifinal 1 ATP 500-J. Sinner-A. De Miñaur" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:00-Torneo de Viena Semifinal 1 ATP 500-J. Sinner-A. De Miñaur
-http://127.0.0.1:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3&pid=43
+http://127.0.0.1:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3&pid=40
 #EXTINF:-1 tvg-id="15:00-Torneo de Viena Semifinal 1 ATP 500-J. Sinner-A. De Miñaur" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:00-Torneo de Viena Semifinal 1 ATP 500-J. Sinner-A. De Miñaur
-http://127.0.0.1:6878/ace/getstream?id=8c67cdb5ba81976662c3a67984a9545d9cfb0f70&pid=44
+http://127.0.0.1:6878/ace/getstream?id=8c67cdb5ba81976662c3a67984a9545d9cfb0f70&pid=41
 #EXTINF:-1 tvg-id="15:00-Torneo de Viena Semifinal 1 ATP 500-J. Sinner-A. De Miñaur" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:00-Torneo de Viena Semifinal 1 ATP 500-J. Sinner-A. De Miñaur
-http://127.0.0.1:6878/ace/getstream?id=b6ffbbc72a5b6b579faf79ebac229af7a25b933b&pid=45
+http://127.0.0.1:6878/ace/getstream?id=b6ffbbc72a5b6b579faf79ebac229af7a25b933b&pid=42
 #EXTINF:-1 tvg-id="15:00-Torneo de Viena Semifinal 1 ATP 500-J. Sinner-A. De Miñaur" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:00-Torneo de Viena Semifinal 1 ATP 500-J. Sinner-A. De Miñaur
-http://127.0.0.1:6878/ace/getstream?id=199190e3f28c1de0be34bccf0d3568dc65209b99&pid=46
+http://127.0.0.1:6878/ace/getstream?id=199190e3f28c1de0be34bccf0d3568dc65209b99&pid=43
 #EXTINF:-1 tvg-id="15:00-Torneo de Viena Semifinal 1 ATP 500-J. Sinner-A. De Miñaur" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:00-Torneo de Viena Semifinal 1 ATP 500-J. Sinner-A. De Miñaur
-http://127.0.0.1:6878/ace/getstream?id=5866e83279307bf919068ae7a0d250e4e424e464&pid=47
+http://127.0.0.1:6878/ace/getstream?id=5866e83279307bf919068ae7a0d250e4e424e464&pid=44
 #EXTINF:-1 tvg-id="15:00-Torneo de Viena Semifinal 1 ATP 500-J. Sinner-A. De Miñaur" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:00-Torneo de Viena Semifinal 1 ATP 500-J. Sinner-A. De Miñaur
-http://127.0.0.1:6878/ace/getstream?id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78&pid=48
+http://127.0.0.1:6878/ace/getstream?id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78&pid=45
 #EXTINF:-1 tvg-id="15:00-Torneo de Viena Semifinal 1 ATP 500-J. Sinner-A. De Miñaur" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:00-Torneo de Viena Semifinal 1 ATP 500-J. Sinner-A. De Miñaur
-http://127.0.0.1:6878/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee&pid=49
+http://127.0.0.1:6878/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee&pid=46
 #EXTINF:-1 tvg-id="15:00-Torneo de Viena Semifinal 1 ATP 500-J. Sinner-A. De Miñaur" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:00-Torneo de Viena Semifinal 1 ATP 500-J. Sinner-A. De Miñaur
-http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0&pid=50
+http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0&pid=47
 #EXTINF:-1 tvg-id="15:00-Torneo de Viena Semifinal 1 ATP 500-J. Sinner-A. De Miñaur" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:00-Torneo de Viena Semifinal 1 ATP 500-J. Sinner-A. De Miñaur
-http://127.0.0.1:6878/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7&pid=51
+http://127.0.0.1:6878/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7&pid=48
 #EXTINF:-1 tvg-id="15:00-Torneo de Viena Semifinal 1 ATP 500-J. Sinner-A. De Miñaur" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:00-Torneo de Viena Semifinal 1 ATP 500-J. Sinner-A. De Miñaur
-http://127.0.0.1:6878/ace/getstream?id=aa31953b8af44b461102852d5b1247eea95b8050&pid=52
-#EXTINF:-1 tvg-id="15:00-Torneo de Viena Semifinal 1 ATP 500-J. Sinner-A. De Miñaur" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:00-Torneo de Viena Semifinal 1 ATP 500-J. Sinner-A. De Miñaur
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf&pid=53
+http://127.0.0.1:6878/ace/getstream?id=aa31953b8af44b461102852d5b1247eea95b8050&pid=49
 #EXTINF:-1 tvg-id="16:00-Premier League-Newcastle-Fulham" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",16:00-Premier League-Newcastle-Fulham
-http://127.0.0.1:6878/ace/getstream?id=43004e955731cd3afcc34d24e5178d4b427bff37&pid=54
+http://127.0.0.1:6878/ace/getstream?id=43004e955731cd3afcc34d24e5178d4b427bff37&pid=50
 #EXTINF:-1 tvg-id="16:00-Premier League-Newcastle-Fulham" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",16:00-Premier League-Newcastle-Fulham
-http://127.0.0.1:6878/ace/getstream?id=ae68a0835039fab28fd2314108fabd4fab33b8ab&pid=55
+http://127.0.0.1:6878/ace/getstream?id=ae68a0835039fab28fd2314108fabd4fab33b8ab&pid=51
 #EXTINF:-1 tvg-id="16:00-Premier League-Newcastle-Fulham" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",16:00-Premier League-Newcastle-Fulham
-http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516&pid=56
+http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516&pid=52
 #EXTINF:-1 tvg-id="16:00-Premier League-Newcastle-Fulham" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",16:00-Premier League-Newcastle-Fulham
-http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce&pid=57
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce&pid=53
 #EXTINF:-1 tvg-id="16:00-Premier League-Newcastle-Fulham" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",16:00-Premier League-Newcastle-Fulham
-http://127.0.0.1:6878/ace/getstream?id=54a4a28882d3cae1ca19de5d4b022ebea40351f9&pid=58
+http://127.0.0.1:6878/ace/getstream?id=54a4a28882d3cae1ca19de5d4b022ebea40351f9&pid=54
 #EXTINF:-1 tvg-id="16:00-Premier League-Chelsea-Sunderland" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",16:00-Premier League-Chelsea-Sunderland
-http://127.0.0.1:6878/ace/getstream?id=6538b79ce0da657d8455d1da6a5f342398899a0e&pid=59
+http://127.0.0.1:6878/ace/getstream?id=6538b79ce0da657d8455d1da6a5f342398899a0e&pid=55
 #EXTINF:-1 tvg-id="16:00-Premier League-Chelsea-Sunderland" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",16:00-Premier League-Chelsea-Sunderland
-http://127.0.0.1:6878/ace/getstream?id=50a8a13c474848d1efbd5586efdb5b6cdd173fa9&pid=60
+http://127.0.0.1:6878/ace/getstream?id=50a8a13c474848d1efbd5586efdb5b6cdd173fa9&pid=56
 #EXTINF:-1 tvg-id="16:00-Premier League-Chelsea-Sunderland" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",16:00-Premier League-Chelsea-Sunderland
-http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928&pid=61
+http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928&pid=57
 #EXTINF:-1 tvg-id="16:00-Premier League-Chelsea-Sunderland" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",16:00-Premier League-Chelsea-Sunderland
-http://127.0.0.1:6878/ace/getstream?id=b03f9310155cf3b4eafc1dfba763781abc3ff025&pid=62
+http://127.0.0.1:6878/ace/getstream?id=b03f9310155cf3b4eafc1dfba763781abc3ff025&pid=58
 #EXTINF:-1 tvg-id="16:00-Premier League-Chelsea-Sunderland" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",16:00-Premier League-Chelsea-Sunderland
-http://127.0.0.1:6878/ace/getstream?id=36394be1db2e20b5997d987c32fd38c7f0f194b7&pid=63
+http://127.0.0.1:6878/ace/getstream?id=36394be1db2e20b5997d987c32fd38c7f0f194b7&pid=59
 #EXTINF:-1 tvg-id="16:00-Premier League-Chelsea-Sunderland" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",16:00-Premier League-Chelsea-Sunderland
-http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276&pid=64
+http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276&pid=60
 #EXTINF:-1 tvg-id="16:00-Premier League-Chelsea-Sunderland" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",16:00-Premier League-Chelsea-Sunderland
-http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784&pid=65
+http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784&pid=61
 #EXTINF:-1 tvg-id="16:00-Premier League-Chelsea-Sunderland" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",16:00-Premier League-Chelsea-Sunderland
-http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151&pid=66
+http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151&pid=62
 #EXTINF:-1 tvg-id="16:00-Premier League-Chelsea-Sunderland" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",16:00-Premier League-Chelsea-Sunderland
-http://127.0.0.1:6878/ace/getstream?id=1e7f5efc1913efaf7042a9b1a49d1f9adc5bc187&pid=67
+http://127.0.0.1:6878/ace/getstream?id=1e7f5efc1913efaf7042a9b1a49d1f9adc5bc187&pid=63
 #EXTINF:-1 tvg-id="16:00-Premier League-Chelsea-Sunderland" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",16:00-Premier League-Chelsea-Sunderland
-http://127.0.0.1:6878/ace/getstream?id=7ac2d74ef6df9d15012992d7e0e635a95f58c652&pid=68
+http://127.0.0.1:6878/ace/getstream?id=7ac2d74ef6df9d15012992d7e0e635a95f58c652&pid=64
 #EXTINF:-1 tvg-id="16:00-Premier League-Chelsea-Sunderland" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",16:00-Premier League-Chelsea-Sunderland
-http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b&pid=69
+http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b&pid=65
 #EXTINF:-1 tvg-id="16:00-Premier League-Chelsea-Sunderland" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",16:00-Premier League-Chelsea-Sunderland
-http://127.0.0.1:6878/ace/getstream?id=14407b00d454cb7dc0d70aa26e8bbc554f457f00&pid=70
+http://127.0.0.1:6878/ace/getstream?id=14407b00d454cb7dc0d70aa26e8bbc554f457f00&pid=66
 #EXTINF:-1 tvg-id="16:15-Primera-Espanyol-Elche" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",16:15-Primera-Espanyol-Elche
-http://127.0.0.1:6878/ace/getstream?id=d4ff041287a43e3114d411d671c4b4e92e21f33y&pid=71
+http://127.0.0.1:6878/ace/getstream?id=d4ff041287a43e3114d411d671c4b4e92e21f33y&pid=67
 #EXTINF:-1 tvg-id="16:15-Primera-Espanyol-Elche" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",16:15-Primera-Espanyol-Elche
-http://127.0.0.1:6878/ace/getstream?id=107c3ce5a5d2527c9f06e4eab87477201791f231&pid=72
+http://127.0.0.1:6878/ace/getstream?id=107c3ce5a5d2527c9f06e4eab87477201791f231&pid=68
 #EXTINF:-1 tvg-id="16:15-Primera-Espanyol-Elche" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",16:15-Primera-Espanyol-Elche
-http://127.0.0.1:6878/ace/getstream?id=d2ddf9802ccfdc456f872eea4d24596880a638a0&pid=73
+http://127.0.0.1:6878/ace/getstream?id=d2ddf9802ccfdc456f872eea4d24596880a638a0&pid=69
 #EXTINF:-1 tvg-id="16:15-Primera-Espanyol-Elche" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",16:15-Primera-Espanyol-Elche
-http://127.0.0.1:6878/ace/getstream?id=c9321006921967d6258df6945f1d598a5c0cbf1e&pid=74
+http://127.0.0.1:6878/ace/getstream?id=c9321006921967d6258df6945f1d598a5c0cbf1e&pid=70
 #EXTINF:-1 tvg-id="16:15-Primera-Espanyol-Elche" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",16:15-Primera-Espanyol-Elche
-http://127.0.0.1:6878/ace/getstream?id=4b528d10eaad747ddf52251206177573ee3e9f74&pid=75
+http://127.0.0.1:6878/ace/getstream?id=4b528d10eaad747ddf52251206177573ee3e9f74&pid=71
 #EXTINF:-1 tvg-id="16:15-Primera-Espanyol-Elche" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",16:15-Primera-Espanyol-Elche
-http://127.0.0.1:6878/ace/getstream?id=14b6cd8769cd485f2cffdca64be9698d9bfeac58&pid=76
+http://127.0.0.1:6878/ace/getstream?id=14b6cd8769cd485f2cffdca64be9698d9bfeac58&pid=72
 #EXTINF:-1 tvg-id="16:15-Segunda-Eibar-Leganés" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",16:15-Segunda-Eibar-Leganés
-http://127.0.0.1:6878/ace/getstream?id=8a05571c0c8fe53f160fb7d116cdf97243679e86&pid=77
+http://127.0.0.1:6878/ace/getstream?id=8a05571c0c8fe53f160fb7d116cdf97243679e86&pid=73
 #EXTINF:-1 tvg-id="16:15-Segunda-Eibar-Leganés" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",16:15-Segunda-Eibar-Leganés
-http://127.0.0.1:6878/ace/getstream?id=709075831bf5c41ed0a20dfbd640aab6c28971f8&pid=78
+http://127.0.0.1:6878/ace/getstream?id=709075831bf5c41ed0a20dfbd640aab6c28971f8&pid=74
 #EXTINF:-1 tvg-id="16:15-Segunda-Albacete-Córdoba" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",16:15-Segunda-Albacete-Córdoba
-http://127.0.0.1:6878/ace/getstream?id=8ee52f6208e33706171856f99d2ed2dabd317f3a&pid=79
+http://127.0.0.1:6878/ace/getstream?id=8ee52f6208e33706171856f99d2ed2dabd317f3a&pid=75
 #EXTINF:-1 tvg-id="16:15-Segunda-Albacete-Córdoba" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",16:15-Segunda-Albacete-Córdoba
-http://127.0.0.1:6878/ace/getstream?id=70f22be1286ef224b5e4e9451d9a42468152cda4&pid=80
+http://127.0.0.1:6878/ace/getstream?id=70f22be1286ef224b5e4e9451d9a42468152cda4&pid=76
 #EXTINF:-1 tvg-id="16:15-Segunda-Albacete-Córdoba" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",16:15-Segunda-Albacete-Córdoba
-http://127.0.0.1:6878/ace/getstream?id=87bb542f974b6b9e89d0f2e20ed6dc93426f4be0&pid=81
+http://127.0.0.1:6878/ace/getstream?id=87bb542f974b6b9e89d0f2e20ed6dc93426f4be0&pid=77
 #EXTINF:-1 tvg-id="16:15-Segunda-Albacete-Córdoba" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",16:15-Segunda-Albacete-Córdoba
-http://127.0.0.1:6878/ace/getstream?id=a4f072c9b614323ac1258a175f868a909ea3c8cd&pid=82
+http://127.0.0.1:6878/ace/getstream?id=a4f072c9b614323ac1258a175f868a909ea3c8cd&pid=78
 #EXTINF:-1 tvg-id="16:30-Torneo de Viena Semifinal 2 ATP 500-L. Musetti-A. Zverev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:30-Torneo de Viena Semifinal 2 ATP 500-L. Musetti-A. Zverev
-http://127.0.0.1:6878/ace/getstream?id=ef9dcc4eaac36a0f608b52a31f8ab237859e071a&pid=83
+http://127.0.0.1:6878/ace/getstream?id=ef9dcc4eaac36a0f608b52a31f8ab237859e071a&pid=79
 #EXTINF:-1 tvg-id="16:30-Torneo de Viena Semifinal 2 ATP 500-L. Musetti-A. Zverev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:30-Torneo de Viena Semifinal 2 ATP 500-L. Musetti-A. Zverev
-http://127.0.0.1:6878/ace/getstream?id=5d3f582738467aaf213e408601aca5cc13fa9359&pid=84
+http://127.0.0.1:6878/ace/getstream?id=5d3f582738467aaf213e408601aca5cc13fa9359&pid=80
 #EXTINF:-1 tvg-id="16:30-Torneo de Viena Semifinal 2 ATP 500-L. Musetti-A. Zverev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:30-Torneo de Viena Semifinal 2 ATP 500-L. Musetti-A. Zverev
-http://127.0.0.1:6878/ace/getstream?id=3692ea4cdda97eb0062ed5d656ebd61f149ebd0b&pid=85
+http://127.0.0.1:6878/ace/getstream?id=3692ea4cdda97eb0062ed5d656ebd61f149ebd0b&pid=81
 #EXTINF:-1 tvg-id="16:30-Torneo de Viena Semifinal 2 ATP 500-L. Musetti-A. Zverev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:30-Torneo de Viena Semifinal 2 ATP 500-L. Musetti-A. Zverev
-http://127.0.0.1:6878/ace/getstream?id=ebca4a63ce3bfda7b272964a1acc5227218184a4&pid=86
+http://127.0.0.1:6878/ace/getstream?id=ebca4a63ce3bfda7b272964a1acc5227218184a4&pid=82
 #EXTINF:-1 tvg-id="16:30-Torneo de Viena Semifinal 2 ATP 500-L. Musetti-A. Zverev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:30-Torneo de Viena Semifinal 2 ATP 500-L. Musetti-A. Zverev
-http://127.0.0.1:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3&pid=87
+http://127.0.0.1:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3&pid=83
 #EXTINF:-1 tvg-id="16:30-Torneo de Viena Semifinal 2 ATP 500-L. Musetti-A. Zverev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:30-Torneo de Viena Semifinal 2 ATP 500-L. Musetti-A. Zverev
-http://127.0.0.1:6878/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee&pid=88
+http://127.0.0.1:6878/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee&pid=84
 #EXTINF:-1 tvg-id="16:30-Torneo de Viena Semifinal 2 ATP 500-L. Musetti-A. Zverev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:30-Torneo de Viena Semifinal 2 ATP 500-L. Musetti-A. Zverev
-http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0&pid=89
+http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0&pid=85
 #EXTINF:-1 tvg-id="16:30-Torneo de Viena Semifinal 2 ATP 500-L. Musetti-A. Zverev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:30-Torneo de Viena Semifinal 2 ATP 500-L. Musetti-A. Zverev
-http://127.0.0.1:6878/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7&pid=90
+http://127.0.0.1:6878/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7&pid=86
 #EXTINF:-1 tvg-id="16:30-Torneo de Viena Semifinal 2 ATP 500-L. Musetti-A. Zverev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:30-Torneo de Viena Semifinal 2 ATP 500-L. Musetti-A. Zverev
-http://127.0.0.1:6878/ace/getstream?id=aa31953b8af44b461102852d5b1247eea95b8050&pid=91
-#EXTINF:-1 tvg-id="16:30-Torneo de Viena Semifinal 2 ATP 500-L. Musetti-A. Zverev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:30-Torneo de Viena Semifinal 2 ATP 500-L. Musetti-A. Zverev
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf&pid=92
+http://127.0.0.1:6878/ace/getstream?id=aa31953b8af44b461102852d5b1247eea95b8050&pid=87
 #EXTINF:-1 tvg-id="17:00-Torneo de Basilea Semifinal 2 ATP 500-U. Humbert-A. Davidovich" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:00-Torneo de Basilea Semifinal 2 ATP 500-U. Humbert-A. Davidovich
-http://127.0.0.1:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&pid=93
+http://127.0.0.1:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&pid=88
 #EXTINF:-1 tvg-id="17:00-Torneo de Basilea Semifinal 2 ATP 500-U. Humbert-A. Davidovich" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:00-Torneo de Basilea Semifinal 2 ATP 500-U. Humbert-A. Davidovich
-http://127.0.0.1:6878/ace/getstream?id=6e212a916c83638268047dd2757c95b14f7d25a3&pid=94
+http://127.0.0.1:6878/ace/getstream?id=6e212a916c83638268047dd2757c95b14f7d25a3&pid=89
 #EXTINF:-1 tvg-id="17:00-Torneo de Basilea Semifinal 2 ATP 500-U. Humbert-A. Davidovich" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:00-Torneo de Basilea Semifinal 2 ATP 500-U. Humbert-A. Davidovich
-http://127.0.0.1:6878/ace/getstream?id=73d38feaa770d788848ec098470e32670fe55a61&pid=95
+http://127.0.0.1:6878/ace/getstream?id=73d38feaa770d788848ec098470e32670fe55a61&pid=90
 #EXTINF:-1 tvg-id="17:00-Torneo de Basilea Semifinal 2 ATP 500-U. Humbert-A. Davidovich" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:00-Torneo de Basilea Semifinal 2 ATP 500-U. Humbert-A. Davidovich
-http://127.0.0.1:6878/ace/getstream?id=f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0&pid=96
+http://127.0.0.1:6878/ace/getstream?id=f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0&pid=91
 #EXTINF:-1 tvg-id="17:00-Torneo de Basilea Semifinal 2 ATP 500-U. Humbert-A. Davidovich" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:00-Torneo de Basilea Semifinal 2 ATP 500-U. Humbert-A. Davidovich
-http://127.0.0.1:6878/ace/getstream?id=bfa01c11c5c6b7a616a516de4f2c769a89d26b25&pid=97
+http://127.0.0.1:6878/ace/getstream?id=bfa01c11c5c6b7a616a516de4f2c769a89d26b25&pid=92
 #EXTINF:-1 tvg-id="17:00-Torneo de Basilea Semifinal 2 ATP 500-U. Humbert-A. Davidovich" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:00-Torneo de Basilea Semifinal 2 ATP 500-U. Humbert-A. Davidovich
-http://127.0.0.1:6878/ace/getstream?id=3afe1af18f8ff78e9946856911b00c67477052b5&pid=98
+http://127.0.0.1:6878/ace/getstream?id=3afe1af18f8ff78e9946856911b00c67477052b5&pid=93
 #EXTINF:-1 tvg-id="17:00-Torneo de Basilea Semifinal 2 ATP 500-U. Humbert-A. Davidovich" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:00-Torneo de Basilea Semifinal 2 ATP 500-U. Humbert-A. Davidovich
-http://127.0.0.1:6878/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee&pid=99
+http://127.0.0.1:6878/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee&pid=94
 #EXTINF:-1 tvg-id="17:00-Torneo de Basilea Semifinal 2 ATP 500-U. Humbert-A. Davidovich" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:00-Torneo de Basilea Semifinal 2 ATP 500-U. Humbert-A. Davidovich
-http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0&pid=100
+http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0&pid=95
 #EXTINF:-1 tvg-id="17:00-Torneo de Basilea Semifinal 2 ATP 500-U. Humbert-A. Davidovich" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:00-Torneo de Basilea Semifinal 2 ATP 500-U. Humbert-A. Davidovich
-http://127.0.0.1:6878/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7&pid=101
+http://127.0.0.1:6878/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7&pid=96
 #EXTINF:-1 tvg-id="17:00-Torneo de Basilea Semifinal 2 ATP 500-U. Humbert-A. Davidovich" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:00-Torneo de Basilea Semifinal 2 ATP 500-U. Humbert-A. Davidovich
-http://127.0.0.1:6878/ace/getstream?id=aa31953b8af44b461102852d5b1247eea95b8050&pid=102
-#EXTINF:-1 tvg-id="17:00-Torneo de Basilea Semifinal 2 ATP 500-U. Humbert-A. Davidovich" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:00-Torneo de Basilea Semifinal 2 ATP 500-U. Humbert-A. Davidovich
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf&pid=103
+http://127.0.0.1:6878/ace/getstream?id=aa31953b8af44b461102852d5b1247eea95b8050&pid=97
 #EXTINF:-1 tvg-id="18:30-Primera-Athletic Club-Getafe" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:30-Primera-Athletic Club-Getafe
-http://127.0.0.1:6878/ace/getstream?id=0e50439e68aa2435b38f0563bb2f2e98f32ff4b1&pid=104
+http://127.0.0.1:6878/ace/getstream?id=0e50439e68aa2435b38f0563bb2f2e98f32ff4b1&pid=98
 #EXTINF:-1 tvg-id="18:30-Primera-Athletic Club-Getafe" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:30-Primera-Athletic Club-Getafe
-http://127.0.0.1:6878/ace/getstream?id=1bb5bf76fb2018d6db9aaa29b1467ecdfabe2884&pid=105
+http://127.0.0.1:6878/ace/getstream?id=1bb5bf76fb2018d6db9aaa29b1467ecdfabe2884&pid=99
 #EXTINF:-1 tvg-id="18:30-Primera-Athletic Club-Getafe" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:30-Primera-Athletic Club-Getafe
-http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05&pid=106
+http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05&pid=100
 #EXTINF:-1 tvg-id="18:30-Primera-Athletic Club-Getafe" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:30-Primera-Athletic Club-Getafe
-http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618&pid=107
+http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618&pid=101
 #EXTINF:-1 tvg-id="18:30-Segunda-Granada CF-Cádiz CF" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:30-Segunda-Granada CF-Cádiz CF
-http://127.0.0.1:6878/ace/getstream?id=8ee52f6208e33706171856f99d2ed2dabd317f3a&pid=108
+http://127.0.0.1:6878/ace/getstream?id=8ee52f6208e33706171856f99d2ed2dabd317f3a&pid=102
 #EXTINF:-1 tvg-id="18:30-Segunda-Granada CF-Cádiz CF" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:30-Segunda-Granada CF-Cádiz CF
-http://127.0.0.1:6878/ace/getstream?id=70f22be1286ef224b5e4e9451d9a42468152cda4&pid=109
+http://127.0.0.1:6878/ace/getstream?id=70f22be1286ef224b5e4e9451d9a42468152cda4&pid=103
 #EXTINF:-1 tvg-id="18:30-Segunda-Granada CF-Cádiz CF" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:30-Segunda-Granada CF-Cádiz CF
-http://127.0.0.1:6878/ace/getstream?id=87bb542f974b6b9e89d0f2e20ed6dc93426f4be0&pid=110
+http://127.0.0.1:6878/ace/getstream?id=87bb542f974b6b9e89d0f2e20ed6dc93426f4be0&pid=104
 #EXTINF:-1 tvg-id="18:30-Segunda-Granada CF-Cádiz CF" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:30-Segunda-Granada CF-Cádiz CF
-http://127.0.0.1:6878/ace/getstream?id=a4f072c9b614323ac1258a175f868a909ea3c8cd&pid=111
+http://127.0.0.1:6878/ace/getstream?id=a4f072c9b614323ac1258a175f868a909ea3c8cd&pid=105
 #EXTINF:-1 tvg-id="18:30-Segunda-Burgos CF-Real Sociedad B" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:30-Segunda-Burgos CF-Real Sociedad B
-http://127.0.0.1:6878/ace/getstream?id=8a05571c0c8fe53f160fb7d116cdf97243679e86&pid=112
+http://127.0.0.1:6878/ace/getstream?id=8a05571c0c8fe53f160fb7d116cdf97243679e86&pid=106
 #EXTINF:-1 tvg-id="18:30-Segunda-Burgos CF-Real Sociedad B" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:30-Segunda-Burgos CF-Real Sociedad B
-http://127.0.0.1:6878/ace/getstream?id=709075831bf5c41ed0a20dfbd640aab6c28971f8&pid=113
+http://127.0.0.1:6878/ace/getstream?id=709075831bf5c41ed0a20dfbd640aab6c28971f8&pid=107
 #EXTINF:-1 tvg-id="18:30-Premier League-Manchester Utd.-Brighton" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:30-Premier League-Manchester Utd.-Brighton
-http://127.0.0.1:6878/ace/getstream?id=6538b79ce0da657d8455d1da6a5f342398899a0e&pid=114
+http://127.0.0.1:6878/ace/getstream?id=6538b79ce0da657d8455d1da6a5f342398899a0e&pid=108
 #EXTINF:-1 tvg-id="18:30-Premier League-Manchester Utd.-Brighton" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:30-Premier League-Manchester Utd.-Brighton
-http://127.0.0.1:6878/ace/getstream?id=50a8a13c474848d1efbd5586efdb5b6cdd173fa9&pid=115
+http://127.0.0.1:6878/ace/getstream?id=50a8a13c474848d1efbd5586efdb5b6cdd173fa9&pid=109
 #EXTINF:-1 tvg-id="18:30-Premier League-Manchester Utd.-Brighton" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:30-Premier League-Manchester Utd.-Brighton
-http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928&pid=116
+http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928&pid=110
 #EXTINF:-1 tvg-id="18:30-Premier League-Manchester Utd.-Brighton" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:30-Premier League-Manchester Utd.-Brighton
-http://127.0.0.1:6878/ace/getstream?id=b03f9310155cf3b4eafc1dfba763781abc3ff025&pid=117
+http://127.0.0.1:6878/ace/getstream?id=b03f9310155cf3b4eafc1dfba763781abc3ff025&pid=111
 #EXTINF:-1 tvg-id="18:30-Premier League-Manchester Utd.-Brighton" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:30-Premier League-Manchester Utd.-Brighton
-http://127.0.0.1:6878/ace/getstream?id=36394be1db2e20b5997d987c32fd38c7f0f194b7&pid=118
+http://127.0.0.1:6878/ace/getstream?id=36394be1db2e20b5997d987c32fd38c7f0f194b7&pid=112
 #EXTINF:-1 tvg-id="18:30-Premier League-Manchester Utd.-Brighton" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:30-Premier League-Manchester Utd.-Brighton
-http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276&pid=119
+http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276&pid=113
 #EXTINF:-1 tvg-id="18:30-Premier League-Manchester Utd.-Brighton" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:30-Premier League-Manchester Utd.-Brighton
-http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784&pid=120
+http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784&pid=114
 #EXTINF:-1 tvg-id="18:30-Premier League-Manchester Utd.-Brighton" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:30-Premier League-Manchester Utd.-Brighton
-http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151&pid=121
+http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151&pid=115
 #EXTINF:-1 tvg-id="18:30-Premier League-Manchester Utd.-Brighton" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:30-Premier League-Manchester Utd.-Brighton
-http://127.0.0.1:6878/ace/getstream?id=1e7f5efc1913efaf7042a9b1a49d1f9adc5bc187&pid=122
+http://127.0.0.1:6878/ace/getstream?id=1e7f5efc1913efaf7042a9b1a49d1f9adc5bc187&pid=116
 #EXTINF:-1 tvg-id="18:30-Premier League-Manchester Utd.-Brighton" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:30-Premier League-Manchester Utd.-Brighton
-http://127.0.0.1:6878/ace/getstream?id=7ac2d74ef6df9d15012992d7e0e635a95f58c652&pid=123
+http://127.0.0.1:6878/ace/getstream?id=7ac2d74ef6df9d15012992d7e0e635a95f58c652&pid=117
 #EXTINF:-1 tvg-id="18:30-Premier League-Manchester Utd.-Brighton" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:30-Premier League-Manchester Utd.-Brighton
-http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b&pid=124
+http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b&pid=118
 #EXTINF:-1 tvg-id="18:30-Premier League-Manchester Utd.-Brighton" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:30-Premier League-Manchester Utd.-Brighton
-http://127.0.0.1:6878/ace/getstream?id=14407b00d454cb7dc0d70aa26e8bbc554f457f00&pid=125
+http://127.0.0.1:6878/ace/getstream?id=14407b00d454cb7dc0d70aa26e8bbc554f457f00&pid=119
 #EXTINF:-1 tvg-id="21:00-Primera-Valencia CF-Villarreal" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera-Valencia CF-Villarreal
-http://127.0.0.1:6878/ace/getstream?id=d4ff041287a43e3114d411d671c4b4e92e21f33y&pid=126
+http://127.0.0.1:6878/ace/getstream?id=d4ff041287a43e3114d411d671c4b4e92e21f33y&pid=120
 #EXTINF:-1 tvg-id="21:00-Primera-Valencia CF-Villarreal" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera-Valencia CF-Villarreal
-http://127.0.0.1:6878/ace/getstream?id=107c3ce5a5d2527c9f06e4eab87477201791f231&pid=127
+http://127.0.0.1:6878/ace/getstream?id=107c3ce5a5d2527c9f06e4eab87477201791f231&pid=121
 #EXTINF:-1 tvg-id="21:00-Primera-Valencia CF-Villarreal" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera-Valencia CF-Villarreal
-http://127.0.0.1:6878/ace/getstream?id=d2ddf9802ccfdc456f872eea4d24596880a638a0&pid=128
+http://127.0.0.1:6878/ace/getstream?id=d2ddf9802ccfdc456f872eea4d24596880a638a0&pid=122
 #EXTINF:-1 tvg-id="21:00-Primera-Valencia CF-Villarreal" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera-Valencia CF-Villarreal
-http://127.0.0.1:6878/ace/getstream?id=c9321006921967d6258df6945f1d598a5c0cbf1e&pid=129
+http://127.0.0.1:6878/ace/getstream?id=c9321006921967d6258df6945f1d598a5c0cbf1e&pid=123
 #EXTINF:-1 tvg-id="21:00-Primera-Valencia CF-Villarreal" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera-Valencia CF-Villarreal
-http://127.0.0.1:6878/ace/getstream?id=4b528d10eaad747ddf52251206177573ee3e9f74&pid=130
+http://127.0.0.1:6878/ace/getstream?id=4b528d10eaad747ddf52251206177573ee3e9f74&pid=124
 #EXTINF:-1 tvg-id="21:00-Primera-Valencia CF-Villarreal" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera-Valencia CF-Villarreal
-http://127.0.0.1:6878/ace/getstream?id=14b6cd8769cd485f2cffdca64be9698d9bfeac58&pid=131
+http://127.0.0.1:6878/ace/getstream?id=14b6cd8769cd485f2cffdca64be9698d9bfeac58&pid=125
 #EXTINF:-1 tvg-id="21:00-Primera-Valencia CF-Villarreal" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera-Valencia CF-Villarreal
-http://127.0.0.1:6878/ace/getstream?id=8c67cdb5ba81976662c3a67984a9545d9cfb0f70&pid=132
+http://127.0.0.1:6878/ace/getstream?id=8c67cdb5ba81976662c3a67984a9545d9cfb0f70&pid=126
 #EXTINF:-1 tvg-id="21:00-Primera-Valencia CF-Villarreal" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera-Valencia CF-Villarreal
-http://127.0.0.1:6878/ace/getstream?id=b6ffbbc72a5b6b579faf79ebac229af7a25b933b&pid=133
+http://127.0.0.1:6878/ace/getstream?id=b6ffbbc72a5b6b579faf79ebac229af7a25b933b&pid=127
 #EXTINF:-1 tvg-id="21:00-Primera-Valencia CF-Villarreal" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera-Valencia CF-Villarreal
-http://127.0.0.1:6878/ace/getstream?id=199190e3f28c1de0be34bccf0d3568dc65209b99&pid=134
+http://127.0.0.1:6878/ace/getstream?id=199190e3f28c1de0be34bccf0d3568dc65209b99&pid=128
 #EXTINF:-1 tvg-id="21:00-Primera-Valencia CF-Villarreal" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera-Valencia CF-Villarreal
-http://127.0.0.1:6878/ace/getstream?id=5866e83279307bf919068ae7a0d250e4e424e464&pid=135
+http://127.0.0.1:6878/ace/getstream?id=5866e83279307bf919068ae7a0d250e4e424e464&pid=129
 #EXTINF:-1 tvg-id="21:00-Primera-Valencia CF-Villarreal" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera-Valencia CF-Villarreal
-http://127.0.0.1:6878/ace/getstream?id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78&pid=136
+http://127.0.0.1:6878/ace/getstream?id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78&pid=130
 #EXTINF:-1 tvg-id="21:00-Segunda-Mirandés-Racing Santander" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Segunda-Mirandés-Racing Santander
-http://127.0.0.1:6878/ace/getstream?id=8ee52f6208e33706171856f99d2ed2dabd317f3a&pid=137
+http://127.0.0.1:6878/ace/getstream?id=8ee52f6208e33706171856f99d2ed2dabd317f3a&pid=131
 #EXTINF:-1 tvg-id="21:00-Segunda-Mirandés-Racing Santander" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Segunda-Mirandés-Racing Santander
-http://127.0.0.1:6878/ace/getstream?id=70f22be1286ef224b5e4e9451d9a42468152cda4&pid=138
+http://127.0.0.1:6878/ace/getstream?id=70f22be1286ef224b5e4e9451d9a42468152cda4&pid=132
 #EXTINF:-1 tvg-id="21:00-Segunda-Mirandés-Racing Santander" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Segunda-Mirandés-Racing Santander
-http://127.0.0.1:6878/ace/getstream?id=87bb542f974b6b9e89d0f2e20ed6dc93426f4be0&pid=139
+http://127.0.0.1:6878/ace/getstream?id=87bb542f974b6b9e89d0f2e20ed6dc93426f4be0&pid=133
 #EXTINF:-1 tvg-id="21:00-Segunda-Mirandés-Racing Santander" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Segunda-Mirandés-Racing Santander
-http://127.0.0.1:6878/ace/getstream?id=a4f072c9b614323ac1258a175f868a909ea3c8cd&pid=140
+http://127.0.0.1:6878/ace/getstream?id=a4f072c9b614323ac1258a175f868a909ea3c8cd&pid=134
 #EXTINF:-1 tvg-id="21:00-Premier League-Brentford-Liverpool" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Premier League-Brentford-Liverpool
-http://127.0.0.1:6878/ace/getstream?id=6538b79ce0da657d8455d1da6a5f342398899a0e&pid=141
+http://127.0.0.1:6878/ace/getstream?id=6538b79ce0da657d8455d1da6a5f342398899a0e&pid=135
 #EXTINF:-1 tvg-id="21:00-Premier League-Brentford-Liverpool" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Premier League-Brentford-Liverpool
-http://127.0.0.1:6878/ace/getstream?id=50a8a13c474848d1efbd5586efdb5b6cdd173fa9&pid=142
+http://127.0.0.1:6878/ace/getstream?id=50a8a13c474848d1efbd5586efdb5b6cdd173fa9&pid=136
 #EXTINF:-1 tvg-id="21:00-Premier League-Brentford-Liverpool" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Premier League-Brentford-Liverpool
-http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928&pid=143
+http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928&pid=137
 #EXTINF:-1 tvg-id="21:00-Premier League-Brentford-Liverpool" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Premier League-Brentford-Liverpool
-http://127.0.0.1:6878/ace/getstream?id=b03f9310155cf3b4eafc1dfba763781abc3ff025&pid=144
+http://127.0.0.1:6878/ace/getstream?id=b03f9310155cf3b4eafc1dfba763781abc3ff025&pid=138
 #EXTINF:-1 tvg-id="21:00-Premier League-Brentford-Liverpool" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Premier League-Brentford-Liverpool
-http://127.0.0.1:6878/ace/getstream?id=36394be1db2e20b5997d987c32fd38c7f0f194b7&pid=145
+http://127.0.0.1:6878/ace/getstream?id=36394be1db2e20b5997d987c32fd38c7f0f194b7&pid=139
 #EXTINF:-1 tvg-id="21:00-Premier League-Brentford-Liverpool" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Premier League-Brentford-Liverpool
-http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276&pid=146
+http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276&pid=140
 #EXTINF:-1 tvg-id="21:00-Premier League-Brentford-Liverpool" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Premier League-Brentford-Liverpool
-http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784&pid=147
+http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784&pid=141
 #EXTINF:-1 tvg-id="21:00-Premier League-Brentford-Liverpool" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Premier League-Brentford-Liverpool
-http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151&pid=148
+http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151&pid=142
 #EXTINF:-1 tvg-id="21:00-Premier League-Brentford-Liverpool" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Premier League-Brentford-Liverpool
-http://127.0.0.1:6878/ace/getstream?id=1e7f5efc1913efaf7042a9b1a49d1f9adc5bc187&pid=149
+http://127.0.0.1:6878/ace/getstream?id=1e7f5efc1913efaf7042a9b1a49d1f9adc5bc187&pid=143
 #EXTINF:-1 tvg-id="21:00-Premier League-Brentford-Liverpool" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Premier League-Brentford-Liverpool
-http://127.0.0.1:6878/ace/getstream?id=7ac2d74ef6df9d15012992d7e0e635a95f58c652&pid=150
+http://127.0.0.1:6878/ace/getstream?id=7ac2d74ef6df9d15012992d7e0e635a95f58c652&pid=144
 #EXTINF:-1 tvg-id="21:00-Premier League-Brentford-Liverpool" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Premier League-Brentford-Liverpool
-http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b&pid=151
+http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b&pid=145
 #EXTINF:-1 tvg-id="21:00-Premier League-Brentford-Liverpool" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Premier League-Brentford-Liverpool
-http://127.0.0.1:6878/ace/getstream?id=14407b00d454cb7dc0d70aa26e8bbc554f457f00&pid=152
+http://127.0.0.1:6878/ace/getstream?id=14407b00d454cb7dc0d70aa26e8bbc554f457f00&pid=146
