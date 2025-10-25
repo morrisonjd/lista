@@ -73,6 +73,8 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=6e1b5fd8753352486aa932f802534a17556e1
 http://127.0.0.1:6878/ace/manifest.m3u8?id=8e1bbcb6a6b8b9bb0e1144454fda35531107cdb3
 #EXTINF:-1 tvg-id="AMC" group-title="New Era",AMC
 http://127.0.0.1:6878/ace/manifest.m3u8?id=55ff9ee631af351f365f51cf3601695bf1fd20f3
+#EXTINF:-1 tvg-id="Orange TV" group-title="New Loop",Orange TV
+http://127.0.0.1:6878/ace/manifest.m3u8?id=abdbfccdfd73bb5b1dcad598d539058040fb24fa
 #EXTINF:-1 tvg-id="M+ Copa del Rey" group-title="Antigua",M+ Copa del Rey
 http://127.0.0.1:6878/ace/manifest.m3u8?id=e31e5dd1a24cf347deecd6aaba8d30a8d9d84460
 #EXTINF:-1 tvg-id="M+ Vamos" group-title="New Era",M+ Vamos
@@ -87,6 +89,8 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=4e99e755aa32c4bc043a4bb1cd1de35f9bd94
 http://127.0.0.1:6878/ace/manifest.m3u8?id=c7c81acdd1a03ecc418c94c2f28e2adb0556c40b
 #EXTINF:-1 tvg-id="M+ Vamos" group-title="Elcano",M+ Vamos
 http://127.0.0.1:6878/ace/manifest.m3u8?id=0e5d8c9724fa9163f49096b70484e315251eb785
+#EXTINF:-1 tvg-id="M+ LaLiga" group-title="New Loop",M+ LaLiga
+http://127.0.0.1:6878/ace/manifest.m3u8?id=cc9b7f5fe416069a2110da0909b0f915043c468b
 #EXTINF:-1 tvg-id="M+ LaLiga" group-title="Elcano",M+ LaLiga
 http://127.0.0.1:6878/ace/manifest.m3u8?id=00c9bc9c5d7d87680a5a6bed349edfa775a89947
 #EXTINF:-1 tvg-id="M+ LaLiga" group-title="Desconocido",M+ LaLiga
@@ -217,8 +221,6 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=9b84af74b2fa3690c519199326fc2f181b025
 http://127.0.0.1:6878/ace/manifest.m3u8?id=594b59d435527327c9b6965f247995b907bfc285
 #EXTINF:-1 tvg-id="M+ Golf" group-title="New Era",M+ Golf
 http://127.0.0.1:6878/ace/manifest.m3u8?id=8546cff89e4ee8bf3ad31cf6457c3bc2c4341031
-#EXTINF:-1 tvg-id="M+ Golf" group-title="New Era",M+ Golf
-http://127.0.0.1:6878/ace/manifest.m3u8?id=9be118a64eb603b5eb62be6cf27631d3891b5174
 #EXTINF:-1 tvg-id="M+ Golf" group-title="New Era",M+ Golf
 http://127.0.0.1:6878/ace/manifest.m3u8?id=9ed46050217ee6ed8236a64b72d7992f7b3b37f2
 #EXTINF:-1 tvg-id="M+ Golf" group-title="Desconocido",M+ Golf
@@ -525,6 +527,8 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=92f8939c7bff6bcb7e6da39379bb3d7a6a766
 http://127.0.0.1:6878/ace/manifest.m3u8?id=99f0646986e9266836dd79047dedecb04e243857
 #EXTINF:-1 tvg-id="КХЛ ТВ" group-title="Desconocido",КХЛ ТВ
 http://127.0.0.1:6878/ace/manifest.m3u8?id=aa6c193b9de1e6b6277e3075299fdeea925e2dc0
+#EXTINF:-1 tvg-id="DAZN PVV" group-title="New Era",DAZN PVV
+http://127.0.0.1:6878/ace/manifest.m3u8?id=0f86119f233fd64fe85cc0b4a9059590d06d242a
 #EXTINF:-1 tvg-id="DAZN PVV" group-title="New Era",DAZN PVV
 http://127.0.0.1:6878/ace/manifest.m3u8?id=34944c86bad01c3963ef113c28c033858085adb7
 #EXTINF:-1 tvg-id="Setanta Live 1" group-title="Desconocido",Setanta Live 1
