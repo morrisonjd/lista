@@ -7,8 +7,6 @@ http://192.168.18.75:8080/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f2
 http://192.168.18.75:8080/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7
 #EXTINF:-1 tvg-id="04:00-WTA Torneo de Tokio Final 500-B. Bencic-L. Noskova" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",04:00-WTA Torneo de Tokio Final 500-B. Bencic-L. Noskova
 http://192.168.18.75:8080/ace/getstream?id=aa31953b8af44b461102852d5b1247eea95b8050
-#EXTINF:-1 tvg-id="04:00-WTA Torneo de Tokio Final 500-B. Bencic-L. Noskova" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",04:00-WTA Torneo de Tokio Final 500-B. Bencic-L. Noskova
-http://192.168.18.75:8080/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="11:00-Liga Femenina Endesa Regular-CAB Estepona-Baloncesto Leganés" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",11:00-Liga Femenina Endesa Regular-CAB Estepona-Baloncesto Leganés
 http://192.168.18.75:8080/ace/getstream?id=2d997da301573c5aba78f969d0d37eb6107941b2
 #EXTINF:-1 tvg-id="11:00-Liga Femenina Endesa Regular-CAB Estepona-Baloncesto Leganés" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",11:00-Liga Femenina Endesa Regular-CAB Estepona-Baloncesto Leganés
@@ -69,8 +67,6 @@ http://192.168.18.75:8080/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f2
 http://192.168.18.75:8080/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7
 #EXTINF:-1 tvg-id="14:10-Torneo de Viena Final ATP 500-J. Sinner-A. Zverev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:10-Torneo de Viena Final ATP 500-J. Sinner-A. Zverev
 http://192.168.18.75:8080/ace/getstream?id=aa31953b8af44b461102852d5b1247eea95b8050
-#EXTINF:-1 tvg-id="14:10-Torneo de Viena Final ATP 500-J. Sinner-A. Zverev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:10-Torneo de Viena Final ATP 500-J. Sinner-A. Zverev
-http://192.168.18.75:8080/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="15:00-Premier League-Arsenal-Crystal Palace" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",15:00-Premier League-Arsenal-Crystal Palace
 http://192.168.18.75:8080/ace/getstream?id=43004e955731cd3afcc34d24e5178d4b427bff37
 #EXTINF:-1 tvg-id="15:00-Premier League-Arsenal-Crystal Palace" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",15:00-Premier League-Arsenal-Crystal Palace
@@ -161,8 +157,6 @@ http://192.168.18.75:8080/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f2
 http://192.168.18.75:8080/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7
 #EXTINF:-1 tvg-id="15:30-Torneo de Basilea Final ATP 500-A. Davidovich-J. Fonseca" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:30-Torneo de Basilea Final ATP 500-A. Davidovich-J. Fonseca
 http://192.168.18.75:8080/ace/getstream?id=aa31953b8af44b461102852d5b1247eea95b8050
-#EXTINF:-1 tvg-id="15:30-Torneo de Basilea Final ATP 500-A. Davidovich-J. Fonseca" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:30-Torneo de Basilea Final ATP 500-A. Davidovich-J. Fonseca
-http://192.168.18.75:8080/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="16:15-Primera-Real Madrid-FC Barcelona" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",16:15-Primera-Real Madrid-FC Barcelona
 http://192.168.18.75:8080/ace/getstream?id=0e50439e68aa2435b38f0563bb2f2e98f32ff4b1
 #EXTINF:-1 tvg-id="16:15-Primera-Real Madrid-FC Barcelona" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",16:15-Primera-Real Madrid-FC Barcelona
