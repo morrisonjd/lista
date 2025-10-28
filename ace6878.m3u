@@ -739,6 +739,8 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=0b48cd93de3c714e36961a93805798307a560
 http://127.0.0.1:6878/ace/manifest.m3u8?id=90d101676ec61e02e7f77b489f0981e9dd815eda
 #EXTINF:-1 tvg-id="Fox Sports 2 COL" group-title="New Era",Fox Sports 2 COL
 http://127.0.0.1:6878/ace/manifest.m3u8?id=3bdf355aeaac39d20e368ebb2ed72b9f71bf9090
+#EXTINF:-1 tvg-id="beIN SPORTS XTRA ñ" group-title="New Loop",beIN SPORTS XTRA ñ
+http://127.0.0.1:6878/ace/manifest.m3u8?id=e8e459656f964f601ad4bcda8b81a43ba41c68f9
 #EXTINF:-1 tvg-id="beIN SPORTS XTRA ñ" group-title="Antigua",beIN SPORTS XTRA ñ
 http://127.0.0.1:6878/ace/manifest.m3u8?id=92a7dcc55392efc6dd5d012c4ff3878891eb6a6e
 #EXTINF:-1 tvg-id="NBA TV" group-title="New Era",NBA TV
@@ -746,9 +748,9 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=b0f64a40f333ef5cc02c2b6d4a8c3f4b73dd8
 #EXTINF:-1 tvg-id="NBA TV" group-title="Antigua",NBA TV
 http://127.0.0.1:6878/ace/manifest.m3u8?id=e72d03fb9694164317260f684470be9ab781ed95
 #EXTINF:-1 tvg-id="ESPN" group-title="Desconocido",ESPN
-http://127.0.0.1:6878/ace/manifest.m3u8?id=4b4907de51ec11087d4bed5876f2a0c68264f442
-#EXTINF:-1 tvg-id="ESPN" group-title="Desconocido",ESPN
 http://127.0.0.1:6878/ace/manifest.m3u8?id=79f10c6c6168e42bfc606f3f7b9e5f3ca79dedab
+#EXTINF:-1 tvg-id="ESPN" group-title="Desconocido",ESPN
+http://127.0.0.1:6878/ace/manifest.m3u8?id=4b4907de51ec11087d4bed5876f2a0c68264f442
 #EXTINF:-1 tvg-id="ESPN 2" group-title="Desconocido",ESPN 2
 http://127.0.0.1:6878/ace/manifest.m3u8?id=3e0ba6867173f345d482d80c771f1a5dc3b37e63
 #EXTINF:-1 tvg-id="ESPN 2" group-title="Desconocido",ESPN 2
