@@ -184,164 +184,174 @@ http://127.0.0.1:6878/ace/getstream?id=107c3ce5a5d2527c9f06e4eab87477201791f231&
 #EXTINF:-1 tvg-id="19:00-Copa del Rey 1ª Ronda-Constancia-Girona" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",19:00-Copa del Rey 1ª Ronda-Constancia-Girona
 http://127.0.0.1:6878/ace/getstream?id=d2ddf9802ccfdc456f872eea4d24596880a638a0&pid=92
 #EXTINF:-1 tvg-id="19:00-Copa del Rey 1ª Ronda-Constancia-Girona" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",19:00-Copa del Rey 1ª Ronda-Constancia-Girona
-http://127.0.0.1:6878/ace/getstream?id=c9321006921967d6258df6945f1d598a5c0cbf1e&pid=93
+http://127.0.0.1:6878/ace/getstream?id=00c9bc9c5d7d87680a5a6bed349edfa775a89947&pid=93
 #EXTINF:-1 tvg-id="19:00-Copa del Rey 1ª Ronda-Constancia-Girona" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",19:00-Copa del Rey 1ª Ronda-Constancia-Girona
-http://127.0.0.1:6878/ace/getstream?id=4b528d10eaad747ddf52251206177573ee3e9f74&pid=94
+http://127.0.0.1:6878/ace/getstream?id=c9321006921967d6258df6945f1d598a5c0cbf1e&pid=94
 #EXTINF:-1 tvg-id="19:00-Copa del Rey 1ª Ronda-Constancia-Girona" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",19:00-Copa del Rey 1ª Ronda-Constancia-Girona
-http://127.0.0.1:6878/ace/getstream?id=14b6cd8769cd485f2cffdca64be9698d9bfeac58&pid=95
+http://127.0.0.1:6878/ace/getstream?id=4b528d10eaad747ddf52251206177573ee3e9f74&pid=95
+#EXTINF:-1 tvg-id="19:00-Copa del Rey 1ª Ronda-Constancia-Girona" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",19:00-Copa del Rey 1ª Ronda-Constancia-Girona
+http://127.0.0.1:6878/ace/getstream?id=14b6cd8769cd485f2cffdca64be9698d9bfeac58&pid=96
+#EXTINF:-1 tvg-id="19:00-Copa del Rey 1ª Ronda-Constancia-Girona" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",19:00-Copa del Rey 1ª Ronda-Constancia-Girona
+http://127.0.0.1:6878/ace/getstream?id=31c19ffb3472c289c5bbbbc174449c8ed0d19e38&pid=97
 #EXTINF:-1 tvg-id="19:00-Masters París 2ª Ronda-C. Alcaraz-C. Norrie" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",19:00-Masters París 2ª Ronda-C. Alcaraz-C. Norrie
-http://127.0.0.1:6878/ace/getstream?id=8c67cdb5ba81976662c3a67984a9545d9cfb0f70&pid=96
+http://127.0.0.1:6878/ace/getstream?id=8c67cdb5ba81976662c3a67984a9545d9cfb0f70&pid=98
 #EXTINF:-1 tvg-id="19:00-Masters París 2ª Ronda-C. Alcaraz-C. Norrie" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",19:00-Masters París 2ª Ronda-C. Alcaraz-C. Norrie
-http://127.0.0.1:6878/ace/getstream?id=b6ffbbc72a5b6b579faf79ebac229af7a25b933b&pid=97
+http://127.0.0.1:6878/ace/getstream?id=b6ffbbc72a5b6b579faf79ebac229af7a25b933b&pid=99
 #EXTINF:-1 tvg-id="19:00-Masters París 2ª Ronda-C. Alcaraz-C. Norrie" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",19:00-Masters París 2ª Ronda-C. Alcaraz-C. Norrie
-http://127.0.0.1:6878/ace/getstream?id=199190e3f28c1de0be34bccf0d3568dc65209b99&pid=98
+http://127.0.0.1:6878/ace/getstream?id=199190e3f28c1de0be34bccf0d3568dc65209b99&pid=100
 #EXTINF:-1 tvg-id="19:00-Masters París 2ª Ronda-C. Alcaraz-C. Norrie" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",19:00-Masters París 2ª Ronda-C. Alcaraz-C. Norrie
-http://127.0.0.1:6878/ace/getstream?id=5866e83279307bf919068ae7a0d250e4e424e464&pid=99
+http://127.0.0.1:6878/ace/getstream?id=5866e83279307bf919068ae7a0d250e4e424e464&pid=101
 #EXTINF:-1 tvg-id="19:00-Masters París 2ª Ronda-C. Alcaraz-C. Norrie" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",19:00-Masters París 2ª Ronda-C. Alcaraz-C. Norrie
-http://127.0.0.1:6878/ace/getstream?id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78&pid=100
+http://127.0.0.1:6878/ace/getstream?id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78&pid=102
 #EXTINF:-1 tvg-id="19:00-Masters París 2ª Ronda-C. Alcaraz-C. Norrie" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",19:00-Masters París 2ª Ronda-C. Alcaraz-C. Norrie
-http://127.0.0.1:6878/ace/getstream?id=3b2a8b41e7097c16b0468b42d7de0320886fa933&pid=101
+http://127.0.0.1:6878/ace/getstream?id=3b2a8b41e7097c16b0468b42d7de0320886fa933&pid=103
 #EXTINF:-1 tvg-id="19:00-Masters París 2ª Ronda-C. Alcaraz-C. Norrie" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",19:00-Masters París 2ª Ronda-C. Alcaraz-C. Norrie
-http://127.0.0.1:6878/ace/getstream?id=2940120bf034db79a7f5849846ccea0255172eae&pid=102
+http://127.0.0.1:6878/ace/getstream?id=2940120bf034db79a7f5849846ccea0255172eae&pid=104
 #EXTINF:-1 tvg-id="19:00-Masters París 2ª Ronda-C. Alcaraz-C. Norrie" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",19:00-Masters París 2ª Ronda-C. Alcaraz-C. Norrie
-http://127.0.0.1:6878/ace/getstream?id=651d6be899d1fafa107a265a9dc00ff914c1b548&pid=103
+http://127.0.0.1:6878/ace/getstream?id=651d6be899d1fafa107a265a9dc00ff914c1b548&pid=105
 #EXTINF:-1 tvg-id="19:00-Masters París 2ª Ronda-C. Alcaraz-C. Norrie" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",19:00-Masters París 2ª Ronda-C. Alcaraz-C. Norrie
-http://127.0.0.1:6878/ace/getstream?id=4e99e755aa32c4bc043a4bb1cd1de35f9bd94dde&pid=104
+http://127.0.0.1:6878/ace/getstream?id=4e99e755aa32c4bc043a4bb1cd1de35f9bd94dde&pid=106
 #EXTINF:-1 tvg-id="19:00-Masters París 2ª Ronda-C. Alcaraz-C. Norrie" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",19:00-Masters París 2ª Ronda-C. Alcaraz-C. Norrie
-http://127.0.0.1:6878/ace/getstream?id=c7c81acdd1a03ecc418c94c2f28e2adb0556c40b&pid=105
+http://127.0.0.1:6878/ace/getstream?id=c7c81acdd1a03ecc418c94c2f28e2adb0556c40b&pid=107
 #EXTINF:-1 tvg-id="19:00-Masters París 2ª Ronda-C. Alcaraz-C. Norrie" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",19:00-Masters París 2ª Ronda-C. Alcaraz-C. Norrie
-http://127.0.0.1:6878/ace/getstream?id=0e5d8c9724fa9163f49096b70484e315251eb785&pid=106
+http://127.0.0.1:6878/ace/getstream?id=0e5d8c9724fa9163f49096b70484e315251eb785&pid=108
 #EXTINF:-1 tvg-id="19:00-Masters París 2ª Ronda-C. Alcaraz-C. Norrie" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",19:00-Masters París 2ª Ronda-C. Alcaraz-C. Norrie
-http://127.0.0.1:6878/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee&pid=107
+http://127.0.0.1:6878/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee&pid=109
 #EXTINF:-1 tvg-id="19:00-Masters París 2ª Ronda-C. Alcaraz-C. Norrie" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",19:00-Masters París 2ª Ronda-C. Alcaraz-C. Norrie
-http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0&pid=108
+http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0&pid=110
 #EXTINF:-1 tvg-id="19:00-Masters París 2ª Ronda-C. Alcaraz-C. Norrie" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",19:00-Masters París 2ª Ronda-C. Alcaraz-C. Norrie
-http://127.0.0.1:6878/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7&pid=109
+http://127.0.0.1:6878/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7&pid=111
 #EXTINF:-1 tvg-id="19:00-Masters París 2ª Ronda-C. Alcaraz-C. Norrie" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",19:00-Masters París 2ª Ronda-C. Alcaraz-C. Norrie
-http://127.0.0.1:6878/ace/getstream?id=aa31953b8af44b461102852d5b1247eea95b8050&pid=110
+http://127.0.0.1:6878/ace/getstream?id=aa31953b8af44b461102852d5b1247eea95b8050&pid=112
 #EXTINF:-1 tvg-id="19:00-Masters París 2ª Ronda-C. Alcaraz-C. Norrie" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",19:00-Masters París 2ª Ronda-C. Alcaraz-C. Norrie
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf&pid=111
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf&pid=113
 #EXTINF:-1 tvg-id="20:00-Copa del Rey 1ª Ronda-Maracena-Valencia CF" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:00-Copa del Rey 1ª Ronda-Maracena-Valencia CF
-http://127.0.0.1:6878/ace/getstream?id=911ad127726234b97658498a8b790fdd7516541d&pid=112
+http://127.0.0.1:6878/ace/getstream?id=911ad127726234b97658498a8b790fdd7516541d&pid=114
 #EXTINF:-1 tvg-id="20:00-Copa del Rey 1ª Ronda-Maracena-Valencia CF" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:00-Copa del Rey 1ª Ronda-Maracena-Valencia CF
-http://127.0.0.1:6878/ace/getstream?id=51b363b1c4d42724e05240ad068ad219df8042ec&pid=113
+http://127.0.0.1:6878/ace/getstream?id=51b363b1c4d42724e05240ad068ad219df8042ec&pid=115
 #EXTINF:-1 tvg-id="20:00-Copa del Rey 1ª Ronda-Maracena-Valencia CF" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:00-Copa del Rey 1ª Ronda-Maracena-Valencia CF
-http://127.0.0.1:6878/ace/getstream?id=ad42faa399df66dcd62a1cbc9d1c99ed4512d3b8&pid=114
+http://127.0.0.1:6878/ace/getstream?id=ad42faa399df66dcd62a1cbc9d1c99ed4512d3b8&pid=116
 #EXTINF:-1 tvg-id="20:00-Copa del Rey 1ª Ronda-Maracena-Valencia CF" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:00-Copa del Rey 1ª Ronda-Maracena-Valencia CF
-http://127.0.0.1:6878/ace/getstream?id=b8eb9c9868d487402569bba2d97a8af113d033fe&pid=115
+http://127.0.0.1:6878/ace/getstream?id=b8eb9c9868d487402569bba2d97a8af113d033fe&pid=117
 #EXTINF:-1 tvg-id="20:00-Euroliga Liga Regular-FC Bayern Basketball-Real Madrid Baloncesto" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:00-Euroliga Liga Regular-FC Bayern Basketball-Real Madrid Baloncesto
-http://127.0.0.1:6878/ace/getstream?id=ef9dcc4eaac36a0f608b52a31f8ab237859e071a&pid=116
+http://127.0.0.1:6878/ace/getstream?id=ef9dcc4eaac36a0f608b52a31f8ab237859e071a&pid=118
 #EXTINF:-1 tvg-id="20:00-Euroliga Liga Regular-FC Bayern Basketball-Real Madrid Baloncesto" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:00-Euroliga Liga Regular-FC Bayern Basketball-Real Madrid Baloncesto
-http://127.0.0.1:6878/ace/getstream?id=5d3f582738467aaf213e408601aca5cc13fa9359&pid=117
+http://127.0.0.1:6878/ace/getstream?id=5d3f582738467aaf213e408601aca5cc13fa9359&pid=119
 #EXTINF:-1 tvg-id="20:00-Euroliga Liga Regular-FC Bayern Basketball-Real Madrid Baloncesto" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:00-Euroliga Liga Regular-FC Bayern Basketball-Real Madrid Baloncesto
-http://127.0.0.1:6878/ace/getstream?id=3692ea4cdda97eb0062ed5d656ebd61f149ebd0b&pid=118
+http://127.0.0.1:6878/ace/getstream?id=3692ea4cdda97eb0062ed5d656ebd61f149ebd0b&pid=120
 #EXTINF:-1 tvg-id="20:00-Euroliga Liga Regular-FC Bayern Basketball-Real Madrid Baloncesto" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:00-Euroliga Liga Regular-FC Bayern Basketball-Real Madrid Baloncesto
-http://127.0.0.1:6878/ace/getstream?id=ebca4a63ce3bfda7b272964a1acc5227218184a4&pid=119
+http://127.0.0.1:6878/ace/getstream?id=ebca4a63ce3bfda7b272964a1acc5227218184a4&pid=121
 #EXTINF:-1 tvg-id="20:00-Euroliga Liga Regular-FC Bayern Basketball-Real Madrid Baloncesto" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:00-Euroliga Liga Regular-FC Bayern Basketball-Real Madrid Baloncesto
-http://127.0.0.1:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3&pid=120
+http://127.0.0.1:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3&pid=122
 #EXTINF:-1 tvg-id="20:00-Euroliga Liga Regular-FC Bayern Basketball-Real Madrid Baloncesto" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:00-Euroliga Liga Regular-FC Bayern Basketball-Real Madrid Baloncesto
-http://127.0.0.1:6878/ace/getstream?id=8c67cdb5ba81976662c3a67984a9545d9cfb0f70&pid=121
+http://127.0.0.1:6878/ace/getstream?id=8c67cdb5ba81976662c3a67984a9545d9cfb0f70&pid=123
 #EXTINF:-1 tvg-id="20:00-Euroliga Liga Regular-FC Bayern Basketball-Real Madrid Baloncesto" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:00-Euroliga Liga Regular-FC Bayern Basketball-Real Madrid Baloncesto
-http://127.0.0.1:6878/ace/getstream?id=b6ffbbc72a5b6b579faf79ebac229af7a25b933b&pid=122
+http://127.0.0.1:6878/ace/getstream?id=b6ffbbc72a5b6b579faf79ebac229af7a25b933b&pid=124
 #EXTINF:-1 tvg-id="20:00-Euroliga Liga Regular-FC Bayern Basketball-Real Madrid Baloncesto" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:00-Euroliga Liga Regular-FC Bayern Basketball-Real Madrid Baloncesto
-http://127.0.0.1:6878/ace/getstream?id=199190e3f28c1de0be34bccf0d3568dc65209b99&pid=123
+http://127.0.0.1:6878/ace/getstream?id=199190e3f28c1de0be34bccf0d3568dc65209b99&pid=125
 #EXTINF:-1 tvg-id="20:00-Euroliga Liga Regular-FC Bayern Basketball-Real Madrid Baloncesto" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:00-Euroliga Liga Regular-FC Bayern Basketball-Real Madrid Baloncesto
-http://127.0.0.1:6878/ace/getstream?id=5866e83279307bf919068ae7a0d250e4e424e464&pid=124
+http://127.0.0.1:6878/ace/getstream?id=5866e83279307bf919068ae7a0d250e4e424e464&pid=126
 #EXTINF:-1 tvg-id="20:00-Euroliga Liga Regular-FC Bayern Basketball-Real Madrid Baloncesto" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:00-Euroliga Liga Regular-FC Bayern Basketball-Real Madrid Baloncesto
-http://127.0.0.1:6878/ace/getstream?id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78&pid=125
+http://127.0.0.1:6878/ace/getstream?id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78&pid=127
 #EXTINF:-1 tvg-id="20:15-Euroliga Liga Regular-Panathinaikos BC-Maccabi Tel Aviv BC" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:15-Euroliga Liga Regular-Panathinaikos BC-Maccabi Tel Aviv BC
-http://127.0.0.1:6878/ace/getstream?id=8f982a0d6e3196c12d0034142b65008321150f7c&pid=126
+http://127.0.0.1:6878/ace/getstream?id=8f982a0d6e3196c12d0034142b65008321150f7c&pid=128
 #EXTINF:-1 tvg-id="20:30-Euroliga Liga Regular-Barça Basket-AX Olimpia Milano" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:30-Euroliga Liga Regular-Barça Basket-AX Olimpia Milano
-http://127.0.0.1:6878/ace/getstream?id=29d786d72d4b53dbc333af3a50f8fb021aa0296f&pid=127
+http://127.0.0.1:6878/ace/getstream?id=29d786d72d4b53dbc333af3a50f8fb021aa0296f&pid=129
 #EXTINF:-1 tvg-id="20:30-Euroliga Liga Regular-Barça Basket-AX Olimpia Milano" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:30-Euroliga Liga Regular-Barça Basket-AX Olimpia Milano
-http://127.0.0.1:6878/ace/getstream?id=799c6b5ee1cf41af077d14e3f9c45a32697eb903&pid=128
+http://127.0.0.1:6878/ace/getstream?id=799c6b5ee1cf41af077d14e3f9c45a32697eb903&pid=130
 #EXTINF:-1 tvg-id="20:30-Euroliga Liga Regular-Barça Basket-AX Olimpia Milano" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:30-Euroliga Liga Regular-Barça Basket-AX Olimpia Milano
-http://127.0.0.1:6878/ace/getstream?id=2fd410c5d89e7a627cd3785685b7915b8e4bd534&pid=129
+http://127.0.0.1:6878/ace/getstream?id=2fd410c5d89e7a627cd3785685b7915b8e4bd534&pid=131
 #EXTINF:-1 tvg-id="20:30-Euroliga Liga Regular-Barça Basket-AX Olimpia Milano" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:30-Euroliga Liga Regular-Barça Basket-AX Olimpia Milano
-http://127.0.0.1:6878/ace/getstream?id=39fefdecfc953dcf6e7c589739bf486c2e605ed0&pid=130
+http://127.0.0.1:6878/ace/getstream?id=39fefdecfc953dcf6e7c589739bf486c2e605ed0&pid=132
 #EXTINF:-1 tvg-id="20:30-Euroliga Liga Regular-Baskonia-Dubai Basketball" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:30-Euroliga Liga Regular-Baskonia-Dubai Basketball
-http://127.0.0.1:6878/ace/getstream?id=37825883ed185365e3194a79207347f6c7bd5ba5&pid=131
+http://127.0.0.1:6878/ace/getstream?id=37825883ed185365e3194a79207347f6c7bd5ba5&pid=133
 #EXTINF:-1 tvg-id="20:30-Euroliga Liga Regular-Baskonia-Dubai Basketball" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:30-Euroliga Liga Regular-Baskonia-Dubai Basketball
-http://127.0.0.1:6878/ace/getstream?id=b40e1de2dcbd7c665f54877b14c830ed67b32a96&pid=132
+http://127.0.0.1:6878/ace/getstream?id=b40e1de2dcbd7c665f54877b14c830ed67b32a96&pid=134
 #EXTINF:-1 tvg-id="20:30-Euroliga Liga Regular-Baskonia-Dubai Basketball" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:30-Euroliga Liga Regular-Baskonia-Dubai Basketball
-http://127.0.0.1:6878/ace/getstream?id=8b5f9d967384afab226dd759e6e9dfaee9993869&pid=133
+http://127.0.0.1:6878/ace/getstream?id=8b5f9d967384afab226dd759e6e9dfaee9993869&pid=135
 #EXTINF:-1 tvg-id="20:30-Masters París 2ª Ronda-T. Fritz-A. Vukic" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:30-Masters París 2ª Ronda-T. Fritz-A. Vukic
-http://127.0.0.1:6878/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee&pid=134
+http://127.0.0.1:6878/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee&pid=136
 #EXTINF:-1 tvg-id="20:30-Masters París 2ª Ronda-T. Fritz-A. Vukic" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:30-Masters París 2ª Ronda-T. Fritz-A. Vukic
-http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0&pid=135
+http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0&pid=137
 #EXTINF:-1 tvg-id="20:30-Masters París 2ª Ronda-T. Fritz-A. Vukic" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:30-Masters París 2ª Ronda-T. Fritz-A. Vukic
-http://127.0.0.1:6878/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7&pid=136
+http://127.0.0.1:6878/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7&pid=138
 #EXTINF:-1 tvg-id="20:30-Masters París 2ª Ronda-T. Fritz-A. Vukic" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:30-Masters París 2ª Ronda-T. Fritz-A. Vukic
-http://127.0.0.1:6878/ace/getstream?id=aa31953b8af44b461102852d5b1247eea95b8050&pid=137
+http://127.0.0.1:6878/ace/getstream?id=aa31953b8af44b461102852d5b1247eea95b8050&pid=139
 #EXTINF:-1 tvg-id="20:30-Masters París 2ª Ronda-T. Fritz-A. Vukic" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:30-Masters París 2ª Ronda-T. Fritz-A. Vukic
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf&pid=138
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf&pid=140
 #EXTINF:-1 tvg-id="20:45-Euroliga Liga Regular-Paris Basketball-Anadolu Efes Istanbul" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:45-Euroliga Liga Regular-Paris Basketball-Anadolu Efes Istanbul
-http://127.0.0.1:6878/ace/getstream?id=6dc4ac4eeae18e9daec433b01db82435cf84c57c&pid=139
+http://127.0.0.1:6878/ace/getstream?id=6dc4ac4eeae18e9daec433b01db82435cf84c57c&pid=141
 #EXTINF:-1 tvg-id="20:45-Euroliga Liga Regular-Paris Basketball-Anadolu Efes Istanbul" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:45-Euroliga Liga Regular-Paris Basketball-Anadolu Efes Istanbul
-http://127.0.0.1:6878/ace/getstream?id=7b361369a40046ad3011086f9d4ae2982fb4d5aa&pid=140
+http://127.0.0.1:6878/ace/getstream?id=7b361369a40046ad3011086f9d4ae2982fb4d5aa&pid=142
 #EXTINF:-1 tvg-id="20:45-Euroliga Liga Regular-Paris Basketball-Anadolu Efes Istanbul" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:45-Euroliga Liga Regular-Paris Basketball-Anadolu Efes Istanbul
-http://127.0.0.1:6878/ace/getstream?id=3230cdca852a10325222e3c546e499e31d547a90&pid=141
+http://127.0.0.1:6878/ace/getstream?id=3230cdca852a10325222e3c546e499e31d547a90&pid=143
 #EXTINF:-1 tvg-id="21:00-Copa del Rey 1ª Ronda-Negreira-Real Sociedad" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Copa del Rey 1ª Ronda-Negreira-Real Sociedad
-http://127.0.0.1:6878/ace/getstream?id=d4ff041287a43e3114d411d671c4b4e92e21f33y&pid=142
+http://127.0.0.1:6878/ace/getstream?id=d4ff041287a43e3114d411d671c4b4e92e21f33y&pid=144
 #EXTINF:-1 tvg-id="21:00-Copa del Rey 1ª Ronda-Negreira-Real Sociedad" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Copa del Rey 1ª Ronda-Negreira-Real Sociedad
-http://127.0.0.1:6878/ace/getstream?id=107c3ce5a5d2527c9f06e4eab87477201791f231&pid=143
+http://127.0.0.1:6878/ace/getstream?id=107c3ce5a5d2527c9f06e4eab87477201791f231&pid=145
 #EXTINF:-1 tvg-id="21:00-Copa del Rey 1ª Ronda-Negreira-Real Sociedad" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Copa del Rey 1ª Ronda-Negreira-Real Sociedad
-http://127.0.0.1:6878/ace/getstream?id=d2ddf9802ccfdc456f872eea4d24596880a638a0&pid=144
+http://127.0.0.1:6878/ace/getstream?id=d2ddf9802ccfdc456f872eea4d24596880a638a0&pid=146
 #EXTINF:-1 tvg-id="21:00-Copa del Rey 1ª Ronda-Negreira-Real Sociedad" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Copa del Rey 1ª Ronda-Negreira-Real Sociedad
-http://127.0.0.1:6878/ace/getstream?id=c9321006921967d6258df6945f1d598a5c0cbf1e&pid=145
+http://127.0.0.1:6878/ace/getstream?id=00c9bc9c5d7d87680a5a6bed349edfa775a89947&pid=147
 #EXTINF:-1 tvg-id="21:00-Copa del Rey 1ª Ronda-Negreira-Real Sociedad" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Copa del Rey 1ª Ronda-Negreira-Real Sociedad
-http://127.0.0.1:6878/ace/getstream?id=4b528d10eaad747ddf52251206177573ee3e9f74&pid=146
+http://127.0.0.1:6878/ace/getstream?id=c9321006921967d6258df6945f1d598a5c0cbf1e&pid=148
 #EXTINF:-1 tvg-id="21:00-Copa del Rey 1ª Ronda-Negreira-Real Sociedad" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Copa del Rey 1ª Ronda-Negreira-Real Sociedad
-http://127.0.0.1:6878/ace/getstream?id=14b6cd8769cd485f2cffdca64be9698d9bfeac58&pid=147
+http://127.0.0.1:6878/ace/getstream?id=4b528d10eaad747ddf52251206177573ee3e9f74&pid=149
 #EXTINF:-1 tvg-id="21:00-Copa del Rey 1ª Ronda-Negreira-Real Sociedad" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Copa del Rey 1ª Ronda-Negreira-Real Sociedad
-http://127.0.0.1:6878/ace/getstream?id=c16b4fab1f724c94cad92081cbb7fc7c6fe8a2cc&pid=148
+http://127.0.0.1:6878/ace/getstream?id=14b6cd8769cd485f2cffdca64be9698d9bfeac58&pid=150
 #EXTINF:-1 tvg-id="21:00-Copa del Rey 1ª Ronda-Negreira-Real Sociedad" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Copa del Rey 1ª Ronda-Negreira-Real Sociedad
-http://127.0.0.1:6878/ace/getstream?id=afbf1ef8812e7b0a0977fa3a0a2d3a6d3cbd6c6f&pid=149
+http://127.0.0.1:6878/ace/getstream?id=31c19ffb3472c289c5bbbbc174449c8ed0d19e38&pid=151
 #EXTINF:-1 tvg-id="21:00-Copa del Rey 1ª Ronda-Negreira-Real Sociedad" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Copa del Rey 1ª Ronda-Negreira-Real Sociedad
-http://127.0.0.1:6878/ace/getstream?id=0f7842f8b6c26571e5a974407b61623e56e6a052&pid=150
+http://127.0.0.1:6878/ace/getstream?id=c16b4fab1f724c94cad92081cbb7fc7c6fe8a2cc&pid=152
 #EXTINF:-1 tvg-id="21:00-Copa del Rey 1ª Ronda-Negreira-Real Sociedad" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Copa del Rey 1ª Ronda-Negreira-Real Sociedad
-http://127.0.0.1:6878/ace/getstream?id=f3eea003e23f94dc2d527306de9dd386e3ebf4ba&pid=151
+http://127.0.0.1:6878/ace/getstream?id=afbf1ef8812e7b0a0977fa3a0a2d3a6d3cbd6c6f&pid=153
 #EXTINF:-1 tvg-id="21:00-Copa del Rey 1ª Ronda-Negreira-Real Sociedad" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Copa del Rey 1ª Ronda-Negreira-Real Sociedad
-http://127.0.0.1:6878/ace/getstream?id=97df5b7824948972d041d8ca2a4d29c90b641bc9&pid=152
+http://127.0.0.1:6878/ace/getstream?id=0f7842f8b6c26571e5a974407b61623e56e6a052&pid=154
 #EXTINF:-1 tvg-id="21:00-Copa del Rey 1ª Ronda-Negreira-Real Sociedad" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Copa del Rey 1ª Ronda-Negreira-Real Sociedad
-http://127.0.0.1:6878/ace/getstream?id=2b51710cee513e8939785fa3e7980f32d4e0415f&pid=153
+http://127.0.0.1:6878/ace/getstream?id=f3eea003e23f94dc2d527306de9dd386e3ebf4ba&pid=155
 #EXTINF:-1 tvg-id="21:00-Copa del Rey 1ª Ronda-Negreira-Real Sociedad" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Copa del Rey 1ª Ronda-Negreira-Real Sociedad
-http://127.0.0.1:6878/ace/getstream?id=9db029dff6a9c637d1f670e78dbc1a479b9b406e&pid=154
+http://127.0.0.1:6878/ace/getstream?id=97df5b7824948972d041d8ca2a4d29c90b641bc9&pid=156
+#EXTINF:-1 tvg-id="21:00-Copa del Rey 1ª Ronda-Negreira-Real Sociedad" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Copa del Rey 1ª Ronda-Negreira-Real Sociedad
+http://127.0.0.1:6878/ace/getstream?id=2b51710cee513e8939785fa3e7980f32d4e0415f&pid=157
+#EXTINF:-1 tvg-id="21:00-Copa del Rey 1ª Ronda-Negreira-Real Sociedad" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Copa del Rey 1ª Ronda-Negreira-Real Sociedad
+http://127.0.0.1:6878/ace/getstream?id=9db029dff6a9c637d1f670e78dbc1a479b9b406e&pid=158
+#EXTINF:-1 tvg-id="21:00-Copa del Rey 1ª Ronda-Negreira-Real Sociedad" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Copa del Rey 1ª Ronda-Negreira-Real Sociedad
+http://127.0.0.1:6878/ace/getstream?id=e572a5178ff72eed7d1d751a18b4b3419699f370&pid=159
 #EXTINF:-1 tvg-id="21:00-Copa del Rey 1ª Ronda-CD Toledo-Sevilla FC" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Copa del Rey 1ª Ronda-CD Toledo-Sevilla FC
-http://127.0.0.1:6878/ace/getstream?id=2d997da301573c5aba78f969d0d37eb6107941b2&pid=155
+http://127.0.0.1:6878/ace/getstream?id=2d997da301573c5aba78f969d0d37eb6107941b2&pid=160
 #EXTINF:-1 tvg-id="21:00-Copa del Rey 1ª Ronda-CD Toledo-Sevilla FC" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Copa del Rey 1ª Ronda-CD Toledo-Sevilla FC
-http://127.0.0.1:6878/ace/getstream?id=7d910d9480e023608d1fe77eaf47c2ed34592155&pid=156
+http://127.0.0.1:6878/ace/getstream?id=7d910d9480e023608d1fe77eaf47c2ed34592155&pid=161
 #EXTINF:-1 tvg-id="21:00-Euroliga Liga Regular-Valencia Basket-Fenerbahce Istanbul" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",21:00-Euroliga Liga Regular-Valencia Basket-Fenerbahce Istanbul
-http://127.0.0.1:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&pid=157
+http://127.0.0.1:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&pid=162
 #EXTINF:-1 tvg-id="21:00-Euroliga Liga Regular-Valencia Basket-Fenerbahce Istanbul" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",21:00-Euroliga Liga Regular-Valencia Basket-Fenerbahce Istanbul
-http://127.0.0.1:6878/ace/getstream?id=6e212a916c83638268047dd2757c95b14f7d25a3&pid=158
+http://127.0.0.1:6878/ace/getstream?id=6e212a916c83638268047dd2757c95b14f7d25a3&pid=163
 #EXTINF:-1 tvg-id="21:00-Euroliga Liga Regular-Valencia Basket-Fenerbahce Istanbul" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",21:00-Euroliga Liga Regular-Valencia Basket-Fenerbahce Istanbul
-http://127.0.0.1:6878/ace/getstream?id=73d38feaa770d788848ec098470e32670fe55a61&pid=159
+http://127.0.0.1:6878/ace/getstream?id=73d38feaa770d788848ec098470e32670fe55a61&pid=164
 #EXTINF:-1 tvg-id="21:00-Euroliga Liga Regular-Valencia Basket-Fenerbahce Istanbul" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",21:00-Euroliga Liga Regular-Valencia Basket-Fenerbahce Istanbul
-http://127.0.0.1:6878/ace/getstream?id=f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0&pid=160
+http://127.0.0.1:6878/ace/getstream?id=f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0&pid=165
 #EXTINF:-1 tvg-id="21:00-Euroliga Liga Regular-Valencia Basket-Fenerbahce Istanbul" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",21:00-Euroliga Liga Regular-Valencia Basket-Fenerbahce Istanbul
-http://127.0.0.1:6878/ace/getstream?id=bfa01c11c5c6b7a616a516de4f2c769a89d26b25&pid=161
+http://127.0.0.1:6878/ace/getstream?id=bfa01c11c5c6b7a616a516de4f2c769a89d26b25&pid=166
 #EXTINF:-1 tvg-id="21:00-Euroliga Liga Regular-Valencia Basket-Fenerbahce Istanbul" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",21:00-Euroliga Liga Regular-Valencia Basket-Fenerbahce Istanbul
-http://127.0.0.1:6878/ace/getstream?id=3afe1af18f8ff78e9946856911b00c67477052b5&pid=162
+http://127.0.0.1:6878/ace/getstream?id=3afe1af18f8ff78e9946856911b00c67477052b5&pid=167
 #EXTINF:-1 tvg-id="21:00-Euroliga Liga Regular-Valencia Basket-Fenerbahce Istanbul" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",21:00-Euroliga Liga Regular-Valencia Basket-Fenerbahce Istanbul
-http://127.0.0.1:6878/ace/getstream?id=8c67cdb5ba81976662c3a67984a9545d9cfb0f70&pid=163
+http://127.0.0.1:6878/ace/getstream?id=8c67cdb5ba81976662c3a67984a9545d9cfb0f70&pid=168
 #EXTINF:-1 tvg-id="21:00-Euroliga Liga Regular-Valencia Basket-Fenerbahce Istanbul" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",21:00-Euroliga Liga Regular-Valencia Basket-Fenerbahce Istanbul
-http://127.0.0.1:6878/ace/getstream?id=b6ffbbc72a5b6b579faf79ebac229af7a25b933b&pid=164
+http://127.0.0.1:6878/ace/getstream?id=b6ffbbc72a5b6b579faf79ebac229af7a25b933b&pid=169
 #EXTINF:-1 tvg-id="21:00-Euroliga Liga Regular-Valencia Basket-Fenerbahce Istanbul" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",21:00-Euroliga Liga Regular-Valencia Basket-Fenerbahce Istanbul
-http://127.0.0.1:6878/ace/getstream?id=199190e3f28c1de0be34bccf0d3568dc65209b99&pid=165
+http://127.0.0.1:6878/ace/getstream?id=199190e3f28c1de0be34bccf0d3568dc65209b99&pid=170
 #EXTINF:-1 tvg-id="21:00-Euroliga Liga Regular-Valencia Basket-Fenerbahce Istanbul" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",21:00-Euroliga Liga Regular-Valencia Basket-Fenerbahce Istanbul
-http://127.0.0.1:6878/ace/getstream?id=5866e83279307bf919068ae7a0d250e4e424e464&pid=166
+http://127.0.0.1:6878/ace/getstream?id=5866e83279307bf919068ae7a0d250e4e424e464&pid=171
 #EXTINF:-1 tvg-id="21:00-Euroliga Liga Regular-Valencia Basket-Fenerbahce Istanbul" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",21:00-Euroliga Liga Regular-Valencia Basket-Fenerbahce Istanbul
-http://127.0.0.1:6878/ace/getstream?id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78&pid=167
+http://127.0.0.1:6878/ace/getstream?id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78&pid=172
 #EXTINF:-1 tvg-id="21:00-Euroliga Liga Regular-Valencia Basket-Fenerbahce Istanbul" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",21:00-Euroliga Liga Regular-Valencia Basket-Fenerbahce Istanbul
-http://127.0.0.1:6878/ace/getstream?id=3b2a8b41e7097c16b0468b42d7de0320886fa933&pid=168
+http://127.0.0.1:6878/ace/getstream?id=3b2a8b41e7097c16b0468b42d7de0320886fa933&pid=173
 #EXTINF:-1 tvg-id="21:00-Euroliga Liga Regular-Valencia Basket-Fenerbahce Istanbul" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",21:00-Euroliga Liga Regular-Valencia Basket-Fenerbahce Istanbul
-http://127.0.0.1:6878/ace/getstream?id=2940120bf034db79a7f5849846ccea0255172eae&pid=169
+http://127.0.0.1:6878/ace/getstream?id=2940120bf034db79a7f5849846ccea0255172eae&pid=174
 #EXTINF:-1 tvg-id="21:00-Euroliga Liga Regular-Valencia Basket-Fenerbahce Istanbul" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",21:00-Euroliga Liga Regular-Valencia Basket-Fenerbahce Istanbul
-http://127.0.0.1:6878/ace/getstream?id=651d6be899d1fafa107a265a9dc00ff914c1b548&pid=170
+http://127.0.0.1:6878/ace/getstream?id=651d6be899d1fafa107a265a9dc00ff914c1b548&pid=175
 #EXTINF:-1 tvg-id="21:00-Euroliga Liga Regular-Valencia Basket-Fenerbahce Istanbul" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",21:00-Euroliga Liga Regular-Valencia Basket-Fenerbahce Istanbul
-http://127.0.0.1:6878/ace/getstream?id=4e99e755aa32c4bc043a4bb1cd1de35f9bd94dde&pid=171
+http://127.0.0.1:6878/ace/getstream?id=4e99e755aa32c4bc043a4bb1cd1de35f9bd94dde&pid=176
 #EXTINF:-1 tvg-id="21:00-Euroliga Liga Regular-Valencia Basket-Fenerbahce Istanbul" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",21:00-Euroliga Liga Regular-Valencia Basket-Fenerbahce Istanbul
-http://127.0.0.1:6878/ace/getstream?id=c7c81acdd1a03ecc418c94c2f28e2adb0556c40b&pid=172
+http://127.0.0.1:6878/ace/getstream?id=c7c81acdd1a03ecc418c94c2f28e2adb0556c40b&pid=177
 #EXTINF:-1 tvg-id="21:00-Euroliga Liga Regular-Valencia Basket-Fenerbahce Istanbul" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",21:00-Euroliga Liga Regular-Valencia Basket-Fenerbahce Istanbul
-http://127.0.0.1:6878/ace/getstream?id=0e5d8c9724fa9163f49096b70484e315251eb785&pid=173
+http://127.0.0.1:6878/ace/getstream?id=0e5d8c9724fa9163f49096b70484e315251eb785&pid=178
