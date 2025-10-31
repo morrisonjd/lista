@@ -7,315 +7,291 @@ http://192.168.18.170:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f
 http://192.168.18.170:6878/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7&pid=3
 #EXTINF:-1 tvg-id="07:00-WTA Torneo de Hong Kong 2ª Ronda-A. Kalinskaya-S. Zhang" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",07:00-WTA Torneo de Hong Kong 2ª Ronda-A. Kalinskaya-S. Zhang
 http://192.168.18.170:6878/ace/getstream?id=aa31953b8af44b461102852d5b1247eea95b8050&pid=4
-#EXTINF:-1 tvg-id="07:00-WTA Torneo de Hong Kong 2ª Ronda-A. Kalinskaya-S. Zhang" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",07:00-WTA Torneo de Hong Kong 2ª Ronda-A. Kalinskaya-S. Zhang
-http://192.168.18.170:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf&pid=5
 #EXTINF:-1 tvg-id="08:30-WTA Torneo de Hong Kong 2ª Ronda-B. Bencic-Y. Wang" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",08:30-WTA Torneo de Hong Kong 2ª Ronda-B. Bencic-Y. Wang
-http://192.168.18.170:6878/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee&pid=6
+http://192.168.18.170:6878/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee&pid=5
 #EXTINF:-1 tvg-id="08:30-WTA Torneo de Hong Kong 2ª Ronda-B. Bencic-Y. Wang" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",08:30-WTA Torneo de Hong Kong 2ª Ronda-B. Bencic-Y. Wang
-http://192.168.18.170:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0&pid=7
+http://192.168.18.170:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0&pid=6
 #EXTINF:-1 tvg-id="08:30-WTA Torneo de Hong Kong 2ª Ronda-B. Bencic-Y. Wang" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",08:30-WTA Torneo de Hong Kong 2ª Ronda-B. Bencic-Y. Wang
-http://192.168.18.170:6878/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7&pid=8
+http://192.168.18.170:6878/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7&pid=7
 #EXTINF:-1 tvg-id="08:30-WTA Torneo de Hong Kong 2ª Ronda-B. Bencic-Y. Wang" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",08:30-WTA Torneo de Hong Kong 2ª Ronda-B. Bencic-Y. Wang
-http://192.168.18.170:6878/ace/getstream?id=aa31953b8af44b461102852d5b1247eea95b8050&pid=9
-#EXTINF:-1 tvg-id="08:30-WTA Torneo de Hong Kong 2ª Ronda-B. Bencic-Y. Wang" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",08:30-WTA Torneo de Hong Kong 2ª Ronda-B. Bencic-Y. Wang
-http://192.168.18.170:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf&pid=10
+http://192.168.18.170:6878/ace/getstream?id=aa31953b8af44b461102852d5b1247eea95b8050&pid=8
 #EXTINF:-1 tvg-id="11:00-Masters París 3ª Ronda-C. Norrie-V. Vacherot" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",11:00-Masters París 3ª Ronda-C. Norrie-V. Vacherot
-http://192.168.18.170:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&pid=11
+http://192.168.18.170:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&pid=9
 #EXTINF:-1 tvg-id="11:00-Masters París 3ª Ronda-C. Norrie-V. Vacherot" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",11:00-Masters París 3ª Ronda-C. Norrie-V. Vacherot
-http://192.168.18.170:6878/ace/getstream?id=6e212a916c83638268047dd2757c95b14f7d25a3&pid=12
+http://192.168.18.170:6878/ace/getstream?id=6e212a916c83638268047dd2757c95b14f7d25a3&pid=10
 #EXTINF:-1 tvg-id="11:00-Masters París 3ª Ronda-C. Norrie-V. Vacherot" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",11:00-Masters París 3ª Ronda-C. Norrie-V. Vacherot
-http://192.168.18.170:6878/ace/getstream?id=73d38feaa770d788848ec098470e32670fe55a61&pid=13
+http://192.168.18.170:6878/ace/getstream?id=73d38feaa770d788848ec098470e32670fe55a61&pid=11
 #EXTINF:-1 tvg-id="11:00-Masters París 3ª Ronda-C. Norrie-V. Vacherot" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",11:00-Masters París 3ª Ronda-C. Norrie-V. Vacherot
-http://192.168.18.170:6878/ace/getstream?id=f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0&pid=14
+http://192.168.18.170:6878/ace/getstream?id=f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0&pid=12
 #EXTINF:-1 tvg-id="11:00-Masters París 3ª Ronda-C. Norrie-V. Vacherot" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",11:00-Masters París 3ª Ronda-C. Norrie-V. Vacherot
-http://192.168.18.170:6878/ace/getstream?id=bfa01c11c5c6b7a616a516de4f2c769a89d26b25&pid=15
+http://192.168.18.170:6878/ace/getstream?id=bfa01c11c5c6b7a616a516de4f2c769a89d26b25&pid=13
 #EXTINF:-1 tvg-id="11:00-Masters París 3ª Ronda-C. Norrie-V. Vacherot" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",11:00-Masters París 3ª Ronda-C. Norrie-V. Vacherot
-http://192.168.18.170:6878/ace/getstream?id=3afe1af18f8ff78e9946856911b00c67477052b5&pid=16
+http://192.168.18.170:6878/ace/getstream?id=3afe1af18f8ff78e9946856911b00c67477052b5&pid=14
 #EXTINF:-1 tvg-id="11:00-Masters París 3ª Ronda-C. Norrie-V. Vacherot" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",11:00-Masters París 3ª Ronda-C. Norrie-V. Vacherot
-http://192.168.18.170:6878/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee&pid=17
+http://192.168.18.170:6878/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee&pid=15
 #EXTINF:-1 tvg-id="11:00-Masters París 3ª Ronda-C. Norrie-V. Vacherot" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",11:00-Masters París 3ª Ronda-C. Norrie-V. Vacherot
-http://192.168.18.170:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0&pid=18
+http://192.168.18.170:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0&pid=16
 #EXTINF:-1 tvg-id="11:00-Masters París 3ª Ronda-C. Norrie-V. Vacherot" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",11:00-Masters París 3ª Ronda-C. Norrie-V. Vacherot
-http://192.168.18.170:6878/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7&pid=19
+http://192.168.18.170:6878/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7&pid=17
 #EXTINF:-1 tvg-id="11:00-Masters París 3ª Ronda-C. Norrie-V. Vacherot" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",11:00-Masters París 3ª Ronda-C. Norrie-V. Vacherot
-http://192.168.18.170:6878/ace/getstream?id=aa31953b8af44b461102852d5b1247eea95b8050&pid=20
-#EXTINF:-1 tvg-id="11:00-Masters París 3ª Ronda-C. Norrie-V. Vacherot" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",11:00-Masters París 3ª Ronda-C. Norrie-V. Vacherot
-http://192.168.18.170:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf&pid=21
+http://192.168.18.170:6878/ace/getstream?id=aa31953b8af44b461102852d5b1247eea95b8050&pid=18
 #EXTINF:-1 tvg-id="11:30-WTA Torneo de Hong Kong 2ª Ronda-A. Eala-V. Mboko" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",11:30-WTA Torneo de Hong Kong 2ª Ronda-A. Eala-V. Mboko
-http://192.168.18.170:6878/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee&pid=22
+http://192.168.18.170:6878/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee&pid=19
 #EXTINF:-1 tvg-id="11:30-WTA Torneo de Hong Kong 2ª Ronda-A. Eala-V. Mboko" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",11:30-WTA Torneo de Hong Kong 2ª Ronda-A. Eala-V. Mboko
-http://192.168.18.170:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0&pid=23
+http://192.168.18.170:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0&pid=20
 #EXTINF:-1 tvg-id="11:30-WTA Torneo de Hong Kong 2ª Ronda-A. Eala-V. Mboko" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",11:30-WTA Torneo de Hong Kong 2ª Ronda-A. Eala-V. Mboko
-http://192.168.18.170:6878/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7&pid=24
+http://192.168.18.170:6878/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7&pid=21
 #EXTINF:-1 tvg-id="11:30-WTA Torneo de Hong Kong 2ª Ronda-A. Eala-V. Mboko" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",11:30-WTA Torneo de Hong Kong 2ª Ronda-A. Eala-V. Mboko
-http://192.168.18.170:6878/ace/getstream?id=aa31953b8af44b461102852d5b1247eea95b8050&pid=25
-#EXTINF:-1 tvg-id="11:30-WTA Torneo de Hong Kong 2ª Ronda-A. Eala-V. Mboko" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",11:30-WTA Torneo de Hong Kong 2ª Ronda-A. Eala-V. Mboko
-http://192.168.18.170:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf&pid=26
+http://192.168.18.170:6878/ace/getstream?id=aa31953b8af44b461102852d5b1247eea95b8050&pid=22
 #EXTINF:-1 tvg-id="12:30-Masters París 3ª Ronda-F. Auger-Aliassime-D. Altmaier" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",12:30-Masters París 3ª Ronda-F. Auger-Aliassime-D. Altmaier
-http://192.168.18.170:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&pid=27
+http://192.168.18.170:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&pid=23
 #EXTINF:-1 tvg-id="12:30-Masters París 3ª Ronda-F. Auger-Aliassime-D. Altmaier" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",12:30-Masters París 3ª Ronda-F. Auger-Aliassime-D. Altmaier
-http://192.168.18.170:6878/ace/getstream?id=6e212a916c83638268047dd2757c95b14f7d25a3&pid=28
+http://192.168.18.170:6878/ace/getstream?id=6e212a916c83638268047dd2757c95b14f7d25a3&pid=24
 #EXTINF:-1 tvg-id="12:30-Masters París 3ª Ronda-F. Auger-Aliassime-D. Altmaier" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",12:30-Masters París 3ª Ronda-F. Auger-Aliassime-D. Altmaier
-http://192.168.18.170:6878/ace/getstream?id=73d38feaa770d788848ec098470e32670fe55a61&pid=29
+http://192.168.18.170:6878/ace/getstream?id=73d38feaa770d788848ec098470e32670fe55a61&pid=25
 #EXTINF:-1 tvg-id="12:30-Masters París 3ª Ronda-F. Auger-Aliassime-D. Altmaier" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",12:30-Masters París 3ª Ronda-F. Auger-Aliassime-D. Altmaier
-http://192.168.18.170:6878/ace/getstream?id=f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0&pid=30
+http://192.168.18.170:6878/ace/getstream?id=f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0&pid=26
 #EXTINF:-1 tvg-id="12:30-Masters París 3ª Ronda-F. Auger-Aliassime-D. Altmaier" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",12:30-Masters París 3ª Ronda-F. Auger-Aliassime-D. Altmaier
-http://192.168.18.170:6878/ace/getstream?id=bfa01c11c5c6b7a616a516de4f2c769a89d26b25&pid=31
+http://192.168.18.170:6878/ace/getstream?id=bfa01c11c5c6b7a616a516de4f2c769a89d26b25&pid=27
 #EXTINF:-1 tvg-id="12:30-Masters París 3ª Ronda-F. Auger-Aliassime-D. Altmaier" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",12:30-Masters París 3ª Ronda-F. Auger-Aliassime-D. Altmaier
-http://192.168.18.170:6878/ace/getstream?id=3afe1af18f8ff78e9946856911b00c67477052b5&pid=32
+http://192.168.18.170:6878/ace/getstream?id=3afe1af18f8ff78e9946856911b00c67477052b5&pid=28
 #EXTINF:-1 tvg-id="12:30-Masters París 3ª Ronda-F. Auger-Aliassime-D. Altmaier" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",12:30-Masters París 3ª Ronda-F. Auger-Aliassime-D. Altmaier
+http://192.168.18.170:6878/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee&pid=29
+#EXTINF:-1 tvg-id="12:30-Masters París 3ª Ronda-F. Auger-Aliassime-D. Altmaier" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",12:30-Masters París 3ª Ronda-F. Auger-Aliassime-D. Altmaier
+http://192.168.18.170:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0&pid=30
+#EXTINF:-1 tvg-id="12:30-Masters París 3ª Ronda-F. Auger-Aliassime-D. Altmaier" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",12:30-Masters París 3ª Ronda-F. Auger-Aliassime-D. Altmaier
+http://192.168.18.170:6878/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7&pid=31
+#EXTINF:-1 tvg-id="12:30-Masters París 3ª Ronda-F. Auger-Aliassime-D. Altmaier" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",12:30-Masters París 3ª Ronda-F. Auger-Aliassime-D. Altmaier
+http://192.168.18.170:6878/ace/getstream?id=aa31953b8af44b461102852d5b1247eea95b8050&pid=32
+#EXTINF:-1 tvg-id="13:00-WTA Torneo de Hong Kong 2ª Ronda-H. Sakatsume-E. Chong" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",13:00-WTA Torneo de Hong Kong 2ª Ronda-H. Sakatsume-E. Chong
 http://192.168.18.170:6878/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee&pid=33
-#EXTINF:-1 tvg-id="12:30-Masters París 3ª Ronda-F. Auger-Aliassime-D. Altmaier" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",12:30-Masters París 3ª Ronda-F. Auger-Aliassime-D. Altmaier
+#EXTINF:-1 tvg-id="13:00-WTA Torneo de Hong Kong 2ª Ronda-H. Sakatsume-E. Chong" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",13:00-WTA Torneo de Hong Kong 2ª Ronda-H. Sakatsume-E. Chong
 http://192.168.18.170:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0&pid=34
-#EXTINF:-1 tvg-id="12:30-Masters París 3ª Ronda-F. Auger-Aliassime-D. Altmaier" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",12:30-Masters París 3ª Ronda-F. Auger-Aliassime-D. Altmaier
+#EXTINF:-1 tvg-id="13:00-WTA Torneo de Hong Kong 2ª Ronda-H. Sakatsume-E. Chong" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",13:00-WTA Torneo de Hong Kong 2ª Ronda-H. Sakatsume-E. Chong
 http://192.168.18.170:6878/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7&pid=35
-#EXTINF:-1 tvg-id="12:30-Masters París 3ª Ronda-F. Auger-Aliassime-D. Altmaier" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",12:30-Masters París 3ª Ronda-F. Auger-Aliassime-D. Altmaier
+#EXTINF:-1 tvg-id="13:00-WTA Torneo de Hong Kong 2ª Ronda-H. Sakatsume-E. Chong" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",13:00-WTA Torneo de Hong Kong 2ª Ronda-H. Sakatsume-E. Chong
 http://192.168.18.170:6878/ace/getstream?id=aa31953b8af44b461102852d5b1247eea95b8050&pid=36
-#EXTINF:-1 tvg-id="12:30-Masters París 3ª Ronda-F. Auger-Aliassime-D. Altmaier" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",12:30-Masters París 3ª Ronda-F. Auger-Aliassime-D. Altmaier
-http://192.168.18.170:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf&pid=37
-#EXTINF:-1 tvg-id="13:00-WTA Torneo de Hong Kong 2ª Ronda-H. Sakatsume-E. Chong" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",13:00-WTA Torneo de Hong Kong 2ª Ronda-H. Sakatsume-E. Chong
-http://192.168.18.170:6878/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee&pid=38
-#EXTINF:-1 tvg-id="13:00-WTA Torneo de Hong Kong 2ª Ronda-H. Sakatsume-E. Chong" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",13:00-WTA Torneo de Hong Kong 2ª Ronda-H. Sakatsume-E. Chong
-http://192.168.18.170:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0&pid=39
-#EXTINF:-1 tvg-id="13:00-WTA Torneo de Hong Kong 2ª Ronda-H. Sakatsume-E. Chong" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",13:00-WTA Torneo de Hong Kong 2ª Ronda-H. Sakatsume-E. Chong
-http://192.168.18.170:6878/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7&pid=40
-#EXTINF:-1 tvg-id="13:00-WTA Torneo de Hong Kong 2ª Ronda-H. Sakatsume-E. Chong" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",13:00-WTA Torneo de Hong Kong 2ª Ronda-H. Sakatsume-E. Chong
-http://192.168.18.170:6878/ace/getstream?id=aa31953b8af44b461102852d5b1247eea95b8050&pid=41
-#EXTINF:-1 tvg-id="13:00-WTA Torneo de Hong Kong 2ª Ronda-H. Sakatsume-E. Chong" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",13:00-WTA Torneo de Hong Kong 2ª Ronda-H. Sakatsume-E. Chong
-http://192.168.18.170:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf&pid=42
 #EXTINF:-1 tvg-id="14:30-Masters París 3ª Ronda-B. Shelton-A. Rublev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:30-Masters París 3ª Ronda-B. Shelton-A. Rublev
-http://192.168.18.170:6878/ace/getstream?id=29d786d72d4b53dbc333af3a50f8fb021aa0296f&pid=43
+http://192.168.18.170:6878/ace/getstream?id=29d786d72d4b53dbc333af3a50f8fb021aa0296f&pid=37
 #EXTINF:-1 tvg-id="14:30-Masters París 3ª Ronda-B. Shelton-A. Rublev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:30-Masters París 3ª Ronda-B. Shelton-A. Rublev
-http://192.168.18.170:6878/ace/getstream?id=799c6b5ee1cf41af077d14e3f9c45a32697eb903&pid=44
+http://192.168.18.170:6878/ace/getstream?id=799c6b5ee1cf41af077d14e3f9c45a32697eb903&pid=38
 #EXTINF:-1 tvg-id="14:30-Masters París 3ª Ronda-B. Shelton-A. Rublev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:30-Masters París 3ª Ronda-B. Shelton-A. Rublev
-http://192.168.18.170:6878/ace/getstream?id=2fd410c5d89e7a627cd3785685b7915b8e4bd534&pid=45
+http://192.168.18.170:6878/ace/getstream?id=2fd410c5d89e7a627cd3785685b7915b8e4bd534&pid=39
 #EXTINF:-1 tvg-id="14:30-Masters París 3ª Ronda-B. Shelton-A. Rublev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:30-Masters París 3ª Ronda-B. Shelton-A. Rublev
-http://192.168.18.170:6878/ace/getstream?id=39fefdecfc953dcf6e7c589739bf486c2e605ed0&pid=46
+http://192.168.18.170:6878/ace/getstream?id=39fefdecfc953dcf6e7c589739bf486c2e605ed0&pid=40
 #EXTINF:-1 tvg-id="14:30-Masters París 3ª Ronda-B. Shelton-A. Rublev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:30-Masters París 3ª Ronda-B. Shelton-A. Rublev
-http://192.168.18.170:6878/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee&pid=47
+http://192.168.18.170:6878/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee&pid=41
 #EXTINF:-1 tvg-id="14:30-Masters París 3ª Ronda-B. Shelton-A. Rublev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:30-Masters París 3ª Ronda-B. Shelton-A. Rublev
-http://192.168.18.170:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0&pid=48
+http://192.168.18.170:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0&pid=42
 #EXTINF:-1 tvg-id="14:30-Masters París 3ª Ronda-B. Shelton-A. Rublev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:30-Masters París 3ª Ronda-B. Shelton-A. Rublev
-http://192.168.18.170:6878/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7&pid=49
+http://192.168.18.170:6878/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7&pid=43
 #EXTINF:-1 tvg-id="14:30-Masters París 3ª Ronda-B. Shelton-A. Rublev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:30-Masters París 3ª Ronda-B. Shelton-A. Rublev
-http://192.168.18.170:6878/ace/getstream?id=aa31953b8af44b461102852d5b1247eea95b8050&pid=50
-#EXTINF:-1 tvg-id="14:30-Masters París 3ª Ronda-B. Shelton-A. Rublev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:30-Masters París 3ª Ronda-B. Shelton-A. Rublev
-http://192.168.18.170:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf&pid=51
+http://192.168.18.170:6878/ace/getstream?id=aa31953b8af44b461102852d5b1247eea95b8050&pid=44
 #EXTINF:-1 tvg-id="16:00-Masters París 3ª Ronda-K. Khachanov-A. De Miñaur" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:00-Masters París 3ª Ronda-K. Khachanov-A. De Miñaur
-http://192.168.18.170:6878/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee&pid=52
+http://192.168.18.170:6878/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee&pid=45
 #EXTINF:-1 tvg-id="16:00-Masters París 3ª Ronda-K. Khachanov-A. De Miñaur" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:00-Masters París 3ª Ronda-K. Khachanov-A. De Miñaur
-http://192.168.18.170:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0&pid=53
+http://192.168.18.170:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0&pid=46
 #EXTINF:-1 tvg-id="16:00-Masters París 3ª Ronda-K. Khachanov-A. De Miñaur" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:00-Masters París 3ª Ronda-K. Khachanov-A. De Miñaur
-http://192.168.18.170:6878/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7&pid=54
+http://192.168.18.170:6878/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7&pid=47
 #EXTINF:-1 tvg-id="16:00-Masters París 3ª Ronda-K. Khachanov-A. De Miñaur" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:00-Masters París 3ª Ronda-K. Khachanov-A. De Miñaur
-http://192.168.18.170:6878/ace/getstream?id=aa31953b8af44b461102852d5b1247eea95b8050&pid=55
-#EXTINF:-1 tvg-id="16:00-Masters París 3ª Ronda-K. Khachanov-A. De Miñaur" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:00-Masters París 3ª Ronda-K. Khachanov-A. De Miñaur
-http://192.168.18.170:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf&pid=56
+http://192.168.18.170:6878/ace/getstream?id=aa31953b8af44b461102852d5b1247eea95b8050&pid=48
 #EXTINF:-1 tvg-id="16:00-Masters París 3ª Ronda-T. Fritz-A. Bublik" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:00-Masters París 3ª Ronda-T. Fritz-A. Bublik
-http://192.168.18.170:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&pid=57
+http://192.168.18.170:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&pid=49
 #EXTINF:-1 tvg-id="16:00-Masters París 3ª Ronda-T. Fritz-A. Bublik" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:00-Masters París 3ª Ronda-T. Fritz-A. Bublik
-http://192.168.18.170:6878/ace/getstream?id=6e212a916c83638268047dd2757c95b14f7d25a3&pid=58
+http://192.168.18.170:6878/ace/getstream?id=6e212a916c83638268047dd2757c95b14f7d25a3&pid=50
 #EXTINF:-1 tvg-id="16:00-Masters París 3ª Ronda-T. Fritz-A. Bublik" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:00-Masters París 3ª Ronda-T. Fritz-A. Bublik
-http://192.168.18.170:6878/ace/getstream?id=73d38feaa770d788848ec098470e32670fe55a61&pid=59
+http://192.168.18.170:6878/ace/getstream?id=73d38feaa770d788848ec098470e32670fe55a61&pid=51
 #EXTINF:-1 tvg-id="16:00-Masters París 3ª Ronda-T. Fritz-A. Bublik" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:00-Masters París 3ª Ronda-T. Fritz-A. Bublik
-http://192.168.18.170:6878/ace/getstream?id=f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0&pid=60
+http://192.168.18.170:6878/ace/getstream?id=f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0&pid=52
 #EXTINF:-1 tvg-id="16:00-Masters París 3ª Ronda-T. Fritz-A. Bublik" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:00-Masters París 3ª Ronda-T. Fritz-A. Bublik
-http://192.168.18.170:6878/ace/getstream?id=bfa01c11c5c6b7a616a516de4f2c769a89d26b25&pid=61
+http://192.168.18.170:6878/ace/getstream?id=bfa01c11c5c6b7a616a516de4f2c769a89d26b25&pid=53
 #EXTINF:-1 tvg-id="16:00-Masters París 3ª Ronda-T. Fritz-A. Bublik" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:00-Masters París 3ª Ronda-T. Fritz-A. Bublik
-http://192.168.18.170:6878/ace/getstream?id=3afe1af18f8ff78e9946856911b00c67477052b5&pid=62
+http://192.168.18.170:6878/ace/getstream?id=3afe1af18f8ff78e9946856911b00c67477052b5&pid=54
 #EXTINF:-1 tvg-id="16:00-Masters París 3ª Ronda-T. Fritz-A. Bublik" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:00-Masters París 3ª Ronda-T. Fritz-A. Bublik
+http://192.168.18.170:6878/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee&pid=55
+#EXTINF:-1 tvg-id="16:00-Masters París 3ª Ronda-T. Fritz-A. Bublik" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:00-Masters París 3ª Ronda-T. Fritz-A. Bublik
+http://192.168.18.170:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0&pid=56
+#EXTINF:-1 tvg-id="16:00-Masters París 3ª Ronda-T. Fritz-A. Bublik" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:00-Masters París 3ª Ronda-T. Fritz-A. Bublik
+http://192.168.18.170:6878/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7&pid=57
+#EXTINF:-1 tvg-id="16:00-Masters París 3ª Ronda-T. Fritz-A. Bublik" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:00-Masters París 3ª Ronda-T. Fritz-A. Bublik
+http://192.168.18.170:6878/ace/getstream?id=aa31953b8af44b461102852d5b1247eea95b8050&pid=58
+#EXTINF:-1 tvg-id="17:30-Masters París 3ª Ronda-L. Sonego-D. Medvedev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:30-Masters París 3ª Ronda-L. Sonego-D. Medvedev
+http://192.168.18.170:6878/ace/getstream?id=29d786d72d4b53dbc333af3a50f8fb021aa0296f&pid=59
+#EXTINF:-1 tvg-id="17:30-Masters París 3ª Ronda-L. Sonego-D. Medvedev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:30-Masters París 3ª Ronda-L. Sonego-D. Medvedev
+http://192.168.18.170:6878/ace/getstream?id=799c6b5ee1cf41af077d14e3f9c45a32697eb903&pid=60
+#EXTINF:-1 tvg-id="17:30-Masters París 3ª Ronda-L. Sonego-D. Medvedev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:30-Masters París 3ª Ronda-L. Sonego-D. Medvedev
+http://192.168.18.170:6878/ace/getstream?id=2fd410c5d89e7a627cd3785685b7915b8e4bd534&pid=61
+#EXTINF:-1 tvg-id="17:30-Masters París 3ª Ronda-L. Sonego-D. Medvedev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:30-Masters París 3ª Ronda-L. Sonego-D. Medvedev
+http://192.168.18.170:6878/ace/getstream?id=39fefdecfc953dcf6e7c589739bf486c2e605ed0&pid=62
+#EXTINF:-1 tvg-id="17:30-Masters París 3ª Ronda-L. Sonego-D. Medvedev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:30-Masters París 3ª Ronda-L. Sonego-D. Medvedev
 http://192.168.18.170:6878/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee&pid=63
-#EXTINF:-1 tvg-id="16:00-Masters París 3ª Ronda-T. Fritz-A. Bublik" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:00-Masters París 3ª Ronda-T. Fritz-A. Bublik
+#EXTINF:-1 tvg-id="17:30-Masters París 3ª Ronda-L. Sonego-D. Medvedev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:30-Masters París 3ª Ronda-L. Sonego-D. Medvedev
 http://192.168.18.170:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0&pid=64
-#EXTINF:-1 tvg-id="16:00-Masters París 3ª Ronda-T. Fritz-A. Bublik" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:00-Masters París 3ª Ronda-T. Fritz-A. Bublik
+#EXTINF:-1 tvg-id="17:30-Masters París 3ª Ronda-L. Sonego-D. Medvedev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:30-Masters París 3ª Ronda-L. Sonego-D. Medvedev
 http://192.168.18.170:6878/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7&pid=65
-#EXTINF:-1 tvg-id="16:00-Masters París 3ª Ronda-T. Fritz-A. Bublik" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:00-Masters París 3ª Ronda-T. Fritz-A. Bublik
+#EXTINF:-1 tvg-id="17:30-Masters París 3ª Ronda-L. Sonego-D. Medvedev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:30-Masters París 3ª Ronda-L. Sonego-D. Medvedev
 http://192.168.18.170:6878/ace/getstream?id=aa31953b8af44b461102852d5b1247eea95b8050&pid=66
-#EXTINF:-1 tvg-id="16:00-Masters París 3ª Ronda-T. Fritz-A. Bublik" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:00-Masters París 3ª Ronda-T. Fritz-A. Bublik
-http://192.168.18.170:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf&pid=67
-#EXTINF:-1 tvg-id="17:30-Masters París 3ª Ronda-L. Sonego-D. Medvedev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:30-Masters París 3ª Ronda-L. Sonego-D. Medvedev
-http://192.168.18.170:6878/ace/getstream?id=29d786d72d4b53dbc333af3a50f8fb021aa0296f&pid=68
-#EXTINF:-1 tvg-id="17:30-Masters París 3ª Ronda-L. Sonego-D. Medvedev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:30-Masters París 3ª Ronda-L. Sonego-D. Medvedev
-http://192.168.18.170:6878/ace/getstream?id=799c6b5ee1cf41af077d14e3f9c45a32697eb903&pid=69
-#EXTINF:-1 tvg-id="17:30-Masters París 3ª Ronda-L. Sonego-D. Medvedev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:30-Masters París 3ª Ronda-L. Sonego-D. Medvedev
-http://192.168.18.170:6878/ace/getstream?id=2fd410c5d89e7a627cd3785685b7915b8e4bd534&pid=70
-#EXTINF:-1 tvg-id="17:30-Masters París 3ª Ronda-L. Sonego-D. Medvedev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:30-Masters París 3ª Ronda-L. Sonego-D. Medvedev
-http://192.168.18.170:6878/ace/getstream?id=39fefdecfc953dcf6e7c589739bf486c2e605ed0&pid=71
-#EXTINF:-1 tvg-id="17:30-Masters París 3ª Ronda-L. Sonego-D. Medvedev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:30-Masters París 3ª Ronda-L. Sonego-D. Medvedev
-http://192.168.18.170:6878/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee&pid=72
-#EXTINF:-1 tvg-id="17:30-Masters París 3ª Ronda-L. Sonego-D. Medvedev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:30-Masters París 3ª Ronda-L. Sonego-D. Medvedev
-http://192.168.18.170:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0&pid=73
-#EXTINF:-1 tvg-id="17:30-Masters París 3ª Ronda-L. Sonego-D. Medvedev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:30-Masters París 3ª Ronda-L. Sonego-D. Medvedev
-http://192.168.18.170:6878/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7&pid=74
-#EXTINF:-1 tvg-id="17:30-Masters París 3ª Ronda-L. Sonego-D. Medvedev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:30-Masters París 3ª Ronda-L. Sonego-D. Medvedev
-http://192.168.18.170:6878/ace/getstream?id=aa31953b8af44b461102852d5b1247eea95b8050&pid=75
-#EXTINF:-1 tvg-id="17:30-Masters París 3ª Ronda-L. Sonego-D. Medvedev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:30-Masters París 3ª Ronda-L. Sonego-D. Medvedev
-http://192.168.18.170:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf&pid=76
 #EXTINF:-1 tvg-id="19:00-Copa del Rey 1ª Ronda-Orihuela-Levante" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",19:00-Copa del Rey 1ª Ronda-Orihuela-Levante
-http://192.168.18.170:6878/ace/getstream?id=911ad127726234b97658498a8b790fdd7516541d&pid=77
+http://192.168.18.170:6878/ace/getstream?id=911ad127726234b97658498a8b790fdd7516541d&pid=67
 #EXTINF:-1 tvg-id="19:00-Copa del Rey 1ª Ronda-Orihuela-Levante" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",19:00-Copa del Rey 1ª Ronda-Orihuela-Levante
-http://192.168.18.170:6878/ace/getstream?id=51b363b1c4d42724e05240ad068ad219df8042ec&pid=78
+http://192.168.18.170:6878/ace/getstream?id=51b363b1c4d42724e05240ad068ad219df8042ec&pid=68
 #EXTINF:-1 tvg-id="19:00-Copa del Rey 1ª Ronda-Orihuela-Levante" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",19:00-Copa del Rey 1ª Ronda-Orihuela-Levante
-http://192.168.18.170:6878/ace/getstream?id=ad42faa399df66dcd62a1cbc9d1c99ed4512d3b8&pid=79
+http://192.168.18.170:6878/ace/getstream?id=ad42faa399df66dcd62a1cbc9d1c99ed4512d3b8&pid=69
 #EXTINF:-1 tvg-id="19:00-Copa del Rey 1ª Ronda-Orihuela-Levante" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",19:00-Copa del Rey 1ª Ronda-Orihuela-Levante
-http://192.168.18.170:6878/ace/getstream?id=b8eb9c9868d487402569bba2d97a8af113d033fe&pid=80
+http://192.168.18.170:6878/ace/getstream?id=b8eb9c9868d487402569bba2d97a8af113d033fe&pid=70
 #EXTINF:-1 tvg-id="19:00-Copa del Rey 1ª Ronda-Puerto de Vega CF-Celta" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",19:00-Copa del Rey 1ª Ronda-Puerto de Vega CF-Celta
-http://192.168.18.170:6878/ace/getstream?id=d4ff041287a43e3114d411d671c4b4e92e21f33y&pid=81
+http://192.168.18.170:6878/ace/getstream?id=d4ff041287a43e3114d411d671c4b4e92e21f33y&pid=71
 #EXTINF:-1 tvg-id="19:00-Copa del Rey 1ª Ronda-Puerto de Vega CF-Celta" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",19:00-Copa del Rey 1ª Ronda-Puerto de Vega CF-Celta
-http://192.168.18.170:6878/ace/getstream?id=107c3ce5a5d2527c9f06e4eab87477201791f231&pid=82
+http://192.168.18.170:6878/ace/getstream?id=107c3ce5a5d2527c9f06e4eab87477201791f231&pid=72
 #EXTINF:-1 tvg-id="19:00-Copa del Rey 1ª Ronda-Puerto de Vega CF-Celta" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",19:00-Copa del Rey 1ª Ronda-Puerto de Vega CF-Celta
-http://192.168.18.170:6878/ace/getstream?id=d2ddf9802ccfdc456f872eea4d24596880a638a0&pid=83
+http://192.168.18.170:6878/ace/getstream?id=d2ddf9802ccfdc456f872eea4d24596880a638a0&pid=73
 #EXTINF:-1 tvg-id="19:00-Copa del Rey 1ª Ronda-Puerto de Vega CF-Celta" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",19:00-Copa del Rey 1ª Ronda-Puerto de Vega CF-Celta
-http://192.168.18.170:6878/ace/getstream?id=00c9bc9c5d7d87680a5a6bed349edfa775a89947&pid=84
+http://192.168.18.170:6878/ace/getstream?id=00c9bc9c5d7d87680a5a6bed349edfa775a89947&pid=74
 #EXTINF:-1 tvg-id="19:00-Copa del Rey 1ª Ronda-Puerto de Vega CF-Celta" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",19:00-Copa del Rey 1ª Ronda-Puerto de Vega CF-Celta
-http://192.168.18.170:6878/ace/getstream?id=c9321006921967d6258df6945f1d598a5c0cbf1e&pid=85
+http://192.168.18.170:6878/ace/getstream?id=c9321006921967d6258df6945f1d598a5c0cbf1e&pid=75
 #EXTINF:-1 tvg-id="19:00-Copa del Rey 1ª Ronda-Puerto de Vega CF-Celta" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",19:00-Copa del Rey 1ª Ronda-Puerto de Vega CF-Celta
-http://192.168.18.170:6878/ace/getstream?id=4b528d10eaad747ddf52251206177573ee3e9f74&pid=86
+http://192.168.18.170:6878/ace/getstream?id=4b528d10eaad747ddf52251206177573ee3e9f74&pid=76
 #EXTINF:-1 tvg-id="19:00-Copa del Rey 1ª Ronda-Puerto de Vega CF-Celta" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",19:00-Copa del Rey 1ª Ronda-Puerto de Vega CF-Celta
-http://192.168.18.170:6878/ace/getstream?id=14b6cd8769cd485f2cffdca64be9698d9bfeac58&pid=87
+http://192.168.18.170:6878/ace/getstream?id=14b6cd8769cd485f2cffdca64be9698d9bfeac58&pid=77
 #EXTINF:-1 tvg-id="19:00-Copa del Rey 1ª Ronda-Puerto de Vega CF-Celta" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",19:00-Copa del Rey 1ª Ronda-Puerto de Vega CF-Celta
-http://192.168.18.170:6878/ace/getstream?id=31c19ffb3472c289c5bbbbc174449c8ed0d19e38&pid=88
+http://192.168.18.170:6878/ace/getstream?id=31c19ffb3472c289c5bbbbc174449c8ed0d19e38&pid=78
 #EXTINF:-1 tvg-id="19:00-Masters París 3ª Ronda-F. Cerúndolo-J. Sinner" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",19:00-Masters París 3ª Ronda-F. Cerúndolo-J. Sinner
-http://192.168.18.170:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&pid=89
+http://192.168.18.170:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&pid=79
 #EXTINF:-1 tvg-id="19:00-Masters París 3ª Ronda-F. Cerúndolo-J. Sinner" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",19:00-Masters París 3ª Ronda-F. Cerúndolo-J. Sinner
-http://192.168.18.170:6878/ace/getstream?id=6e212a916c83638268047dd2757c95b14f7d25a3&pid=90
+http://192.168.18.170:6878/ace/getstream?id=6e212a916c83638268047dd2757c95b14f7d25a3&pid=80
 #EXTINF:-1 tvg-id="19:00-Masters París 3ª Ronda-F. Cerúndolo-J. Sinner" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",19:00-Masters París 3ª Ronda-F. Cerúndolo-J. Sinner
-http://192.168.18.170:6878/ace/getstream?id=73d38feaa770d788848ec098470e32670fe55a61&pid=91
+http://192.168.18.170:6878/ace/getstream?id=73d38feaa770d788848ec098470e32670fe55a61&pid=81
 #EXTINF:-1 tvg-id="19:00-Masters París 3ª Ronda-F. Cerúndolo-J. Sinner" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",19:00-Masters París 3ª Ronda-F. Cerúndolo-J. Sinner
-http://192.168.18.170:6878/ace/getstream?id=f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0&pid=92
+http://192.168.18.170:6878/ace/getstream?id=f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0&pid=82
 #EXTINF:-1 tvg-id="19:00-Masters París 3ª Ronda-F. Cerúndolo-J. Sinner" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",19:00-Masters París 3ª Ronda-F. Cerúndolo-J. Sinner
-http://192.168.18.170:6878/ace/getstream?id=bfa01c11c5c6b7a616a516de4f2c769a89d26b25&pid=93
+http://192.168.18.170:6878/ace/getstream?id=bfa01c11c5c6b7a616a516de4f2c769a89d26b25&pid=83
 #EXTINF:-1 tvg-id="19:00-Masters París 3ª Ronda-F. Cerúndolo-J. Sinner" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",19:00-Masters París 3ª Ronda-F. Cerúndolo-J. Sinner
-http://192.168.18.170:6878/ace/getstream?id=3afe1af18f8ff78e9946856911b00c67477052b5&pid=94
+http://192.168.18.170:6878/ace/getstream?id=3afe1af18f8ff78e9946856911b00c67477052b5&pid=84
 #EXTINF:-1 tvg-id="19:00-Masters París 3ª Ronda-F. Cerúndolo-J. Sinner" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",19:00-Masters París 3ª Ronda-F. Cerúndolo-J. Sinner
-http://192.168.18.170:6878/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee&pid=95
+http://192.168.18.170:6878/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee&pid=85
 #EXTINF:-1 tvg-id="19:00-Masters París 3ª Ronda-F. Cerúndolo-J. Sinner" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",19:00-Masters París 3ª Ronda-F. Cerúndolo-J. Sinner
-http://192.168.18.170:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0&pid=96
+http://192.168.18.170:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0&pid=86
 #EXTINF:-1 tvg-id="19:00-Masters París 3ª Ronda-F. Cerúndolo-J. Sinner" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",19:00-Masters París 3ª Ronda-F. Cerúndolo-J. Sinner
-http://192.168.18.170:6878/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7&pid=97
+http://192.168.18.170:6878/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7&pid=87
 #EXTINF:-1 tvg-id="19:00-Masters París 3ª Ronda-F. Cerúndolo-J. Sinner" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",19:00-Masters París 3ª Ronda-F. Cerúndolo-J. Sinner
-http://192.168.18.170:6878/ace/getstream?id=aa31953b8af44b461102852d5b1247eea95b8050&pid=98
-#EXTINF:-1 tvg-id="19:00-Masters París 3ª Ronda-F. Cerúndolo-J. Sinner" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",19:00-Masters París 3ª Ronda-F. Cerúndolo-J. Sinner
-http://192.168.18.170:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf&pid=99
+http://192.168.18.170:6878/ace/getstream?id=aa31953b8af44b461102852d5b1247eea95b8050&pid=88
 #EXTINF:-1 tvg-id="20:05-Euroliga Liga Regular-Maccabi Tel Aviv BC-Crvena Zvezda MTS Belgrade" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:05-Euroliga Liga Regular-Maccabi Tel Aviv BC-Crvena Zvezda MTS Belgrade
-http://192.168.18.170:6878/ace/getstream?id=37825883ed185365e3194a79207347f6c7bd5ba5&pid=100
+http://192.168.18.170:6878/ace/getstream?id=37825883ed185365e3194a79207347f6c7bd5ba5&pid=89
 #EXTINF:-1 tvg-id="20:05-Euroliga Liga Regular-Maccabi Tel Aviv BC-Crvena Zvezda MTS Belgrade" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:05-Euroliga Liga Regular-Maccabi Tel Aviv BC-Crvena Zvezda MTS Belgrade
-http://192.168.18.170:6878/ace/getstream?id=b40e1de2dcbd7c665f54877b14c830ed67b32a96&pid=101
+http://192.168.18.170:6878/ace/getstream?id=b40e1de2dcbd7c665f54877b14c830ed67b32a96&pid=90
 #EXTINF:-1 tvg-id="20:05-Euroliga Liga Regular-Maccabi Tel Aviv BC-Crvena Zvezda MTS Belgrade" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:05-Euroliga Liga Regular-Maccabi Tel Aviv BC-Crvena Zvezda MTS Belgrade
-http://192.168.18.170:6878/ace/getstream?id=8b5f9d967384afab226dd759e6e9dfaee9993869&pid=102
+http://192.168.18.170:6878/ace/getstream?id=8b5f9d967384afab226dd759e6e9dfaee9993869&pid=91
 #EXTINF:-1 tvg-id="20:30-Euroliga Liga Regular-AX Olimpia Milano-Paris Basketball" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:30-Euroliga Liga Regular-AX Olimpia Milano-Paris Basketball
-http://192.168.18.170:6878/ace/getstream?id=29d786d72d4b53dbc333af3a50f8fb021aa0296f&pid=103
+http://192.168.18.170:6878/ace/getstream?id=29d786d72d4b53dbc333af3a50f8fb021aa0296f&pid=92
 #EXTINF:-1 tvg-id="20:30-Euroliga Liga Regular-AX Olimpia Milano-Paris Basketball" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:30-Euroliga Liga Regular-AX Olimpia Milano-Paris Basketball
-http://192.168.18.170:6878/ace/getstream?id=799c6b5ee1cf41af077d14e3f9c45a32697eb903&pid=104
+http://192.168.18.170:6878/ace/getstream?id=799c6b5ee1cf41af077d14e3f9c45a32697eb903&pid=93
 #EXTINF:-1 tvg-id="20:30-Euroliga Liga Regular-AX Olimpia Milano-Paris Basketball" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:30-Euroliga Liga Regular-AX Olimpia Milano-Paris Basketball
-http://192.168.18.170:6878/ace/getstream?id=2fd410c5d89e7a627cd3785685b7915b8e4bd534&pid=105
+http://192.168.18.170:6878/ace/getstream?id=2fd410c5d89e7a627cd3785685b7915b8e4bd534&pid=94
 #EXTINF:-1 tvg-id="20:30-Euroliga Liga Regular-AX Olimpia Milano-Paris Basketball" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:30-Euroliga Liga Regular-AX Olimpia Milano-Paris Basketball
-http://192.168.18.170:6878/ace/getstream?id=39fefdecfc953dcf6e7c589739bf486c2e605ed0&pid=106
+http://192.168.18.170:6878/ace/getstream?id=39fefdecfc953dcf6e7c589739bf486c2e605ed0&pid=95
 #EXTINF:-1 tvg-id="20:30-Euroliga Liga Regular-AX Olimpia Milano-Paris Basketball" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:30-Euroliga Liga Regular-AX Olimpia Milano-Paris Basketball
-http://192.168.18.170:6878/ace/getstream?id=6dc4ac4eeae18e9daec433b01db82435cf84c57c&pid=107
+http://192.168.18.170:6878/ace/getstream?id=6dc4ac4eeae18e9daec433b01db82435cf84c57c&pid=96
 #EXTINF:-1 tvg-id="20:30-Euroliga Liga Regular-AX Olimpia Milano-Paris Basketball" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:30-Euroliga Liga Regular-AX Olimpia Milano-Paris Basketball
-http://192.168.18.170:6878/ace/getstream?id=7b361369a40046ad3011086f9d4ae2982fb4d5aa&pid=108
+http://192.168.18.170:6878/ace/getstream?id=7b361369a40046ad3011086f9d4ae2982fb4d5aa&pid=97
 #EXTINF:-1 tvg-id="20:30-Euroliga Liga Regular-AX Olimpia Milano-Paris Basketball" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:30-Euroliga Liga Regular-AX Olimpia Milano-Paris Basketball
-http://192.168.18.170:6878/ace/getstream?id=3230cdca852a10325222e3c546e499e31d547a90&pid=109
+http://192.168.18.170:6878/ace/getstream?id=3230cdca852a10325222e3c546e499e31d547a90&pid=98
 #EXTINF:-1 tvg-id="20:30-Euroliga Liga Regular-Valencia Basket-Dubai Basketball" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:30-Euroliga Liga Regular-Valencia Basket-Dubai Basketball
-http://192.168.18.170:6878/ace/getstream?id=ef9dcc4eaac36a0f608b52a31f8ab237859e071a&pid=110
+http://192.168.18.170:6878/ace/getstream?id=ef9dcc4eaac36a0f608b52a31f8ab237859e071a&pid=99
 #EXTINF:-1 tvg-id="20:30-Euroliga Liga Regular-Valencia Basket-Dubai Basketball" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:30-Euroliga Liga Regular-Valencia Basket-Dubai Basketball
-http://192.168.18.170:6878/ace/getstream?id=5d3f582738467aaf213e408601aca5cc13fa9359&pid=111
+http://192.168.18.170:6878/ace/getstream?id=5d3f582738467aaf213e408601aca5cc13fa9359&pid=100
 #EXTINF:-1 tvg-id="20:30-Euroliga Liga Regular-Valencia Basket-Dubai Basketball" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:30-Euroliga Liga Regular-Valencia Basket-Dubai Basketball
-http://192.168.18.170:6878/ace/getstream?id=3692ea4cdda97eb0062ed5d656ebd61f149ebd0b&pid=112
+http://192.168.18.170:6878/ace/getstream?id=3692ea4cdda97eb0062ed5d656ebd61f149ebd0b&pid=101
 #EXTINF:-1 tvg-id="20:30-Euroliga Liga Regular-Valencia Basket-Dubai Basketball" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:30-Euroliga Liga Regular-Valencia Basket-Dubai Basketball
-http://192.168.18.170:6878/ace/getstream?id=ebca4a63ce3bfda7b272964a1acc5227218184a4&pid=113
+http://192.168.18.170:6878/ace/getstream?id=ebca4a63ce3bfda7b272964a1acc5227218184a4&pid=102
 #EXTINF:-1 tvg-id="20:30-Euroliga Liga Regular-Valencia Basket-Dubai Basketball" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:30-Euroliga Liga Regular-Valencia Basket-Dubai Basketball
-http://192.168.18.170:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3&pid=114
+http://192.168.18.170:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3&pid=103
 #EXTINF:-1 tvg-id="20:30-Euroliga Liga Regular-FC Bayern Basketball-Virtus Bologna" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:30-Euroliga Liga Regular-FC Bayern Basketball-Virtus Bologna
-http://192.168.18.170:6878/ace/getstream?id=6dc4ac4eeae18e9daec433b01db82435cf84c57c&pid=115
+http://192.168.18.170:6878/ace/getstream?id=6dc4ac4eeae18e9daec433b01db82435cf84c57c&pid=104
 #EXTINF:-1 tvg-id="20:30-Euroliga Liga Regular-FC Bayern Basketball-Virtus Bologna" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:30-Euroliga Liga Regular-FC Bayern Basketball-Virtus Bologna
-http://192.168.18.170:6878/ace/getstream?id=7b361369a40046ad3011086f9d4ae2982fb4d5aa&pid=116
+http://192.168.18.170:6878/ace/getstream?id=7b361369a40046ad3011086f9d4ae2982fb4d5aa&pid=105
 #EXTINF:-1 tvg-id="20:30-Euroliga Liga Regular-FC Bayern Basketball-Virtus Bologna" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:30-Euroliga Liga Regular-FC Bayern Basketball-Virtus Bologna
-http://192.168.18.170:6878/ace/getstream?id=3230cdca852a10325222e3c546e499e31d547a90&pid=117
+http://192.168.18.170:6878/ace/getstream?id=3230cdca852a10325222e3c546e499e31d547a90&pid=106
 #EXTINF:-1 tvg-id="20:30-Masters París 3ª Ronda-A. Davidovich-A. Zverev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:30-Masters París 3ª Ronda-A. Davidovich-A. Zverev
-http://192.168.18.170:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&pid=118
+http://192.168.18.170:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&pid=107
 #EXTINF:-1 tvg-id="20:30-Masters París 3ª Ronda-A. Davidovich-A. Zverev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:30-Masters París 3ª Ronda-A. Davidovich-A. Zverev
-http://192.168.18.170:6878/ace/getstream?id=6e212a916c83638268047dd2757c95b14f7d25a3&pid=119
+http://192.168.18.170:6878/ace/getstream?id=6e212a916c83638268047dd2757c95b14f7d25a3&pid=108
 #EXTINF:-1 tvg-id="20:30-Masters París 3ª Ronda-A. Davidovich-A. Zverev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:30-Masters París 3ª Ronda-A. Davidovich-A. Zverev
-http://192.168.18.170:6878/ace/getstream?id=73d38feaa770d788848ec098470e32670fe55a61&pid=120
+http://192.168.18.170:6878/ace/getstream?id=73d38feaa770d788848ec098470e32670fe55a61&pid=109
 #EXTINF:-1 tvg-id="20:30-Masters París 3ª Ronda-A. Davidovich-A. Zverev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:30-Masters París 3ª Ronda-A. Davidovich-A. Zverev
-http://192.168.18.170:6878/ace/getstream?id=f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0&pid=121
+http://192.168.18.170:6878/ace/getstream?id=f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0&pid=110
 #EXTINF:-1 tvg-id="20:30-Masters París 3ª Ronda-A. Davidovich-A. Zverev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:30-Masters París 3ª Ronda-A. Davidovich-A. Zverev
-http://192.168.18.170:6878/ace/getstream?id=bfa01c11c5c6b7a616a516de4f2c769a89d26b25&pid=122
+http://192.168.18.170:6878/ace/getstream?id=bfa01c11c5c6b7a616a516de4f2c769a89d26b25&pid=111
 #EXTINF:-1 tvg-id="20:30-Masters París 3ª Ronda-A. Davidovich-A. Zverev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:30-Masters París 3ª Ronda-A. Davidovich-A. Zverev
-http://192.168.18.170:6878/ace/getstream?id=3afe1af18f8ff78e9946856911b00c67477052b5&pid=123
+http://192.168.18.170:6878/ace/getstream?id=3afe1af18f8ff78e9946856911b00c67477052b5&pid=112
 #EXTINF:-1 tvg-id="20:30-Masters París 3ª Ronda-A. Davidovich-A. Zverev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:30-Masters París 3ª Ronda-A. Davidovich-A. Zverev
-http://192.168.18.170:6878/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee&pid=124
+http://192.168.18.170:6878/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee&pid=113
 #EXTINF:-1 tvg-id="20:30-Masters París 3ª Ronda-A. Davidovich-A. Zverev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:30-Masters París 3ª Ronda-A. Davidovich-A. Zverev
-http://192.168.18.170:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0&pid=125
+http://192.168.18.170:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0&pid=114
 #EXTINF:-1 tvg-id="20:30-Masters París 3ª Ronda-A. Davidovich-A. Zverev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:30-Masters París 3ª Ronda-A. Davidovich-A. Zverev
-http://192.168.18.170:6878/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7&pid=126
+http://192.168.18.170:6878/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7&pid=115
 #EXTINF:-1 tvg-id="20:30-Masters París 3ª Ronda-A. Davidovich-A. Zverev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:30-Masters París 3ª Ronda-A. Davidovich-A. Zverev
-http://192.168.18.170:6878/ace/getstream?id=aa31953b8af44b461102852d5b1247eea95b8050&pid=127
-#EXTINF:-1 tvg-id="20:30-Masters París 3ª Ronda-A. Davidovich-A. Zverev" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:30-Masters París 3ª Ronda-A. Davidovich-A. Zverev
-http://192.168.18.170:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf&pid=128
+http://192.168.18.170:6878/ace/getstream?id=aa31953b8af44b461102852d5b1247eea95b8050&pid=116
 #EXTINF:-1 tvg-id="21:00-Copa del Rey 1ª Ronda-Palma del Río CF-Real Betis" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Copa del Rey 1ª Ronda-Palma del Río CF-Real Betis
-http://192.168.18.170:6878/ace/getstream?id=8c67cdb5ba81976662c3a67984a9545d9cfb0f70&pid=129
+http://192.168.18.170:6878/ace/getstream?id=8c67cdb5ba81976662c3a67984a9545d9cfb0f70&pid=117
 #EXTINF:-1 tvg-id="21:00-Copa del Rey 1ª Ronda-Palma del Río CF-Real Betis" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Copa del Rey 1ª Ronda-Palma del Río CF-Real Betis
-http://192.168.18.170:6878/ace/getstream?id=b6ffbbc72a5b6b579faf79ebac229af7a25b933b&pid=130
+http://192.168.18.170:6878/ace/getstream?id=b6ffbbc72a5b6b579faf79ebac229af7a25b933b&pid=118
 #EXTINF:-1 tvg-id="21:00-Copa del Rey 1ª Ronda-Palma del Río CF-Real Betis" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Copa del Rey 1ª Ronda-Palma del Río CF-Real Betis
-http://192.168.18.170:6878/ace/getstream?id=199190e3f28c1de0be34bccf0d3568dc65209b99&pid=131
+http://192.168.18.170:6878/ace/getstream?id=199190e3f28c1de0be34bccf0d3568dc65209b99&pid=119
 #EXTINF:-1 tvg-id="21:00-Copa del Rey 1ª Ronda-Palma del Río CF-Real Betis" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Copa del Rey 1ª Ronda-Palma del Río CF-Real Betis
-http://192.168.18.170:6878/ace/getstream?id=5866e83279307bf919068ae7a0d250e4e424e464&pid=132
+http://192.168.18.170:6878/ace/getstream?id=5866e83279307bf919068ae7a0d250e4e424e464&pid=120
 #EXTINF:-1 tvg-id="21:00-Copa del Rey 1ª Ronda-Palma del Río CF-Real Betis" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Copa del Rey 1ª Ronda-Palma del Río CF-Real Betis
-http://192.168.18.170:6878/ace/getstream?id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78&pid=133
+http://192.168.18.170:6878/ace/getstream?id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78&pid=121
 #EXTINF:-1 tvg-id="21:00-Copa del Rey 1ª Ronda-Atlètic Lleida-Espanyol" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Copa del Rey 1ª Ronda-Atlètic Lleida-Espanyol
-http://192.168.18.170:6878/ace/getstream?id=d4ff041287a43e3114d411d671c4b4e92e21f33y&pid=134
+http://192.168.18.170:6878/ace/getstream?id=d4ff041287a43e3114d411d671c4b4e92e21f33y&pid=122
 #EXTINF:-1 tvg-id="21:00-Copa del Rey 1ª Ronda-Atlètic Lleida-Espanyol" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Copa del Rey 1ª Ronda-Atlètic Lleida-Espanyol
-http://192.168.18.170:6878/ace/getstream?id=107c3ce5a5d2527c9f06e4eab87477201791f231&pid=135
+http://192.168.18.170:6878/ace/getstream?id=107c3ce5a5d2527c9f06e4eab87477201791f231&pid=123
 #EXTINF:-1 tvg-id="21:00-Copa del Rey 1ª Ronda-Atlètic Lleida-Espanyol" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Copa del Rey 1ª Ronda-Atlètic Lleida-Espanyol
-http://192.168.18.170:6878/ace/getstream?id=d2ddf9802ccfdc456f872eea4d24596880a638a0&pid=136
+http://192.168.18.170:6878/ace/getstream?id=d2ddf9802ccfdc456f872eea4d24596880a638a0&pid=124
 #EXTINF:-1 tvg-id="21:00-Copa del Rey 1ª Ronda-Atlètic Lleida-Espanyol" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Copa del Rey 1ª Ronda-Atlètic Lleida-Espanyol
-http://192.168.18.170:6878/ace/getstream?id=00c9bc9c5d7d87680a5a6bed349edfa775a89947&pid=137
+http://192.168.18.170:6878/ace/getstream?id=00c9bc9c5d7d87680a5a6bed349edfa775a89947&pid=125
 #EXTINF:-1 tvg-id="21:00-Copa del Rey 1ª Ronda-Atlètic Lleida-Espanyol" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Copa del Rey 1ª Ronda-Atlètic Lleida-Espanyol
-http://192.168.18.170:6878/ace/getstream?id=c9321006921967d6258df6945f1d598a5c0cbf1e&pid=138
+http://192.168.18.170:6878/ace/getstream?id=c9321006921967d6258df6945f1d598a5c0cbf1e&pid=126
 #EXTINF:-1 tvg-id="21:00-Copa del Rey 1ª Ronda-Atlètic Lleida-Espanyol" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Copa del Rey 1ª Ronda-Atlètic Lleida-Espanyol
-http://192.168.18.170:6878/ace/getstream?id=4b528d10eaad747ddf52251206177573ee3e9f74&pid=139
+http://192.168.18.170:6878/ace/getstream?id=4b528d10eaad747ddf52251206177573ee3e9f74&pid=127
 #EXTINF:-1 tvg-id="21:00-Copa del Rey 1ª Ronda-Atlètic Lleida-Espanyol" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Copa del Rey 1ª Ronda-Atlètic Lleida-Espanyol
-http://192.168.18.170:6878/ace/getstream?id=14b6cd8769cd485f2cffdca64be9698d9bfeac58&pid=140
+http://192.168.18.170:6878/ace/getstream?id=14b6cd8769cd485f2cffdca64be9698d9bfeac58&pid=128
 #EXTINF:-1 tvg-id="21:00-Copa del Rey 1ª Ronda-Atlètic Lleida-Espanyol" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Copa del Rey 1ª Ronda-Atlètic Lleida-Espanyol
-http://192.168.18.170:6878/ace/getstream?id=31c19ffb3472c289c5bbbbc174449c8ed0d19e38&pid=141
+http://192.168.18.170:6878/ace/getstream?id=31c19ffb3472c289c5bbbbc174449c8ed0d19e38&pid=129
 #EXTINF:-1 tvg-id="21:00-Copa del Rey 1ª Ronda-Atlètic Lleida-Espanyol" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Copa del Rey 1ª Ronda-Atlètic Lleida-Espanyol
-http://192.168.18.170:6878/ace/getstream?id=c16b4fab1f724c94cad92081cbb7fc7c6fe8a2cc&pid=142
+http://192.168.18.170:6878/ace/getstream?id=c16b4fab1f724c94cad92081cbb7fc7c6fe8a2cc&pid=130
 #EXTINF:-1 tvg-id="21:00-Copa del Rey 1ª Ronda-Atlètic Lleida-Espanyol" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Copa del Rey 1ª Ronda-Atlètic Lleida-Espanyol
-http://192.168.18.170:6878/ace/getstream?id=afbf1ef8812e7b0a0977fa3a0a2d3a6d3cbd6c6f&pid=143
+http://192.168.18.170:6878/ace/getstream?id=afbf1ef8812e7b0a0977fa3a0a2d3a6d3cbd6c6f&pid=131
 #EXTINF:-1 tvg-id="21:00-Copa del Rey 1ª Ronda-Atlètic Lleida-Espanyol" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Copa del Rey 1ª Ronda-Atlètic Lleida-Espanyol
-http://192.168.18.170:6878/ace/getstream?id=0f7842f8b6c26571e5a974407b61623e56e6a052&pid=144
+http://192.168.18.170:6878/ace/getstream?id=0f7842f8b6c26571e5a974407b61623e56e6a052&pid=132
 #EXTINF:-1 tvg-id="21:00-Copa del Rey 1ª Ronda-Atlètic Lleida-Espanyol" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Copa del Rey 1ª Ronda-Atlètic Lleida-Espanyol
-http://192.168.18.170:6878/ace/getstream?id=f3eea003e23f94dc2d527306de9dd386e3ebf4ba&pid=145
+http://192.168.18.170:6878/ace/getstream?id=f3eea003e23f94dc2d527306de9dd386e3ebf4ba&pid=133
 #EXTINF:-1 tvg-id="21:00-Copa del Rey 1ª Ronda-Atlètic Lleida-Espanyol" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Copa del Rey 1ª Ronda-Atlètic Lleida-Espanyol
-http://192.168.18.170:6878/ace/getstream?id=97df5b7824948972d041d8ca2a4d29c90b641bc9&pid=146
+http://192.168.18.170:6878/ace/getstream?id=97df5b7824948972d041d8ca2a4d29c90b641bc9&pid=134
 #EXTINF:-1 tvg-id="21:00-Copa del Rey 1ª Ronda-Atlètic Lleida-Espanyol" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Copa del Rey 1ª Ronda-Atlètic Lleida-Espanyol
-http://192.168.18.170:6878/ace/getstream?id=2b51710cee513e8939785fa3e7980f32d4e0415f&pid=147
+http://192.168.18.170:6878/ace/getstream?id=2b51710cee513e8939785fa3e7980f32d4e0415f&pid=135
 #EXTINF:-1 tvg-id="21:00-Copa del Rey 1ª Ronda-Atlètic Lleida-Espanyol" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Copa del Rey 1ª Ronda-Atlètic Lleida-Espanyol
-http://192.168.18.170:6878/ace/getstream?id=9db029dff6a9c637d1f670e78dbc1a479b9b406e&pid=148
+http://192.168.18.170:6878/ace/getstream?id=9db029dff6a9c637d1f670e78dbc1a479b9b406e&pid=136
 #EXTINF:-1 tvg-id="21:00-Copa del Rey 1ª Ronda-Atlètic Lleida-Espanyol" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Copa del Rey 1ª Ronda-Atlètic Lleida-Espanyol
-http://192.168.18.170:6878/ace/getstream?id=e572a5178ff72eed7d1d751a18b4b3419699f370&pid=149
+http://192.168.18.170:6878/ace/getstream?id=e572a5178ff72eed7d1d751a18b4b3419699f370&pid=137
 #EXTINF:-1 tvg-id="21:00-Euroliga Liga Regular-Real Madrid Baloncesto-Fenerbahce Istanbul" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",21:00-Euroliga Liga Regular-Real Madrid Baloncesto-Fenerbahce Istanbul
-http://192.168.18.170:6878/ace/getstream?id=8c67cdb5ba81976662c3a67984a9545d9cfb0f70&pid=150
+http://192.168.18.170:6878/ace/getstream?id=8c67cdb5ba81976662c3a67984a9545d9cfb0f70&pid=138
 #EXTINF:-1 tvg-id="21:00-Euroliga Liga Regular-Real Madrid Baloncesto-Fenerbahce Istanbul" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",21:00-Euroliga Liga Regular-Real Madrid Baloncesto-Fenerbahce Istanbul
-http://192.168.18.170:6878/ace/getstream?id=b6ffbbc72a5b6b579faf79ebac229af7a25b933b&pid=151
+http://192.168.18.170:6878/ace/getstream?id=b6ffbbc72a5b6b579faf79ebac229af7a25b933b&pid=139
 #EXTINF:-1 tvg-id="21:00-Euroliga Liga Regular-Real Madrid Baloncesto-Fenerbahce Istanbul" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",21:00-Euroliga Liga Regular-Real Madrid Baloncesto-Fenerbahce Istanbul
-http://192.168.18.170:6878/ace/getstream?id=199190e3f28c1de0be34bccf0d3568dc65209b99&pid=152
+http://192.168.18.170:6878/ace/getstream?id=199190e3f28c1de0be34bccf0d3568dc65209b99&pid=140
 #EXTINF:-1 tvg-id="21:00-Euroliga Liga Regular-Real Madrid Baloncesto-Fenerbahce Istanbul" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",21:00-Euroliga Liga Regular-Real Madrid Baloncesto-Fenerbahce Istanbul
-http://192.168.18.170:6878/ace/getstream?id=5866e83279307bf919068ae7a0d250e4e424e464&pid=153
+http://192.168.18.170:6878/ace/getstream?id=5866e83279307bf919068ae7a0d250e4e424e464&pid=141
 #EXTINF:-1 tvg-id="21:00-Euroliga Liga Regular-Real Madrid Baloncesto-Fenerbahce Istanbul" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",21:00-Euroliga Liga Regular-Real Madrid Baloncesto-Fenerbahce Istanbul
-http://192.168.18.170:6878/ace/getstream?id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78&pid=154
+http://192.168.18.170:6878/ace/getstream?id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78&pid=142
 #EXTINF:-1 tvg-id="21:00-Euroliga Liga Regular-Real Madrid Baloncesto-Fenerbahce Istanbul" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",21:00-Euroliga Liga Regular-Real Madrid Baloncesto-Fenerbahce Istanbul
-http://192.168.18.170:6878/ace/getstream?id=3b2a8b41e7097c16b0468b42d7de0320886fa933&pid=155
+http://192.168.18.170:6878/ace/getstream?id=3b2a8b41e7097c16b0468b42d7de0320886fa933&pid=143
 #EXTINF:-1 tvg-id="21:00-Euroliga Liga Regular-Real Madrid Baloncesto-Fenerbahce Istanbul" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",21:00-Euroliga Liga Regular-Real Madrid Baloncesto-Fenerbahce Istanbul
-http://192.168.18.170:6878/ace/getstream?id=2940120bf034db79a7f5849846ccea0255172eae&pid=156
+http://192.168.18.170:6878/ace/getstream?id=2940120bf034db79a7f5849846ccea0255172eae&pid=144
 #EXTINF:-1 tvg-id="21:00-Euroliga Liga Regular-Real Madrid Baloncesto-Fenerbahce Istanbul" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",21:00-Euroliga Liga Regular-Real Madrid Baloncesto-Fenerbahce Istanbul
-http://192.168.18.170:6878/ace/getstream?id=651d6be899d1fafa107a265a9dc00ff914c1b548&pid=157
+http://192.168.18.170:6878/ace/getstream?id=651d6be899d1fafa107a265a9dc00ff914c1b548&pid=145
 #EXTINF:-1 tvg-id="21:00-Euroliga Liga Regular-Real Madrid Baloncesto-Fenerbahce Istanbul" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",21:00-Euroliga Liga Regular-Real Madrid Baloncesto-Fenerbahce Istanbul
-http://192.168.18.170:6878/ace/getstream?id=4e99e755aa32c4bc043a4bb1cd1de35f9bd94dde&pid=158
+http://192.168.18.170:6878/ace/getstream?id=4e99e755aa32c4bc043a4bb1cd1de35f9bd94dde&pid=146
 #EXTINF:-1 tvg-id="21:00-Euroliga Liga Regular-Real Madrid Baloncesto-Fenerbahce Istanbul" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",21:00-Euroliga Liga Regular-Real Madrid Baloncesto-Fenerbahce Istanbul
-http://192.168.18.170:6878/ace/getstream?id=c7c81acdd1a03ecc418c94c2f28e2adb0556c40b&pid=159
+http://192.168.18.170:6878/ace/getstream?id=c7c81acdd1a03ecc418c94c2f28e2adb0556c40b&pid=147
 #EXTINF:-1 tvg-id="21:00-Euroliga Liga Regular-Real Madrid Baloncesto-Fenerbahce Istanbul" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",21:00-Euroliga Liga Regular-Real Madrid Baloncesto-Fenerbahce Istanbul
-http://192.168.18.170:6878/ace/getstream?id=0e5d8c9724fa9163f49096b70484e315251eb785&pid=160
+http://192.168.18.170:6878/ace/getstream?id=0e5d8c9724fa9163f49096b70484e315251eb785&pid=148
