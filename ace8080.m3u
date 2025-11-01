@@ -597,6 +597,8 @@ pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=f5d3ea421c4
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=41ac7892b8fde95d5110d83d7324044145c7f86a
 #EXTINF:-1 tvg-id="ServusTV GER" group-title="Antigua",ServusTV GER
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=988f4d88d74ec0d2b3584f6c7e067fcbdb501115
+#EXTINF:-1 tvg-id="MOTORVISION.TV" group-title="New Loop",MOTORVISION.TV
+pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=9c75e6ed0671eec6670cb2eabcc7d78267c7f404
 #EXTINF:-1 tvg-id="MOTORVISION.TV" group-title="Antigua",MOTORVISION.TV
 pipe:///config/iptv_ffmpeg.sh http://127.0.0.1:8080/ace/getstream?id=acd7e3ae185a376e6596e60a414bebbf3321b37f
 #EXTINF:-1 tvg-id="Magenta Sport 1" group-title="Desconocido",Magenta Sport 1
