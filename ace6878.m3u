@@ -135,6 +135,8 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=51b363b1c4d42724e05240ad068ad219df804
 http://127.0.0.1:6878/ace/manifest.m3u8?id=ad42faa399df66dcd62a1cbc9d1c99ed4512d3b8
 #EXTINF:-1 tvg-id="DAZN LaLiga 2" group-title="New Era",DAZN LaLiga 2
 http://127.0.0.1:6878/ace/manifest.m3u8?id=5091ea94b75ba4b50b078b4102a3d0e158ef59c3
+#EXTINF:-1 tvg-id="DAZN LaLiga 2" group-title="New Loop",DAZN LaLiga 2
+http://127.0.0.1:6878/ace/manifest.m3u8?id=bf95bbb0de43953a783163201f236f59fcfb1529
 #EXTINF:-1 tvg-id="DAZN LaLiga 2" group-title="Elcano",DAZN LaLiga 2
 http://127.0.0.1:6878/ace/manifest.m3u8?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="DAZN LaLiga 2" group-title="Elcano",DAZN LaLiga 2
