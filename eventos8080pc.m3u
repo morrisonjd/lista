@@ -140,6 +140,8 @@ http://192.168.18.75:8080/ace/getstream?id=4b528d10eaad747ddf52251206177573ee3e9
 #EXTINF:-1 tvg-id="16:15-Primera-Alavés-Espanyol" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",16:15-Primera-Alavés-Espanyol
 http://192.168.18.75:8080/ace/getstream?id=14b6cd8769cd485f2cffdca64be9698d9bfeac58
 #EXTINF:-1 tvg-id="16:15-Primera-Alavés-Espanyol" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",16:15-Primera-Alavés-Espanyol
+http://192.168.18.75:8080/ace/getstream?id=cc9b7f5fe416069a2110da0909b0f915043c468b
+#EXTINF:-1 tvg-id="16:15-Primera-Alavés-Espanyol" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",16:15-Primera-Alavés-Espanyol
 http://192.168.18.75:8080/ace/getstream?id=31c19ffb3472c289c5bbbbc174449c8ed0d19e38
 #EXTINF:-1 tvg-id="16:15-Segunda-Córdoba-AD Ceuta" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",16:15-Segunda-Córdoba-AD Ceuta
 http://192.168.18.75:8080/ace/getstream?id=8a05571c0c8fe53f160fb7d116cdf97243679e86
@@ -291,6 +293,8 @@ http://192.168.18.75:8080/ace/getstream?id=c9321006921967d6258df6945f1d598a5c0cb
 http://192.168.18.75:8080/ace/getstream?id=4b528d10eaad747ddf52251206177573ee3e9f74
 #EXTINF:-1 tvg-id="21:00-Primera-Real Betis-Mallorca" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera-Real Betis-Mallorca
 http://192.168.18.75:8080/ace/getstream?id=14b6cd8769cd485f2cffdca64be9698d9bfeac58
+#EXTINF:-1 tvg-id="21:00-Primera-Real Betis-Mallorca" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera-Real Betis-Mallorca
+http://192.168.18.75:8080/ace/getstream?id=cc9b7f5fe416069a2110da0909b0f915043c468b
 #EXTINF:-1 tvg-id="21:00-Primera-Real Betis-Mallorca" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera-Real Betis-Mallorca
 http://192.168.18.75:8080/ace/getstream?id=31c19ffb3472c289c5bbbbc174449c8ed0d19e38
 #EXTINF:-1 tvg-id="21:00-Segunda-Real Zaragoza-Deportivo" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Segunda-Real Zaragoza-Deportivo
