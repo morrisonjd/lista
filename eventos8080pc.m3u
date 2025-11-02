@@ -19,8 +19,6 @@ http://192.168.18.75:8080/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f2
 http://192.168.18.75:8080/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7
 #EXTINF:-1 tvg-id="09:00-WTA Torneo de Hong Kong Final 250-C. Bucsa-V. Mboko" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",09:00-WTA Torneo de Hong Kong Final 250-C. Bucsa-V. Mboko
 http://192.168.18.75:8080/ace/getstream?id=aa31953b8af44b461102852d5b1247eea95b8050
-#EXTINF:-1 tvg-id="09:00-WTA Torneo de Hong Kong Final 250-C. Bucsa-V. Mboko" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",09:00-WTA Torneo de Hong Kong Final 250-C. Bucsa-V. Mboko
-http://192.168.18.75:8080/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="11:00-Liga Femenina Endesa Regular-Ensino Lugo-Perfumerías Avenida" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",11:00-Liga Femenina Endesa Regular-Ensino Lugo-Perfumerías Avenida
 http://192.168.18.75:8080/ace/getstream?id=2d997da301573c5aba78f969d0d37eb6107941b2
 #EXTINF:-1 tvg-id="11:00-Liga Femenina Endesa Regular-Ensino Lugo-Perfumerías Avenida" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",11:00-Liga Femenina Endesa Regular-Ensino Lugo-Perfumerías Avenida
@@ -81,8 +79,6 @@ http://192.168.18.75:8080/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f2
 http://192.168.18.75:8080/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7
 #EXTINF:-1 tvg-id="15:00-WTA Finals Round Robin-A. Sabalenka-J. Paolini" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:00-WTA Finals Round Robin-A. Sabalenka-J. Paolini
 http://192.168.18.75:8080/ace/getstream?id=aa31953b8af44b461102852d5b1247eea95b8050
-#EXTINF:-1 tvg-id="15:00-WTA Finals Round Robin-A. Sabalenka-J. Paolini" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:00-WTA Finals Round Robin-A. Sabalenka-J. Paolini
-http://192.168.18.75:8080/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="15:00-Masters París Final ATP 1000-F. Auger-Aliassime-J. Sinner" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:00-Masters París Final ATP 1000-F. Auger-Aliassime-J. Sinner
 http://192.168.18.75:8080/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c
 #EXTINF:-1 tvg-id="15:00-Masters París Final ATP 1000-F. Auger-Aliassime-J. Sinner" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:00-Masters París Final ATP 1000-F. Auger-Aliassime-J. Sinner
@@ -113,18 +109,14 @@ http://192.168.18.75:8080/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f2
 http://192.168.18.75:8080/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7
 #EXTINF:-1 tvg-id="15:00-Masters París Final ATP 1000-F. Auger-Aliassime-J. Sinner" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:00-Masters París Final ATP 1000-F. Auger-Aliassime-J. Sinner
 http://192.168.18.75:8080/ace/getstream?id=aa31953b8af44b461102852d5b1247eea95b8050
-#EXTINF:-1 tvg-id="15:00-Masters París Final ATP 1000-F. Auger-Aliassime-J. Sinner" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:00-Masters París Final ATP 1000-F. Auger-Aliassime-J. Sinner
-http://192.168.18.75:8080/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
-#EXTINF:-1 tvg-id="15:00-Torneo de Metz 1ª Ronda-A. Cazaux-A. Mannarino" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:00-Torneo de Metz 1ª Ronda-A. Cazaux-A. Mannarino
+#EXTINF:-1 tvg-id="15:10-Torneo de Metz 1ª Ronda-A. Cazaux-A. Mannarino" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:10-Torneo de Metz 1ª Ronda-A. Cazaux-A. Mannarino
 http://192.168.18.75:8080/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee
-#EXTINF:-1 tvg-id="15:00-Torneo de Metz 1ª Ronda-A. Cazaux-A. Mannarino" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:00-Torneo de Metz 1ª Ronda-A. Cazaux-A. Mannarino
+#EXTINF:-1 tvg-id="15:10-Torneo de Metz 1ª Ronda-A. Cazaux-A. Mannarino" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:10-Torneo de Metz 1ª Ronda-A. Cazaux-A. Mannarino
 http://192.168.18.75:8080/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0
-#EXTINF:-1 tvg-id="15:00-Torneo de Metz 1ª Ronda-A. Cazaux-A. Mannarino" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:00-Torneo de Metz 1ª Ronda-A. Cazaux-A. Mannarino
+#EXTINF:-1 tvg-id="15:10-Torneo de Metz 1ª Ronda-A. Cazaux-A. Mannarino" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:10-Torneo de Metz 1ª Ronda-A. Cazaux-A. Mannarino
 http://192.168.18.75:8080/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7
-#EXTINF:-1 tvg-id="15:00-Torneo de Metz 1ª Ronda-A. Cazaux-A. Mannarino" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:00-Torneo de Metz 1ª Ronda-A. Cazaux-A. Mannarino
+#EXTINF:-1 tvg-id="15:10-Torneo de Metz 1ª Ronda-A. Cazaux-A. Mannarino" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:10-Torneo de Metz 1ª Ronda-A. Cazaux-A. Mannarino
 http://192.168.18.75:8080/ace/getstream?id=aa31953b8af44b461102852d5b1247eea95b8050
-#EXTINF:-1 tvg-id="15:00-Torneo de Metz 1ª Ronda-A. Cazaux-A. Mannarino" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:00-Torneo de Metz 1ª Ronda-A. Cazaux-A. Mannarino
-http://192.168.18.75:8080/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="16:15-Primera-Alavés-Espanyol" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",16:15-Primera-Alavés-Espanyol
 http://192.168.18.75:8080/ace/getstream?id=d4ff041287a43e3114d411d671c4b4e92e21f33y
 #EXTINF:-1 tvg-id="16:15-Primera-Alavés-Espanyol" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",16:15-Primera-Alavés-Espanyol
@@ -163,28 +155,22 @@ http://192.168.18.75:8080/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f2
 http://192.168.18.75:8080/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7
 #EXTINF:-1 tvg-id="16:30-WTA Finals Round Robin-C. Gauff-J. Pegula" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:30-WTA Finals Round Robin-C. Gauff-J. Pegula
 http://192.168.18.75:8080/ace/getstream?id=aa31953b8af44b461102852d5b1247eea95b8050
-#EXTINF:-1 tvg-id="16:30-WTA Finals Round Robin-C. Gauff-J. Pegula" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:30-WTA Finals Round Robin-C. Gauff-J. Pegula
-http://192.168.18.75:8080/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
-#EXTINF:-1 tvg-id="16:30-Torneo de Metz 1ª Ronda-T. Atmane-H. Gaston" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:30-Torneo de Metz 1ª Ronda-T. Atmane-H. Gaston
+#EXTINF:-1 tvg-id="17:10-Torneo de Atenas 1ª Ronda-S. Sakellaridis-N. Borges" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:10-Torneo de Atenas 1ª Ronda-S. Sakellaridis-N. Borges
 http://192.168.18.75:8080/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee
-#EXTINF:-1 tvg-id="16:30-Torneo de Metz 1ª Ronda-T. Atmane-H. Gaston" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:30-Torneo de Metz 1ª Ronda-T. Atmane-H. Gaston
+#EXTINF:-1 tvg-id="17:10-Torneo de Atenas 1ª Ronda-S. Sakellaridis-N. Borges" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:10-Torneo de Atenas 1ª Ronda-S. Sakellaridis-N. Borges
 http://192.168.18.75:8080/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0
-#EXTINF:-1 tvg-id="16:30-Torneo de Metz 1ª Ronda-T. Atmane-H. Gaston" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:30-Torneo de Metz 1ª Ronda-T. Atmane-H. Gaston
+#EXTINF:-1 tvg-id="17:10-Torneo de Atenas 1ª Ronda-S. Sakellaridis-N. Borges" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:10-Torneo de Atenas 1ª Ronda-S. Sakellaridis-N. Borges
 http://192.168.18.75:8080/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7
-#EXTINF:-1 tvg-id="16:30-Torneo de Metz 1ª Ronda-T. Atmane-H. Gaston" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:30-Torneo de Metz 1ª Ronda-T. Atmane-H. Gaston
+#EXTINF:-1 tvg-id="17:10-Torneo de Atenas 1ª Ronda-S. Sakellaridis-N. Borges" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:10-Torneo de Atenas 1ª Ronda-S. Sakellaridis-N. Borges
 http://192.168.18.75:8080/ace/getstream?id=aa31953b8af44b461102852d5b1247eea95b8050
-#EXTINF:-1 tvg-id="16:30-Torneo de Metz 1ª Ronda-T. Atmane-H. Gaston" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:30-Torneo de Metz 1ª Ronda-T. Atmane-H. Gaston
-http://192.168.18.75:8080/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
-#EXTINF:-1 tvg-id="17:00-Torneo de Atenas 1ª Ronda-S. Sakellaridis-N. Borges" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:00-Torneo de Atenas 1ª Ronda-S. Sakellaridis-N. Borges
+#EXTINF:-1 tvg-id="17:15-Torneo de Metz 1ª Ronda-T. Atmane-H. Gaston" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:15-Torneo de Metz 1ª Ronda-T. Atmane-H. Gaston
 http://192.168.18.75:8080/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee
-#EXTINF:-1 tvg-id="17:00-Torneo de Atenas 1ª Ronda-S. Sakellaridis-N. Borges" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:00-Torneo de Atenas 1ª Ronda-S. Sakellaridis-N. Borges
+#EXTINF:-1 tvg-id="17:15-Torneo de Metz 1ª Ronda-T. Atmane-H. Gaston" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:15-Torneo de Metz 1ª Ronda-T. Atmane-H. Gaston
 http://192.168.18.75:8080/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0
-#EXTINF:-1 tvg-id="17:00-Torneo de Atenas 1ª Ronda-S. Sakellaridis-N. Borges" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:00-Torneo de Atenas 1ª Ronda-S. Sakellaridis-N. Borges
+#EXTINF:-1 tvg-id="17:15-Torneo de Metz 1ª Ronda-T. Atmane-H. Gaston" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:15-Torneo de Metz 1ª Ronda-T. Atmane-H. Gaston
 http://192.168.18.75:8080/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7
-#EXTINF:-1 tvg-id="17:00-Torneo de Atenas 1ª Ronda-S. Sakellaridis-N. Borges" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:00-Torneo de Atenas 1ª Ronda-S. Sakellaridis-N. Borges
+#EXTINF:-1 tvg-id="17:15-Torneo de Metz 1ª Ronda-T. Atmane-H. Gaston" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:15-Torneo de Metz 1ª Ronda-T. Atmane-H. Gaston
 http://192.168.18.75:8080/ace/getstream?id=aa31953b8af44b461102852d5b1247eea95b8050
-#EXTINF:-1 tvg-id="17:00-Torneo de Atenas 1ª Ronda-S. Sakellaridis-N. Borges" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:00-Torneo de Atenas 1ª Ronda-S. Sakellaridis-N. Borges
-http://192.168.18.75:8080/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="17:30-Premier League-Manchester City-Bournemouth" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",17:30-Premier League-Manchester City-Bournemouth
 http://192.168.18.75:8080/ace/getstream?id=6538b79ce0da657d8455d1da6a5f342398899a0e
 #EXTINF:-1 tvg-id="17:30-Premier League-Manchester City-Bournemouth" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",17:30-Premier League-Manchester City-Bournemouth
@@ -277,8 +263,6 @@ http://192.168.18.75:8080/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f2
 http://192.168.18.75:8080/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7
 #EXTINF:-1 tvg-id="18:30-Torneo de Atenas 1ª Ronda-A. Popyrin-S. Korda" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:30-Torneo de Atenas 1ª Ronda-A. Popyrin-S. Korda
 http://192.168.18.75:8080/ace/getstream?id=aa31953b8af44b461102852d5b1247eea95b8050
-#EXTINF:-1 tvg-id="18:30-Torneo de Atenas 1ª Ronda-A. Popyrin-S. Korda" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:30-Torneo de Atenas 1ª Ronda-A. Popyrin-S. Korda
-http://192.168.18.75:8080/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="21:00-Primera-Real Betis-Mallorca" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera-Real Betis-Mallorca
 http://192.168.18.75:8080/ace/getstream?id=d4ff041287a43e3114d411d671c4b4e92e21f33y
 #EXTINF:-1 tvg-id="21:00-Primera-Real Betis-Mallorca" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera-Real Betis-Mallorca
