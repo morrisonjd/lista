@@ -160,7 +160,7 @@ Eurosport 1 http://192.168.18.75:6878/ace/stat/0a4cdd0edd85fbb7bc53e23c6282e77d0
 Eurosport 1 http://192.168.18.75:6878/ace/stat/7d4f8888acd26364f54a0011f20841e6c7beb942/1378dab36a50a0bf547f553e003cca18
 Eurosport 1 http://192.168.18.75:6878/ace/stat/b6885a8de0b53fd8787307f7586c038abfc21aed/1378dab36a50a0bf547f553e003cca18
 Eurosport 1 http://192.168.18.75:6878/ace/stat/645e1817bfa444bbbdc7b489214c91611c629a96/1378dab36a50a0bf547f553e003cca18
-Eurosport 1 http://192.168.18.75:6878/ace/stat/37f5d22ee578b0cdbc715b8971175bdc91eebb5d/1378dab36a50a0bf547f553e003cca18
+Eurosport 1 Error al obtener stat_url después de 5 intentos
 Eurosport 1 http://192.168.18.75:6878/ace/stat/467a9ad90a4fcdcee8e072075d3a2c4748b55792/1378dab36a50a0bf547f553e003cca18
 Eurosport 1 http://192.168.18.75:6878/ace/stat/42e959bffd0dd0f138dd03abf387b4284ece7e30/1378dab36a50a0bf547f553e003cca18
 Eurosport 1 http://192.168.18.75:6878/ace/stat/553df889407631eb91c3c6f81b0415840fde05d1/1378dab36a50a0bf547f553e003cca18
@@ -252,6 +252,7 @@ SuperTennis http://192.168.18.75:6878/ace/stat/7a57543cb6061648dc44c5d4321bd100b
 Canal de Tenis http://192.168.18.75:6878/ace/stat/1b348443efc7f0cf4cdf349ac35bbe5d41be6220/1378dab36a50a0bf547f553e003cca18
 Onetoro http://192.168.18.75:6878/ace/stat/f69ee603343fa1be095eb62ded677fc6cb0854bc/1378dab36a50a0bf547f553e003cca18
 Torole TV http://192.168.18.75:6878/ace/stat/4b44765b26df505e75567108856b714f31703fdc/1378dab36a50a0bf547f553e003cca18
+LIGA ENDESA http://192.168.18.75:6878/ace/stat/44a039209783a268453377d417d651ea6537ceb2/1378dab36a50a0bf547f553e003cca18
 MATCH! Arena http://192.168.18.75:6878/ace/stat/3a6ebb9eb0012bbd563e710c0c7e7ce2a8e4239a/1378dab36a50a0bf547f553e003cca18
 Astrakhan ru Sport Error al obtener stat_url después de 5 intentos
 FOX Life RU http://192.168.18.75:6878/ace/stat/d8b7a3f67305d65d0c75602eb7ec8e7f1df6b8b7/1378dab36a50a0bf547f553e003cca18
