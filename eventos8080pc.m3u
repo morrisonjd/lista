@@ -172,8 +172,6 @@ http://192.168.18.75:8080/ace/getstream?id=cfc371890bfb502737a26de5215e50929c52d
 #EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-PSG-FC Bayern" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-PSG-FC Bayern
 http://192.168.18.75:8080/ace/getstream?id=90f7941c6bf7ca4b18084a1dca7bc15b9b179373
 #EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-PSG-FC Bayern" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-PSG-FC Bayern
-http://192.168.18.75:8080/ace/getstream?id=678a1e93fbfbd499c329886bfdda780e73ac1786
-#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-PSG-FC Bayern" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-PSG-FC Bayern
 http://192.168.18.75:8080/ace/getstream?id=77998f8161373611ff6b348e7eda5b4e97d3ec29
 #EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-PSG-FC Bayern" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-PSG-FC Bayern
 http://192.168.18.75:8080/ace/getstream?id=53cd86466d1faed03a607be92af601f7e8da128f
@@ -181,8 +179,6 @@ http://192.168.18.75:8080/ace/getstream?id=53cd86466d1faed03a607be92af601f7e8da1
 http://192.168.18.75:8080/ace/getstream?id=e9f4493d2d851f4636720f639113e05b4a21a74c
 #EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-PSG-FC Bayern" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-PSG-FC Bayern
 http://192.168.18.75:8080/ace/getstream?id=6fbab1d8d6bf93c4bc7552714aa3bb54ebf7b661
-#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Juventus-Sporting CP" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Juventus-Sporting CP
-http://192.168.18.75:8080/ace/getstream?id=678a1e93fbfbd499c329886bfdda780e73ac1786
 #EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Juventus-Sporting CP" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Juventus-Sporting CP
 http://192.168.18.75:8080/ace/getstream?id=77998f8161373611ff6b348e7eda5b4e97d3ec29
 #EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Juventus-Sporting CP" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Juventus-Sporting CP
@@ -212,8 +208,6 @@ http://192.168.18.75:8080/ace/getstream?id=38f7b2044e549df2039ff26cefa6f9a60c854
 #EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-At. Madrid-Saint-Gilloise" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-At. Madrid-Saint-Gilloise
 http://192.168.18.75:8080/ace/getstream?id=338b5de78b0b40a6f9ca3cc0cf9be93341b9ceea
 #EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Tottenham-København" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Tottenham-København
-http://192.168.18.75:8080/ace/getstream?id=678a1e93fbfbd499c329886bfdda780e73ac1786
-#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Tottenham-København" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Tottenham-København
 http://192.168.18.75:8080/ace/getstream?id=77998f8161373611ff6b348e7eda5b4e97d3ec29
 #EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Tottenham-København" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Tottenham-København
 http://192.168.18.75:8080/ace/getstream?id=53cd86466d1faed03a607be92af601f7e8da128f
@@ -223,6 +217,8 @@ http://192.168.18.75:8080/ace/getstream?id=e9f4493d2d851f4636720f639113e05b4a21a
 http://192.168.18.75:8080/ace/getstream?id=6fbab1d8d6bf93c4bc7552714aa3bb54ebf7b661
 #EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Tottenham-København" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Tottenham-København
 http://192.168.18.75:8080/ace/getstream?id=976983697790ab8a07b764b08843529d38bc6444
+#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Liverpool-Real Madrid" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Liverpool-Real Madrid
+http://192.168.18.75:8080/ace/getstream?id=678a1e93fbfbd499c329886bfdda780e73ac1786
 #EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Liverpool-Real Madrid" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Liverpool-Real Madrid
 http://192.168.18.75:8080/ace/getstream?id=c16b4fab1f724c94cad92081cbb7fc7c6fe8a2cc
 #EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Liverpool-Real Madrid" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Liverpool-Real Madrid
@@ -244,8 +240,6 @@ http://192.168.18.75:8080/ace/getstream?id=9db029dff6a9c637d1f670e78dbc1a479b9b4
 #EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Liverpool-Real Madrid" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Liverpool-Real Madrid
 http://192.168.18.75:8080/ace/getstream?id=e572a5178ff72eed7d1d751a18b4b3419699f370
 #EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Liverpool-Real Madrid" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Liverpool-Real Madrid
-http://192.168.18.75:8080/ace/getstream?id=678a1e93fbfbd499c329886bfdda780e73ac1786
-#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Liverpool-Real Madrid" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Liverpool-Real Madrid
 http://192.168.18.75:8080/ace/getstream?id=77998f8161373611ff6b348e7eda5b4e97d3ec29
 #EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Liverpool-Real Madrid" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Liverpool-Real Madrid
 http://192.168.18.75:8080/ace/getstream?id=53cd86466d1faed03a607be92af601f7e8da128f
@@ -264,8 +258,6 @@ http://192.168.18.75:8080/ace/getstream?id=5866e83279307bf919068ae7a0d250e4e424e
 #EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Liverpool-Real Madrid" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Liverpool-Real Madrid
 http://192.168.18.75:8080/ace/getstream?id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
 #EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Olympiacos-PSV Eindhoven" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Olympiacos-PSV Eindhoven
-http://192.168.18.75:8080/ace/getstream?id=678a1e93fbfbd499c329886bfdda780e73ac1786
-#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Olympiacos-PSV Eindhoven" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Olympiacos-PSV Eindhoven
 http://192.168.18.75:8080/ace/getstream?id=77998f8161373611ff6b348e7eda5b4e97d3ec29
 #EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Olympiacos-PSV Eindhoven" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Olympiacos-PSV Eindhoven
 http://192.168.18.75:8080/ace/getstream?id=53cd86466d1faed03a607be92af601f7e8da128f
@@ -275,8 +267,6 @@ http://192.168.18.75:8080/ace/getstream?id=e9f4493d2d851f4636720f639113e05b4a21a
 http://192.168.18.75:8080/ace/getstream?id=6fbab1d8d6bf93c4bc7552714aa3bb54ebf7b661
 #EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Olympiacos-PSV Eindhoven" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Olympiacos-PSV Eindhoven
 http://192.168.18.75:8080/ace/getstream?id=83c02982581a536d1321e38a77dc0c520b1cb842
-#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Bodø Glimt-AS Monaco" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Bodø Glimt-AS Monaco
-http://192.168.18.75:8080/ace/getstream?id=678a1e93fbfbd499c329886bfdda780e73ac1786
 #EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Bodø Glimt-AS Monaco" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Bodø Glimt-AS Monaco
 http://192.168.18.75:8080/ace/getstream?id=77998f8161373611ff6b348e7eda5b4e97d3ec29
 #EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Bodø Glimt-AS Monaco" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Bodø Glimt-AS Monaco
