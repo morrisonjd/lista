@@ -139,25 +139,15 @@ http://192.168.18.75:8080/ace/getstream?id=4e99e755aa32c4bc043a4bb1cd1de35f9bd94
 http://192.168.18.75:8080/ace/getstream?id=c7c81acdd1a03ecc418c94c2f28e2adb0556c40b
 #EXTINF:-1 tvg-id="19:30-Euroliga Femenina Liga Regular-Umana Reyer Venice-Casademont Zaragoza" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",19:30-Euroliga Femenina Liga Regular-Umana Reyer Venice-Casademont Zaragoza
 http://192.168.18.75:8080/ace/getstream?id=0e5d8c9724fa9163f49096b70484e315251eb785
-#EXTINF:-1 tvg-id="20:35-Torneo de Atenas 2ª Ronda-E. Spizzirri-N. Borges" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:35-Torneo de Atenas 2ª Ronda-E. Spizzirri-N. Borges
+#EXTINF:-1 tvg-id="20:40-Torneo de Atenas 2ª Ronda-E. Spizzirri-N. Borges" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:40-Torneo de Atenas 2ª Ronda-E. Spizzirri-N. Borges
 http://192.168.18.75:8080/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee
-#EXTINF:-1 tvg-id="20:35-Torneo de Atenas 2ª Ronda-E. Spizzirri-N. Borges" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:35-Torneo de Atenas 2ª Ronda-E. Spizzirri-N. Borges
+#EXTINF:-1 tvg-id="20:40-Torneo de Atenas 2ª Ronda-E. Spizzirri-N. Borges" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:40-Torneo de Atenas 2ª Ronda-E. Spizzirri-N. Borges
 http://192.168.18.75:8080/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0
-#EXTINF:-1 tvg-id="20:35-Torneo de Atenas 2ª Ronda-E. Spizzirri-N. Borges" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:35-Torneo de Atenas 2ª Ronda-E. Spizzirri-N. Borges
+#EXTINF:-1 tvg-id="20:40-Torneo de Atenas 2ª Ronda-E. Spizzirri-N. Borges" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:40-Torneo de Atenas 2ª Ronda-E. Spizzirri-N. Borges
 http://192.168.18.75:8080/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7
-#EXTINF:-1 tvg-id="20:35-Torneo de Atenas 2ª Ronda-E. Spizzirri-N. Borges" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:35-Torneo de Atenas 2ª Ronda-E. Spizzirri-N. Borges
+#EXTINF:-1 tvg-id="20:40-Torneo de Atenas 2ª Ronda-E. Spizzirri-N. Borges" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:40-Torneo de Atenas 2ª Ronda-E. Spizzirri-N. Borges
 http://192.168.18.75:8080/ace/getstream?id=aa31953b8af44b461102852d5b1247eea95b8050
-#EXTINF:-1 tvg-id="20:35-Torneo de Atenas 2ª Ronda-E. Spizzirri-N. Borges" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:35-Torneo de Atenas 2ª Ronda-E. Spizzirri-N. Borges
-http://192.168.18.75:8080/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
-#EXTINF:-1 tvg-id="20:55-Torneo de Metz 2ª Ronda-A. Cazaux-C. Norrie" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:55-Torneo de Metz 2ª Ronda-A. Cazaux-C. Norrie
-http://192.168.18.75:8080/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee
-#EXTINF:-1 tvg-id="20:55-Torneo de Metz 2ª Ronda-A. Cazaux-C. Norrie" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:55-Torneo de Metz 2ª Ronda-A. Cazaux-C. Norrie
-http://192.168.18.75:8080/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0
-#EXTINF:-1 tvg-id="20:55-Torneo de Metz 2ª Ronda-A. Cazaux-C. Norrie" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:55-Torneo de Metz 2ª Ronda-A. Cazaux-C. Norrie
-http://192.168.18.75:8080/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7
-#EXTINF:-1 tvg-id="20:55-Torneo de Metz 2ª Ronda-A. Cazaux-C. Norrie" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:55-Torneo de Metz 2ª Ronda-A. Cazaux-C. Norrie
-http://192.168.18.75:8080/ace/getstream?id=aa31953b8af44b461102852d5b1247eea95b8050
-#EXTINF:-1 tvg-id="20:55-Torneo de Metz 2ª Ronda-A. Cazaux-C. Norrie" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:55-Torneo de Metz 2ª Ronda-A. Cazaux-C. Norrie
+#EXTINF:-1 tvg-id="20:40-Torneo de Atenas 2ª Ronda-E. Spizzirri-N. Borges" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:40-Torneo de Atenas 2ª Ronda-E. Spizzirri-N. Borges
 http://192.168.18.75:8080/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-PSG-FC Bayern" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-PSG-FC Bayern
 http://192.168.18.75:8080/ace/getstream?id=17b8bc4bf8e29547b0071c742e3d7da3bcbc484d
@@ -277,3 +267,13 @@ http://192.168.18.75:8080/ace/getstream?id=e9f4493d2d851f4636720f639113e05b4a21a
 http://192.168.18.75:8080/ace/getstream?id=6fbab1d8d6bf93c4bc7552714aa3bb54ebf7b661
 #EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Bodø Glimt-AS Monaco" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Bodø Glimt-AS Monaco
 http://192.168.18.75:8080/ace/getstream?id=97f8a84212fe6b3d2ab15aadc83c7b5e6af656c9
+#EXTINF:-1 tvg-id="21:30-Torneo de Metz 2ª Ronda-A. Cazaux-C. Norrie" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:30-Torneo de Metz 2ª Ronda-A. Cazaux-C. Norrie
+http://192.168.18.75:8080/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee
+#EXTINF:-1 tvg-id="21:30-Torneo de Metz 2ª Ronda-A. Cazaux-C. Norrie" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:30-Torneo de Metz 2ª Ronda-A. Cazaux-C. Norrie
+http://192.168.18.75:8080/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0
+#EXTINF:-1 tvg-id="21:30-Torneo de Metz 2ª Ronda-A. Cazaux-C. Norrie" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:30-Torneo de Metz 2ª Ronda-A. Cazaux-C. Norrie
+http://192.168.18.75:8080/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7
+#EXTINF:-1 tvg-id="21:30-Torneo de Metz 2ª Ronda-A. Cazaux-C. Norrie" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:30-Torneo de Metz 2ª Ronda-A. Cazaux-C. Norrie
+http://192.168.18.75:8080/ace/getstream?id=aa31953b8af44b461102852d5b1247eea95b8050
+#EXTINF:-1 tvg-id="21:30-Torneo de Metz 2ª Ronda-A. Cazaux-C. Norrie" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:30-Torneo de Metz 2ª Ronda-A. Cazaux-C. Norrie
+http://192.168.18.75:8080/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
