@@ -135,8 +135,6 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=ad42faa399df66dcd62a1cbc9d1c99ed4512d
 http://127.0.0.1:6878/ace/manifest.m3u8?id=635b61c1f240449163260cd914d10d886a54fee3
 #EXTINF:-1 tvg-id="DAZN LaLiga 2" group-title="New Era",DAZN LaLiga 2
 http://127.0.0.1:6878/ace/manifest.m3u8?id=5091ea94b75ba4b50b078b4102a3d0e158ef59c3
-#EXTINF:-1 tvg-id="DAZN LaLiga 2" group-title="New Loop",DAZN LaLiga 2
-http://127.0.0.1:6878/ace/manifest.m3u8?id=bf95bbb0de43953a783163201f236f59fcfb1529
 #EXTINF:-1 tvg-id="DAZN LaLiga 2" group-title="Elcano",DAZN LaLiga 2
 http://127.0.0.1:6878/ace/manifest.m3u8?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="DAZN LaLiga 2" group-title="Elcano",DAZN LaLiga 2
@@ -333,8 +331,6 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=bae98f69fbf867550b4f73b4eb176dae84d7f
 http://127.0.0.1:6878/ace/manifest.m3u8?id=ef2abf419586d9876370be127ad592dbb41b126a
 #EXTINF:-1 tvg-id="Eurosport 1" group-title="Elcano",Eurosport 1
 http://127.0.0.1:6878/ace/manifest.m3u8?id=c3da6c4f91d9d10ade00318a869435e19f204d0e
-#EXTINF:-1 tvg-id="Eurosport 1" group-title="New Loop",Eurosport 1
-http://127.0.0.1:6878/ace/manifest.m3u8?id=547ab7146a86d6119c9332c011669544720124e3
 #EXTINF:-1 tvg-id="Eurosport 1" group-title="Desconocido",Eurosport 1
 http://127.0.0.1:6878/ace/manifest.m3u8?id=b8cad4710b1c3b2b84a82c1ece40c08517b8f766
 #EXTINF:-1 tvg-id="Eurosport 1" group-title="Desconocido",Eurosport 1
@@ -783,6 +779,8 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=4e17bac6b2decc70fd7bd704ce7013072fefd
 http://127.0.0.1:6878/ace/manifest.m3u8?id=0b48cd93de3c714e36961a93805798307a5608ac
 #EXTINF:-1 tvg-id="Fox Sports 2 COL" group-title="New Era",Fox Sports 2 COL
 http://127.0.0.1:6878/ace/manifest.m3u8?id=3bdf355aeaac39d20e368ebb2ed72b9f71bf9090
+#EXTINF:-1 tvg-id="beIN SPORTS XTRA ñ" group-title="New Loop",beIN SPORTS XTRA ñ
+http://127.0.0.1:6878/ace/manifest.m3u8?id=e8e459656f964f601ad4bcda8b81a43ba41c68f9
 #EXTINF:-1 tvg-id="beIN SPORTS XTRA ñ" group-title="Antigua",beIN SPORTS XTRA ñ
 http://127.0.0.1:6878/ace/manifest.m3u8?id=92a7dcc55392efc6dd5d012c4ff3878891eb6a6e
 #EXTINF:-1 tvg-id="NBA TV" group-title="New Era",NBA TV
