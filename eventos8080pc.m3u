@@ -39,35 +39,25 @@ http://192.168.18.75:8080/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5
 http://192.168.18.75:8080/ace/getstream?id=aa31953b8af44b461102852d5b1247eea95b8050
 #EXTINF:-1 tvg-id="15:25-Torneo de Atenas 2ª Ronda-A. Muller-TM. Etcheverry" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:25-Torneo de Atenas 2ª Ronda-A. Muller-TM. Etcheverry
 http://192.168.18.75:8080/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
-#EXTINF:-1 tvg-id="16:00-Torneo de Metz 2ª Ronda-H. Gaston-D. Altmaier" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:00-Torneo de Metz 2ª Ronda-H. Gaston-D. Altmaier
+#EXTINF:-1 tvg-id="16:05-Torneo de Metz 2ª Ronda-H. Gaston-D. Altmaier" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:05-Torneo de Metz 2ª Ronda-H. Gaston-D. Altmaier
 http://192.168.18.75:8080/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee
-#EXTINF:-1 tvg-id="16:00-Torneo de Metz 2ª Ronda-H. Gaston-D. Altmaier" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:00-Torneo de Metz 2ª Ronda-H. Gaston-D. Altmaier
+#EXTINF:-1 tvg-id="16:05-Torneo de Metz 2ª Ronda-H. Gaston-D. Altmaier" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:05-Torneo de Metz 2ª Ronda-H. Gaston-D. Altmaier
 http://192.168.18.75:8080/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0
-#EXTINF:-1 tvg-id="16:00-Torneo de Metz 2ª Ronda-H. Gaston-D. Altmaier" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:00-Torneo de Metz 2ª Ronda-H. Gaston-D. Altmaier
+#EXTINF:-1 tvg-id="16:05-Torneo de Metz 2ª Ronda-H. Gaston-D. Altmaier" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:05-Torneo de Metz 2ª Ronda-H. Gaston-D. Altmaier
 http://192.168.18.75:8080/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7
-#EXTINF:-1 tvg-id="16:00-Torneo de Metz 2ª Ronda-H. Gaston-D. Altmaier" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:00-Torneo de Metz 2ª Ronda-H. Gaston-D. Altmaier
+#EXTINF:-1 tvg-id="16:05-Torneo de Metz 2ª Ronda-H. Gaston-D. Altmaier" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:05-Torneo de Metz 2ª Ronda-H. Gaston-D. Altmaier
 http://192.168.18.75:8080/ace/getstream?id=aa31953b8af44b461102852d5b1247eea95b8050
-#EXTINF:-1 tvg-id="16:00-Torneo de Metz 2ª Ronda-H. Gaston-D. Altmaier" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:00-Torneo de Metz 2ª Ronda-H. Gaston-D. Altmaier
+#EXTINF:-1 tvg-id="16:05-Torneo de Metz 2ª Ronda-H. Gaston-D. Altmaier" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:05-Torneo de Metz 2ª Ronda-H. Gaston-D. Altmaier
 http://192.168.18.75:8080/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
-#EXTINF:-1 tvg-id="16:40-WTA Finals Round Robin-I. Swiatek-A. Anisimova" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:40-WTA Finals Round Robin-I. Swiatek-A. Anisimova
+#EXTINF:-1 tvg-id="16:50-WTA Finals Round Robin-I. Swiatek-A. Anisimova" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:50-WTA Finals Round Robin-I. Swiatek-A. Anisimova
 http://192.168.18.75:8080/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee
-#EXTINF:-1 tvg-id="16:40-WTA Finals Round Robin-I. Swiatek-A. Anisimova" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:40-WTA Finals Round Robin-I. Swiatek-A. Anisimova
+#EXTINF:-1 tvg-id="16:50-WTA Finals Round Robin-I. Swiatek-A. Anisimova" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:50-WTA Finals Round Robin-I. Swiatek-A. Anisimova
 http://192.168.18.75:8080/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0
-#EXTINF:-1 tvg-id="16:40-WTA Finals Round Robin-I. Swiatek-A. Anisimova" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:40-WTA Finals Round Robin-I. Swiatek-A. Anisimova
+#EXTINF:-1 tvg-id="16:50-WTA Finals Round Robin-I. Swiatek-A. Anisimova" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:50-WTA Finals Round Robin-I. Swiatek-A. Anisimova
 http://192.168.18.75:8080/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7
-#EXTINF:-1 tvg-id="16:40-WTA Finals Round Robin-I. Swiatek-A. Anisimova" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:40-WTA Finals Round Robin-I. Swiatek-A. Anisimova
+#EXTINF:-1 tvg-id="16:50-WTA Finals Round Robin-I. Swiatek-A. Anisimova" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:50-WTA Finals Round Robin-I. Swiatek-A. Anisimova
 http://192.168.18.75:8080/ace/getstream?id=aa31953b8af44b461102852d5b1247eea95b8050
-#EXTINF:-1 tvg-id="16:40-WTA Finals Round Robin-I. Swiatek-A. Anisimova" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:40-WTA Finals Round Robin-I. Swiatek-A. Anisimova
-http://192.168.18.75:8080/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
-#EXTINF:-1 tvg-id="17:00-Torneo de Atenas 2ª Ronda-S. Wawrinka-L. Musetti" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:00-Torneo de Atenas 2ª Ronda-S. Wawrinka-L. Musetti
-http://192.168.18.75:8080/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee
-#EXTINF:-1 tvg-id="17:00-Torneo de Atenas 2ª Ronda-S. Wawrinka-L. Musetti" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:00-Torneo de Atenas 2ª Ronda-S. Wawrinka-L. Musetti
-http://192.168.18.75:8080/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0
-#EXTINF:-1 tvg-id="17:00-Torneo de Atenas 2ª Ronda-S. Wawrinka-L. Musetti" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:00-Torneo de Atenas 2ª Ronda-S. Wawrinka-L. Musetti
-http://192.168.18.75:8080/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7
-#EXTINF:-1 tvg-id="17:00-Torneo de Atenas 2ª Ronda-S. Wawrinka-L. Musetti" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:00-Torneo de Atenas 2ª Ronda-S. Wawrinka-L. Musetti
-http://192.168.18.75:8080/ace/getstream?id=aa31953b8af44b461102852d5b1247eea95b8050
-#EXTINF:-1 tvg-id="17:00-Torneo de Atenas 2ª Ronda-S. Wawrinka-L. Musetti" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:00-Torneo de Atenas 2ª Ronda-S. Wawrinka-L. Musetti
+#EXTINF:-1 tvg-id="16:50-WTA Finals Round Robin-I. Swiatek-A. Anisimova" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:50-WTA Finals Round Robin-I. Swiatek-A. Anisimova
 http://192.168.18.75:8080/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="18:00-Eurocup Liga Regular-BC Neptunas-BAXI Manresa" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:00-Eurocup Liga Regular-BC Neptunas-BAXI Manresa
 http://192.168.18.75:8080/ace/getstream?id=8c67cdb5ba81976662c3a67984a9545d9cfb0f70
@@ -91,25 +81,15 @@ http://192.168.18.75:8080/ace/getstream?id=4e99e755aa32c4bc043a4bb1cd1de35f9bd94
 http://192.168.18.75:8080/ace/getstream?id=c7c81acdd1a03ecc418c94c2f28e2adb0556c40b
 #EXTINF:-1 tvg-id="18:00-Eurocup Liga Regular-BC Neptunas-BAXI Manresa" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:00-Eurocup Liga Regular-BC Neptunas-BAXI Manresa
 http://192.168.18.75:8080/ace/getstream?id=0e5d8c9724fa9163f49096b70484e315251eb785
-#EXTINF:-1 tvg-id="18:00-Torneo de Metz 2ª Ronda-V. Sachko-A. Bublik" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:00-Torneo de Metz 2ª Ronda-V. Sachko-A. Bublik
+#EXTINF:-1 tvg-id="18:10-Torneo de Metz 2ª Ronda-V. Sachko-A. Bublik" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:10-Torneo de Metz 2ª Ronda-V. Sachko-A. Bublik
 http://192.168.18.75:8080/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee
-#EXTINF:-1 tvg-id="18:00-Torneo de Metz 2ª Ronda-V. Sachko-A. Bublik" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:00-Torneo de Metz 2ª Ronda-V. Sachko-A. Bublik
+#EXTINF:-1 tvg-id="18:10-Torneo de Metz 2ª Ronda-V. Sachko-A. Bublik" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:10-Torneo de Metz 2ª Ronda-V. Sachko-A. Bublik
 http://192.168.18.75:8080/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0
-#EXTINF:-1 tvg-id="18:00-Torneo de Metz 2ª Ronda-V. Sachko-A. Bublik" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:00-Torneo de Metz 2ª Ronda-V. Sachko-A. Bublik
+#EXTINF:-1 tvg-id="18:10-Torneo de Metz 2ª Ronda-V. Sachko-A. Bublik" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:10-Torneo de Metz 2ª Ronda-V. Sachko-A. Bublik
 http://192.168.18.75:8080/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7
-#EXTINF:-1 tvg-id="18:00-Torneo de Metz 2ª Ronda-V. Sachko-A. Bublik" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:00-Torneo de Metz 2ª Ronda-V. Sachko-A. Bublik
+#EXTINF:-1 tvg-id="18:10-Torneo de Metz 2ª Ronda-V. Sachko-A. Bublik" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:10-Torneo de Metz 2ª Ronda-V. Sachko-A. Bublik
 http://192.168.18.75:8080/ace/getstream?id=aa31953b8af44b461102852d5b1247eea95b8050
-#EXTINF:-1 tvg-id="18:00-Torneo de Metz 2ª Ronda-V. Sachko-A. Bublik" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:00-Torneo de Metz 2ª Ronda-V. Sachko-A. Bublik
-http://192.168.18.75:8080/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
-#EXTINF:-1 tvg-id="18:30-Torneo de Atenas 2ª Ronda-B. Nakashima-M. Giron" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:30-Torneo de Atenas 2ª Ronda-B. Nakashima-M. Giron
-http://192.168.18.75:8080/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee
-#EXTINF:-1 tvg-id="18:30-Torneo de Atenas 2ª Ronda-B. Nakashima-M. Giron" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:30-Torneo de Atenas 2ª Ronda-B. Nakashima-M. Giron
-http://192.168.18.75:8080/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0
-#EXTINF:-1 tvg-id="18:30-Torneo de Atenas 2ª Ronda-B. Nakashima-M. Giron" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:30-Torneo de Atenas 2ª Ronda-B. Nakashima-M. Giron
-http://192.168.18.75:8080/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7
-#EXTINF:-1 tvg-id="18:30-Torneo de Atenas 2ª Ronda-B. Nakashima-M. Giron" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:30-Torneo de Atenas 2ª Ronda-B. Nakashima-M. Giron
-http://192.168.18.75:8080/ace/getstream?id=aa31953b8af44b461102852d5b1247eea95b8050
-#EXTINF:-1 tvg-id="18:30-Torneo de Atenas 2ª Ronda-B. Nakashima-M. Giron" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:30-Torneo de Atenas 2ª Ronda-B. Nakashima-M. Giron
+#EXTINF:-1 tvg-id="18:10-Torneo de Metz 2ª Ronda-V. Sachko-A. Bublik" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:10-Torneo de Metz 2ª Ronda-V. Sachko-A. Bublik
 http://192.168.18.75:8080/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="18:45-Champions League Fase Liga-Qarabag FK-Chelsea" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Champions League Fase Liga-Qarabag FK-Chelsea
 http://192.168.18.75:8080/ace/getstream?id=17b8bc4bf8e29547b0071c742e3d7da3bcbc484d
@@ -145,6 +125,16 @@ http://192.168.18.75:8080/ace/getstream?id=2b51710cee513e8939785fa3e7980f32d4e04
 http://192.168.18.75:8080/ace/getstream?id=9db029dff6a9c637d1f670e78dbc1a479b9b406e
 #EXTINF:-1 tvg-id="18:45-Champions League Fase Liga-Pafos FC-Villarreal" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Champions League Fase Liga-Pafos FC-Villarreal
 http://192.168.18.75:8080/ace/getstream?id=e572a5178ff72eed7d1d751a18b4b3419699f370
+#EXTINF:-1 tvg-id="18:45-Torneo de Atenas 2ª Ronda-S. Wawrinka-L. Musetti" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:45-Torneo de Atenas 2ª Ronda-S. Wawrinka-L. Musetti
+http://192.168.18.75:8080/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee
+#EXTINF:-1 tvg-id="18:45-Torneo de Atenas 2ª Ronda-S. Wawrinka-L. Musetti" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:45-Torneo de Atenas 2ª Ronda-S. Wawrinka-L. Musetti
+http://192.168.18.75:8080/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0
+#EXTINF:-1 tvg-id="18:45-Torneo de Atenas 2ª Ronda-S. Wawrinka-L. Musetti" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:45-Torneo de Atenas 2ª Ronda-S. Wawrinka-L. Musetti
+http://192.168.18.75:8080/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7
+#EXTINF:-1 tvg-id="18:45-Torneo de Atenas 2ª Ronda-S. Wawrinka-L. Musetti" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:45-Torneo de Atenas 2ª Ronda-S. Wawrinka-L. Musetti
+http://192.168.18.75:8080/ace/getstream?id=aa31953b8af44b461102852d5b1247eea95b8050
+#EXTINF:-1 tvg-id="18:45-Torneo de Atenas 2ª Ronda-S. Wawrinka-L. Musetti" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:45-Torneo de Atenas 2ª Ronda-S. Wawrinka-L. Musetti
+http://192.168.18.75:8080/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="19:30-Euroliga Femenina Liga Regular-Spar Girona-USK Praga" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",19:30-Euroliga Femenina Liga Regular-Spar Girona-USK Praga
 http://192.168.18.75:8080/ace/getstream?id=8c67cdb5ba81976662c3a67984a9545d9cfb0f70
 #EXTINF:-1 tvg-id="19:30-Euroliga Femenina Liga Regular-Spar Girona-USK Praga" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",19:30-Euroliga Femenina Liga Regular-Spar Girona-USK Praga
@@ -155,16 +145,6 @@ http://192.168.18.75:8080/ace/getstream?id=199190e3f28c1de0be34bccf0d3568dc65209
 http://192.168.18.75:8080/ace/getstream?id=5866e83279307bf919068ae7a0d250e4e424e464
 #EXTINF:-1 tvg-id="19:30-Euroliga Femenina Liga Regular-Spar Girona-USK Praga" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",19:30-Euroliga Femenina Liga Regular-Spar Girona-USK Praga
 http://192.168.18.75:8080/ace/getstream?id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
-#EXTINF:-1 tvg-id="19:40-Torneo de Metz 2ª Ronda-A. Vukic-M. Berrettini" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",19:40-Torneo de Metz 2ª Ronda-A. Vukic-M. Berrettini
-http://192.168.18.75:8080/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee
-#EXTINF:-1 tvg-id="19:40-Torneo de Metz 2ª Ronda-A. Vukic-M. Berrettini" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",19:40-Torneo de Metz 2ª Ronda-A. Vukic-M. Berrettini
-http://192.168.18.75:8080/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0
-#EXTINF:-1 tvg-id="19:40-Torneo de Metz 2ª Ronda-A. Vukic-M. Berrettini" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",19:40-Torneo de Metz 2ª Ronda-A. Vukic-M. Berrettini
-http://192.168.18.75:8080/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7
-#EXTINF:-1 tvg-id="19:40-Torneo de Metz 2ª Ronda-A. Vukic-M. Berrettini" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",19:40-Torneo de Metz 2ª Ronda-A. Vukic-M. Berrettini
-http://192.168.18.75:8080/ace/getstream?id=aa31953b8af44b461102852d5b1247eea95b8050
-#EXTINF:-1 tvg-id="19:40-Torneo de Metz 2ª Ronda-A. Vukic-M. Berrettini" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",19:40-Torneo de Metz 2ª Ronda-A. Vukic-M. Berrettini
-http://192.168.18.75:8080/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="20:00-Segunda-Real Sociedad B-Huesca" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",20:00-Segunda-Real Sociedad B-Huesca
 http://192.168.18.75:8080/ace/getstream?id=8ee52f6208e33706171856f99d2ed2dabd317f3a
 #EXTINF:-1 tvg-id="20:00-Segunda-Real Sociedad B-Huesca" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",20:00-Segunda-Real Sociedad B-Huesca
@@ -183,6 +163,26 @@ http://192.168.18.75:8080/ace/getstream?id=3692ea4cdda97eb0062ed5d656ebd61f149eb
 http://192.168.18.75:8080/ace/getstream?id=ebca4a63ce3bfda7b272964a1acc5227218184a4
 #EXTINF:-1 tvg-id="20:00-Euroliga Liga Regular-Crvena Zvezda MTS Belgrade-Panathinaikos BC" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:00-Euroliga Liga Regular-Crvena Zvezda MTS Belgrade-Panathinaikos BC
 http://192.168.18.75:8080/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3
+#EXTINF:-1 tvg-id="20:35-Torneo de Metz 2ª Ronda-A. Vukic-M. Berrettini" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:35-Torneo de Metz 2ª Ronda-A. Vukic-M. Berrettini
+http://192.168.18.75:8080/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee
+#EXTINF:-1 tvg-id="20:35-Torneo de Metz 2ª Ronda-A. Vukic-M. Berrettini" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:35-Torneo de Metz 2ª Ronda-A. Vukic-M. Berrettini
+http://192.168.18.75:8080/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0
+#EXTINF:-1 tvg-id="20:35-Torneo de Metz 2ª Ronda-A. Vukic-M. Berrettini" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:35-Torneo de Metz 2ª Ronda-A. Vukic-M. Berrettini
+http://192.168.18.75:8080/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7
+#EXTINF:-1 tvg-id="20:35-Torneo de Metz 2ª Ronda-A. Vukic-M. Berrettini" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:35-Torneo de Metz 2ª Ronda-A. Vukic-M. Berrettini
+http://192.168.18.75:8080/ace/getstream?id=aa31953b8af44b461102852d5b1247eea95b8050
+#EXTINF:-1 tvg-id="20:35-Torneo de Metz 2ª Ronda-A. Vukic-M. Berrettini" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:35-Torneo de Metz 2ª Ronda-A. Vukic-M. Berrettini
+http://192.168.18.75:8080/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
+#EXTINF:-1 tvg-id="20:45-Torneo de Atenas 2ª Ronda-B. Nakashima-M. Giron" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:45-Torneo de Atenas 2ª Ronda-B. Nakashima-M. Giron
+http://192.168.18.75:8080/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee
+#EXTINF:-1 tvg-id="20:45-Torneo de Atenas 2ª Ronda-B. Nakashima-M. Giron" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:45-Torneo de Atenas 2ª Ronda-B. Nakashima-M. Giron
+http://192.168.18.75:8080/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0
+#EXTINF:-1 tvg-id="20:45-Torneo de Atenas 2ª Ronda-B. Nakashima-M. Giron" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:45-Torneo de Atenas 2ª Ronda-B. Nakashima-M. Giron
+http://192.168.18.75:8080/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7
+#EXTINF:-1 tvg-id="20:45-Torneo de Atenas 2ª Ronda-B. Nakashima-M. Giron" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:45-Torneo de Atenas 2ª Ronda-B. Nakashima-M. Giron
+http://192.168.18.75:8080/ace/getstream?id=aa31953b8af44b461102852d5b1247eea95b8050
+#EXTINF:-1 tvg-id="20:45-Torneo de Atenas 2ª Ronda-B. Nakashima-M. Giron" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:45-Torneo de Atenas 2ª Ronda-B. Nakashima-M. Giron
+http://192.168.18.75:8080/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Inter Milan-FC Kairat" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Inter Milan-FC Kairat
 http://192.168.18.75:8080/ace/getstream?id=77998f8161373611ff6b348e7eda5b4e97d3ec29
 #EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Inter Milan-FC Kairat" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Inter Milan-FC Kairat
