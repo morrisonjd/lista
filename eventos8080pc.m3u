@@ -173,16 +173,6 @@ http://192.168.18.75:8080/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5
 http://192.168.18.75:8080/ace/getstream?id=aa31953b8af44b461102852d5b1247eea95b8050
 #EXTINF:-1 tvg-id="20:35-Torneo de Metz 2ª Ronda-A. Vukic-M. Berrettini" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:35-Torneo de Metz 2ª Ronda-A. Vukic-M. Berrettini
 http://192.168.18.75:8080/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
-#EXTINF:-1 tvg-id="20:45-Torneo de Atenas 2ª Ronda-B. Nakashima-M. Giron" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:45-Torneo de Atenas 2ª Ronda-B. Nakashima-M. Giron
-http://192.168.18.75:8080/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee
-#EXTINF:-1 tvg-id="20:45-Torneo de Atenas 2ª Ronda-B. Nakashima-M. Giron" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:45-Torneo de Atenas 2ª Ronda-B. Nakashima-M. Giron
-http://192.168.18.75:8080/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0
-#EXTINF:-1 tvg-id="20:45-Torneo de Atenas 2ª Ronda-B. Nakashima-M. Giron" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:45-Torneo de Atenas 2ª Ronda-B. Nakashima-M. Giron
-http://192.168.18.75:8080/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7
-#EXTINF:-1 tvg-id="20:45-Torneo de Atenas 2ª Ronda-B. Nakashima-M. Giron" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:45-Torneo de Atenas 2ª Ronda-B. Nakashima-M. Giron
-http://192.168.18.75:8080/ace/getstream?id=aa31953b8af44b461102852d5b1247eea95b8050
-#EXTINF:-1 tvg-id="20:45-Torneo de Atenas 2ª Ronda-B. Nakashima-M. Giron" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:45-Torneo de Atenas 2ª Ronda-B. Nakashima-M. Giron
-http://192.168.18.75:8080/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Inter Milan-FC Kairat" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Inter Milan-FC Kairat
 http://192.168.18.75:8080/ace/getstream?id=77998f8161373611ff6b348e7eda5b4e97d3ec29
 #EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Inter Milan-FC Kairat" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Inter Milan-FC Kairat
@@ -287,3 +277,13 @@ http://192.168.18.75:8080/ace/getstream?id=e9f4493d2d851f4636720f639113e05b4a21a
 http://192.168.18.75:8080/ace/getstream?id=6fbab1d8d6bf93c4bc7552714aa3bb54ebf7b661
 #EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-O. Marseille-Atalanta" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-O. Marseille-Atalanta
 http://192.168.18.75:8080/ace/getstream?id=97f8a84212fe6b3d2ab15aadc83c7b5e6af656c9
+#EXTINF:-1 tvg-id="21:35-Torneo de Atenas 2ª Ronda-B. Nakashima-M. Giron" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:35-Torneo de Atenas 2ª Ronda-B. Nakashima-M. Giron
+http://192.168.18.75:8080/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee
+#EXTINF:-1 tvg-id="21:35-Torneo de Atenas 2ª Ronda-B. Nakashima-M. Giron" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:35-Torneo de Atenas 2ª Ronda-B. Nakashima-M. Giron
+http://192.168.18.75:8080/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0
+#EXTINF:-1 tvg-id="21:35-Torneo de Atenas 2ª Ronda-B. Nakashima-M. Giron" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:35-Torneo de Atenas 2ª Ronda-B. Nakashima-M. Giron
+http://192.168.18.75:8080/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7
+#EXTINF:-1 tvg-id="21:35-Torneo de Atenas 2ª Ronda-B. Nakashima-M. Giron" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:35-Torneo de Atenas 2ª Ronda-B. Nakashima-M. Giron
+http://192.168.18.75:8080/ace/getstream?id=aa31953b8af44b461102852d5b1247eea95b8050
+#EXTINF:-1 tvg-id="21:35-Torneo de Atenas 2ª Ronda-B. Nakashima-M. Giron" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:35-Torneo de Atenas 2ª Ronda-B. Nakashima-M. Giron
+http://192.168.18.75:8080/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
