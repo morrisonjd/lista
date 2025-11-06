@@ -79,6 +79,16 @@ http://192.168.18.75:8080/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5
 http://192.168.18.75:8080/ace/getstream?id=aa31953b8af44b461102852d5b1247eea95b8050
 #EXTINF:-1 tvg-id="18:00-Torneo de Metz 1/4 Final-C. Tabur-V. Sachko" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:00-Torneo de Metz 1/4 Final-C. Tabur-V. Sachko
 http://192.168.18.75:8080/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
+#EXTINF:-1 tvg-id="18:30-Torneo de Atenas 1/4 Final-M. Giron-Y. Hanfmann" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:30-Torneo de Atenas 1/4 Final-M. Giron-Y. Hanfmann
+http://192.168.18.75:8080/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee
+#EXTINF:-1 tvg-id="18:30-Torneo de Atenas 1/4 Final-M. Giron-Y. Hanfmann" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:30-Torneo de Atenas 1/4 Final-M. Giron-Y. Hanfmann
+http://192.168.18.75:8080/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0
+#EXTINF:-1 tvg-id="18:30-Torneo de Atenas 1/4 Final-M. Giron-Y. Hanfmann" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:30-Torneo de Atenas 1/4 Final-M. Giron-Y. Hanfmann
+http://192.168.18.75:8080/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7
+#EXTINF:-1 tvg-id="18:30-Torneo de Atenas 1/4 Final-M. Giron-Y. Hanfmann" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:30-Torneo de Atenas 1/4 Final-M. Giron-Y. Hanfmann
+http://192.168.18.75:8080/ace/getstream?id=aa31953b8af44b461102852d5b1247eea95b8050
+#EXTINF:-1 tvg-id="18:30-Torneo de Atenas 1/4 Final-M. Giron-Y. Hanfmann" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:30-Torneo de Atenas 1/4 Final-M. Giron-Y. Hanfmann
+http://192.168.18.75:8080/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="18:45-Europa League Fase Liga-Utrecht-FC Porto" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Europa League Fase Liga-Utrecht-FC Porto
 http://192.168.18.75:8080/ace/getstream?id=c6a3673f6a37b1bd3cf31fdd6404dd33d48cfccb
 #EXTINF:-1 tvg-id="18:45-Europa League Fase Liga-Utrecht-FC Porto" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Europa League Fase Liga-Utrecht-FC Porto
