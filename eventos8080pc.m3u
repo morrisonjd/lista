@@ -1,289 +1,827 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="13:10-Torneo de Atenas 2ª Ronda-M. Kecmanovic-L. Darderi" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",13:10-Torneo de Atenas 2ª Ronda-M. Kecmanovic-L. Darderi
+#EXTINF:-1 tvg-id="12:00-Torneo de Atenas 1/4 Final-S. Korda-M. Kecmanovic" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",12:00-Torneo de Atenas 1/4 Final-S. Korda-M. Kecmanovic
 http://192.168.18.75:8080/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee
-#EXTINF:-1 tvg-id="13:10-Torneo de Atenas 2ª Ronda-M. Kecmanovic-L. Darderi" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",13:10-Torneo de Atenas 2ª Ronda-M. Kecmanovic-L. Darderi
+#EXTINF:-1 tvg-id="12:00-Torneo de Atenas 1/4 Final-S. Korda-M. Kecmanovic" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",12:00-Torneo de Atenas 1/4 Final-S. Korda-M. Kecmanovic
 http://192.168.18.75:8080/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0
-#EXTINF:-1 tvg-id="13:10-Torneo de Atenas 2ª Ronda-M. Kecmanovic-L. Darderi" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",13:10-Torneo de Atenas 2ª Ronda-M. Kecmanovic-L. Darderi
+#EXTINF:-1 tvg-id="12:00-Torneo de Atenas 1/4 Final-S. Korda-M. Kecmanovic" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",12:00-Torneo de Atenas 1/4 Final-S. Korda-M. Kecmanovic
 http://192.168.18.75:8080/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7
-#EXTINF:-1 tvg-id="13:10-Torneo de Atenas 2ª Ronda-M. Kecmanovic-L. Darderi" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",13:10-Torneo de Atenas 2ª Ronda-M. Kecmanovic-L. Darderi
+#EXTINF:-1 tvg-id="12:00-Torneo de Atenas 1/4 Final-S. Korda-M. Kecmanovic" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",12:00-Torneo de Atenas 1/4 Final-S. Korda-M. Kecmanovic
 http://192.168.18.75:8080/ace/getstream?id=aa31953b8af44b461102852d5b1247eea95b8050
-#EXTINF:-1 tvg-id="13:10-Torneo de Atenas 2ª Ronda-M. Kecmanovic-L. Darderi" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",13:10-Torneo de Atenas 2ª Ronda-M. Kecmanovic-L. Darderi
+#EXTINF:-1 tvg-id="12:00-Torneo de Atenas 1/4 Final-S. Korda-M. Kecmanovic" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",12:00-Torneo de Atenas 1/4 Final-S. Korda-M. Kecmanovic
 http://192.168.18.75:8080/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
-#EXTINF:-1 tvg-id="14:10-Torneo de Metz 2ª Ronda-L. Tien-M. Echargu" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:10-Torneo de Metz 2ª Ronda-L. Tien-M. Echargu
+#EXTINF:-1 tvg-id="14:00-Torneo de Metz 1/4 Final-K. Jacquet-C. Norrie" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:00-Torneo de Metz 1/4 Final-K. Jacquet-C. Norrie
 http://192.168.18.75:8080/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee
-#EXTINF:-1 tvg-id="14:10-Torneo de Metz 2ª Ronda-L. Tien-M. Echargu" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:10-Torneo de Metz 2ª Ronda-L. Tien-M. Echargu
+#EXTINF:-1 tvg-id="14:00-Torneo de Metz 1/4 Final-K. Jacquet-C. Norrie" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:00-Torneo de Metz 1/4 Final-K. Jacquet-C. Norrie
 http://192.168.18.75:8080/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0
-#EXTINF:-1 tvg-id="14:10-Torneo de Metz 2ª Ronda-L. Tien-M. Echargu" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:10-Torneo de Metz 2ª Ronda-L. Tien-M. Echargu
+#EXTINF:-1 tvg-id="14:00-Torneo de Metz 1/4 Final-K. Jacquet-C. Norrie" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:00-Torneo de Metz 1/4 Final-K. Jacquet-C. Norrie
 http://192.168.18.75:8080/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7
-#EXTINF:-1 tvg-id="14:10-Torneo de Metz 2ª Ronda-L. Tien-M. Echargu" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:10-Torneo de Metz 2ª Ronda-L. Tien-M. Echargu
+#EXTINF:-1 tvg-id="14:00-Torneo de Metz 1/4 Final-K. Jacquet-C. Norrie" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:00-Torneo de Metz 1/4 Final-K. Jacquet-C. Norrie
 http://192.168.18.75:8080/ace/getstream?id=aa31953b8af44b461102852d5b1247eea95b8050
-#EXTINF:-1 tvg-id="14:10-Torneo de Metz 2ª Ronda-L. Tien-M. Echargu" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:10-Torneo de Metz 2ª Ronda-L. Tien-M. Echargu
+#EXTINF:-1 tvg-id="14:00-Torneo de Metz 1/4 Final-K. Jacquet-C. Norrie" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:00-Torneo de Metz 1/4 Final-K. Jacquet-C. Norrie
 http://192.168.18.75:8080/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
-#EXTINF:-1 tvg-id="15:15-WTA Finals Round Robin-E. Rybakina-E. Alexandrova" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:15-WTA Finals Round Robin-E. Rybakina-E. Alexandrova
+#EXTINF:-1 tvg-id="14:00-Torneo de Atenas 1/4 Final-A. Muller-L. Musetti" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:00-Torneo de Atenas 1/4 Final-A. Muller-L. Musetti
 http://192.168.18.75:8080/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee
-#EXTINF:-1 tvg-id="15:15-WTA Finals Round Robin-E. Rybakina-E. Alexandrova" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:15-WTA Finals Round Robin-E. Rybakina-E. Alexandrova
+#EXTINF:-1 tvg-id="14:00-Torneo de Atenas 1/4 Final-A. Muller-L. Musetti" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:00-Torneo de Atenas 1/4 Final-A. Muller-L. Musetti
 http://192.168.18.75:8080/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0
-#EXTINF:-1 tvg-id="15:15-WTA Finals Round Robin-E. Rybakina-E. Alexandrova" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:15-WTA Finals Round Robin-E. Rybakina-E. Alexandrova
+#EXTINF:-1 tvg-id="14:00-Torneo de Atenas 1/4 Final-A. Muller-L. Musetti" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:00-Torneo de Atenas 1/4 Final-A. Muller-L. Musetti
 http://192.168.18.75:8080/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7
-#EXTINF:-1 tvg-id="15:15-WTA Finals Round Robin-E. Rybakina-E. Alexandrova" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:15-WTA Finals Round Robin-E. Rybakina-E. Alexandrova
+#EXTINF:-1 tvg-id="14:00-Torneo de Atenas 1/4 Final-A. Muller-L. Musetti" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:00-Torneo de Atenas 1/4 Final-A. Muller-L. Musetti
 http://192.168.18.75:8080/ace/getstream?id=aa31953b8af44b461102852d5b1247eea95b8050
-#EXTINF:-1 tvg-id="15:15-WTA Finals Round Robin-E. Rybakina-E. Alexandrova" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:15-WTA Finals Round Robin-E. Rybakina-E. Alexandrova
+#EXTINF:-1 tvg-id="14:00-Torneo de Atenas 1/4 Final-A. Muller-L. Musetti" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:00-Torneo de Atenas 1/4 Final-A. Muller-L. Musetti
 http://192.168.18.75:8080/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
-#EXTINF:-1 tvg-id="15:25-Torneo de Atenas 2ª Ronda-A. Muller-TM. Etcheverry" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:25-Torneo de Atenas 2ª Ronda-A. Muller-TM. Etcheverry
+#EXTINF:-1 tvg-id="15:00-WTA Finals Round Robin-J. Pegula-J. Paolini" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:00-WTA Finals Round Robin-J. Pegula-J. Paolini
 http://192.168.18.75:8080/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee
-#EXTINF:-1 tvg-id="15:25-Torneo de Atenas 2ª Ronda-A. Muller-TM. Etcheverry" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:25-Torneo de Atenas 2ª Ronda-A. Muller-TM. Etcheverry
+#EXTINF:-1 tvg-id="15:00-WTA Finals Round Robin-J. Pegula-J. Paolini" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:00-WTA Finals Round Robin-J. Pegula-J. Paolini
 http://192.168.18.75:8080/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0
-#EXTINF:-1 tvg-id="15:25-Torneo de Atenas 2ª Ronda-A. Muller-TM. Etcheverry" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:25-Torneo de Atenas 2ª Ronda-A. Muller-TM. Etcheverry
+#EXTINF:-1 tvg-id="15:00-WTA Finals Round Robin-J. Pegula-J. Paolini" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:00-WTA Finals Round Robin-J. Pegula-J. Paolini
 http://192.168.18.75:8080/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7
-#EXTINF:-1 tvg-id="15:25-Torneo de Atenas 2ª Ronda-A. Muller-TM. Etcheverry" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:25-Torneo de Atenas 2ª Ronda-A. Muller-TM. Etcheverry
+#EXTINF:-1 tvg-id="15:00-WTA Finals Round Robin-J. Pegula-J. Paolini" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:00-WTA Finals Round Robin-J. Pegula-J. Paolini
 http://192.168.18.75:8080/ace/getstream?id=aa31953b8af44b461102852d5b1247eea95b8050
-#EXTINF:-1 tvg-id="15:25-Torneo de Atenas 2ª Ronda-A. Muller-TM. Etcheverry" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:25-Torneo de Atenas 2ª Ronda-A. Muller-TM. Etcheverry
+#EXTINF:-1 tvg-id="15:00-WTA Finals Round Robin-J. Pegula-J. Paolini" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:00-WTA Finals Round Robin-J. Pegula-J. Paolini
 http://192.168.18.75:8080/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
-#EXTINF:-1 tvg-id="16:05-Torneo de Metz 2ª Ronda-H. Gaston-D. Altmaier" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:05-Torneo de Metz 2ª Ronda-H. Gaston-D. Altmaier
+#EXTINF:-1 tvg-id="15:30-Torneo de Metz 1/4 Final-L. Sonego-D. Altmaier" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:30-Torneo de Metz 1/4 Final-L. Sonego-D. Altmaier
 http://192.168.18.75:8080/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee
-#EXTINF:-1 tvg-id="16:05-Torneo de Metz 2ª Ronda-H. Gaston-D. Altmaier" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:05-Torneo de Metz 2ª Ronda-H. Gaston-D. Altmaier
+#EXTINF:-1 tvg-id="15:30-Torneo de Metz 1/4 Final-L. Sonego-D. Altmaier" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:30-Torneo de Metz 1/4 Final-L. Sonego-D. Altmaier
 http://192.168.18.75:8080/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0
-#EXTINF:-1 tvg-id="16:05-Torneo de Metz 2ª Ronda-H. Gaston-D. Altmaier" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:05-Torneo de Metz 2ª Ronda-H. Gaston-D. Altmaier
+#EXTINF:-1 tvg-id="15:30-Torneo de Metz 1/4 Final-L. Sonego-D. Altmaier" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:30-Torneo de Metz 1/4 Final-L. Sonego-D. Altmaier
 http://192.168.18.75:8080/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7
-#EXTINF:-1 tvg-id="16:05-Torneo de Metz 2ª Ronda-H. Gaston-D. Altmaier" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:05-Torneo de Metz 2ª Ronda-H. Gaston-D. Altmaier
+#EXTINF:-1 tvg-id="15:30-Torneo de Metz 1/4 Final-L. Sonego-D. Altmaier" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:30-Torneo de Metz 1/4 Final-L. Sonego-D. Altmaier
 http://192.168.18.75:8080/ace/getstream?id=aa31953b8af44b461102852d5b1247eea95b8050
-#EXTINF:-1 tvg-id="16:05-Torneo de Metz 2ª Ronda-H. Gaston-D. Altmaier" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:05-Torneo de Metz 2ª Ronda-H. Gaston-D. Altmaier
+#EXTINF:-1 tvg-id="15:30-Torneo de Metz 1/4 Final-L. Sonego-D. Altmaier" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",15:30-Torneo de Metz 1/4 Final-L. Sonego-D. Altmaier
 http://192.168.18.75:8080/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
-#EXTINF:-1 tvg-id="16:50-WTA Finals Round Robin-I. Swiatek-A. Anisimova" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:50-WTA Finals Round Robin-I. Swiatek-A. Anisimova
+#EXTINF:-1 tvg-id="16:30-WTA Finals Round Robin-A. Sabalenka-C. Gauff" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:30-WTA Finals Round Robin-A. Sabalenka-C. Gauff
 http://192.168.18.75:8080/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee
-#EXTINF:-1 tvg-id="16:50-WTA Finals Round Robin-I. Swiatek-A. Anisimova" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:50-WTA Finals Round Robin-I. Swiatek-A. Anisimova
+#EXTINF:-1 tvg-id="16:30-WTA Finals Round Robin-A. Sabalenka-C. Gauff" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:30-WTA Finals Round Robin-A. Sabalenka-C. Gauff
 http://192.168.18.75:8080/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0
-#EXTINF:-1 tvg-id="16:50-WTA Finals Round Robin-I. Swiatek-A. Anisimova" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:50-WTA Finals Round Robin-I. Swiatek-A. Anisimova
+#EXTINF:-1 tvg-id="16:30-WTA Finals Round Robin-A. Sabalenka-C. Gauff" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:30-WTA Finals Round Robin-A. Sabalenka-C. Gauff
 http://192.168.18.75:8080/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7
-#EXTINF:-1 tvg-id="16:50-WTA Finals Round Robin-I. Swiatek-A. Anisimova" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:50-WTA Finals Round Robin-I. Swiatek-A. Anisimova
+#EXTINF:-1 tvg-id="16:30-WTA Finals Round Robin-A. Sabalenka-C. Gauff" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:30-WTA Finals Round Robin-A. Sabalenka-C. Gauff
 http://192.168.18.75:8080/ace/getstream?id=aa31953b8af44b461102852d5b1247eea95b8050
-#EXTINF:-1 tvg-id="16:50-WTA Finals Round Robin-I. Swiatek-A. Anisimova" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:50-WTA Finals Round Robin-I. Swiatek-A. Anisimova
+#EXTINF:-1 tvg-id="16:30-WTA Finals Round Robin-A. Sabalenka-C. Gauff" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:30-WTA Finals Round Robin-A. Sabalenka-C. Gauff
 http://192.168.18.75:8080/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
-#EXTINF:-1 tvg-id="18:00-Eurocup Liga Regular-BC Neptunas-BAXI Manresa" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:00-Eurocup Liga Regular-BC Neptunas-BAXI Manresa
-http://192.168.18.75:8080/ace/getstream?id=8c67cdb5ba81976662c3a67984a9545d9cfb0f70
-#EXTINF:-1 tvg-id="18:00-Eurocup Liga Regular-BC Neptunas-BAXI Manresa" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:00-Eurocup Liga Regular-BC Neptunas-BAXI Manresa
-http://192.168.18.75:8080/ace/getstream?id=b6ffbbc72a5b6b579faf79ebac229af7a25b933b
-#EXTINF:-1 tvg-id="18:00-Eurocup Liga Regular-BC Neptunas-BAXI Manresa" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:00-Eurocup Liga Regular-BC Neptunas-BAXI Manresa
-http://192.168.18.75:8080/ace/getstream?id=199190e3f28c1de0be34bccf0d3568dc65209b99
-#EXTINF:-1 tvg-id="18:00-Eurocup Liga Regular-BC Neptunas-BAXI Manresa" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:00-Eurocup Liga Regular-BC Neptunas-BAXI Manresa
-http://192.168.18.75:8080/ace/getstream?id=5866e83279307bf919068ae7a0d250e4e424e464
-#EXTINF:-1 tvg-id="18:00-Eurocup Liga Regular-BC Neptunas-BAXI Manresa" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:00-Eurocup Liga Regular-BC Neptunas-BAXI Manresa
-http://192.168.18.75:8080/ace/getstream?id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
-#EXTINF:-1 tvg-id="18:00-Eurocup Liga Regular-BC Neptunas-BAXI Manresa" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:00-Eurocup Liga Regular-BC Neptunas-BAXI Manresa
-http://192.168.18.75:8080/ace/getstream?id=3b2a8b41e7097c16b0468b42d7de0320886fa933
-#EXTINF:-1 tvg-id="18:00-Eurocup Liga Regular-BC Neptunas-BAXI Manresa" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:00-Eurocup Liga Regular-BC Neptunas-BAXI Manresa
-http://192.168.18.75:8080/ace/getstream?id=2940120bf034db79a7f5849846ccea0255172eae
-#EXTINF:-1 tvg-id="18:00-Eurocup Liga Regular-BC Neptunas-BAXI Manresa" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:00-Eurocup Liga Regular-BC Neptunas-BAXI Manresa
-http://192.168.18.75:8080/ace/getstream?id=651d6be899d1fafa107a265a9dc00ff914c1b548
-#EXTINF:-1 tvg-id="18:00-Eurocup Liga Regular-BC Neptunas-BAXI Manresa" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:00-Eurocup Liga Regular-BC Neptunas-BAXI Manresa
-http://192.168.18.75:8080/ace/getstream?id=4e99e755aa32c4bc043a4bb1cd1de35f9bd94dde
-#EXTINF:-1 tvg-id="18:00-Eurocup Liga Regular-BC Neptunas-BAXI Manresa" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:00-Eurocup Liga Regular-BC Neptunas-BAXI Manresa
-http://192.168.18.75:8080/ace/getstream?id=c7c81acdd1a03ecc418c94c2f28e2adb0556c40b
-#EXTINF:-1 tvg-id="18:00-Eurocup Liga Regular-BC Neptunas-BAXI Manresa" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:00-Eurocup Liga Regular-BC Neptunas-BAXI Manresa
-http://192.168.18.75:8080/ace/getstream?id=0e5d8c9724fa9163f49096b70484e315251eb785
-#EXTINF:-1 tvg-id="18:10-Torneo de Metz 2ª Ronda-V. Sachko-A. Bublik" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:10-Torneo de Metz 2ª Ronda-V. Sachko-A. Bublik
+#EXTINF:-1 tvg-id="17:00-Torneo de Atenas 1/4 Final-N. Djokovic-N. Borges" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:00-Torneo de Atenas 1/4 Final-N. Djokovic-N. Borges
 http://192.168.18.75:8080/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee
-#EXTINF:-1 tvg-id="18:10-Torneo de Metz 2ª Ronda-V. Sachko-A. Bublik" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:10-Torneo de Metz 2ª Ronda-V. Sachko-A. Bublik
+#EXTINF:-1 tvg-id="17:00-Torneo de Atenas 1/4 Final-N. Djokovic-N. Borges" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:00-Torneo de Atenas 1/4 Final-N. Djokovic-N. Borges
 http://192.168.18.75:8080/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0
-#EXTINF:-1 tvg-id="18:10-Torneo de Metz 2ª Ronda-V. Sachko-A. Bublik" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:10-Torneo de Metz 2ª Ronda-V. Sachko-A. Bublik
+#EXTINF:-1 tvg-id="17:00-Torneo de Atenas 1/4 Final-N. Djokovic-N. Borges" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:00-Torneo de Atenas 1/4 Final-N. Djokovic-N. Borges
 http://192.168.18.75:8080/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7
-#EXTINF:-1 tvg-id="18:10-Torneo de Metz 2ª Ronda-V. Sachko-A. Bublik" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:10-Torneo de Metz 2ª Ronda-V. Sachko-A. Bublik
+#EXTINF:-1 tvg-id="17:00-Torneo de Atenas 1/4 Final-N. Djokovic-N. Borges" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:00-Torneo de Atenas 1/4 Final-N. Djokovic-N. Borges
 http://192.168.18.75:8080/ace/getstream?id=aa31953b8af44b461102852d5b1247eea95b8050
-#EXTINF:-1 tvg-id="18:10-Torneo de Metz 2ª Ronda-V. Sachko-A. Bublik" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:10-Torneo de Metz 2ª Ronda-V. Sachko-A. Bublik
+#EXTINF:-1 tvg-id="17:00-Torneo de Atenas 1/4 Final-N. Djokovic-N. Borges" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:00-Torneo de Atenas 1/4 Final-N. Djokovic-N. Borges
 http://192.168.18.75:8080/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
-#EXTINF:-1 tvg-id="18:45-Champions League Fase Liga-Qarabag FK-Chelsea" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Champions League Fase Liga-Qarabag FK-Chelsea
-http://192.168.18.75:8080/ace/getstream?id=17b8bc4bf8e29547b0071c742e3d7da3bcbc484d
-#EXTINF:-1 tvg-id="18:45-Champions League Fase Liga-Qarabag FK-Chelsea" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Champions League Fase Liga-Qarabag FK-Chelsea
-http://192.168.18.75:8080/ace/getstream?id=1dece791d28be6a5af78537ac4864ec01fa0a6d8
-#EXTINF:-1 tvg-id="18:45-Champions League Fase Liga-Qarabag FK-Chelsea" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Champions League Fase Liga-Qarabag FK-Chelsea
-http://192.168.18.75:8080/ace/getstream?id=2b5129adc57d43790634d796fe3468b9fd061259
-#EXTINF:-1 tvg-id="18:45-Champions League Fase Liga-Qarabag FK-Chelsea" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Champions League Fase Liga-Qarabag FK-Chelsea
-http://192.168.18.75:8080/ace/getstream?id=4416843c96b7f7a1bc55c476091a60fff0922bc7
-#EXTINF:-1 tvg-id="18:45-Champions League Fase Liga-Qarabag FK-Chelsea" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Champions League Fase Liga-Qarabag FK-Chelsea
-http://192.168.18.75:8080/ace/getstream?id=cfc371890bfb502737a26de5215e50929c52d0f9
-#EXTINF:-1 tvg-id="18:45-Champions League Fase Liga-Qarabag FK-Chelsea" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Champions League Fase Liga-Qarabag FK-Chelsea
-http://192.168.18.75:8080/ace/getstream?id=90f7941c6bf7ca4b18084a1dca7bc15b9b179373
-#EXTINF:-1 tvg-id="18:45-Champions League Fase Liga-Pafos FC-Villarreal" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Champions League Fase Liga-Pafos FC-Villarreal
-http://192.168.18.75:8080/ace/getstream?id=678a1e93fbfbd499c329886bfdda780e73ac1786
-#EXTINF:-1 tvg-id="18:45-Champions League Fase Liga-Pafos FC-Villarreal" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Champions League Fase Liga-Pafos FC-Villarreal
-http://192.168.18.75:8080/ace/getstream?id=c16b4fab1f724c94cad92081cbb7fc7c6fe8a2cc
-#EXTINF:-1 tvg-id="18:45-Champions League Fase Liga-Pafos FC-Villarreal" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Champions League Fase Liga-Pafos FC-Villarreal
-http://192.168.18.75:8080/ace/getstream?id=778f08cbae9596ed9e8b2ae0af33ee7a6fe24c6a
-#EXTINF:-1 tvg-id="18:45-Champions League Fase Liga-Pafos FC-Villarreal" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Champions League Fase Liga-Pafos FC-Villarreal
-http://192.168.18.75:8080/ace/getstream?id=afbf2a479c5a5072698139f0f556ef3e77a99bd0
-#EXTINF:-1 tvg-id="18:45-Champions League Fase Liga-Pafos FC-Villarreal" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Champions League Fase Liga-Pafos FC-Villarreal
-http://192.168.18.75:8080/ace/getstream?id=afbf1ef8812e7b0a0977fa3a0a2d3a6d3cbd6c6f
-#EXTINF:-1 tvg-id="18:45-Champions League Fase Liga-Pafos FC-Villarreal" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Champions League Fase Liga-Pafos FC-Villarreal
-http://192.168.18.75:8080/ace/getstream?id=0f7842f8b6c26571e5a974407b61623e56e6a052
-#EXTINF:-1 tvg-id="18:45-Champions League Fase Liga-Pafos FC-Villarreal" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Champions League Fase Liga-Pafos FC-Villarreal
-http://192.168.18.75:8080/ace/getstream?id=f3eea003e23f94dc2d527306de9dd386e3ebf4ba
-#EXTINF:-1 tvg-id="18:45-Champions League Fase Liga-Pafos FC-Villarreal" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Champions League Fase Liga-Pafos FC-Villarreal
-http://192.168.18.75:8080/ace/getstream?id=97df5b7824948972d041d8ca2a4d29c90b641bc9
-#EXTINF:-1 tvg-id="18:45-Champions League Fase Liga-Pafos FC-Villarreal" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Champions League Fase Liga-Pafos FC-Villarreal
-http://192.168.18.75:8080/ace/getstream?id=2b51710cee513e8939785fa3e7980f32d4e0415f
-#EXTINF:-1 tvg-id="18:45-Champions League Fase Liga-Pafos FC-Villarreal" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Champions League Fase Liga-Pafos FC-Villarreal
-http://192.168.18.75:8080/ace/getstream?id=9db029dff6a9c637d1f670e78dbc1a479b9b406e
-#EXTINF:-1 tvg-id="18:45-Champions League Fase Liga-Pafos FC-Villarreal" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Champions League Fase Liga-Pafos FC-Villarreal
-http://192.168.18.75:8080/ace/getstream?id=e572a5178ff72eed7d1d751a18b4b3419699f370
-#EXTINF:-1 tvg-id="18:45-Torneo de Atenas 2ª Ronda-S. Wawrinka-L. Musetti" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:45-Torneo de Atenas 2ª Ronda-S. Wawrinka-L. Musetti
+#EXTINF:-1 tvg-id="18:00-Torneo de Metz 1/4 Final-C. Tabur-V. Sachko" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:00-Torneo de Metz 1/4 Final-C. Tabur-V. Sachko
 http://192.168.18.75:8080/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee
-#EXTINF:-1 tvg-id="18:45-Torneo de Atenas 2ª Ronda-S. Wawrinka-L. Musetti" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:45-Torneo de Atenas 2ª Ronda-S. Wawrinka-L. Musetti
+#EXTINF:-1 tvg-id="18:00-Torneo de Metz 1/4 Final-C. Tabur-V. Sachko" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:00-Torneo de Metz 1/4 Final-C. Tabur-V. Sachko
 http://192.168.18.75:8080/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0
-#EXTINF:-1 tvg-id="18:45-Torneo de Atenas 2ª Ronda-S. Wawrinka-L. Musetti" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:45-Torneo de Atenas 2ª Ronda-S. Wawrinka-L. Musetti
+#EXTINF:-1 tvg-id="18:00-Torneo de Metz 1/4 Final-C. Tabur-V. Sachko" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:00-Torneo de Metz 1/4 Final-C. Tabur-V. Sachko
 http://192.168.18.75:8080/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7
-#EXTINF:-1 tvg-id="18:45-Torneo de Atenas 2ª Ronda-S. Wawrinka-L. Musetti" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:45-Torneo de Atenas 2ª Ronda-S. Wawrinka-L. Musetti
+#EXTINF:-1 tvg-id="18:00-Torneo de Metz 1/4 Final-C. Tabur-V. Sachko" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:00-Torneo de Metz 1/4 Final-C. Tabur-V. Sachko
 http://192.168.18.75:8080/ace/getstream?id=aa31953b8af44b461102852d5b1247eea95b8050
-#EXTINF:-1 tvg-id="18:45-Torneo de Atenas 2ª Ronda-S. Wawrinka-L. Musetti" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:45-Torneo de Atenas 2ª Ronda-S. Wawrinka-L. Musetti
+#EXTINF:-1 tvg-id="18:00-Torneo de Metz 1/4 Final-C. Tabur-V. Sachko" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:00-Torneo de Metz 1/4 Final-C. Tabur-V. Sachko
 http://192.168.18.75:8080/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
-#EXTINF:-1 tvg-id="19:30-Euroliga Femenina Liga Regular-Spar Girona-USK Praga" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",19:30-Euroliga Femenina Liga Regular-Spar Girona-USK Praga
-http://192.168.18.75:8080/ace/getstream?id=8c67cdb5ba81976662c3a67984a9545d9cfb0f70
-#EXTINF:-1 tvg-id="19:30-Euroliga Femenina Liga Regular-Spar Girona-USK Praga" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",19:30-Euroliga Femenina Liga Regular-Spar Girona-USK Praga
-http://192.168.18.75:8080/ace/getstream?id=b6ffbbc72a5b6b579faf79ebac229af7a25b933b
-#EXTINF:-1 tvg-id="19:30-Euroliga Femenina Liga Regular-Spar Girona-USK Praga" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",19:30-Euroliga Femenina Liga Regular-Spar Girona-USK Praga
-http://192.168.18.75:8080/ace/getstream?id=199190e3f28c1de0be34bccf0d3568dc65209b99
-#EXTINF:-1 tvg-id="19:30-Euroliga Femenina Liga Regular-Spar Girona-USK Praga" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",19:30-Euroliga Femenina Liga Regular-Spar Girona-USK Praga
-http://192.168.18.75:8080/ace/getstream?id=5866e83279307bf919068ae7a0d250e4e424e464
-#EXTINF:-1 tvg-id="19:30-Euroliga Femenina Liga Regular-Spar Girona-USK Praga" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",19:30-Euroliga Femenina Liga Regular-Spar Girona-USK Praga
-http://192.168.18.75:8080/ace/getstream?id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
-#EXTINF:-1 tvg-id="20:00-Segunda-Real Sociedad B-Huesca" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",20:00-Segunda-Real Sociedad B-Huesca
-http://192.168.18.75:8080/ace/getstream?id=8ee52f6208e33706171856f99d2ed2dabd317f3a
-#EXTINF:-1 tvg-id="20:00-Segunda-Real Sociedad B-Huesca" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",20:00-Segunda-Real Sociedad B-Huesca
-http://192.168.18.75:8080/ace/getstream?id=70f22be1286ef224b5e4e9451d9a42468152cda4
-#EXTINF:-1 tvg-id="20:00-Segunda-Real Sociedad B-Huesca" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",20:00-Segunda-Real Sociedad B-Huesca
-http://192.168.18.75:8080/ace/getstream?id=87bb542f974b6b9e89d0f2e20ed6dc93426f4be0
-#EXTINF:-1 tvg-id="20:00-Segunda-Real Sociedad B-Huesca" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",20:00-Segunda-Real Sociedad B-Huesca
-http://192.168.18.75:8080/ace/getstream?id=a4f072c9b614323ac1258a175f868a909ea3c8cd
-#EXTINF:-1 tvg-id="20:00-Euroliga Liga Regular-Crvena Zvezda MTS Belgrade-Panathinaikos BC" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:00-Euroliga Liga Regular-Crvena Zvezda MTS Belgrade-Panathinaikos BC
-http://192.168.18.75:8080/ace/getstream?id=ef9dcc4eaac36a0f608b52a31f8ab237859e071a
-#EXTINF:-1 tvg-id="20:00-Euroliga Liga Regular-Crvena Zvezda MTS Belgrade-Panathinaikos BC" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:00-Euroliga Liga Regular-Crvena Zvezda MTS Belgrade-Panathinaikos BC
-http://192.168.18.75:8080/ace/getstream?id=5d3f582738467aaf213e408601aca5cc13fa9359
-#EXTINF:-1 tvg-id="20:00-Euroliga Liga Regular-Crvena Zvezda MTS Belgrade-Panathinaikos BC" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:00-Euroliga Liga Regular-Crvena Zvezda MTS Belgrade-Panathinaikos BC
-http://192.168.18.75:8080/ace/getstream?id=3692ea4cdda97eb0062ed5d656ebd61f149ebd0b
-#EXTINF:-1 tvg-id="20:00-Euroliga Liga Regular-Crvena Zvezda MTS Belgrade-Panathinaikos BC" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:00-Euroliga Liga Regular-Crvena Zvezda MTS Belgrade-Panathinaikos BC
-http://192.168.18.75:8080/ace/getstream?id=ebca4a63ce3bfda7b272964a1acc5227218184a4
-#EXTINF:-1 tvg-id="20:00-Euroliga Liga Regular-Crvena Zvezda MTS Belgrade-Panathinaikos BC" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:00-Euroliga Liga Regular-Crvena Zvezda MTS Belgrade-Panathinaikos BC
-http://192.168.18.75:8080/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3
-#EXTINF:-1 tvg-id="20:35-Torneo de Metz 2ª Ronda-A. Vukic-M. Berrettini" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:35-Torneo de Metz 2ª Ronda-A. Vukic-M. Berrettini
-http://192.168.18.75:8080/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee
-#EXTINF:-1 tvg-id="20:35-Torneo de Metz 2ª Ronda-A. Vukic-M. Berrettini" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:35-Torneo de Metz 2ª Ronda-A. Vukic-M. Berrettini
-http://192.168.18.75:8080/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0
-#EXTINF:-1 tvg-id="20:35-Torneo de Metz 2ª Ronda-A. Vukic-M. Berrettini" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:35-Torneo de Metz 2ª Ronda-A. Vukic-M. Berrettini
-http://192.168.18.75:8080/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7
-#EXTINF:-1 tvg-id="20:35-Torneo de Metz 2ª Ronda-A. Vukic-M. Berrettini" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:35-Torneo de Metz 2ª Ronda-A. Vukic-M. Berrettini
-http://192.168.18.75:8080/ace/getstream?id=aa31953b8af44b461102852d5b1247eea95b8050
-#EXTINF:-1 tvg-id="20:35-Torneo de Metz 2ª Ronda-A. Vukic-M. Berrettini" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:35-Torneo de Metz 2ª Ronda-A. Vukic-M. Berrettini
-http://192.168.18.75:8080/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
-#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Inter Milan-FC Kairat" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Inter Milan-FC Kairat
-http://192.168.18.75:8080/ace/getstream?id=77998f8161373611ff6b348e7eda5b4e97d3ec29
-#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Inter Milan-FC Kairat" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Inter Milan-FC Kairat
-http://192.168.18.75:8080/ace/getstream?id=53cd86466d1faed03a607be92af601f7e8da128f
-#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Inter Milan-FC Kairat" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Inter Milan-FC Kairat
-http://192.168.18.75:8080/ace/getstream?id=e9f4493d2d851f4636720f639113e05b4a21a74c
-#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Inter Milan-FC Kairat" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Inter Milan-FC Kairat
-http://192.168.18.75:8080/ace/getstream?id=6fbab1d8d6bf93c4bc7552714aa3bb54ebf7b661
-#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Inter Milan-FC Kairat" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Inter Milan-FC Kairat
-http://192.168.18.75:8080/ace/getstream?id=83c02982581a536d1321e38a77dc0c520b1cb842
-#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Manchester City-Borussia Dortmund" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Manchester City-Borussia Dortmund
-http://192.168.18.75:8080/ace/getstream?id=77998f8161373611ff6b348e7eda5b4e97d3ec29
-#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Manchester City-Borussia Dortmund" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Manchester City-Borussia Dortmund
-http://192.168.18.75:8080/ace/getstream?id=53cd86466d1faed03a607be92af601f7e8da128f
-#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Manchester City-Borussia Dortmund" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Manchester City-Borussia Dortmund
-http://192.168.18.75:8080/ace/getstream?id=e9f4493d2d851f4636720f639113e05b4a21a74c
-#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Manchester City-Borussia Dortmund" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Manchester City-Borussia Dortmund
-http://192.168.18.75:8080/ace/getstream?id=6fbab1d8d6bf93c4bc7552714aa3bb54ebf7b661
-#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Manchester City-Borussia Dortmund" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Manchester City-Borussia Dortmund
-http://192.168.18.75:8080/ace/getstream?id=cb6410a6355a645cfc6f6f5a7c7d71298fcbc2c5
-#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Manchester City-Borussia Dortmund" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Manchester City-Borussia Dortmund
-http://192.168.18.75:8080/ace/getstream?id=5620c0ce3dcbf14a6375cb2c2d681207f45eb97d
-#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Newcastle-Athletic Club" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Newcastle-Athletic Club
+#EXTINF:-1 tvg-id="18:45-Europa League Fase Liga-Utrecht-FC Porto" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Europa League Fase Liga-Utrecht-FC Porto
 http://192.168.18.75:8080/ace/getstream?id=c6a3673f6a37b1bd3cf31fdd6404dd33d48cfccb
-#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Newcastle-Athletic Club" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Newcastle-Athletic Club
+#EXTINF:-1 tvg-id="18:45-Europa League Fase Liga-Utrecht-FC Porto" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Europa League Fase Liga-Utrecht-FC Porto
 http://192.168.18.75:8080/ace/getstream?id=4fc6d0331830ad8743abab2fe2473b63bdfbc49f
-#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Newcastle-Athletic Club" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Newcastle-Athletic Club
+#EXTINF:-1 tvg-id="18:45-Europa League Fase Liga-Utrecht-FC Porto" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Europa League Fase Liga-Utrecht-FC Porto
 http://192.168.18.75:8080/ace/getstream?id=4b18a3b32df5960ed950fa907f8d509b1ad2a188
-#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Newcastle-Athletic Club" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Newcastle-Athletic Club
+#EXTINF:-1 tvg-id="18:45-Europa League Fase Liga-Utrecht-FC Porto" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Europa League Fase Liga-Utrecht-FC Porto
 http://192.168.18.75:8080/ace/getstream?id=ea03cc51980996ba6f2da49e30eee1de8a66ae54
-#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Newcastle-Athletic Club" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Newcastle-Athletic Club
+#EXTINF:-1 tvg-id="18:45-Europa League Fase Liga-Utrecht-FC Porto" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Europa League Fase Liga-Utrecht-FC Porto
 http://192.168.18.75:8080/ace/getstream?id=e7d8cae7f693fe46e89bbf74820caac9ffb32a30
-#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Newcastle-Athletic Club" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Newcastle-Athletic Club
+#EXTINF:-1 tvg-id="18:45-Europa League Fase Liga-Utrecht-FC Porto" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Europa League Fase Liga-Utrecht-FC Porto
 http://192.168.18.75:8080/ace/getstream?id=74ab4e4ec7e2da001f473ca40893b7307b8029c5
-#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Newcastle-Athletic Club" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Newcastle-Athletic Club
+#EXTINF:-1 tvg-id="18:45-Europa League Fase Liga-Utrecht-FC Porto" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Europa League Fase Liga-Utrecht-FC Porto
 http://192.168.18.75:8080/ace/getstream?id=38f7b2044e549df2039ff26cefa6f9a60c854d5e
-#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Newcastle-Athletic Club" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Newcastle-Athletic Club
+#EXTINF:-1 tvg-id="18:45-Europa League Fase Liga-Utrecht-FC Porto" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Europa League Fase Liga-Utrecht-FC Porto
 http://192.168.18.75:8080/ace/getstream?id=338b5de78b0b40a6f9ca3cc0cf9be93341b9ceea
-#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Newcastle-Athletic Club" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Newcastle-Athletic Club
-http://192.168.18.75:8080/ace/getstream?id=77998f8161373611ff6b348e7eda5b4e97d3ec29
-#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Newcastle-Athletic Club" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Newcastle-Athletic Club
-http://192.168.18.75:8080/ace/getstream?id=53cd86466d1faed03a607be92af601f7e8da128f
-#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Newcastle-Athletic Club" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Newcastle-Athletic Club
-http://192.168.18.75:8080/ace/getstream?id=e9f4493d2d851f4636720f639113e05b4a21a74c
-#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Newcastle-Athletic Club" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Newcastle-Athletic Club
-http://192.168.18.75:8080/ace/getstream?id=6fbab1d8d6bf93c4bc7552714aa3bb54ebf7b661
-#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Ajax-Galatasaray" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Ajax-Galatasaray
-http://192.168.18.75:8080/ace/getstream?id=77998f8161373611ff6b348e7eda5b4e97d3ec29
-#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Ajax-Galatasaray" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Ajax-Galatasaray
-http://192.168.18.75:8080/ace/getstream?id=53cd86466d1faed03a607be92af601f7e8da128f
-#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Ajax-Galatasaray" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Ajax-Galatasaray
-http://192.168.18.75:8080/ace/getstream?id=e9f4493d2d851f4636720f639113e05b4a21a74c
-#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Ajax-Galatasaray" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Ajax-Galatasaray
-http://192.168.18.75:8080/ace/getstream?id=6fbab1d8d6bf93c4bc7552714aa3bb54ebf7b661
-#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Benfica-Bayer Leverkusen" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Benfica-Bayer Leverkusen
-http://192.168.18.75:8080/ace/getstream?id=77998f8161373611ff6b348e7eda5b4e97d3ec29
-#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Benfica-Bayer Leverkusen" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Benfica-Bayer Leverkusen
-http://192.168.18.75:8080/ace/getstream?id=53cd86466d1faed03a607be92af601f7e8da128f
-#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Benfica-Bayer Leverkusen" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Benfica-Bayer Leverkusen
-http://192.168.18.75:8080/ace/getstream?id=e9f4493d2d851f4636720f639113e05b4a21a74c
-#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Benfica-Bayer Leverkusen" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Benfica-Bayer Leverkusen
-http://192.168.18.75:8080/ace/getstream?id=6fbab1d8d6bf93c4bc7552714aa3bb54ebf7b661
-#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Benfica-Bayer Leverkusen" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Benfica-Bayer Leverkusen
+#EXTINF:-1 tvg-id="18:45-Europa League Fase Liga-Utrecht-FC Porto" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Europa League Fase Liga-Utrecht-FC Porto
+http://192.168.18.75:8080/ace/getstream?id=17b8bc4bf8e29547b0071c742e3d7da3bcbc484d
+#EXTINF:-1 tvg-id="18:45-Europa League Fase Liga-Utrecht-FC Porto" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Europa League Fase Liga-Utrecht-FC Porto
+http://192.168.18.75:8080/ace/getstream?id=1dece791d28be6a5af78537ac4864ec01fa0a6d8
+#EXTINF:-1 tvg-id="18:45-Europa League Fase Liga-Utrecht-FC Porto" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Europa League Fase Liga-Utrecht-FC Porto
+http://192.168.18.75:8080/ace/getstream?id=2b5129adc57d43790634d796fe3468b9fd061259
+#EXTINF:-1 tvg-id="18:45-Europa League Fase Liga-Utrecht-FC Porto" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Europa League Fase Liga-Utrecht-FC Porto
+http://192.168.18.75:8080/ace/getstream?id=4416843c96b7f7a1bc55c476091a60fff0922bc7
+#EXTINF:-1 tvg-id="18:45-Europa League Fase Liga-Utrecht-FC Porto" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Europa League Fase Liga-Utrecht-FC Porto
+http://192.168.18.75:8080/ace/getstream?id=cfc371890bfb502737a26de5215e50929c52d0f9
+#EXTINF:-1 tvg-id="18:45-Europa League Fase Liga-Utrecht-FC Porto" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Europa League Fase Liga-Utrecht-FC Porto
+http://192.168.18.75:8080/ace/getstream?id=90f7941c6bf7ca4b18084a1dca7bc15b9b179373
+#EXTINF:-1 tvg-id="18:45-Europa League Fase Liga-FC Basel-FCSB" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Europa League Fase Liga-FC Basel-FCSB
+http://192.168.18.75:8080/ace/getstream?id=17b8bc4bf8e29547b0071c742e3d7da3bcbc484d
+#EXTINF:-1 tvg-id="18:45-Europa League Fase Liga-FC Basel-FCSB" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Europa League Fase Liga-FC Basel-FCSB
+http://192.168.18.75:8080/ace/getstream?id=1dece791d28be6a5af78537ac4864ec01fa0a6d8
+#EXTINF:-1 tvg-id="18:45-Europa League Fase Liga-FC Basel-FCSB" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Europa League Fase Liga-FC Basel-FCSB
+http://192.168.18.75:8080/ace/getstream?id=2b5129adc57d43790634d796fe3468b9fd061259
+#EXTINF:-1 tvg-id="18:45-Europa League Fase Liga-FC Basel-FCSB" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Europa League Fase Liga-FC Basel-FCSB
+http://192.168.18.75:8080/ace/getstream?id=4416843c96b7f7a1bc55c476091a60fff0922bc7
+#EXTINF:-1 tvg-id="18:45-Europa League Fase Liga-FC Basel-FCSB" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Europa League Fase Liga-FC Basel-FCSB
+http://192.168.18.75:8080/ace/getstream?id=cfc371890bfb502737a26de5215e50929c52d0f9
+#EXTINF:-1 tvg-id="18:45-Europa League Fase Liga-FC Basel-FCSB" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Europa League Fase Liga-FC Basel-FCSB
+http://192.168.18.75:8080/ace/getstream?id=90f7941c6bf7ca4b18084a1dca7bc15b9b179373
+#EXTINF:-1 tvg-id="18:45-Europa League Fase Liga-FC Basel-FCSB" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Europa League Fase Liga-FC Basel-FCSB
+http://192.168.18.75:8080/ace/getstream?id=83c02982581a536d1321e38a77dc0c520b1cb842
+#EXTINF:-1 tvg-id="18:45-Europa League Fase Liga-Nice-Freiburg" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Europa League Fase Liga-Nice-Freiburg
+http://192.168.18.75:8080/ace/getstream?id=17b8bc4bf8e29547b0071c742e3d7da3bcbc484d
+#EXTINF:-1 tvg-id="18:45-Europa League Fase Liga-Nice-Freiburg" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Europa League Fase Liga-Nice-Freiburg
+http://192.168.18.75:8080/ace/getstream?id=1dece791d28be6a5af78537ac4864ec01fa0a6d8
+#EXTINF:-1 tvg-id="18:45-Europa League Fase Liga-Nice-Freiburg" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Europa League Fase Liga-Nice-Freiburg
+http://192.168.18.75:8080/ace/getstream?id=2b5129adc57d43790634d796fe3468b9fd061259
+#EXTINF:-1 tvg-id="18:45-Europa League Fase Liga-Nice-Freiburg" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Europa League Fase Liga-Nice-Freiburg
+http://192.168.18.75:8080/ace/getstream?id=4416843c96b7f7a1bc55c476091a60fff0922bc7
+#EXTINF:-1 tvg-id="18:45-Europa League Fase Liga-Nice-Freiburg" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Europa League Fase Liga-Nice-Freiburg
+http://192.168.18.75:8080/ace/getstream?id=cfc371890bfb502737a26de5215e50929c52d0f9
+#EXTINF:-1 tvg-id="18:45-Europa League Fase Liga-Nice-Freiburg" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Europa League Fase Liga-Nice-Freiburg
+http://192.168.18.75:8080/ace/getstream?id=90f7941c6bf7ca4b18084a1dca7bc15b9b179373
+#EXTINF:-1 tvg-id="18:45-Europa League Fase Liga-Nice-Freiburg" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Europa League Fase Liga-Nice-Freiburg
 http://192.168.18.75:8080/ace/getstream?id=976983697790ab8a07b764b08843529d38bc6444
-#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Club Brugge-FC Barcelona" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Club Brugge-FC Barcelona
+#EXTINF:-1 tvg-id="18:45-Europa League Fase Liga-Malmö FF-Panathinaikos" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Europa League Fase Liga-Malmö FF-Panathinaikos
+http://192.168.18.75:8080/ace/getstream?id=17b8bc4bf8e29547b0071c742e3d7da3bcbc484d
+#EXTINF:-1 tvg-id="18:45-Europa League Fase Liga-Malmö FF-Panathinaikos" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Europa League Fase Liga-Malmö FF-Panathinaikos
+http://192.168.18.75:8080/ace/getstream?id=1dece791d28be6a5af78537ac4864ec01fa0a6d8
+#EXTINF:-1 tvg-id="18:45-Europa League Fase Liga-Malmö FF-Panathinaikos" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Europa League Fase Liga-Malmö FF-Panathinaikos
+http://192.168.18.75:8080/ace/getstream?id=2b5129adc57d43790634d796fe3468b9fd061259
+#EXTINF:-1 tvg-id="18:45-Europa League Fase Liga-Malmö FF-Panathinaikos" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Europa League Fase Liga-Malmö FF-Panathinaikos
+http://192.168.18.75:8080/ace/getstream?id=4416843c96b7f7a1bc55c476091a60fff0922bc7
+#EXTINF:-1 tvg-id="18:45-Europa League Fase Liga-Malmö FF-Panathinaikos" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Europa League Fase Liga-Malmö FF-Panathinaikos
+http://192.168.18.75:8080/ace/getstream?id=cfc371890bfb502737a26de5215e50929c52d0f9
+#EXTINF:-1 tvg-id="18:45-Europa League Fase Liga-Malmö FF-Panathinaikos" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Europa League Fase Liga-Malmö FF-Panathinaikos
+http://192.168.18.75:8080/ace/getstream?id=90f7941c6bf7ca4b18084a1dca7bc15b9b179373
+#EXTINF:-1 tvg-id="18:45-Europa League Fase Liga-Sturm Graz-Nottingham Forest" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Europa League Fase Liga-Sturm Graz-Nottingham Forest
+http://192.168.18.75:8080/ace/getstream?id=17b8bc4bf8e29547b0071c742e3d7da3bcbc484d
+#EXTINF:-1 tvg-id="18:45-Europa League Fase Liga-Sturm Graz-Nottingham Forest" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Europa League Fase Liga-Sturm Graz-Nottingham Forest
+http://192.168.18.75:8080/ace/getstream?id=1dece791d28be6a5af78537ac4864ec01fa0a6d8
+#EXTINF:-1 tvg-id="18:45-Europa League Fase Liga-Sturm Graz-Nottingham Forest" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Europa League Fase Liga-Sturm Graz-Nottingham Forest
+http://192.168.18.75:8080/ace/getstream?id=2b5129adc57d43790634d796fe3468b9fd061259
+#EXTINF:-1 tvg-id="18:45-Europa League Fase Liga-Sturm Graz-Nottingham Forest" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Europa League Fase Liga-Sturm Graz-Nottingham Forest
+http://192.168.18.75:8080/ace/getstream?id=4416843c96b7f7a1bc55c476091a60fff0922bc7
+#EXTINF:-1 tvg-id="18:45-Europa League Fase Liga-Sturm Graz-Nottingham Forest" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Europa League Fase Liga-Sturm Graz-Nottingham Forest
+http://192.168.18.75:8080/ace/getstream?id=cfc371890bfb502737a26de5215e50929c52d0f9
+#EXTINF:-1 tvg-id="18:45-Europa League Fase Liga-Sturm Graz-Nottingham Forest" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Europa League Fase Liga-Sturm Graz-Nottingham Forest
+http://192.168.18.75:8080/ace/getstream?id=90f7941c6bf7ca4b18084a1dca7bc15b9b179373
+#EXTINF:-1 tvg-id="18:45-Europa League Fase Liga-Sturm Graz-Nottingham Forest" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Europa League Fase Liga-Sturm Graz-Nottingham Forest
+http://192.168.18.75:8080/ace/getstream?id=77998f8161373611ff6b348e7eda5b4e97d3ec29
+#EXTINF:-1 tvg-id="18:45-Europa League Fase Liga-Sturm Graz-Nottingham Forest" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Europa League Fase Liga-Sturm Graz-Nottingham Forest
+http://192.168.18.75:8080/ace/getstream?id=53cd86466d1faed03a607be92af601f7e8da128f
+#EXTINF:-1 tvg-id="18:45-Europa League Fase Liga-Sturm Graz-Nottingham Forest" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Europa League Fase Liga-Sturm Graz-Nottingham Forest
+http://192.168.18.75:8080/ace/getstream?id=e9f4493d2d851f4636720f639113e05b4a21a74c
+#EXTINF:-1 tvg-id="18:45-Europa League Fase Liga-Sturm Graz-Nottingham Forest" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Europa League Fase Liga-Sturm Graz-Nottingham Forest
+http://192.168.18.75:8080/ace/getstream?id=6fbab1d8d6bf93c4bc7552714aa3bb54ebf7b661
+#EXTINF:-1 tvg-id="18:45-Europa League Fase Liga-GNK Dinamo Zagreb-Celta" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Europa League Fase Liga-GNK Dinamo Zagreb-Celta
 http://192.168.18.75:8080/ace/getstream?id=678a1e93fbfbd499c329886bfdda780e73ac1786
-#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Club Brugge-FC Barcelona" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Club Brugge-FC Barcelona
+#EXTINF:-1 tvg-id="18:45-Europa League Fase Liga-GNK Dinamo Zagreb-Celta" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Europa League Fase Liga-GNK Dinamo Zagreb-Celta
 http://192.168.18.75:8080/ace/getstream?id=c16b4fab1f724c94cad92081cbb7fc7c6fe8a2cc
-#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Club Brugge-FC Barcelona" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Club Brugge-FC Barcelona
+#EXTINF:-1 tvg-id="18:45-Europa League Fase Liga-GNK Dinamo Zagreb-Celta" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Europa League Fase Liga-GNK Dinamo Zagreb-Celta
 http://192.168.18.75:8080/ace/getstream?id=778f08cbae9596ed9e8b2ae0af33ee7a6fe24c6a
-#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Club Brugge-FC Barcelona" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Club Brugge-FC Barcelona
+#EXTINF:-1 tvg-id="18:45-Europa League Fase Liga-GNK Dinamo Zagreb-Celta" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Europa League Fase Liga-GNK Dinamo Zagreb-Celta
 http://192.168.18.75:8080/ace/getstream?id=afbf2a479c5a5072698139f0f556ef3e77a99bd0
-#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Club Brugge-FC Barcelona" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Club Brugge-FC Barcelona
+#EXTINF:-1 tvg-id="18:45-Europa League Fase Liga-GNK Dinamo Zagreb-Celta" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Europa League Fase Liga-GNK Dinamo Zagreb-Celta
 http://192.168.18.75:8080/ace/getstream?id=afbf1ef8812e7b0a0977fa3a0a2d3a6d3cbd6c6f
-#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Club Brugge-FC Barcelona" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Club Brugge-FC Barcelona
+#EXTINF:-1 tvg-id="18:45-Europa League Fase Liga-GNK Dinamo Zagreb-Celta" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Europa League Fase Liga-GNK Dinamo Zagreb-Celta
 http://192.168.18.75:8080/ace/getstream?id=0f7842f8b6c26571e5a974407b61623e56e6a052
-#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Club Brugge-FC Barcelona" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Club Brugge-FC Barcelona
+#EXTINF:-1 tvg-id="18:45-Europa League Fase Liga-GNK Dinamo Zagreb-Celta" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Europa League Fase Liga-GNK Dinamo Zagreb-Celta
 http://192.168.18.75:8080/ace/getstream?id=f3eea003e23f94dc2d527306de9dd386e3ebf4ba
-#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Club Brugge-FC Barcelona" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Club Brugge-FC Barcelona
+#EXTINF:-1 tvg-id="18:45-Europa League Fase Liga-GNK Dinamo Zagreb-Celta" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Europa League Fase Liga-GNK Dinamo Zagreb-Celta
 http://192.168.18.75:8080/ace/getstream?id=97df5b7824948972d041d8ca2a4d29c90b641bc9
-#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Club Brugge-FC Barcelona" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Club Brugge-FC Barcelona
+#EXTINF:-1 tvg-id="18:45-Europa League Fase Liga-GNK Dinamo Zagreb-Celta" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Europa League Fase Liga-GNK Dinamo Zagreb-Celta
 http://192.168.18.75:8080/ace/getstream?id=2b51710cee513e8939785fa3e7980f32d4e0415f
-#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Club Brugge-FC Barcelona" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Club Brugge-FC Barcelona
+#EXTINF:-1 tvg-id="18:45-Europa League Fase Liga-GNK Dinamo Zagreb-Celta" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Europa League Fase Liga-GNK Dinamo Zagreb-Celta
 http://192.168.18.75:8080/ace/getstream?id=9db029dff6a9c637d1f670e78dbc1a479b9b406e
-#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Club Brugge-FC Barcelona" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Club Brugge-FC Barcelona
+#EXTINF:-1 tvg-id="18:45-Europa League Fase Liga-GNK Dinamo Zagreb-Celta" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Europa League Fase Liga-GNK Dinamo Zagreb-Celta
 http://192.168.18.75:8080/ace/getstream?id=e572a5178ff72eed7d1d751a18b4b3419699f370
-#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Club Brugge-FC Barcelona" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Club Brugge-FC Barcelona
-http://192.168.18.75:8080/ace/getstream?id=77998f8161373611ff6b348e7eda5b4e97d3ec29
-#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Club Brugge-FC Barcelona" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Club Brugge-FC Barcelona
-http://192.168.18.75:8080/ace/getstream?id=53cd86466d1faed03a607be92af601f7e8da128f
-#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Club Brugge-FC Barcelona" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Club Brugge-FC Barcelona
-http://192.168.18.75:8080/ace/getstream?id=e9f4493d2d851f4636720f639113e05b4a21a74c
-#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Club Brugge-FC Barcelona" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Club Brugge-FC Barcelona
-http://192.168.18.75:8080/ace/getstream?id=6fbab1d8d6bf93c4bc7552714aa3bb54ebf7b661
-#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-O. Marseille-Atalanta" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-O. Marseille-Atalanta
-http://192.168.18.75:8080/ace/getstream?id=77998f8161373611ff6b348e7eda5b4e97d3ec29
-#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-O. Marseille-Atalanta" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-O. Marseille-Atalanta
-http://192.168.18.75:8080/ace/getstream?id=53cd86466d1faed03a607be92af601f7e8da128f
-#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-O. Marseille-Atalanta" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-O. Marseille-Atalanta
-http://192.168.18.75:8080/ace/getstream?id=e9f4493d2d851f4636720f639113e05b4a21a74c
-#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-O. Marseille-Atalanta" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-O. Marseille-Atalanta
-http://192.168.18.75:8080/ace/getstream?id=6fbab1d8d6bf93c4bc7552714aa3bb54ebf7b661
-#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-O. Marseille-Atalanta" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-O. Marseille-Atalanta
+#EXTINF:-1 tvg-id="18:45-Europa League Fase Liga-GNK Dinamo Zagreb-Celta" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Europa League Fase Liga-GNK Dinamo Zagreb-Celta
+http://192.168.18.75:8080/ace/getstream?id=17b8bc4bf8e29547b0071c742e3d7da3bcbc484d
+#EXTINF:-1 tvg-id="18:45-Europa League Fase Liga-GNK Dinamo Zagreb-Celta" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Europa League Fase Liga-GNK Dinamo Zagreb-Celta
+http://192.168.18.75:8080/ace/getstream?id=1dece791d28be6a5af78537ac4864ec01fa0a6d8
+#EXTINF:-1 tvg-id="18:45-Europa League Fase Liga-GNK Dinamo Zagreb-Celta" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Europa League Fase Liga-GNK Dinamo Zagreb-Celta
+http://192.168.18.75:8080/ace/getstream?id=2b5129adc57d43790634d796fe3468b9fd061259
+#EXTINF:-1 tvg-id="18:45-Europa League Fase Liga-GNK Dinamo Zagreb-Celta" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Europa League Fase Liga-GNK Dinamo Zagreb-Celta
+http://192.168.18.75:8080/ace/getstream?id=4416843c96b7f7a1bc55c476091a60fff0922bc7
+#EXTINF:-1 tvg-id="18:45-Europa League Fase Liga-GNK Dinamo Zagreb-Celta" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Europa League Fase Liga-GNK Dinamo Zagreb-Celta
+http://192.168.18.75:8080/ace/getstream?id=cfc371890bfb502737a26de5215e50929c52d0f9
+#EXTINF:-1 tvg-id="18:45-Europa League Fase Liga-GNK Dinamo Zagreb-Celta" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Europa League Fase Liga-GNK Dinamo Zagreb-Celta
+http://192.168.18.75:8080/ace/getstream?id=90f7941c6bf7ca4b18084a1dca7bc15b9b179373
+#EXTINF:-1 tvg-id="18:45-Europa League Fase Liga-Red Bull Salzburg-Go Ahead Eagles" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Europa League Fase Liga-Red Bull Salzburg-Go Ahead Eagles
+http://192.168.18.75:8080/ace/getstream?id=17b8bc4bf8e29547b0071c742e3d7da3bcbc484d
+#EXTINF:-1 tvg-id="18:45-Europa League Fase Liga-Red Bull Salzburg-Go Ahead Eagles" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Europa League Fase Liga-Red Bull Salzburg-Go Ahead Eagles
+http://192.168.18.75:8080/ace/getstream?id=1dece791d28be6a5af78537ac4864ec01fa0a6d8
+#EXTINF:-1 tvg-id="18:45-Europa League Fase Liga-Red Bull Salzburg-Go Ahead Eagles" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Europa League Fase Liga-Red Bull Salzburg-Go Ahead Eagles
+http://192.168.18.75:8080/ace/getstream?id=2b5129adc57d43790634d796fe3468b9fd061259
+#EXTINF:-1 tvg-id="18:45-Europa League Fase Liga-Red Bull Salzburg-Go Ahead Eagles" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Europa League Fase Liga-Red Bull Salzburg-Go Ahead Eagles
+http://192.168.18.75:8080/ace/getstream?id=4416843c96b7f7a1bc55c476091a60fff0922bc7
+#EXTINF:-1 tvg-id="18:45-Europa League Fase Liga-Red Bull Salzburg-Go Ahead Eagles" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Europa League Fase Liga-Red Bull Salzburg-Go Ahead Eagles
+http://192.168.18.75:8080/ace/getstream?id=cfc371890bfb502737a26de5215e50929c52d0f9
+#EXTINF:-1 tvg-id="18:45-Europa League Fase Liga-Red Bull Salzburg-Go Ahead Eagles" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Europa League Fase Liga-Red Bull Salzburg-Go Ahead Eagles
+http://192.168.18.75:8080/ace/getstream?id=90f7941c6bf7ca4b18084a1dca7bc15b9b179373
+#EXTINF:-1 tvg-id="18:45-Europa League Fase Liga-FC Midtjylland-Celtic FC" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Europa League Fase Liga-FC Midtjylland-Celtic FC
+http://192.168.18.75:8080/ace/getstream?id=17b8bc4bf8e29547b0071c742e3d7da3bcbc484d
+#EXTINF:-1 tvg-id="18:45-Europa League Fase Liga-FC Midtjylland-Celtic FC" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Europa League Fase Liga-FC Midtjylland-Celtic FC
+http://192.168.18.75:8080/ace/getstream?id=1dece791d28be6a5af78537ac4864ec01fa0a6d8
+#EXTINF:-1 tvg-id="18:45-Europa League Fase Liga-FC Midtjylland-Celtic FC" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Europa League Fase Liga-FC Midtjylland-Celtic FC
+http://192.168.18.75:8080/ace/getstream?id=2b5129adc57d43790634d796fe3468b9fd061259
+#EXTINF:-1 tvg-id="18:45-Europa League Fase Liga-FC Midtjylland-Celtic FC" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Europa League Fase Liga-FC Midtjylland-Celtic FC
+http://192.168.18.75:8080/ace/getstream?id=4416843c96b7f7a1bc55c476091a60fff0922bc7
+#EXTINF:-1 tvg-id="18:45-Europa League Fase Liga-FC Midtjylland-Celtic FC" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Europa League Fase Liga-FC Midtjylland-Celtic FC
+http://192.168.18.75:8080/ace/getstream?id=cfc371890bfb502737a26de5215e50929c52d0f9
+#EXTINF:-1 tvg-id="18:45-Europa League Fase Liga-FC Midtjylland-Celtic FC" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Europa League Fase Liga-FC Midtjylland-Celtic FC
+http://192.168.18.75:8080/ace/getstream?id=90f7941c6bf7ca4b18084a1dca7bc15b9b179373
+#EXTINF:-1 tvg-id="18:45-Europa League Fase Liga-FC Midtjylland-Celtic FC" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Europa League Fase Liga-FC Midtjylland-Celtic FC
+http://192.168.18.75:8080/ace/getstream?id=cb6410a6355a645cfc6f6f5a7c7d71298fcbc2c5
+#EXTINF:-1 tvg-id="18:45-Europa League Fase Liga-FC Midtjylland-Celtic FC" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Europa League Fase Liga-FC Midtjylland-Celtic FC
+http://192.168.18.75:8080/ace/getstream?id=5620c0ce3dcbf14a6375cb2c2d681207f45eb97d
+#EXTINF:-1 tvg-id="18:45-Europa League Fase Liga-Crvena Zvezda-Lille" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Europa League Fase Liga-Crvena Zvezda-Lille
+http://192.168.18.75:8080/ace/getstream?id=17b8bc4bf8e29547b0071c742e3d7da3bcbc484d
+#EXTINF:-1 tvg-id="18:45-Europa League Fase Liga-Crvena Zvezda-Lille" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Europa League Fase Liga-Crvena Zvezda-Lille
+http://192.168.18.75:8080/ace/getstream?id=1dece791d28be6a5af78537ac4864ec01fa0a6d8
+#EXTINF:-1 tvg-id="18:45-Europa League Fase Liga-Crvena Zvezda-Lille" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Europa League Fase Liga-Crvena Zvezda-Lille
+http://192.168.18.75:8080/ace/getstream?id=2b5129adc57d43790634d796fe3468b9fd061259
+#EXTINF:-1 tvg-id="18:45-Europa League Fase Liga-Crvena Zvezda-Lille" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Europa League Fase Liga-Crvena Zvezda-Lille
+http://192.168.18.75:8080/ace/getstream?id=4416843c96b7f7a1bc55c476091a60fff0922bc7
+#EXTINF:-1 tvg-id="18:45-Europa League Fase Liga-Crvena Zvezda-Lille" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Europa League Fase Liga-Crvena Zvezda-Lille
+http://192.168.18.75:8080/ace/getstream?id=cfc371890bfb502737a26de5215e50929c52d0f9
+#EXTINF:-1 tvg-id="18:45-Europa League Fase Liga-Crvena Zvezda-Lille" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Europa League Fase Liga-Crvena Zvezda-Lille
+http://192.168.18.75:8080/ace/getstream?id=90f7941c6bf7ca4b18084a1dca7bc15b9b179373
+#EXTINF:-1 tvg-id="18:45-Europa League Fase Liga-Crvena Zvezda-Lille" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Europa League Fase Liga-Crvena Zvezda-Lille
 http://192.168.18.75:8080/ace/getstream?id=97f8a84212fe6b3d2ab15aadc83c7b5e6af656c9
-#EXTINF:-1 tvg-id="21:35-Torneo de Atenas 2ª Ronda-B. Nakashima-M. Giron" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:35-Torneo de Atenas 2ª Ronda-B. Nakashima-M. Giron
+#EXTINF:-1 tvg-id="18:45-Conference League Fase Liga-Mainz 05-Fiorentina" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League Fase Liga-Mainz 05-Fiorentina
+http://192.168.18.75:8080/ace/getstream?id=17b8bc4bf8e29547b0071c742e3d7da3bcbc484d
+#EXTINF:-1 tvg-id="18:45-Conference League Fase Liga-Mainz 05-Fiorentina" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League Fase Liga-Mainz 05-Fiorentina
+http://192.168.18.75:8080/ace/getstream?id=1dece791d28be6a5af78537ac4864ec01fa0a6d8
+#EXTINF:-1 tvg-id="18:45-Conference League Fase Liga-Mainz 05-Fiorentina" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League Fase Liga-Mainz 05-Fiorentina
+http://192.168.18.75:8080/ace/getstream?id=2b5129adc57d43790634d796fe3468b9fd061259
+#EXTINF:-1 tvg-id="18:45-Conference League Fase Liga-Mainz 05-Fiorentina" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League Fase Liga-Mainz 05-Fiorentina
+http://192.168.18.75:8080/ace/getstream?id=4416843c96b7f7a1bc55c476091a60fff0922bc7
+#EXTINF:-1 tvg-id="18:45-Conference League Fase Liga-Mainz 05-Fiorentina" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League Fase Liga-Mainz 05-Fiorentina
+http://192.168.18.75:8080/ace/getstream?id=cfc371890bfb502737a26de5215e50929c52d0f9
+#EXTINF:-1 tvg-id="18:45-Conference League Fase Liga-Mainz 05-Fiorentina" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League Fase Liga-Mainz 05-Fiorentina
+http://192.168.18.75:8080/ace/getstream?id=90f7941c6bf7ca4b18084a1dca7bc15b9b179373
+#EXTINF:-1 tvg-id="18:45-Conference League Fase Liga-Shakhtar Donetsk-Breidablik UBK" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League Fase Liga-Shakhtar Donetsk-Breidablik UBK
+http://192.168.18.75:8080/ace/getstream?id=17b8bc4bf8e29547b0071c742e3d7da3bcbc484d
+#EXTINF:-1 tvg-id="18:45-Conference League Fase Liga-Shakhtar Donetsk-Breidablik UBK" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League Fase Liga-Shakhtar Donetsk-Breidablik UBK
+http://192.168.18.75:8080/ace/getstream?id=1dece791d28be6a5af78537ac4864ec01fa0a6d8
+#EXTINF:-1 tvg-id="18:45-Conference League Fase Liga-Shakhtar Donetsk-Breidablik UBK" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League Fase Liga-Shakhtar Donetsk-Breidablik UBK
+http://192.168.18.75:8080/ace/getstream?id=2b5129adc57d43790634d796fe3468b9fd061259
+#EXTINF:-1 tvg-id="18:45-Conference League Fase Liga-Shakhtar Donetsk-Breidablik UBK" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League Fase Liga-Shakhtar Donetsk-Breidablik UBK
+http://192.168.18.75:8080/ace/getstream?id=4416843c96b7f7a1bc55c476091a60fff0922bc7
+#EXTINF:-1 tvg-id="18:45-Conference League Fase Liga-Shakhtar Donetsk-Breidablik UBK" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League Fase Liga-Shakhtar Donetsk-Breidablik UBK
+http://192.168.18.75:8080/ace/getstream?id=cfc371890bfb502737a26de5215e50929c52d0f9
+#EXTINF:-1 tvg-id="18:45-Conference League Fase Liga-Shakhtar Donetsk-Breidablik UBK" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League Fase Liga-Shakhtar Donetsk-Breidablik UBK
+http://192.168.18.75:8080/ace/getstream?id=90f7941c6bf7ca4b18084a1dca7bc15b9b179373
+#EXTINF:-1 tvg-id="18:45-Conference League Fase Liga-Shakhtar Donetsk-Breidablik UBK" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League Fase Liga-Shakhtar Donetsk-Breidablik UBK
+http://192.168.18.75:8080/ace/getstream?id=8c67cdb5ba81976662c3a67984a9545d9cfb0f70
+#EXTINF:-1 tvg-id="18:45-Conference League Fase Liga-Shakhtar Donetsk-Breidablik UBK" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League Fase Liga-Shakhtar Donetsk-Breidablik UBK
+http://192.168.18.75:8080/ace/getstream?id=b6ffbbc72a5b6b579faf79ebac229af7a25b933b
+#EXTINF:-1 tvg-id="18:45-Conference League Fase Liga-Shakhtar Donetsk-Breidablik UBK" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League Fase Liga-Shakhtar Donetsk-Breidablik UBK
+http://192.168.18.75:8080/ace/getstream?id=199190e3f28c1de0be34bccf0d3568dc65209b99
+#EXTINF:-1 tvg-id="18:45-Conference League Fase Liga-Shakhtar Donetsk-Breidablik UBK" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League Fase Liga-Shakhtar Donetsk-Breidablik UBK
+http://192.168.18.75:8080/ace/getstream?id=5866e83279307bf919068ae7a0d250e4e424e464
+#EXTINF:-1 tvg-id="18:45-Conference League Fase Liga-Shakhtar Donetsk-Breidablik UBK" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League Fase Liga-Shakhtar Donetsk-Breidablik UBK
+http://192.168.18.75:8080/ace/getstream?id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
+#EXTINF:-1 tvg-id="18:45-Conference League Fase Liga-Sparta Praha-Raków Częstochowa" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League Fase Liga-Sparta Praha-Raków Częstochowa
+http://192.168.18.75:8080/ace/getstream?id=17b8bc4bf8e29547b0071c742e3d7da3bcbc484d
+#EXTINF:-1 tvg-id="18:45-Conference League Fase Liga-Sparta Praha-Raków Częstochowa" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League Fase Liga-Sparta Praha-Raków Częstochowa
+http://192.168.18.75:8080/ace/getstream?id=1dece791d28be6a5af78537ac4864ec01fa0a6d8
+#EXTINF:-1 tvg-id="18:45-Conference League Fase Liga-Sparta Praha-Raków Częstochowa" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League Fase Liga-Sparta Praha-Raków Częstochowa
+http://192.168.18.75:8080/ace/getstream?id=2b5129adc57d43790634d796fe3468b9fd061259
+#EXTINF:-1 tvg-id="18:45-Conference League Fase Liga-Sparta Praha-Raków Częstochowa" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League Fase Liga-Sparta Praha-Raków Częstochowa
+http://192.168.18.75:8080/ace/getstream?id=4416843c96b7f7a1bc55c476091a60fff0922bc7
+#EXTINF:-1 tvg-id="18:45-Conference League Fase Liga-Sparta Praha-Raków Częstochowa" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League Fase Liga-Sparta Praha-Raków Częstochowa
+http://192.168.18.75:8080/ace/getstream?id=cfc371890bfb502737a26de5215e50929c52d0f9
+#EXTINF:-1 tvg-id="18:45-Conference League Fase Liga-Sparta Praha-Raków Częstochowa" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League Fase Liga-Sparta Praha-Raków Częstochowa
+http://192.168.18.75:8080/ace/getstream?id=90f7941c6bf7ca4b18084a1dca7bc15b9b179373
+#EXTINF:-1 tvg-id="18:45-Conference League Fase Liga-Sparta Praha-Raków Częstochowa" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League Fase Liga-Sparta Praha-Raków Częstochowa
+http://192.168.18.75:8080/ace/getstream?id=8c67cdb5ba81976662c3a67984a9545d9cfb0f70
+#EXTINF:-1 tvg-id="18:45-Conference League Fase Liga-Sparta Praha-Raków Częstochowa" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League Fase Liga-Sparta Praha-Raków Częstochowa
+http://192.168.18.75:8080/ace/getstream?id=b6ffbbc72a5b6b579faf79ebac229af7a25b933b
+#EXTINF:-1 tvg-id="18:45-Conference League Fase Liga-Sparta Praha-Raków Częstochowa" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League Fase Liga-Sparta Praha-Raków Częstochowa
+http://192.168.18.75:8080/ace/getstream?id=199190e3f28c1de0be34bccf0d3568dc65209b99
+#EXTINF:-1 tvg-id="18:45-Conference League Fase Liga-Sparta Praha-Raków Częstochowa" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League Fase Liga-Sparta Praha-Raków Częstochowa
+http://192.168.18.75:8080/ace/getstream?id=5866e83279307bf919068ae7a0d250e4e424e464
+#EXTINF:-1 tvg-id="18:45-Conference League Fase Liga-Sparta Praha-Raków Częstochowa" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League Fase Liga-Sparta Praha-Raków Częstochowa
+http://192.168.18.75:8080/ace/getstream?id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
+#EXTINF:-1 tvg-id="18:45-Conference League Fase Liga-AEK Larnaca-Aberdeen" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League Fase Liga-AEK Larnaca-Aberdeen
+http://192.168.18.75:8080/ace/getstream?id=17b8bc4bf8e29547b0071c742e3d7da3bcbc484d
+#EXTINF:-1 tvg-id="18:45-Conference League Fase Liga-AEK Larnaca-Aberdeen" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League Fase Liga-AEK Larnaca-Aberdeen
+http://192.168.18.75:8080/ace/getstream?id=1dece791d28be6a5af78537ac4864ec01fa0a6d8
+#EXTINF:-1 tvg-id="18:45-Conference League Fase Liga-AEK Larnaca-Aberdeen" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League Fase Liga-AEK Larnaca-Aberdeen
+http://192.168.18.75:8080/ace/getstream?id=2b5129adc57d43790634d796fe3468b9fd061259
+#EXTINF:-1 tvg-id="18:45-Conference League Fase Liga-AEK Larnaca-Aberdeen" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League Fase Liga-AEK Larnaca-Aberdeen
+http://192.168.18.75:8080/ace/getstream?id=4416843c96b7f7a1bc55c476091a60fff0922bc7
+#EXTINF:-1 tvg-id="18:45-Conference League Fase Liga-AEK Larnaca-Aberdeen" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League Fase Liga-AEK Larnaca-Aberdeen
+http://192.168.18.75:8080/ace/getstream?id=cfc371890bfb502737a26de5215e50929c52d0f9
+#EXTINF:-1 tvg-id="18:45-Conference League Fase Liga-AEK Larnaca-Aberdeen" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League Fase Liga-AEK Larnaca-Aberdeen
+http://192.168.18.75:8080/ace/getstream?id=90f7941c6bf7ca4b18084a1dca7bc15b9b179373
+#EXTINF:-1 tvg-id="18:45-Conference League Fase Liga-AEK FC-Shamrock Rovers" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League Fase Liga-AEK FC-Shamrock Rovers
+http://192.168.18.75:8080/ace/getstream?id=17b8bc4bf8e29547b0071c742e3d7da3bcbc484d
+#EXTINF:-1 tvg-id="18:45-Conference League Fase Liga-AEK FC-Shamrock Rovers" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League Fase Liga-AEK FC-Shamrock Rovers
+http://192.168.18.75:8080/ace/getstream?id=1dece791d28be6a5af78537ac4864ec01fa0a6d8
+#EXTINF:-1 tvg-id="18:45-Conference League Fase Liga-AEK FC-Shamrock Rovers" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League Fase Liga-AEK FC-Shamrock Rovers
+http://192.168.18.75:8080/ace/getstream?id=2b5129adc57d43790634d796fe3468b9fd061259
+#EXTINF:-1 tvg-id="18:45-Conference League Fase Liga-AEK FC-Shamrock Rovers" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League Fase Liga-AEK FC-Shamrock Rovers
+http://192.168.18.75:8080/ace/getstream?id=4416843c96b7f7a1bc55c476091a60fff0922bc7
+#EXTINF:-1 tvg-id="18:45-Conference League Fase Liga-AEK FC-Shamrock Rovers" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League Fase Liga-AEK FC-Shamrock Rovers
+http://192.168.18.75:8080/ace/getstream?id=cfc371890bfb502737a26de5215e50929c52d0f9
+#EXTINF:-1 tvg-id="18:45-Conference League Fase Liga-AEK FC-Shamrock Rovers" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League Fase Liga-AEK FC-Shamrock Rovers
+http://192.168.18.75:8080/ace/getstream?id=90f7941c6bf7ca4b18084a1dca7bc15b9b179373
+#EXTINF:-1 tvg-id="18:45-Conference League Fase Liga-KuPS-Slovan Bratislava" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League Fase Liga-KuPS-Slovan Bratislava
+http://192.168.18.75:8080/ace/getstream?id=17b8bc4bf8e29547b0071c742e3d7da3bcbc484d
+#EXTINF:-1 tvg-id="18:45-Conference League Fase Liga-KuPS-Slovan Bratislava" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League Fase Liga-KuPS-Slovan Bratislava
+http://192.168.18.75:8080/ace/getstream?id=1dece791d28be6a5af78537ac4864ec01fa0a6d8
+#EXTINF:-1 tvg-id="18:45-Conference League Fase Liga-KuPS-Slovan Bratislava" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League Fase Liga-KuPS-Slovan Bratislava
+http://192.168.18.75:8080/ace/getstream?id=2b5129adc57d43790634d796fe3468b9fd061259
+#EXTINF:-1 tvg-id="18:45-Conference League Fase Liga-KuPS-Slovan Bratislava" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League Fase Liga-KuPS-Slovan Bratislava
+http://192.168.18.75:8080/ace/getstream?id=4416843c96b7f7a1bc55c476091a60fff0922bc7
+#EXTINF:-1 tvg-id="18:45-Conference League Fase Liga-KuPS-Slovan Bratislava" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League Fase Liga-KuPS-Slovan Bratislava
+http://192.168.18.75:8080/ace/getstream?id=cfc371890bfb502737a26de5215e50929c52d0f9
+#EXTINF:-1 tvg-id="18:45-Conference League Fase Liga-KuPS-Slovan Bratislava" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League Fase Liga-KuPS-Slovan Bratislava
+http://192.168.18.75:8080/ace/getstream?id=90f7941c6bf7ca4b18084a1dca7bc15b9b179373
+#EXTINF:-1 tvg-id="18:45-Conference League Fase Liga-KuPS-Slovan Bratislava" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League Fase Liga-KuPS-Slovan Bratislava
+http://192.168.18.75:8080/ace/getstream?id=8c67cdb5ba81976662c3a67984a9545d9cfb0f70
+#EXTINF:-1 tvg-id="18:45-Conference League Fase Liga-KuPS-Slovan Bratislava" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League Fase Liga-KuPS-Slovan Bratislava
+http://192.168.18.75:8080/ace/getstream?id=b6ffbbc72a5b6b579faf79ebac229af7a25b933b
+#EXTINF:-1 tvg-id="18:45-Conference League Fase Liga-KuPS-Slovan Bratislava" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League Fase Liga-KuPS-Slovan Bratislava
+http://192.168.18.75:8080/ace/getstream?id=199190e3f28c1de0be34bccf0d3568dc65209b99
+#EXTINF:-1 tvg-id="18:45-Conference League Fase Liga-KuPS-Slovan Bratislava" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League Fase Liga-KuPS-Slovan Bratislava
+http://192.168.18.75:8080/ace/getstream?id=5866e83279307bf919068ae7a0d250e4e424e464
+#EXTINF:-1 tvg-id="18:45-Conference League Fase Liga-KuPS-Slovan Bratislava" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League Fase Liga-KuPS-Slovan Bratislava
+http://192.168.18.75:8080/ace/getstream?id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
+#EXTINF:-1 tvg-id="18:45-Conference League Fase Liga-NK Celje-Legia Warszawa" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League Fase Liga-NK Celje-Legia Warszawa
+http://192.168.18.75:8080/ace/getstream?id=17b8bc4bf8e29547b0071c742e3d7da3bcbc484d
+#EXTINF:-1 tvg-id="18:45-Conference League Fase Liga-NK Celje-Legia Warszawa" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League Fase Liga-NK Celje-Legia Warszawa
+http://192.168.18.75:8080/ace/getstream?id=1dece791d28be6a5af78537ac4864ec01fa0a6d8
+#EXTINF:-1 tvg-id="18:45-Conference League Fase Liga-NK Celje-Legia Warszawa" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League Fase Liga-NK Celje-Legia Warszawa
+http://192.168.18.75:8080/ace/getstream?id=2b5129adc57d43790634d796fe3468b9fd061259
+#EXTINF:-1 tvg-id="18:45-Conference League Fase Liga-NK Celje-Legia Warszawa" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League Fase Liga-NK Celje-Legia Warszawa
+http://192.168.18.75:8080/ace/getstream?id=4416843c96b7f7a1bc55c476091a60fff0922bc7
+#EXTINF:-1 tvg-id="18:45-Conference League Fase Liga-NK Celje-Legia Warszawa" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League Fase Liga-NK Celje-Legia Warszawa
+http://192.168.18.75:8080/ace/getstream?id=cfc371890bfb502737a26de5215e50929c52d0f9
+#EXTINF:-1 tvg-id="18:45-Conference League Fase Liga-NK Celje-Legia Warszawa" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League Fase Liga-NK Celje-Legia Warszawa
+http://192.168.18.75:8080/ace/getstream?id=90f7941c6bf7ca4b18084a1dca7bc15b9b179373
+#EXTINF:-1 tvg-id="18:45-Conference League Fase Liga-NK Celje-Legia Warszawa" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League Fase Liga-NK Celje-Legia Warszawa
+http://192.168.18.75:8080/ace/getstream?id=8c67cdb5ba81976662c3a67984a9545d9cfb0f70
+#EXTINF:-1 tvg-id="18:45-Conference League Fase Liga-NK Celje-Legia Warszawa" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League Fase Liga-NK Celje-Legia Warszawa
+http://192.168.18.75:8080/ace/getstream?id=b6ffbbc72a5b6b579faf79ebac229af7a25b933b
+#EXTINF:-1 tvg-id="18:45-Conference League Fase Liga-NK Celje-Legia Warszawa" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League Fase Liga-NK Celje-Legia Warszawa
+http://192.168.18.75:8080/ace/getstream?id=199190e3f28c1de0be34bccf0d3568dc65209b99
+#EXTINF:-1 tvg-id="18:45-Conference League Fase Liga-NK Celje-Legia Warszawa" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League Fase Liga-NK Celje-Legia Warszawa
+http://192.168.18.75:8080/ace/getstream?id=5866e83279307bf919068ae7a0d250e4e424e464
+#EXTINF:-1 tvg-id="18:45-Conference League Fase Liga-NK Celje-Legia Warszawa" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League Fase Liga-NK Celje-Legia Warszawa
+http://192.168.18.75:8080/ace/getstream?id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
+#EXTINF:-1 tvg-id="18:45-Conference League Fase Liga-Samsunspor-Hamrun Spartans" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League Fase Liga-Samsunspor-Hamrun Spartans
+http://192.168.18.75:8080/ace/getstream?id=17b8bc4bf8e29547b0071c742e3d7da3bcbc484d
+#EXTINF:-1 tvg-id="18:45-Conference League Fase Liga-Samsunspor-Hamrun Spartans" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League Fase Liga-Samsunspor-Hamrun Spartans
+http://192.168.18.75:8080/ace/getstream?id=1dece791d28be6a5af78537ac4864ec01fa0a6d8
+#EXTINF:-1 tvg-id="18:45-Conference League Fase Liga-Samsunspor-Hamrun Spartans" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League Fase Liga-Samsunspor-Hamrun Spartans
+http://192.168.18.75:8080/ace/getstream?id=2b5129adc57d43790634d796fe3468b9fd061259
+#EXTINF:-1 tvg-id="18:45-Conference League Fase Liga-Samsunspor-Hamrun Spartans" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League Fase Liga-Samsunspor-Hamrun Spartans
+http://192.168.18.75:8080/ace/getstream?id=4416843c96b7f7a1bc55c476091a60fff0922bc7
+#EXTINF:-1 tvg-id="18:45-Conference League Fase Liga-Samsunspor-Hamrun Spartans" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League Fase Liga-Samsunspor-Hamrun Spartans
+http://192.168.18.75:8080/ace/getstream?id=cfc371890bfb502737a26de5215e50929c52d0f9
+#EXTINF:-1 tvg-id="18:45-Conference League Fase Liga-Samsunspor-Hamrun Spartans" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League Fase Liga-Samsunspor-Hamrun Spartans
+http://192.168.18.75:8080/ace/getstream?id=90f7941c6bf7ca4b18084a1dca7bc15b9b179373
+#EXTINF:-1 tvg-id="18:45-Conference League Fase Liga-Samsunspor-Hamrun Spartans" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League Fase Liga-Samsunspor-Hamrun Spartans
+http://192.168.18.75:8080/ace/getstream?id=8c67cdb5ba81976662c3a67984a9545d9cfb0f70
+#EXTINF:-1 tvg-id="18:45-Conference League Fase Liga-Samsunspor-Hamrun Spartans" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League Fase Liga-Samsunspor-Hamrun Spartans
+http://192.168.18.75:8080/ace/getstream?id=b6ffbbc72a5b6b579faf79ebac229af7a25b933b
+#EXTINF:-1 tvg-id="18:45-Conference League Fase Liga-Samsunspor-Hamrun Spartans" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League Fase Liga-Samsunspor-Hamrun Spartans
+http://192.168.18.75:8080/ace/getstream?id=199190e3f28c1de0be34bccf0d3568dc65209b99
+#EXTINF:-1 tvg-id="18:45-Conference League Fase Liga-Samsunspor-Hamrun Spartans" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League Fase Liga-Samsunspor-Hamrun Spartans
+http://192.168.18.75:8080/ace/getstream?id=5866e83279307bf919068ae7a0d250e4e424e464
+#EXTINF:-1 tvg-id="18:45-Conference League Fase Liga-Samsunspor-Hamrun Spartans" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League Fase Liga-Samsunspor-Hamrun Spartans
+http://192.168.18.75:8080/ace/getstream?id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
+#EXTINF:-1 tvg-id="18:45-Conference League Fase Liga-FC Noah-Sigma Olomouc" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League Fase Liga-FC Noah-Sigma Olomouc
+http://192.168.18.75:8080/ace/getstream?id=17b8bc4bf8e29547b0071c742e3d7da3bcbc484d
+#EXTINF:-1 tvg-id="18:45-Conference League Fase Liga-FC Noah-Sigma Olomouc" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League Fase Liga-FC Noah-Sigma Olomouc
+http://192.168.18.75:8080/ace/getstream?id=1dece791d28be6a5af78537ac4864ec01fa0a6d8
+#EXTINF:-1 tvg-id="18:45-Conference League Fase Liga-FC Noah-Sigma Olomouc" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League Fase Liga-FC Noah-Sigma Olomouc
+http://192.168.18.75:8080/ace/getstream?id=2b5129adc57d43790634d796fe3468b9fd061259
+#EXTINF:-1 tvg-id="18:45-Conference League Fase Liga-FC Noah-Sigma Olomouc" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League Fase Liga-FC Noah-Sigma Olomouc
+http://192.168.18.75:8080/ace/getstream?id=4416843c96b7f7a1bc55c476091a60fff0922bc7
+#EXTINF:-1 tvg-id="18:45-Conference League Fase Liga-FC Noah-Sigma Olomouc" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League Fase Liga-FC Noah-Sigma Olomouc
+http://192.168.18.75:8080/ace/getstream?id=cfc371890bfb502737a26de5215e50929c52d0f9
+#EXTINF:-1 tvg-id="18:45-Conference League Fase Liga-FC Noah-Sigma Olomouc" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League Fase Liga-FC Noah-Sigma Olomouc
+http://192.168.18.75:8080/ace/getstream?id=90f7941c6bf7ca4b18084a1dca7bc15b9b179373
+#EXTINF:-1 tvg-id="18:45-Conference League Fase Liga-FC Noah-Sigma Olomouc" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League Fase Liga-FC Noah-Sigma Olomouc
+http://192.168.18.75:8080/ace/getstream?id=8c67cdb5ba81976662c3a67984a9545d9cfb0f70
+#EXTINF:-1 tvg-id="18:45-Conference League Fase Liga-FC Noah-Sigma Olomouc" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League Fase Liga-FC Noah-Sigma Olomouc
+http://192.168.18.75:8080/ace/getstream?id=b6ffbbc72a5b6b579faf79ebac229af7a25b933b
+#EXTINF:-1 tvg-id="18:45-Conference League Fase Liga-FC Noah-Sigma Olomouc" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League Fase Liga-FC Noah-Sigma Olomouc
+http://192.168.18.75:8080/ace/getstream?id=199190e3f28c1de0be34bccf0d3568dc65209b99
+#EXTINF:-1 tvg-id="18:45-Conference League Fase Liga-FC Noah-Sigma Olomouc" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League Fase Liga-FC Noah-Sigma Olomouc
+http://192.168.18.75:8080/ace/getstream?id=5866e83279307bf919068ae7a0d250e4e424e464
+#EXTINF:-1 tvg-id="18:45-Conference League Fase Liga-FC Noah-Sigma Olomouc" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Conference League Fase Liga-FC Noah-Sigma Olomouc
+http://192.168.18.75:8080/ace/getstream?id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
+#EXTINF:-1 tvg-id="18:45-Euroliga Liga Regular-Fenerbahce Istanbul-ASVEL Lyon-Villeurbanne" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",18:45-Euroliga Liga Regular-Fenerbahce Istanbul-ASVEL Lyon-Villeurbanne
+http://192.168.18.75:8080/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c
+#EXTINF:-1 tvg-id="18:45-Euroliga Liga Regular-Fenerbahce Istanbul-ASVEL Lyon-Villeurbanne" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",18:45-Euroliga Liga Regular-Fenerbahce Istanbul-ASVEL Lyon-Villeurbanne
+http://192.168.18.75:8080/ace/getstream?id=6e212a916c83638268047dd2757c95b14f7d25a3
+#EXTINF:-1 tvg-id="18:45-Euroliga Liga Regular-Fenerbahce Istanbul-ASVEL Lyon-Villeurbanne" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",18:45-Euroliga Liga Regular-Fenerbahce Istanbul-ASVEL Lyon-Villeurbanne
+http://192.168.18.75:8080/ace/getstream?id=73d38feaa770d788848ec098470e32670fe55a61
+#EXTINF:-1 tvg-id="18:45-Euroliga Liga Regular-Fenerbahce Istanbul-ASVEL Lyon-Villeurbanne" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",18:45-Euroliga Liga Regular-Fenerbahce Istanbul-ASVEL Lyon-Villeurbanne
+http://192.168.18.75:8080/ace/getstream?id=f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0
+#EXTINF:-1 tvg-id="18:45-Euroliga Liga Regular-Fenerbahce Istanbul-ASVEL Lyon-Villeurbanne" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",18:45-Euroliga Liga Regular-Fenerbahce Istanbul-ASVEL Lyon-Villeurbanne
+http://192.168.18.75:8080/ace/getstream?id=bfa01c11c5c6b7a616a516de4f2c769a89d26b25
+#EXTINF:-1 tvg-id="18:45-Euroliga Liga Regular-Fenerbahce Istanbul-ASVEL Lyon-Villeurbanne" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",18:45-Euroliga Liga Regular-Fenerbahce Istanbul-ASVEL Lyon-Villeurbanne
+http://192.168.18.75:8080/ace/getstream?id=3afe1af18f8ff78e9946856911b00c67477052b5
+#EXTINF:-1 tvg-id="19:00-Euroliga Liga Regular-Dubai Basketball-Hapoel Tel Aviv BC" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",19:00-Euroliga Liga Regular-Dubai Basketball-Hapoel Tel Aviv BC
+http://192.168.18.75:8080/ace/getstream?id=58a4c880ab18486d914751db32a12760e74b75a4
+#EXTINF:-1 tvg-id="19:00-Euroliga Liga Regular-Dubai Basketball-Hapoel Tel Aviv BC" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",19:00-Euroliga Liga Regular-Dubai Basketball-Hapoel Tel Aviv BC
+http://192.168.18.75:8080/ace/getstream?id=37825883ed185365e3194a79207347f6c7bd5ba5
+#EXTINF:-1 tvg-id="19:00-Euroliga Liga Regular-Dubai Basketball-Hapoel Tel Aviv BC" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",19:00-Euroliga Liga Regular-Dubai Basketball-Hapoel Tel Aviv BC
+http://192.168.18.75:8080/ace/getstream?id=b40e1de2dcbd7c665f54877b14c830ed67b32a96
+#EXTINF:-1 tvg-id="19:00-Euroliga Liga Regular-Dubai Basketball-Hapoel Tel Aviv BC" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",19:00-Euroliga Liga Regular-Dubai Basketball-Hapoel Tel Aviv BC
+http://192.168.18.75:8080/ace/getstream?id=8b5f9d967384afab226dd759e6e9dfaee9993869
+#EXTINF:-1 tvg-id="19:30-Torneo de Metz 1/4 Final-M. Berrettini-L. Tien" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",19:30-Torneo de Metz 1/4 Final-M. Berrettini-L. Tien
 http://192.168.18.75:8080/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee
-#EXTINF:-1 tvg-id="21:35-Torneo de Atenas 2ª Ronda-B. Nakashima-M. Giron" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:35-Torneo de Atenas 2ª Ronda-B. Nakashima-M. Giron
+#EXTINF:-1 tvg-id="19:30-Torneo de Metz 1/4 Final-M. Berrettini-L. Tien" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",19:30-Torneo de Metz 1/4 Final-M. Berrettini-L. Tien
 http://192.168.18.75:8080/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0
-#EXTINF:-1 tvg-id="21:35-Torneo de Atenas 2ª Ronda-B. Nakashima-M. Giron" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:35-Torneo de Atenas 2ª Ronda-B. Nakashima-M. Giron
+#EXTINF:-1 tvg-id="19:30-Torneo de Metz 1/4 Final-M. Berrettini-L. Tien" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",19:30-Torneo de Metz 1/4 Final-M. Berrettini-L. Tien
 http://192.168.18.75:8080/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7
-#EXTINF:-1 tvg-id="21:35-Torneo de Atenas 2ª Ronda-B. Nakashima-M. Giron" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:35-Torneo de Atenas 2ª Ronda-B. Nakashima-M. Giron
+#EXTINF:-1 tvg-id="19:30-Torneo de Metz 1/4 Final-M. Berrettini-L. Tien" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",19:30-Torneo de Metz 1/4 Final-M. Berrettini-L. Tien
 http://192.168.18.75:8080/ace/getstream?id=aa31953b8af44b461102852d5b1247eea95b8050
-#EXTINF:-1 tvg-id="21:35-Torneo de Atenas 2ª Ronda-B. Nakashima-M. Giron" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:35-Torneo de Atenas 2ª Ronda-B. Nakashima-M. Giron
+#EXTINF:-1 tvg-id="19:30-Torneo de Metz 1/4 Final-M. Berrettini-L. Tien" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",19:30-Torneo de Metz 1/4 Final-M. Berrettini-L. Tien
 http://192.168.18.75:8080/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
+#EXTINF:-1 tvg-id="20:30-Euroliga Liga Regular-Baskonia-Virtus Bologna" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:30-Euroliga Liga Regular-Baskonia-Virtus Bologna
+http://192.168.18.75:8080/ace/getstream?id=8c67cdb5ba81976662c3a67984a9545d9cfb0f70
+#EXTINF:-1 tvg-id="20:30-Euroliga Liga Regular-Baskonia-Virtus Bologna" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:30-Euroliga Liga Regular-Baskonia-Virtus Bologna
+http://192.168.18.75:8080/ace/getstream?id=b6ffbbc72a5b6b579faf79ebac229af7a25b933b
+#EXTINF:-1 tvg-id="20:30-Euroliga Liga Regular-Baskonia-Virtus Bologna" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:30-Euroliga Liga Regular-Baskonia-Virtus Bologna
+http://192.168.18.75:8080/ace/getstream?id=199190e3f28c1de0be34bccf0d3568dc65209b99
+#EXTINF:-1 tvg-id="20:30-Euroliga Liga Regular-Baskonia-Virtus Bologna" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:30-Euroliga Liga Regular-Baskonia-Virtus Bologna
+http://192.168.18.75:8080/ace/getstream?id=5866e83279307bf919068ae7a0d250e4e424e464
+#EXTINF:-1 tvg-id="20:30-Euroliga Liga Regular-Baskonia-Virtus Bologna" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:30-Euroliga Liga Regular-Baskonia-Virtus Bologna
+http://192.168.18.75:8080/ace/getstream?id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
+#EXTINF:-1 tvg-id="20:30-Euroliga Liga Regular-Baskonia-Virtus Bologna" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:30-Euroliga Liga Regular-Baskonia-Virtus Bologna
+http://192.168.18.75:8080/ace/getstream?id=3b2a8b41e7097c16b0468b42d7de0320886fa933
+#EXTINF:-1 tvg-id="20:30-Euroliga Liga Regular-Baskonia-Virtus Bologna" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:30-Euroliga Liga Regular-Baskonia-Virtus Bologna
+http://192.168.18.75:8080/ace/getstream?id=2940120bf034db79a7f5849846ccea0255172eae
+#EXTINF:-1 tvg-id="20:30-Euroliga Liga Regular-Baskonia-Virtus Bologna" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:30-Euroliga Liga Regular-Baskonia-Virtus Bologna
+http://192.168.18.75:8080/ace/getstream?id=651d6be899d1fafa107a265a9dc00ff914c1b548
+#EXTINF:-1 tvg-id="20:30-Euroliga Liga Regular-Baskonia-Virtus Bologna" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:30-Euroliga Liga Regular-Baskonia-Virtus Bologna
+http://192.168.18.75:8080/ace/getstream?id=4e99e755aa32c4bc043a4bb1cd1de35f9bd94dde
+#EXTINF:-1 tvg-id="20:30-Euroliga Liga Regular-Baskonia-Virtus Bologna" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:30-Euroliga Liga Regular-Baskonia-Virtus Bologna
+http://192.168.18.75:8080/ace/getstream?id=c7c81acdd1a03ecc418c94c2f28e2adb0556c40b
+#EXTINF:-1 tvg-id="20:30-Euroliga Liga Regular-Baskonia-Virtus Bologna" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:30-Euroliga Liga Regular-Baskonia-Virtus Bologna
+http://192.168.18.75:8080/ace/getstream?id=0e5d8c9724fa9163f49096b70484e315251eb785
+#EXTINF:-1 tvg-id="21:00-Europa League Fase Liga-Real Betis-O. Lyonnais" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League Fase Liga-Real Betis-O. Lyonnais
+http://192.168.18.75:8080/ace/getstream?id=678a1e93fbfbd499c329886bfdda780e73ac1786
+#EXTINF:-1 tvg-id="21:00-Europa League Fase Liga-Real Betis-O. Lyonnais" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League Fase Liga-Real Betis-O. Lyonnais
+http://192.168.18.75:8080/ace/getstream?id=c16b4fab1f724c94cad92081cbb7fc7c6fe8a2cc
+#EXTINF:-1 tvg-id="21:00-Europa League Fase Liga-Real Betis-O. Lyonnais" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League Fase Liga-Real Betis-O. Lyonnais
+http://192.168.18.75:8080/ace/getstream?id=778f08cbae9596ed9e8b2ae0af33ee7a6fe24c6a
+#EXTINF:-1 tvg-id="21:00-Europa League Fase Liga-Real Betis-O. Lyonnais" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League Fase Liga-Real Betis-O. Lyonnais
+http://192.168.18.75:8080/ace/getstream?id=afbf2a479c5a5072698139f0f556ef3e77a99bd0
+#EXTINF:-1 tvg-id="21:00-Europa League Fase Liga-Real Betis-O. Lyonnais" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League Fase Liga-Real Betis-O. Lyonnais
+http://192.168.18.75:8080/ace/getstream?id=afbf1ef8812e7b0a0977fa3a0a2d3a6d3cbd6c6f
+#EXTINF:-1 tvg-id="21:00-Europa League Fase Liga-Real Betis-O. Lyonnais" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League Fase Liga-Real Betis-O. Lyonnais
+http://192.168.18.75:8080/ace/getstream?id=0f7842f8b6c26571e5a974407b61623e56e6a052
+#EXTINF:-1 tvg-id="21:00-Europa League Fase Liga-Real Betis-O. Lyonnais" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League Fase Liga-Real Betis-O. Lyonnais
+http://192.168.18.75:8080/ace/getstream?id=f3eea003e23f94dc2d527306de9dd386e3ebf4ba
+#EXTINF:-1 tvg-id="21:00-Europa League Fase Liga-Real Betis-O. Lyonnais" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League Fase Liga-Real Betis-O. Lyonnais
+http://192.168.18.75:8080/ace/getstream?id=97df5b7824948972d041d8ca2a4d29c90b641bc9
+#EXTINF:-1 tvg-id="21:00-Europa League Fase Liga-Real Betis-O. Lyonnais" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League Fase Liga-Real Betis-O. Lyonnais
+http://192.168.18.75:8080/ace/getstream?id=2b51710cee513e8939785fa3e7980f32d4e0415f
+#EXTINF:-1 tvg-id="21:00-Europa League Fase Liga-Real Betis-O. Lyonnais" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League Fase Liga-Real Betis-O. Lyonnais
+http://192.168.18.75:8080/ace/getstream?id=9db029dff6a9c637d1f670e78dbc1a479b9b406e
+#EXTINF:-1 tvg-id="21:00-Europa League Fase Liga-Real Betis-O. Lyonnais" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League Fase Liga-Real Betis-O. Lyonnais
+http://192.168.18.75:8080/ace/getstream?id=e572a5178ff72eed7d1d751a18b4b3419699f370
+#EXTINF:-1 tvg-id="21:00-Europa League Fase Liga-Real Betis-O. Lyonnais" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League Fase Liga-Real Betis-O. Lyonnais
+http://192.168.18.75:8080/ace/getstream?id=17b8bc4bf8e29547b0071c742e3d7da3bcbc484d
+#EXTINF:-1 tvg-id="21:00-Europa League Fase Liga-Real Betis-O. Lyonnais" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League Fase Liga-Real Betis-O. Lyonnais
+http://192.168.18.75:8080/ace/getstream?id=1dece791d28be6a5af78537ac4864ec01fa0a6d8
+#EXTINF:-1 tvg-id="21:00-Europa League Fase Liga-Real Betis-O. Lyonnais" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League Fase Liga-Real Betis-O. Lyonnais
+http://192.168.18.75:8080/ace/getstream?id=2b5129adc57d43790634d796fe3468b9fd061259
+#EXTINF:-1 tvg-id="21:00-Europa League Fase Liga-Real Betis-O. Lyonnais" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League Fase Liga-Real Betis-O. Lyonnais
+http://192.168.18.75:8080/ace/getstream?id=4416843c96b7f7a1bc55c476091a60fff0922bc7
+#EXTINF:-1 tvg-id="21:00-Europa League Fase Liga-Real Betis-O. Lyonnais" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League Fase Liga-Real Betis-O. Lyonnais
+http://192.168.18.75:8080/ace/getstream?id=cfc371890bfb502737a26de5215e50929c52d0f9
+#EXTINF:-1 tvg-id="21:00-Europa League Fase Liga-Real Betis-O. Lyonnais" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League Fase Liga-Real Betis-O. Lyonnais
+http://192.168.18.75:8080/ace/getstream?id=90f7941c6bf7ca4b18084a1dca7bc15b9b179373
+#EXTINF:-1 tvg-id="21:00-Europa League Fase Liga-Real Betis-O. Lyonnais" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League Fase Liga-Real Betis-O. Lyonnais
+http://192.168.18.75:8080/ace/getstream?id=8c67cdb5ba81976662c3a67984a9545d9cfb0f70
+#EXTINF:-1 tvg-id="21:00-Europa League Fase Liga-Real Betis-O. Lyonnais" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League Fase Liga-Real Betis-O. Lyonnais
+http://192.168.18.75:8080/ace/getstream?id=b6ffbbc72a5b6b579faf79ebac229af7a25b933b
+#EXTINF:-1 tvg-id="21:00-Europa League Fase Liga-Real Betis-O. Lyonnais" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League Fase Liga-Real Betis-O. Lyonnais
+http://192.168.18.75:8080/ace/getstream?id=199190e3f28c1de0be34bccf0d3568dc65209b99
+#EXTINF:-1 tvg-id="21:00-Europa League Fase Liga-Real Betis-O. Lyonnais" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League Fase Liga-Real Betis-O. Lyonnais
+http://192.168.18.75:8080/ace/getstream?id=5866e83279307bf919068ae7a0d250e4e424e464
+#EXTINF:-1 tvg-id="21:00-Europa League Fase Liga-Real Betis-O. Lyonnais" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League Fase Liga-Real Betis-O. Lyonnais
+http://192.168.18.75:8080/ace/getstream?id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
+#EXTINF:-1 tvg-id="21:00-Europa League Fase Liga-Aston Villa-Maccabi Tel Aviv FC" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League Fase Liga-Aston Villa-Maccabi Tel Aviv FC
+http://192.168.18.75:8080/ace/getstream?id=17b8bc4bf8e29547b0071c742e3d7da3bcbc484d
+#EXTINF:-1 tvg-id="21:00-Europa League Fase Liga-Aston Villa-Maccabi Tel Aviv FC" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League Fase Liga-Aston Villa-Maccabi Tel Aviv FC
+http://192.168.18.75:8080/ace/getstream?id=1dece791d28be6a5af78537ac4864ec01fa0a6d8
+#EXTINF:-1 tvg-id="21:00-Europa League Fase Liga-Aston Villa-Maccabi Tel Aviv FC" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League Fase Liga-Aston Villa-Maccabi Tel Aviv FC
+http://192.168.18.75:8080/ace/getstream?id=2b5129adc57d43790634d796fe3468b9fd061259
+#EXTINF:-1 tvg-id="21:00-Europa League Fase Liga-Aston Villa-Maccabi Tel Aviv FC" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League Fase Liga-Aston Villa-Maccabi Tel Aviv FC
+http://192.168.18.75:8080/ace/getstream?id=4416843c96b7f7a1bc55c476091a60fff0922bc7
+#EXTINF:-1 tvg-id="21:00-Europa League Fase Liga-Aston Villa-Maccabi Tel Aviv FC" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League Fase Liga-Aston Villa-Maccabi Tel Aviv FC
+http://192.168.18.75:8080/ace/getstream?id=cfc371890bfb502737a26de5215e50929c52d0f9
+#EXTINF:-1 tvg-id="21:00-Europa League Fase Liga-Aston Villa-Maccabi Tel Aviv FC" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League Fase Liga-Aston Villa-Maccabi Tel Aviv FC
+http://192.168.18.75:8080/ace/getstream?id=90f7941c6bf7ca4b18084a1dca7bc15b9b179373
+#EXTINF:-1 tvg-id="21:00-Europa League Fase Liga-Aston Villa-Maccabi Tel Aviv FC" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League Fase Liga-Aston Villa-Maccabi Tel Aviv FC
+http://192.168.18.75:8080/ace/getstream?id=cb6410a6355a645cfc6f6f5a7c7d71298fcbc2c5
+#EXTINF:-1 tvg-id="21:00-Europa League Fase Liga-Aston Villa-Maccabi Tel Aviv FC" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League Fase Liga-Aston Villa-Maccabi Tel Aviv FC
+http://192.168.18.75:8080/ace/getstream?id=5620c0ce3dcbf14a6375cb2c2d681207f45eb97d
+#EXTINF:-1 tvg-id="21:00-Europa League Fase Liga-Stuttgart-Feyenoord" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League Fase Liga-Stuttgart-Feyenoord
+http://192.168.18.75:8080/ace/getstream?id=17b8bc4bf8e29547b0071c742e3d7da3bcbc484d
+#EXTINF:-1 tvg-id="21:00-Europa League Fase Liga-Stuttgart-Feyenoord" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League Fase Liga-Stuttgart-Feyenoord
+http://192.168.18.75:8080/ace/getstream?id=1dece791d28be6a5af78537ac4864ec01fa0a6d8
+#EXTINF:-1 tvg-id="21:00-Europa League Fase Liga-Stuttgart-Feyenoord" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League Fase Liga-Stuttgart-Feyenoord
+http://192.168.18.75:8080/ace/getstream?id=2b5129adc57d43790634d796fe3468b9fd061259
+#EXTINF:-1 tvg-id="21:00-Europa League Fase Liga-Stuttgart-Feyenoord" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League Fase Liga-Stuttgart-Feyenoord
+http://192.168.18.75:8080/ace/getstream?id=4416843c96b7f7a1bc55c476091a60fff0922bc7
+#EXTINF:-1 tvg-id="21:00-Europa League Fase Liga-Stuttgart-Feyenoord" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League Fase Liga-Stuttgart-Feyenoord
+http://192.168.18.75:8080/ace/getstream?id=cfc371890bfb502737a26de5215e50929c52d0f9
+#EXTINF:-1 tvg-id="21:00-Europa League Fase Liga-Stuttgart-Feyenoord" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League Fase Liga-Stuttgart-Feyenoord
+http://192.168.18.75:8080/ace/getstream?id=90f7941c6bf7ca4b18084a1dca7bc15b9b179373
+#EXTINF:-1 tvg-id="21:00-Europa League Fase Liga-Stuttgart-Feyenoord" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League Fase Liga-Stuttgart-Feyenoord
+http://192.168.18.75:8080/ace/getstream?id=976983697790ab8a07b764b08843529d38bc6444
+#EXTINF:-1 tvg-id="21:00-Europa League Fase Liga-Bologna-SK Brann" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League Fase Liga-Bologna-SK Brann
+http://192.168.18.75:8080/ace/getstream?id=17b8bc4bf8e29547b0071c742e3d7da3bcbc484d
+#EXTINF:-1 tvg-id="21:00-Europa League Fase Liga-Bologna-SK Brann" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League Fase Liga-Bologna-SK Brann
+http://192.168.18.75:8080/ace/getstream?id=1dece791d28be6a5af78537ac4864ec01fa0a6d8
+#EXTINF:-1 tvg-id="21:00-Europa League Fase Liga-Bologna-SK Brann" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League Fase Liga-Bologna-SK Brann
+http://192.168.18.75:8080/ace/getstream?id=2b5129adc57d43790634d796fe3468b9fd061259
+#EXTINF:-1 tvg-id="21:00-Europa League Fase Liga-Bologna-SK Brann" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League Fase Liga-Bologna-SK Brann
+http://192.168.18.75:8080/ace/getstream?id=4416843c96b7f7a1bc55c476091a60fff0922bc7
+#EXTINF:-1 tvg-id="21:00-Europa League Fase Liga-Bologna-SK Brann" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League Fase Liga-Bologna-SK Brann
+http://192.168.18.75:8080/ace/getstream?id=cfc371890bfb502737a26de5215e50929c52d0f9
+#EXTINF:-1 tvg-id="21:00-Europa League Fase Liga-Bologna-SK Brann" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League Fase Liga-Bologna-SK Brann
+http://192.168.18.75:8080/ace/getstream?id=90f7941c6bf7ca4b18084a1dca7bc15b9b179373
+#EXTINF:-1 tvg-id="21:00-Europa League Fase Liga-Bologna-SK Brann" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League Fase Liga-Bologna-SK Brann
+http://192.168.18.75:8080/ace/getstream?id=97f8a84212fe6b3d2ab15aadc83c7b5e6af656c9
+#EXTINF:-1 tvg-id="21:00-Europa League Fase Liga-Rangers FC-AS Roma" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League Fase Liga-Rangers FC-AS Roma
+http://192.168.18.75:8080/ace/getstream?id=17b8bc4bf8e29547b0071c742e3d7da3bcbc484d
+#EXTINF:-1 tvg-id="21:00-Europa League Fase Liga-Rangers FC-AS Roma" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League Fase Liga-Rangers FC-AS Roma
+http://192.168.18.75:8080/ace/getstream?id=1dece791d28be6a5af78537ac4864ec01fa0a6d8
+#EXTINF:-1 tvg-id="21:00-Europa League Fase Liga-Rangers FC-AS Roma" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League Fase Liga-Rangers FC-AS Roma
+http://192.168.18.75:8080/ace/getstream?id=2b5129adc57d43790634d796fe3468b9fd061259
+#EXTINF:-1 tvg-id="21:00-Europa League Fase Liga-Rangers FC-AS Roma" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League Fase Liga-Rangers FC-AS Roma
+http://192.168.18.75:8080/ace/getstream?id=4416843c96b7f7a1bc55c476091a60fff0922bc7
+#EXTINF:-1 tvg-id="21:00-Europa League Fase Liga-Rangers FC-AS Roma" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League Fase Liga-Rangers FC-AS Roma
+http://192.168.18.75:8080/ace/getstream?id=cfc371890bfb502737a26de5215e50929c52d0f9
+#EXTINF:-1 tvg-id="21:00-Europa League Fase Liga-Rangers FC-AS Roma" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League Fase Liga-Rangers FC-AS Roma
+http://192.168.18.75:8080/ace/getstream?id=90f7941c6bf7ca4b18084a1dca7bc15b9b179373
+#EXTINF:-1 tvg-id="21:00-Europa League Fase Liga-Rangers FC-AS Roma" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League Fase Liga-Rangers FC-AS Roma
+http://192.168.18.75:8080/ace/getstream?id=77998f8161373611ff6b348e7eda5b4e97d3ec29
+#EXTINF:-1 tvg-id="21:00-Europa League Fase Liga-Rangers FC-AS Roma" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League Fase Liga-Rangers FC-AS Roma
+http://192.168.18.75:8080/ace/getstream?id=53cd86466d1faed03a607be92af601f7e8da128f
+#EXTINF:-1 tvg-id="21:00-Europa League Fase Liga-Rangers FC-AS Roma" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League Fase Liga-Rangers FC-AS Roma
+http://192.168.18.75:8080/ace/getstream?id=e9f4493d2d851f4636720f639113e05b4a21a74c
+#EXTINF:-1 tvg-id="21:00-Europa League Fase Liga-Rangers FC-AS Roma" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League Fase Liga-Rangers FC-AS Roma
+http://192.168.18.75:8080/ace/getstream?id=6fbab1d8d6bf93c4bc7552714aa3bb54ebf7b661
+#EXTINF:-1 tvg-id="21:00-Europa League Fase Liga-SC Braga-Genk" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League Fase Liga-SC Braga-Genk
+http://192.168.18.75:8080/ace/getstream?id=17b8bc4bf8e29547b0071c742e3d7da3bcbc484d
+#EXTINF:-1 tvg-id="21:00-Europa League Fase Liga-SC Braga-Genk" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League Fase Liga-SC Braga-Genk
+http://192.168.18.75:8080/ace/getstream?id=1dece791d28be6a5af78537ac4864ec01fa0a6d8
+#EXTINF:-1 tvg-id="21:00-Europa League Fase Liga-SC Braga-Genk" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League Fase Liga-SC Braga-Genk
+http://192.168.18.75:8080/ace/getstream?id=2b5129adc57d43790634d796fe3468b9fd061259
+#EXTINF:-1 tvg-id="21:00-Europa League Fase Liga-SC Braga-Genk" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League Fase Liga-SC Braga-Genk
+http://192.168.18.75:8080/ace/getstream?id=4416843c96b7f7a1bc55c476091a60fff0922bc7
+#EXTINF:-1 tvg-id="21:00-Europa League Fase Liga-SC Braga-Genk" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League Fase Liga-SC Braga-Genk
+http://192.168.18.75:8080/ace/getstream?id=cfc371890bfb502737a26de5215e50929c52d0f9
+#EXTINF:-1 tvg-id="21:00-Europa League Fase Liga-SC Braga-Genk" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League Fase Liga-SC Braga-Genk
+http://192.168.18.75:8080/ace/getstream?id=90f7941c6bf7ca4b18084a1dca7bc15b9b179373
+#EXTINF:-1 tvg-id="21:00-Europa League Fase Liga-Viktoria Plzen-Fenerbahçe" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League Fase Liga-Viktoria Plzen-Fenerbahçe
+http://192.168.18.75:8080/ace/getstream?id=17b8bc4bf8e29547b0071c742e3d7da3bcbc484d
+#EXTINF:-1 tvg-id="21:00-Europa League Fase Liga-Viktoria Plzen-Fenerbahçe" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League Fase Liga-Viktoria Plzen-Fenerbahçe
+http://192.168.18.75:8080/ace/getstream?id=1dece791d28be6a5af78537ac4864ec01fa0a6d8
+#EXTINF:-1 tvg-id="21:00-Europa League Fase Liga-Viktoria Plzen-Fenerbahçe" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League Fase Liga-Viktoria Plzen-Fenerbahçe
+http://192.168.18.75:8080/ace/getstream?id=2b5129adc57d43790634d796fe3468b9fd061259
+#EXTINF:-1 tvg-id="21:00-Europa League Fase Liga-Viktoria Plzen-Fenerbahçe" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League Fase Liga-Viktoria Plzen-Fenerbahçe
+http://192.168.18.75:8080/ace/getstream?id=4416843c96b7f7a1bc55c476091a60fff0922bc7
+#EXTINF:-1 tvg-id="21:00-Europa League Fase Liga-Viktoria Plzen-Fenerbahçe" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League Fase Liga-Viktoria Plzen-Fenerbahçe
+http://192.168.18.75:8080/ace/getstream?id=cfc371890bfb502737a26de5215e50929c52d0f9
+#EXTINF:-1 tvg-id="21:00-Europa League Fase Liga-Viktoria Plzen-Fenerbahçe" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League Fase Liga-Viktoria Plzen-Fenerbahçe
+http://192.168.18.75:8080/ace/getstream?id=90f7941c6bf7ca4b18084a1dca7bc15b9b179373
+#EXTINF:-1 tvg-id="21:00-Europa League Fase Liga-Viktoria Plzen-Fenerbahçe" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League Fase Liga-Viktoria Plzen-Fenerbahçe
+http://192.168.18.75:8080/ace/getstream?id=83c02982581a536d1321e38a77dc0c520b1cb842
+#EXTINF:-1 tvg-id="21:00-Europa League Fase Liga-PAOK FC-Young Boys" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League Fase Liga-PAOK FC-Young Boys
+http://192.168.18.75:8080/ace/getstream?id=17b8bc4bf8e29547b0071c742e3d7da3bcbc484d
+#EXTINF:-1 tvg-id="21:00-Europa League Fase Liga-PAOK FC-Young Boys" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League Fase Liga-PAOK FC-Young Boys
+http://192.168.18.75:8080/ace/getstream?id=1dece791d28be6a5af78537ac4864ec01fa0a6d8
+#EXTINF:-1 tvg-id="21:00-Europa League Fase Liga-PAOK FC-Young Boys" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League Fase Liga-PAOK FC-Young Boys
+http://192.168.18.75:8080/ace/getstream?id=2b5129adc57d43790634d796fe3468b9fd061259
+#EXTINF:-1 tvg-id="21:00-Europa League Fase Liga-PAOK FC-Young Boys" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League Fase Liga-PAOK FC-Young Boys
+http://192.168.18.75:8080/ace/getstream?id=4416843c96b7f7a1bc55c476091a60fff0922bc7
+#EXTINF:-1 tvg-id="21:00-Europa League Fase Liga-PAOK FC-Young Boys" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League Fase Liga-PAOK FC-Young Boys
+http://192.168.18.75:8080/ace/getstream?id=cfc371890bfb502737a26de5215e50929c52d0f9
+#EXTINF:-1 tvg-id="21:00-Europa League Fase Liga-PAOK FC-Young Boys" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League Fase Liga-PAOK FC-Young Boys
+http://192.168.18.75:8080/ace/getstream?id=90f7941c6bf7ca4b18084a1dca7bc15b9b179373
+#EXTINF:-1 tvg-id="21:00-Europa League Fase Liga-Ferencvaros-PFC Ludogorets" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League Fase Liga-Ferencvaros-PFC Ludogorets
+http://192.168.18.75:8080/ace/getstream?id=17b8bc4bf8e29547b0071c742e3d7da3bcbc484d
+#EXTINF:-1 tvg-id="21:00-Europa League Fase Liga-Ferencvaros-PFC Ludogorets" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League Fase Liga-Ferencvaros-PFC Ludogorets
+http://192.168.18.75:8080/ace/getstream?id=1dece791d28be6a5af78537ac4864ec01fa0a6d8
+#EXTINF:-1 tvg-id="21:00-Europa League Fase Liga-Ferencvaros-PFC Ludogorets" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League Fase Liga-Ferencvaros-PFC Ludogorets
+http://192.168.18.75:8080/ace/getstream?id=2b5129adc57d43790634d796fe3468b9fd061259
+#EXTINF:-1 tvg-id="21:00-Europa League Fase Liga-Ferencvaros-PFC Ludogorets" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League Fase Liga-Ferencvaros-PFC Ludogorets
+http://192.168.18.75:8080/ace/getstream?id=4416843c96b7f7a1bc55c476091a60fff0922bc7
+#EXTINF:-1 tvg-id="21:00-Europa League Fase Liga-Ferencvaros-PFC Ludogorets" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League Fase Liga-Ferencvaros-PFC Ludogorets
+http://192.168.18.75:8080/ace/getstream?id=cfc371890bfb502737a26de5215e50929c52d0f9
+#EXTINF:-1 tvg-id="21:00-Europa League Fase Liga-Ferencvaros-PFC Ludogorets" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Europa League Fase Liga-Ferencvaros-PFC Ludogorets
+http://192.168.18.75:8080/ace/getstream?id=90f7941c6bf7ca4b18084a1dca7bc15b9b179373
+#EXTINF:-1 tvg-id="21:00-Conference League Fase Liga-Rayo Vallecano-Lech Poznan" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League Fase Liga-Rayo Vallecano-Lech Poznan
+http://192.168.18.75:8080/ace/getstream?id=c6a3673f6a37b1bd3cf31fdd6404dd33d48cfccb
+#EXTINF:-1 tvg-id="21:00-Conference League Fase Liga-Rayo Vallecano-Lech Poznan" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League Fase Liga-Rayo Vallecano-Lech Poznan
+http://192.168.18.75:8080/ace/getstream?id=4fc6d0331830ad8743abab2fe2473b63bdfbc49f
+#EXTINF:-1 tvg-id="21:00-Conference League Fase Liga-Rayo Vallecano-Lech Poznan" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League Fase Liga-Rayo Vallecano-Lech Poznan
+http://192.168.18.75:8080/ace/getstream?id=4b18a3b32df5960ed950fa907f8d509b1ad2a188
+#EXTINF:-1 tvg-id="21:00-Conference League Fase Liga-Rayo Vallecano-Lech Poznan" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League Fase Liga-Rayo Vallecano-Lech Poznan
+http://192.168.18.75:8080/ace/getstream?id=ea03cc51980996ba6f2da49e30eee1de8a66ae54
+#EXTINF:-1 tvg-id="21:00-Conference League Fase Liga-Rayo Vallecano-Lech Poznan" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League Fase Liga-Rayo Vallecano-Lech Poznan
+http://192.168.18.75:8080/ace/getstream?id=e7d8cae7f693fe46e89bbf74820caac9ffb32a30
+#EXTINF:-1 tvg-id="21:00-Conference League Fase Liga-Rayo Vallecano-Lech Poznan" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League Fase Liga-Rayo Vallecano-Lech Poznan
+http://192.168.18.75:8080/ace/getstream?id=74ab4e4ec7e2da001f473ca40893b7307b8029c5
+#EXTINF:-1 tvg-id="21:00-Conference League Fase Liga-Rayo Vallecano-Lech Poznan" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League Fase Liga-Rayo Vallecano-Lech Poznan
+http://192.168.18.75:8080/ace/getstream?id=38f7b2044e549df2039ff26cefa6f9a60c854d5e
+#EXTINF:-1 tvg-id="21:00-Conference League Fase Liga-Rayo Vallecano-Lech Poznan" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League Fase Liga-Rayo Vallecano-Lech Poznan
+http://192.168.18.75:8080/ace/getstream?id=338b5de78b0b40a6f9ca3cc0cf9be93341b9ceea
+#EXTINF:-1 tvg-id="21:00-Conference League Fase Liga-Rayo Vallecano-Lech Poznan" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League Fase Liga-Rayo Vallecano-Lech Poznan
+http://192.168.18.75:8080/ace/getstream?id=17b8bc4bf8e29547b0071c742e3d7da3bcbc484d
+#EXTINF:-1 tvg-id="21:00-Conference League Fase Liga-Rayo Vallecano-Lech Poznan" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League Fase Liga-Rayo Vallecano-Lech Poznan
+http://192.168.18.75:8080/ace/getstream?id=1dece791d28be6a5af78537ac4864ec01fa0a6d8
+#EXTINF:-1 tvg-id="21:00-Conference League Fase Liga-Rayo Vallecano-Lech Poznan" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League Fase Liga-Rayo Vallecano-Lech Poznan
+http://192.168.18.75:8080/ace/getstream?id=2b5129adc57d43790634d796fe3468b9fd061259
+#EXTINF:-1 tvg-id="21:00-Conference League Fase Liga-Rayo Vallecano-Lech Poznan" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League Fase Liga-Rayo Vallecano-Lech Poznan
+http://192.168.18.75:8080/ace/getstream?id=4416843c96b7f7a1bc55c476091a60fff0922bc7
+#EXTINF:-1 tvg-id="21:00-Conference League Fase Liga-Rayo Vallecano-Lech Poznan" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League Fase Liga-Rayo Vallecano-Lech Poznan
+http://192.168.18.75:8080/ace/getstream?id=cfc371890bfb502737a26de5215e50929c52d0f9
+#EXTINF:-1 tvg-id="21:00-Conference League Fase Liga-Rayo Vallecano-Lech Poznan" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League Fase Liga-Rayo Vallecano-Lech Poznan
+http://192.168.18.75:8080/ace/getstream?id=90f7941c6bf7ca4b18084a1dca7bc15b9b179373
+#EXTINF:-1 tvg-id="21:00-Conference League Fase Liga-Dynamo Kyiv-Zrinjski Mostar" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League Fase Liga-Dynamo Kyiv-Zrinjski Mostar
+http://192.168.18.75:8080/ace/getstream?id=17b8bc4bf8e29547b0071c742e3d7da3bcbc484d
+#EXTINF:-1 tvg-id="21:00-Conference League Fase Liga-Dynamo Kyiv-Zrinjski Mostar" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League Fase Liga-Dynamo Kyiv-Zrinjski Mostar
+http://192.168.18.75:8080/ace/getstream?id=1dece791d28be6a5af78537ac4864ec01fa0a6d8
+#EXTINF:-1 tvg-id="21:00-Conference League Fase Liga-Dynamo Kyiv-Zrinjski Mostar" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League Fase Liga-Dynamo Kyiv-Zrinjski Mostar
+http://192.168.18.75:8080/ace/getstream?id=2b5129adc57d43790634d796fe3468b9fd061259
+#EXTINF:-1 tvg-id="21:00-Conference League Fase Liga-Dynamo Kyiv-Zrinjski Mostar" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League Fase Liga-Dynamo Kyiv-Zrinjski Mostar
+http://192.168.18.75:8080/ace/getstream?id=4416843c96b7f7a1bc55c476091a60fff0922bc7
+#EXTINF:-1 tvg-id="21:00-Conference League Fase Liga-Dynamo Kyiv-Zrinjski Mostar" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League Fase Liga-Dynamo Kyiv-Zrinjski Mostar
+http://192.168.18.75:8080/ace/getstream?id=cfc371890bfb502737a26de5215e50929c52d0f9
+#EXTINF:-1 tvg-id="21:00-Conference League Fase Liga-Dynamo Kyiv-Zrinjski Mostar" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League Fase Liga-Dynamo Kyiv-Zrinjski Mostar
+http://192.168.18.75:8080/ace/getstream?id=90f7941c6bf7ca4b18084a1dca7bc15b9b179373
+#EXTINF:-1 tvg-id="21:00-Conference League Fase Liga-Crystal Palace-AZ Alkmaar" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League Fase Liga-Crystal Palace-AZ Alkmaar
+http://192.168.18.75:8080/ace/getstream?id=17b8bc4bf8e29547b0071c742e3d7da3bcbc484d
+#EXTINF:-1 tvg-id="21:00-Conference League Fase Liga-Crystal Palace-AZ Alkmaar" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League Fase Liga-Crystal Palace-AZ Alkmaar
+http://192.168.18.75:8080/ace/getstream?id=1dece791d28be6a5af78537ac4864ec01fa0a6d8
+#EXTINF:-1 tvg-id="21:00-Conference League Fase Liga-Crystal Palace-AZ Alkmaar" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League Fase Liga-Crystal Palace-AZ Alkmaar
+http://192.168.18.75:8080/ace/getstream?id=2b5129adc57d43790634d796fe3468b9fd061259
+#EXTINF:-1 tvg-id="21:00-Conference League Fase Liga-Crystal Palace-AZ Alkmaar" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League Fase Liga-Crystal Palace-AZ Alkmaar
+http://192.168.18.75:8080/ace/getstream?id=4416843c96b7f7a1bc55c476091a60fff0922bc7
+#EXTINF:-1 tvg-id="21:00-Conference League Fase Liga-Crystal Palace-AZ Alkmaar" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League Fase Liga-Crystal Palace-AZ Alkmaar
+http://192.168.18.75:8080/ace/getstream?id=cfc371890bfb502737a26de5215e50929c52d0f9
+#EXTINF:-1 tvg-id="21:00-Conference League Fase Liga-Crystal Palace-AZ Alkmaar" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League Fase Liga-Crystal Palace-AZ Alkmaar
+http://192.168.18.75:8080/ace/getstream?id=90f7941c6bf7ca4b18084a1dca7bc15b9b179373
+#EXTINF:-1 tvg-id="21:00-Conference League Fase Liga-Rapid Wien-FCU Craiova 1948" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League Fase Liga-Rapid Wien-FCU Craiova 1948
+http://192.168.18.75:8080/ace/getstream?id=17b8bc4bf8e29547b0071c742e3d7da3bcbc484d
+#EXTINF:-1 tvg-id="21:00-Conference League Fase Liga-Rapid Wien-FCU Craiova 1948" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League Fase Liga-Rapid Wien-FCU Craiova 1948
+http://192.168.18.75:8080/ace/getstream?id=1dece791d28be6a5af78537ac4864ec01fa0a6d8
+#EXTINF:-1 tvg-id="21:00-Conference League Fase Liga-Rapid Wien-FCU Craiova 1948" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League Fase Liga-Rapid Wien-FCU Craiova 1948
+http://192.168.18.75:8080/ace/getstream?id=2b5129adc57d43790634d796fe3468b9fd061259
+#EXTINF:-1 tvg-id="21:00-Conference League Fase Liga-Rapid Wien-FCU Craiova 1948" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League Fase Liga-Rapid Wien-FCU Craiova 1948
+http://192.168.18.75:8080/ace/getstream?id=4416843c96b7f7a1bc55c476091a60fff0922bc7
+#EXTINF:-1 tvg-id="21:00-Conference League Fase Liga-Rapid Wien-FCU Craiova 1948" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League Fase Liga-Rapid Wien-FCU Craiova 1948
+http://192.168.18.75:8080/ace/getstream?id=cfc371890bfb502737a26de5215e50929c52d0f9
+#EXTINF:-1 tvg-id="21:00-Conference League Fase Liga-Rapid Wien-FCU Craiova 1948" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League Fase Liga-Rapid Wien-FCU Craiova 1948
+http://192.168.18.75:8080/ace/getstream?id=90f7941c6bf7ca4b18084a1dca7bc15b9b179373
+#EXTINF:-1 tvg-id="21:00-Conference League Fase Liga-Rapid Wien-FCU Craiova 1948" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League Fase Liga-Rapid Wien-FCU Craiova 1948
+http://192.168.18.75:8080/ace/getstream?id=8c67cdb5ba81976662c3a67984a9545d9cfb0f70
+#EXTINF:-1 tvg-id="21:00-Conference League Fase Liga-Rapid Wien-FCU Craiova 1948" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League Fase Liga-Rapid Wien-FCU Craiova 1948
+http://192.168.18.75:8080/ace/getstream?id=b6ffbbc72a5b6b579faf79ebac229af7a25b933b
+#EXTINF:-1 tvg-id="21:00-Conference League Fase Liga-Rapid Wien-FCU Craiova 1948" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League Fase Liga-Rapid Wien-FCU Craiova 1948
+http://192.168.18.75:8080/ace/getstream?id=199190e3f28c1de0be34bccf0d3568dc65209b99
+#EXTINF:-1 tvg-id="21:00-Conference League Fase Liga-Rapid Wien-FCU Craiova 1948" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League Fase Liga-Rapid Wien-FCU Craiova 1948
+http://192.168.18.75:8080/ace/getstream?id=5866e83279307bf919068ae7a0d250e4e424e464
+#EXTINF:-1 tvg-id="21:00-Conference League Fase Liga-Rapid Wien-FCU Craiova 1948" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League Fase Liga-Rapid Wien-FCU Craiova 1948
+http://192.168.18.75:8080/ace/getstream?id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
+#EXTINF:-1 tvg-id="21:00-Conference League Fase Liga-KF Shkendija-Jagiellonia Bialystok" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League Fase Liga-KF Shkendija-Jagiellonia Bialystok
+http://192.168.18.75:8080/ace/getstream?id=17b8bc4bf8e29547b0071c742e3d7da3bcbc484d
+#EXTINF:-1 tvg-id="21:00-Conference League Fase Liga-KF Shkendija-Jagiellonia Bialystok" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League Fase Liga-KF Shkendija-Jagiellonia Bialystok
+http://192.168.18.75:8080/ace/getstream?id=1dece791d28be6a5af78537ac4864ec01fa0a6d8
+#EXTINF:-1 tvg-id="21:00-Conference League Fase Liga-KF Shkendija-Jagiellonia Bialystok" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League Fase Liga-KF Shkendija-Jagiellonia Bialystok
+http://192.168.18.75:8080/ace/getstream?id=2b5129adc57d43790634d796fe3468b9fd061259
+#EXTINF:-1 tvg-id="21:00-Conference League Fase Liga-KF Shkendija-Jagiellonia Bialystok" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League Fase Liga-KF Shkendija-Jagiellonia Bialystok
+http://192.168.18.75:8080/ace/getstream?id=4416843c96b7f7a1bc55c476091a60fff0922bc7
+#EXTINF:-1 tvg-id="21:00-Conference League Fase Liga-KF Shkendija-Jagiellonia Bialystok" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League Fase Liga-KF Shkendija-Jagiellonia Bialystok
+http://192.168.18.75:8080/ace/getstream?id=cfc371890bfb502737a26de5215e50929c52d0f9
+#EXTINF:-1 tvg-id="21:00-Conference League Fase Liga-KF Shkendija-Jagiellonia Bialystok" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League Fase Liga-KF Shkendija-Jagiellonia Bialystok
+http://192.168.18.75:8080/ace/getstream?id=90f7941c6bf7ca4b18084a1dca7bc15b9b179373
+#EXTINF:-1 tvg-id="21:00-Conference League Fase Liga-KF Shkendija-Jagiellonia Bialystok" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League Fase Liga-KF Shkendija-Jagiellonia Bialystok
+http://192.168.18.75:8080/ace/getstream?id=8c67cdb5ba81976662c3a67984a9545d9cfb0f70
+#EXTINF:-1 tvg-id="21:00-Conference League Fase Liga-KF Shkendija-Jagiellonia Bialystok" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League Fase Liga-KF Shkendija-Jagiellonia Bialystok
+http://192.168.18.75:8080/ace/getstream?id=b6ffbbc72a5b6b579faf79ebac229af7a25b933b
+#EXTINF:-1 tvg-id="21:00-Conference League Fase Liga-KF Shkendija-Jagiellonia Bialystok" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League Fase Liga-KF Shkendija-Jagiellonia Bialystok
+http://192.168.18.75:8080/ace/getstream?id=199190e3f28c1de0be34bccf0d3568dc65209b99
+#EXTINF:-1 tvg-id="21:00-Conference League Fase Liga-KF Shkendija-Jagiellonia Bialystok" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League Fase Liga-KF Shkendija-Jagiellonia Bialystok
+http://192.168.18.75:8080/ace/getstream?id=5866e83279307bf919068ae7a0d250e4e424e464
+#EXTINF:-1 tvg-id="21:00-Conference League Fase Liga-KF Shkendija-Jagiellonia Bialystok" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League Fase Liga-KF Shkendija-Jagiellonia Bialystok
+http://192.168.18.75:8080/ace/getstream?id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
+#EXTINF:-1 tvg-id="21:00-Conference League Fase Liga-Lincoln Red Imps-HNK Rijeka" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League Fase Liga-Lincoln Red Imps-HNK Rijeka
+http://192.168.18.75:8080/ace/getstream?id=17b8bc4bf8e29547b0071c742e3d7da3bcbc484d
+#EXTINF:-1 tvg-id="21:00-Conference League Fase Liga-Lincoln Red Imps-HNK Rijeka" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League Fase Liga-Lincoln Red Imps-HNK Rijeka
+http://192.168.18.75:8080/ace/getstream?id=1dece791d28be6a5af78537ac4864ec01fa0a6d8
+#EXTINF:-1 tvg-id="21:00-Conference League Fase Liga-Lincoln Red Imps-HNK Rijeka" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League Fase Liga-Lincoln Red Imps-HNK Rijeka
+http://192.168.18.75:8080/ace/getstream?id=2b5129adc57d43790634d796fe3468b9fd061259
+#EXTINF:-1 tvg-id="21:00-Conference League Fase Liga-Lincoln Red Imps-HNK Rijeka" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League Fase Liga-Lincoln Red Imps-HNK Rijeka
+http://192.168.18.75:8080/ace/getstream?id=4416843c96b7f7a1bc55c476091a60fff0922bc7
+#EXTINF:-1 tvg-id="21:00-Conference League Fase Liga-Lincoln Red Imps-HNK Rijeka" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League Fase Liga-Lincoln Red Imps-HNK Rijeka
+http://192.168.18.75:8080/ace/getstream?id=cfc371890bfb502737a26de5215e50929c52d0f9
+#EXTINF:-1 tvg-id="21:00-Conference League Fase Liga-Lincoln Red Imps-HNK Rijeka" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League Fase Liga-Lincoln Red Imps-HNK Rijeka
+http://192.168.18.75:8080/ace/getstream?id=90f7941c6bf7ca4b18084a1dca7bc15b9b179373
+#EXTINF:-1 tvg-id="21:00-Conference League Fase Liga-Lincoln Red Imps-HNK Rijeka" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League Fase Liga-Lincoln Red Imps-HNK Rijeka
+http://192.168.18.75:8080/ace/getstream?id=8c67cdb5ba81976662c3a67984a9545d9cfb0f70
+#EXTINF:-1 tvg-id="21:00-Conference League Fase Liga-Lincoln Red Imps-HNK Rijeka" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League Fase Liga-Lincoln Red Imps-HNK Rijeka
+http://192.168.18.75:8080/ace/getstream?id=b6ffbbc72a5b6b579faf79ebac229af7a25b933b
+#EXTINF:-1 tvg-id="21:00-Conference League Fase Liga-Lincoln Red Imps-HNK Rijeka" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League Fase Liga-Lincoln Red Imps-HNK Rijeka
+http://192.168.18.75:8080/ace/getstream?id=199190e3f28c1de0be34bccf0d3568dc65209b99
+#EXTINF:-1 tvg-id="21:00-Conference League Fase Liga-Lincoln Red Imps-HNK Rijeka" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League Fase Liga-Lincoln Red Imps-HNK Rijeka
+http://192.168.18.75:8080/ace/getstream?id=5866e83279307bf919068ae7a0d250e4e424e464
+#EXTINF:-1 tvg-id="21:00-Conference League Fase Liga-Lincoln Red Imps-HNK Rijeka" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League Fase Liga-Lincoln Red Imps-HNK Rijeka
+http://192.168.18.75:8080/ace/getstream?id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
+#EXTINF:-1 tvg-id="21:00-Conference League Fase Liga-Lausanne Sport-AC Omonia" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League Fase Liga-Lausanne Sport-AC Omonia
+http://192.168.18.75:8080/ace/getstream?id=17b8bc4bf8e29547b0071c742e3d7da3bcbc484d
+#EXTINF:-1 tvg-id="21:00-Conference League Fase Liga-Lausanne Sport-AC Omonia" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League Fase Liga-Lausanne Sport-AC Omonia
+http://192.168.18.75:8080/ace/getstream?id=1dece791d28be6a5af78537ac4864ec01fa0a6d8
+#EXTINF:-1 tvg-id="21:00-Conference League Fase Liga-Lausanne Sport-AC Omonia" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League Fase Liga-Lausanne Sport-AC Omonia
+http://192.168.18.75:8080/ace/getstream?id=2b5129adc57d43790634d796fe3468b9fd061259
+#EXTINF:-1 tvg-id="21:00-Conference League Fase Liga-Lausanne Sport-AC Omonia" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League Fase Liga-Lausanne Sport-AC Omonia
+http://192.168.18.75:8080/ace/getstream?id=4416843c96b7f7a1bc55c476091a60fff0922bc7
+#EXTINF:-1 tvg-id="21:00-Conference League Fase Liga-Lausanne Sport-AC Omonia" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League Fase Liga-Lausanne Sport-AC Omonia
+http://192.168.18.75:8080/ace/getstream?id=cfc371890bfb502737a26de5215e50929c52d0f9
+#EXTINF:-1 tvg-id="21:00-Conference League Fase Liga-Lausanne Sport-AC Omonia" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League Fase Liga-Lausanne Sport-AC Omonia
+http://192.168.18.75:8080/ace/getstream?id=90f7941c6bf7ca4b18084a1dca7bc15b9b179373
+#EXTINF:-1 tvg-id="21:00-Conference League Fase Liga-Lausanne Sport-AC Omonia" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League Fase Liga-Lausanne Sport-AC Omonia
+http://192.168.18.75:8080/ace/getstream?id=8c67cdb5ba81976662c3a67984a9545d9cfb0f70
+#EXTINF:-1 tvg-id="21:00-Conference League Fase Liga-Lausanne Sport-AC Omonia" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League Fase Liga-Lausanne Sport-AC Omonia
+http://192.168.18.75:8080/ace/getstream?id=b6ffbbc72a5b6b579faf79ebac229af7a25b933b
+#EXTINF:-1 tvg-id="21:00-Conference League Fase Liga-Lausanne Sport-AC Omonia" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League Fase Liga-Lausanne Sport-AC Omonia
+http://192.168.18.75:8080/ace/getstream?id=199190e3f28c1de0be34bccf0d3568dc65209b99
+#EXTINF:-1 tvg-id="21:00-Conference League Fase Liga-Lausanne Sport-AC Omonia" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League Fase Liga-Lausanne Sport-AC Omonia
+http://192.168.18.75:8080/ace/getstream?id=5866e83279307bf919068ae7a0d250e4e424e464
+#EXTINF:-1 tvg-id="21:00-Conference League Fase Liga-Lausanne Sport-AC Omonia" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League Fase Liga-Lausanne Sport-AC Omonia
+http://192.168.18.75:8080/ace/getstream?id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
+#EXTINF:-1 tvg-id="21:00-Conference League Fase Liga-BK Häcken-Strasbourg Alsace" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League Fase Liga-BK Häcken-Strasbourg Alsace
+http://192.168.18.75:8080/ace/getstream?id=17b8bc4bf8e29547b0071c742e3d7da3bcbc484d
+#EXTINF:-1 tvg-id="21:00-Conference League Fase Liga-BK Häcken-Strasbourg Alsace" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League Fase Liga-BK Häcken-Strasbourg Alsace
+http://192.168.18.75:8080/ace/getstream?id=1dece791d28be6a5af78537ac4864ec01fa0a6d8
+#EXTINF:-1 tvg-id="21:00-Conference League Fase Liga-BK Häcken-Strasbourg Alsace" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League Fase Liga-BK Häcken-Strasbourg Alsace
+http://192.168.18.75:8080/ace/getstream?id=2b5129adc57d43790634d796fe3468b9fd061259
+#EXTINF:-1 tvg-id="21:00-Conference League Fase Liga-BK Häcken-Strasbourg Alsace" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League Fase Liga-BK Häcken-Strasbourg Alsace
+http://192.168.18.75:8080/ace/getstream?id=4416843c96b7f7a1bc55c476091a60fff0922bc7
+#EXTINF:-1 tvg-id="21:00-Conference League Fase Liga-BK Häcken-Strasbourg Alsace" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League Fase Liga-BK Häcken-Strasbourg Alsace
+http://192.168.18.75:8080/ace/getstream?id=cfc371890bfb502737a26de5215e50929c52d0f9
+#EXTINF:-1 tvg-id="21:00-Conference League Fase Liga-BK Häcken-Strasbourg Alsace" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League Fase Liga-BK Häcken-Strasbourg Alsace
+http://192.168.18.75:8080/ace/getstream?id=90f7941c6bf7ca4b18084a1dca7bc15b9b179373
+#EXTINF:-1 tvg-id="21:00-Conference League Fase Liga-BK Häcken-Strasbourg Alsace" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League Fase Liga-BK Häcken-Strasbourg Alsace
+http://192.168.18.75:8080/ace/getstream?id=8c67cdb5ba81976662c3a67984a9545d9cfb0f70
+#EXTINF:-1 tvg-id="21:00-Conference League Fase Liga-BK Häcken-Strasbourg Alsace" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League Fase Liga-BK Häcken-Strasbourg Alsace
+http://192.168.18.75:8080/ace/getstream?id=b6ffbbc72a5b6b579faf79ebac229af7a25b933b
+#EXTINF:-1 tvg-id="21:00-Conference League Fase Liga-BK Häcken-Strasbourg Alsace" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League Fase Liga-BK Häcken-Strasbourg Alsace
+http://192.168.18.75:8080/ace/getstream?id=199190e3f28c1de0be34bccf0d3568dc65209b99
+#EXTINF:-1 tvg-id="21:00-Conference League Fase Liga-BK Häcken-Strasbourg Alsace" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League Fase Liga-BK Häcken-Strasbourg Alsace
+http://192.168.18.75:8080/ace/getstream?id=5866e83279307bf919068ae7a0d250e4e424e464
+#EXTINF:-1 tvg-id="21:00-Conference League Fase Liga-BK Häcken-Strasbourg Alsace" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League Fase Liga-BK Häcken-Strasbourg Alsace
+http://192.168.18.75:8080/ace/getstream?id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
+#EXTINF:-1 tvg-id="21:00-Conference League Fase Liga-Shelbourne FC-FC Drita" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League Fase Liga-Shelbourne FC-FC Drita
+http://192.168.18.75:8080/ace/getstream?id=17b8bc4bf8e29547b0071c742e3d7da3bcbc484d
+#EXTINF:-1 tvg-id="21:00-Conference League Fase Liga-Shelbourne FC-FC Drita" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League Fase Liga-Shelbourne FC-FC Drita
+http://192.168.18.75:8080/ace/getstream?id=1dece791d28be6a5af78537ac4864ec01fa0a6d8
+#EXTINF:-1 tvg-id="21:00-Conference League Fase Liga-Shelbourne FC-FC Drita" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League Fase Liga-Shelbourne FC-FC Drita
+http://192.168.18.75:8080/ace/getstream?id=2b5129adc57d43790634d796fe3468b9fd061259
+#EXTINF:-1 tvg-id="21:00-Conference League Fase Liga-Shelbourne FC-FC Drita" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League Fase Liga-Shelbourne FC-FC Drita
+http://192.168.18.75:8080/ace/getstream?id=4416843c96b7f7a1bc55c476091a60fff0922bc7
+#EXTINF:-1 tvg-id="21:00-Conference League Fase Liga-Shelbourne FC-FC Drita" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League Fase Liga-Shelbourne FC-FC Drita
+http://192.168.18.75:8080/ace/getstream?id=cfc371890bfb502737a26de5215e50929c52d0f9
+#EXTINF:-1 tvg-id="21:00-Conference League Fase Liga-Shelbourne FC-FC Drita" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League Fase Liga-Shelbourne FC-FC Drita
+http://192.168.18.75:8080/ace/getstream?id=90f7941c6bf7ca4b18084a1dca7bc15b9b179373
+#EXTINF:-1 tvg-id="21:00-Conference League Fase Liga-Shelbourne FC-FC Drita" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League Fase Liga-Shelbourne FC-FC Drita
+http://192.168.18.75:8080/ace/getstream?id=8c67cdb5ba81976662c3a67984a9545d9cfb0f70
+#EXTINF:-1 tvg-id="21:00-Conference League Fase Liga-Shelbourne FC-FC Drita" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League Fase Liga-Shelbourne FC-FC Drita
+http://192.168.18.75:8080/ace/getstream?id=b6ffbbc72a5b6b579faf79ebac229af7a25b933b
+#EXTINF:-1 tvg-id="21:00-Conference League Fase Liga-Shelbourne FC-FC Drita" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League Fase Liga-Shelbourne FC-FC Drita
+http://192.168.18.75:8080/ace/getstream?id=199190e3f28c1de0be34bccf0d3568dc65209b99
+#EXTINF:-1 tvg-id="21:00-Conference League Fase Liga-Shelbourne FC-FC Drita" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League Fase Liga-Shelbourne FC-FC Drita
+http://192.168.18.75:8080/ace/getstream?id=5866e83279307bf919068ae7a0d250e4e424e464
+#EXTINF:-1 tvg-id="21:00-Conference League Fase Liga-Shelbourne FC-FC Drita" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Conference League Fase Liga-Shelbourne FC-FC Drita
+http://192.168.18.75:8080/ace/getstream?id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
+#EXTINF:-1 tvg-id="21:00-Euroliga Liga Regular-Maccabi Tel Aviv BC-AS Monaco Basket" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",21:00-Euroliga Liga Regular-Maccabi Tel Aviv BC-AS Monaco Basket
+http://192.168.18.75:8080/ace/getstream?id=753d4b1f7c4ef43238b5cf23b05572b550a44eee
+#EXTINF:-1 tvg-id="21:00-Euroliga Liga Regular-Maccabi Tel Aviv BC-AS Monaco Basket" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",21:00-Euroliga Liga Regular-Maccabi Tel Aviv BC-AS Monaco Basket
+http://192.168.18.75:8080/ace/getstream?id=29d786d72d4b53dbc333af3a50f8fb021aa0296f
+#EXTINF:-1 tvg-id="21:00-Euroliga Liga Regular-Maccabi Tel Aviv BC-AS Monaco Basket" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",21:00-Euroliga Liga Regular-Maccabi Tel Aviv BC-AS Monaco Basket
+http://192.168.18.75:8080/ace/getstream?id=799c6b5ee1cf41af077d14e3f9c45a32697eb903
+#EXTINF:-1 tvg-id="21:00-Euroliga Liga Regular-Maccabi Tel Aviv BC-AS Monaco Basket" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",21:00-Euroliga Liga Regular-Maccabi Tel Aviv BC-AS Monaco Basket
+http://192.168.18.75:8080/ace/getstream?id=2fd410c5d89e7a627cd3785685b7915b8e4bd534
+#EXTINF:-1 tvg-id="21:00-Euroliga Liga Regular-Maccabi Tel Aviv BC-AS Monaco Basket" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",21:00-Euroliga Liga Regular-Maccabi Tel Aviv BC-AS Monaco Basket
+http://192.168.18.75:8080/ace/getstream?id=39fefdecfc953dcf6e7c589739bf486c2e605ed0
+#EXTINF:-1 tvg-id="21:00-Euroliga Liga Regular-Paris Basketball-FC Bayern Basketball" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",21:00-Euroliga Liga Regular-Paris Basketball-FC Bayern Basketball
+http://192.168.18.75:8080/ace/getstream?id=ef9dcc4eaac36a0f608b52a31f8ab237859e071a
+#EXTINF:-1 tvg-id="21:00-Euroliga Liga Regular-Paris Basketball-FC Bayern Basketball" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",21:00-Euroliga Liga Regular-Paris Basketball-FC Bayern Basketball
+http://192.168.18.75:8080/ace/getstream?id=5d3f582738467aaf213e408601aca5cc13fa9359
+#EXTINF:-1 tvg-id="21:00-Euroliga Liga Regular-Paris Basketball-FC Bayern Basketball" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",21:00-Euroliga Liga Regular-Paris Basketball-FC Bayern Basketball
+http://192.168.18.75:8080/ace/getstream?id=3692ea4cdda97eb0062ed5d656ebd61f149ebd0b
+#EXTINF:-1 tvg-id="21:00-Euroliga Liga Regular-Paris Basketball-FC Bayern Basketball" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",21:00-Euroliga Liga Regular-Paris Basketball-FC Bayern Basketball
+http://192.168.18.75:8080/ace/getstream?id=ebca4a63ce3bfda7b272964a1acc5227218184a4
+#EXTINF:-1 tvg-id="21:00-Euroliga Liga Regular-Paris Basketball-FC Bayern Basketball" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",21:00-Euroliga Liga Regular-Paris Basketball-FC Bayern Basketball
+http://192.168.18.75:8080/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3
