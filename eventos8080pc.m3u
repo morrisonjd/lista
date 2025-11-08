@@ -83,6 +83,8 @@ http://192.168.18.75:8080/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f2
 http://192.168.18.75:8080/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7
 #EXTINF:-1 tvg-id="16:00-Torneo de Atenas Final ATP 250-N. Djokovic-L. Musetti" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:00-Torneo de Atenas Final ATP 250-N. Djokovic-L. Musetti
 http://192.168.18.75:8080/ace/getstream?id=aa31953b8af44b461102852d5b1247eea95b8050
+#EXTINF:-1 tvg-id="16:00-Torneo de Atenas Final ATP 250-N. Djokovic-L. Musetti" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:00-Torneo de Atenas Final ATP 250-N. Djokovic-L. Musetti
+http://192.168.18.75:8080/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="16:15-Primera-Sevilla FC-Osasuna" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",16:15-Primera-Sevilla FC-Osasuna
 http://192.168.18.75:8080/ace/getstream?id=d4ff041287a43e3114d411d671c4b4e92e21f33y
 #EXTINF:-1 tvg-id="16:15-Primera-Sevilla FC-Osasuna" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",16:15-Primera-Sevilla FC-Osasuna
@@ -127,6 +129,8 @@ http://192.168.18.75:8080/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f2
 http://192.168.18.75:8080/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7
 #EXTINF:-1 tvg-id="16:30-Torneo de Metz Final ATP 250-C. Norrie-L. Tien" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:30-Torneo de Metz Final ATP 250-C. Norrie-L. Tien
 http://192.168.18.75:8080/ace/getstream?id=aa31953b8af44b461102852d5b1247eea95b8050
+#EXTINF:-1 tvg-id="16:30-Torneo de Metz Final ATP 250-C. Norrie-L. Tien" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:30-Torneo de Metz Final ATP 250-C. Norrie-L. Tien
+http://192.168.18.75:8080/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="17:00-WTA Finals Final-A. Sabalenka-E. Rybakina" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:00-WTA Finals Final-A. Sabalenka-E. Rybakina
 http://192.168.18.75:8080/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee
 #EXTINF:-1 tvg-id="17:00-WTA Finals Final-A. Sabalenka-E. Rybakina" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:00-WTA Finals Final-A. Sabalenka-E. Rybakina
@@ -135,6 +139,8 @@ http://192.168.18.75:8080/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f2
 http://192.168.18.75:8080/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7
 #EXTINF:-1 tvg-id="17:00-WTA Finals Final-A. Sabalenka-E. Rybakina" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:00-WTA Finals Final-A. Sabalenka-E. Rybakina
 http://192.168.18.75:8080/ace/getstream?id=aa31953b8af44b461102852d5b1247eea95b8050
+#EXTINF:-1 tvg-id="17:00-WTA Finals Final-A. Sabalenka-E. Rybakina" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:00-WTA Finals Final-A. Sabalenka-E. Rybakina
+http://192.168.18.75:8080/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="18:30-Primera-At. Madrid-Levante" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:30-Primera-At. Madrid-Levante
 http://192.168.18.75:8080/ace/getstream?id=d4ff041287a43e3114d411d671c4b4e92e21f33y
 #EXTINF:-1 tvg-id="18:30-Primera-At. Madrid-Levante" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:30-Primera-At. Madrid-Levante
