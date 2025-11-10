@@ -27,6 +27,8 @@ http://192.168.18.75:8080/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f2
 http://192.168.18.75:8080/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7
 #EXTINF:-1 tvg-id="14:20-ATP Finals Round Robin-L. Musetti-T. Fritz" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:20-ATP Finals Round Robin-L. Musetti-T. Fritz
 http://192.168.18.75:8080/ace/getstream?id=aa31953b8af44b461102852d5b1247eea95b8050
+#EXTINF:-1 tvg-id="14:20-ATP Finals Round Robin-L. Musetti-T. Fritz" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:20-ATP Finals Round Robin-L. Musetti-T. Fritz
+http://192.168.18.75:8080/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="20:30-Segunda-Burgos CF-CD Castellón" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",20:30-Segunda-Burgos CF-CD Castellón
 http://192.168.18.75:8080/ace/getstream?id=8ee52f6208e33706171856f99d2ed2dabd317f3a
 #EXTINF:-1 tvg-id="20:30-Segunda-Burgos CF-CD Castellón" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",20:30-Segunda-Burgos CF-CD Castellón
@@ -55,3 +57,5 @@ http://192.168.18.75:8080/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f2
 http://192.168.18.75:8080/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7
 #EXTINF:-1 tvg-id="20:30-ATP Finals Round Robin-J. Sinner-F. Auger-Aliassime" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:30-ATP Finals Round Robin-J. Sinner-F. Auger-Aliassime
 http://192.168.18.75:8080/ace/getstream?id=aa31953b8af44b461102852d5b1247eea95b8050
+#EXTINF:-1 tvg-id="20:30-ATP Finals Round Robin-J. Sinner-F. Auger-Aliassime" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:30-ATP Finals Round Robin-J. Sinner-F. Auger-Aliassime
+http://192.168.18.75:8080/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
