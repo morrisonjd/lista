@@ -465,8 +465,6 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=5ccaf1da1ab3972502f2b35e581d7ab2f9b49
 http://127.0.0.1:6878/ace/manifest.m3u8?id=363f1d119b1971237318c0d953ab6eea5eb7c592
 #EXTINF:-1 tvg-id="Eurosport" group-title="Desconocido",Eurosport
 http://127.0.0.1:6878/ace/manifest.m3u8?id=314eb626864faf52e01624361bd6906b5406127f
-#EXTINF:-1 tvg-id="Canal Motor" group-title="New Loop",Canal Motor
-http://127.0.0.1:6878/ace/manifest.m3u8?id=35e17cc84abc5e393b5acd688536a9681105f2d5
 #EXTINF:-1 tvg-id="Motors TV" group-title="New Loop",Motors TV
 http://127.0.0.1:6878/ace/manifest.m3u8?id=442aeb6643b8836f9d00361c9e48eeb0841ddf98
 #EXTINF:-1 tvg-id="Retrovision Motor" group-title="New Loop",Retrovision Motor
@@ -778,9 +776,9 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=79f10c6c6168e42bfc606f3f7b9e5f3ca79de
 #EXTINF:-1 tvg-id="ESPN" group-title="Desconocido",ESPN
 http://127.0.0.1:6878/ace/manifest.m3u8?id=4b4907de51ec11087d4bed5876f2a0c68264f442
 #EXTINF:-1 tvg-id="ESPN 2" group-title="Desconocido",ESPN 2
-http://127.0.0.1:6878/ace/manifest.m3u8?id=3e0ba6867173f345d482d80c771f1a5dc3b37e63
-#EXTINF:-1 tvg-id="ESPN 2" group-title="Desconocido",ESPN 2
 http://127.0.0.1:6878/ace/manifest.m3u8?id=664eb5fe460b96941aed633959a845b185cd8394
+#EXTINF:-1 tvg-id="ESPN 2" group-title="Desconocido",ESPN 2
+http://127.0.0.1:6878/ace/manifest.m3u8?id=3e0ba6867173f345d482d80c771f1a5dc3b37e63
 #EXTINF:-1 tvg-id="ESPN 4" group-title="Desconocido",ESPN 4
 http://127.0.0.1:6878/ace/manifest.m3u8?id=5f9b19c57195cc28ab81e0ec8cad03b55118687a
 #EXTINF:-1 tvg-id="ESPN ARGENTINA" group-title="New Era",ESPN ARGENTINA
