@@ -46,38 +46,40 @@ http://192.168.18.170:6878/ace/getstream?id=3afe1af18f8ff78e9946856911b00c674770
 #EXTINF:-1 tvg-id="18:00-ATP Finals Final-C. Alcaraz-J. Sinner" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:00-ATP Finals Final-C. Alcaraz-J. Sinner
 http://192.168.18.170:6878/ace/getstream?id=8c67cdb5ba81976662c3a67984a9545d9cfb0f70&pid=23
 #EXTINF:-1 tvg-id="18:00-ATP Finals Final-C. Alcaraz-J. Sinner" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:00-ATP Finals Final-C. Alcaraz-J. Sinner
-http://192.168.18.170:6878/ace/getstream?id=199190e3f28c1de0be34bccf0d3568dc65209b99&pid=24
+http://192.168.18.170:6878/ace/getstream?id=b6ffbbc72a5b6b579faf79ebac229af7a25b933b&pid=24
 #EXTINF:-1 tvg-id="18:00-ATP Finals Final-C. Alcaraz-J. Sinner" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:00-ATP Finals Final-C. Alcaraz-J. Sinner
-http://192.168.18.170:6878/ace/getstream?id=5866e83279307bf919068ae7a0d250e4e424e464&pid=25
+http://192.168.18.170:6878/ace/getstream?id=199190e3f28c1de0be34bccf0d3568dc65209b99&pid=25
 #EXTINF:-1 tvg-id="18:00-ATP Finals Final-C. Alcaraz-J. Sinner" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:00-ATP Finals Final-C. Alcaraz-J. Sinner
-http://192.168.18.170:6878/ace/getstream?id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78&pid=26
+http://192.168.18.170:6878/ace/getstream?id=5866e83279307bf919068ae7a0d250e4e424e464&pid=26
 #EXTINF:-1 tvg-id="18:00-ATP Finals Final-C. Alcaraz-J. Sinner" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:00-ATP Finals Final-C. Alcaraz-J. Sinner
-http://192.168.18.170:6878/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee&pid=27
+http://192.168.18.170:6878/ace/getstream?id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78&pid=27
 #EXTINF:-1 tvg-id="18:00-ATP Finals Final-C. Alcaraz-J. Sinner" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:00-ATP Finals Final-C. Alcaraz-J. Sinner
-http://192.168.18.170:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0&pid=28
+http://192.168.18.170:6878/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee&pid=28
 #EXTINF:-1 tvg-id="18:00-ATP Finals Final-C. Alcaraz-J. Sinner" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:00-ATP Finals Final-C. Alcaraz-J. Sinner
-http://192.168.18.170:6878/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7&pid=29
+http://192.168.18.170:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0&pid=29
 #EXTINF:-1 tvg-id="18:00-ATP Finals Final-C. Alcaraz-J. Sinner" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:00-ATP Finals Final-C. Alcaraz-J. Sinner
-http://192.168.18.170:6878/ace/getstream?id=aa31953b8af44b461102852d5b1247eea95b8050&pid=30
+http://192.168.18.170:6878/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7&pid=30
 #EXTINF:-1 tvg-id="18:00-ATP Finals Final-C. Alcaraz-J. Sinner" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:00-ATP Finals Final-C. Alcaraz-J. Sinner
-http://192.168.18.170:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf&pid=31
+http://192.168.18.170:6878/ace/getstream?id=aa31953b8af44b461102852d5b1247eea95b8050&pid=31
+#EXTINF:-1 tvg-id="18:00-ATP Finals Final-C. Alcaraz-J. Sinner" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:00-ATP Finals Final-C. Alcaraz-J. Sinner
+http://192.168.18.170:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf&pid=32
 #EXTINF:-1 tvg-id="18:30-Segunda-Córdoba-Deportivo" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:30-Segunda-Córdoba-Deportivo
-http://192.168.18.170:6878/ace/getstream?id=8ee52f6208e33706171856f99d2ed2dabd317f3a&pid=32
+http://192.168.18.170:6878/ace/getstream?id=8ee52f6208e33706171856f99d2ed2dabd317f3a&pid=33
 #EXTINF:-1 tvg-id="18:30-Segunda-Córdoba-Deportivo" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:30-Segunda-Córdoba-Deportivo
-http://192.168.18.170:6878/ace/getstream?id=70f22be1286ef224b5e4e9451d9a42468152cda4&pid=33
+http://192.168.18.170:6878/ace/getstream?id=70f22be1286ef224b5e4e9451d9a42468152cda4&pid=34
 #EXTINF:-1 tvg-id="18:30-Segunda-Córdoba-Deportivo" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:30-Segunda-Córdoba-Deportivo
-http://192.168.18.170:6878/ace/getstream?id=87bb542f974b6b9e89d0f2e20ed6dc93426f4be0&pid=34
+http://192.168.18.170:6878/ace/getstream?id=87bb542f974b6b9e89d0f2e20ed6dc93426f4be0&pid=35
 #EXTINF:-1 tvg-id="18:30-Segunda-Córdoba-Deportivo" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:30-Segunda-Córdoba-Deportivo
-http://192.168.18.170:6878/ace/getstream?id=a4f072c9b614323ac1258a175f868a909ea3c8cd&pid=35
+http://192.168.18.170:6878/ace/getstream?id=a4f072c9b614323ac1258a175f868a909ea3c8cd&pid=36
 #EXTINF:-1 tvg-id="18:30-Segunda-Mirandés-Burgos CF" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:30-Segunda-Mirandés-Burgos CF
-http://192.168.18.170:6878/ace/getstream?id=8a05571c0c8fe53f160fb7d116cdf97243679e86&pid=36
+http://192.168.18.170:6878/ace/getstream?id=8a05571c0c8fe53f160fb7d116cdf97243679e86&pid=37
 #EXTINF:-1 tvg-id="18:30-Segunda-Mirandés-Burgos CF" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:30-Segunda-Mirandés-Burgos CF
-http://192.168.18.170:6878/ace/getstream?id=709075831bf5c41ed0a20dfbd640aab6c28971f8&pid=37
+http://192.168.18.170:6878/ace/getstream?id=709075831bf5c41ed0a20dfbd640aab6c28971f8&pid=38
 #EXTINF:-1 tvg-id="21:00-Segunda-Real Zaragoza-Huesca" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Segunda-Real Zaragoza-Huesca
-http://192.168.18.170:6878/ace/getstream?id=8ee52f6208e33706171856f99d2ed2dabd317f3a&pid=38
+http://192.168.18.170:6878/ace/getstream?id=8ee52f6208e33706171856f99d2ed2dabd317f3a&pid=39
 #EXTINF:-1 tvg-id="21:00-Segunda-Real Zaragoza-Huesca" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Segunda-Real Zaragoza-Huesca
-http://192.168.18.170:6878/ace/getstream?id=70f22be1286ef224b5e4e9451d9a42468152cda4&pid=39
+http://192.168.18.170:6878/ace/getstream?id=70f22be1286ef224b5e4e9451d9a42468152cda4&pid=40
 #EXTINF:-1 tvg-id="21:00-Segunda-Real Zaragoza-Huesca" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Segunda-Real Zaragoza-Huesca
-http://192.168.18.170:6878/ace/getstream?id=87bb542f974b6b9e89d0f2e20ed6dc93426f4be0&pid=40
+http://192.168.18.170:6878/ace/getstream?id=87bb542f974b6b9e89d0f2e20ed6dc93426f4be0&pid=41
 #EXTINF:-1 tvg-id="21:00-Segunda-Real Zaragoza-Huesca" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Segunda-Real Zaragoza-Huesca
-http://192.168.18.170:6878/ace/getstream?id=a4f072c9b614323ac1258a175f868a909ea3c8cd&pid=41
+http://192.168.18.170:6878/ace/getstream?id=a4f072c9b614323ac1258a175f868a909ea3c8cd&pid=42
