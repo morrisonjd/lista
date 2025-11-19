@@ -1,9 +1,37 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="20:30-Segunda-Cultural Leonesa-Málaga" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",20:30-Segunda-Cultural Leonesa-Málaga
-http://192.168.18.170:6878/ace/getstream?id=8ee52f6208e33706171856f99d2ed2dabd317f3a&pid=1
-#EXTINF:-1 tvg-id="20:30-Segunda-Cultural Leonesa-Málaga" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",20:30-Segunda-Cultural Leonesa-Málaga
-http://192.168.18.170:6878/ace/getstream?id=70f22be1286ef224b5e4e9451d9a42468152cda4&pid=2
-#EXTINF:-1 tvg-id="20:30-Segunda-Cultural Leonesa-Málaga" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",20:30-Segunda-Cultural Leonesa-Málaga
-http://192.168.18.170:6878/ace/getstream?id=87bb542f974b6b9e89d0f2e20ed6dc93426f4be0&pid=3
-#EXTINF:-1 tvg-id="20:30-Segunda-Cultural Leonesa-Málaga" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",20:30-Segunda-Cultural Leonesa-Málaga
-http://192.168.18.170:6878/ace/getstream?id=a4f072c9b614323ac1258a175f868a909ea3c8cd&pid=4
+#EXTINF:-1 tvg-id="16:00-Davis Cup Finals 1/4 de Final-Francia-Bélgica" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:00-Davis Cup Finals 1/4 de Final-Francia-Bélgica
+http://192.168.18.170:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&pid=1
+#EXTINF:-1 tvg-id="16:00-Davis Cup Finals 1/4 de Final-Francia-Bélgica" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:00-Davis Cup Finals 1/4 de Final-Francia-Bélgica
+http://192.168.18.170:6878/ace/getstream?id=6e212a916c83638268047dd2757c95b14f7d25a3&pid=2
+#EXTINF:-1 tvg-id="16:00-Davis Cup Finals 1/4 de Final-Francia-Bélgica" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:00-Davis Cup Finals 1/4 de Final-Francia-Bélgica
+http://192.168.18.170:6878/ace/getstream?id=73d38feaa770d788848ec098470e32670fe55a61&pid=3
+#EXTINF:-1 tvg-id="16:00-Davis Cup Finals 1/4 de Final-Francia-Bélgica" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:00-Davis Cup Finals 1/4 de Final-Francia-Bélgica
+http://192.168.18.170:6878/ace/getstream?id=f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0&pid=4
+#EXTINF:-1 tvg-id="16:00-Davis Cup Finals 1/4 de Final-Francia-Bélgica" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:00-Davis Cup Finals 1/4 de Final-Francia-Bélgica
+http://192.168.18.170:6878/ace/getstream?id=bfa01c11c5c6b7a616a516de4f2c769a89d26b25&pid=5
+#EXTINF:-1 tvg-id="16:00-Davis Cup Finals 1/4 de Final-Francia-Bélgica" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:00-Davis Cup Finals 1/4 de Final-Francia-Bélgica
+http://192.168.18.170:6878/ace/getstream?id=3afe1af18f8ff78e9946856911b00c67477052b5&pid=6
+#EXTINF:-1 tvg-id="18:00-Davis Cup Finals 1/4 de Final Partido 2-Francia-Bélgica" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:00-Davis Cup Finals 1/4 de Final Partido 2-Francia-Bélgica
+http://192.168.18.170:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&pid=7
+#EXTINF:-1 tvg-id="18:00-Davis Cup Finals 1/4 de Final Partido 2-Francia-Bélgica" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:00-Davis Cup Finals 1/4 de Final Partido 2-Francia-Bélgica
+http://192.168.18.170:6878/ace/getstream?id=6e212a916c83638268047dd2757c95b14f7d25a3&pid=8
+#EXTINF:-1 tvg-id="18:00-Davis Cup Finals 1/4 de Final Partido 2-Francia-Bélgica" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:00-Davis Cup Finals 1/4 de Final Partido 2-Francia-Bélgica
+http://192.168.18.170:6878/ace/getstream?id=73d38feaa770d788848ec098470e32670fe55a61&pid=9
+#EXTINF:-1 tvg-id="18:00-Davis Cup Finals 1/4 de Final Partido 2-Francia-Bélgica" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:00-Davis Cup Finals 1/4 de Final Partido 2-Francia-Bélgica
+http://192.168.18.170:6878/ace/getstream?id=f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0&pid=10
+#EXTINF:-1 tvg-id="18:00-Davis Cup Finals 1/4 de Final Partido 2-Francia-Bélgica" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:00-Davis Cup Finals 1/4 de Final Partido 2-Francia-Bélgica
+http://192.168.18.170:6878/ace/getstream?id=bfa01c11c5c6b7a616a516de4f2c769a89d26b25&pid=11
+#EXTINF:-1 tvg-id="18:00-Davis Cup Finals 1/4 de Final Partido 2-Francia-Bélgica" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:00-Davis Cup Finals 1/4 de Final Partido 2-Francia-Bélgica
+http://192.168.18.170:6878/ace/getstream?id=3afe1af18f8ff78e9946856911b00c67477052b5&pid=12
+#EXTINF:-1 tvg-id="20:00-Davis Cup Finals 1/4 de Final Partido 3 (Dobles)-Francia-Bélgica" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:00-Davis Cup Finals 1/4 de Final Partido 3 (Dobles)-Francia-Bélgica
+http://192.168.18.170:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&pid=13
+#EXTINF:-1 tvg-id="20:00-Davis Cup Finals 1/4 de Final Partido 3 (Dobles)-Francia-Bélgica" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:00-Davis Cup Finals 1/4 de Final Partido 3 (Dobles)-Francia-Bélgica
+http://192.168.18.170:6878/ace/getstream?id=6e212a916c83638268047dd2757c95b14f7d25a3&pid=14
+#EXTINF:-1 tvg-id="20:00-Davis Cup Finals 1/4 de Final Partido 3 (Dobles)-Francia-Bélgica" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:00-Davis Cup Finals 1/4 de Final Partido 3 (Dobles)-Francia-Bélgica
+http://192.168.18.170:6878/ace/getstream?id=73d38feaa770d788848ec098470e32670fe55a61&pid=15
+#EXTINF:-1 tvg-id="20:00-Davis Cup Finals 1/4 de Final Partido 3 (Dobles)-Francia-Bélgica" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:00-Davis Cup Finals 1/4 de Final Partido 3 (Dobles)-Francia-Bélgica
+http://192.168.18.170:6878/ace/getstream?id=f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0&pid=16
+#EXTINF:-1 tvg-id="20:00-Davis Cup Finals 1/4 de Final Partido 3 (Dobles)-Francia-Bélgica" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:00-Davis Cup Finals 1/4 de Final Partido 3 (Dobles)-Francia-Bélgica
+http://192.168.18.170:6878/ace/getstream?id=bfa01c11c5c6b7a616a516de4f2c769a89d26b25&pid=17
+#EXTINF:-1 tvg-id="20:00-Davis Cup Finals 1/4 de Final Partido 3 (Dobles)-Francia-Bélgica" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:00-Davis Cup Finals 1/4 de Final Partido 3 (Dobles)-Francia-Bélgica
+http://192.168.18.170:6878/ace/getstream?id=3afe1af18f8ff78e9946856911b00c67477052b5&pid=18
