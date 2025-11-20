@@ -1,59 +1,135 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="16:00-Davis Cup Finals 1/4 de Final-Italia-Austria" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:00-Davis Cup Finals 1/4 de Final-Italia-Austria
+#EXTINF:-1 tvg-id="10:00-Davis Cup Finals 1/4 de Final-España-República Checa" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",10:00-Davis Cup Finals 1/4 de Final-España-República Checa
 http://127.0.0.1:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&pid=1
-#EXTINF:-1 tvg-id="16:00-Davis Cup Finals 1/4 de Final-Italia-Austria" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:00-Davis Cup Finals 1/4 de Final-Italia-Austria
+#EXTINF:-1 tvg-id="10:00-Davis Cup Finals 1/4 de Final-España-República Checa" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",10:00-Davis Cup Finals 1/4 de Final-España-República Checa
 http://127.0.0.1:6878/ace/getstream?id=6e212a916c83638268047dd2757c95b14f7d25a3&pid=2
-#EXTINF:-1 tvg-id="16:00-Davis Cup Finals 1/4 de Final-Italia-Austria" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:00-Davis Cup Finals 1/4 de Final-Italia-Austria
+#EXTINF:-1 tvg-id="10:00-Davis Cup Finals 1/4 de Final-España-República Checa" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",10:00-Davis Cup Finals 1/4 de Final-España-República Checa
 http://127.0.0.1:6878/ace/getstream?id=73d38feaa770d788848ec098470e32670fe55a61&pid=3
-#EXTINF:-1 tvg-id="16:00-Davis Cup Finals 1/4 de Final-Italia-Austria" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:00-Davis Cup Finals 1/4 de Final-Italia-Austria
+#EXTINF:-1 tvg-id="10:00-Davis Cup Finals 1/4 de Final-España-República Checa" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",10:00-Davis Cup Finals 1/4 de Final-España-República Checa
 http://127.0.0.1:6878/ace/getstream?id=f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0&pid=4
-#EXTINF:-1 tvg-id="16:00-Davis Cup Finals 1/4 de Final-Italia-Austria" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:00-Davis Cup Finals 1/4 de Final-Italia-Austria
+#EXTINF:-1 tvg-id="10:00-Davis Cup Finals 1/4 de Final-España-República Checa" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",10:00-Davis Cup Finals 1/4 de Final-España-República Checa
 http://127.0.0.1:6878/ace/getstream?id=bfa01c11c5c6b7a616a516de4f2c769a89d26b25&pid=5
-#EXTINF:-1 tvg-id="16:00-Davis Cup Finals 1/4 de Final-Italia-Austria" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",16:00-Davis Cup Finals 1/4 de Final-Italia-Austria
+#EXTINF:-1 tvg-id="10:00-Davis Cup Finals 1/4 de Final-España-República Checa" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",10:00-Davis Cup Finals 1/4 de Final-España-República Checa
 http://127.0.0.1:6878/ace/getstream?id=3afe1af18f8ff78e9946856911b00c67477052b5&pid=6
-#EXTINF:-1 tvg-id="18:00-Davis Cup Finals 1/4 de Final Partido 2-Italia-Austria" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:00-Davis Cup Finals 1/4 de Final Partido 2-Italia-Austria
-http://127.0.0.1:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&pid=7
-#EXTINF:-1 tvg-id="18:00-Davis Cup Finals 1/4 de Final Partido 2-Italia-Austria" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:00-Davis Cup Finals 1/4 de Final Partido 2-Italia-Austria
-http://127.0.0.1:6878/ace/getstream?id=6e212a916c83638268047dd2757c95b14f7d25a3&pid=8
-#EXTINF:-1 tvg-id="18:00-Davis Cup Finals 1/4 de Final Partido 2-Italia-Austria" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:00-Davis Cup Finals 1/4 de Final Partido 2-Italia-Austria
-http://127.0.0.1:6878/ace/getstream?id=73d38feaa770d788848ec098470e32670fe55a61&pid=9
-#EXTINF:-1 tvg-id="18:00-Davis Cup Finals 1/4 de Final Partido 2-Italia-Austria" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:00-Davis Cup Finals 1/4 de Final Partido 2-Italia-Austria
-http://127.0.0.1:6878/ace/getstream?id=f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0&pid=10
-#EXTINF:-1 tvg-id="18:00-Davis Cup Finals 1/4 de Final Partido 2-Italia-Austria" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:00-Davis Cup Finals 1/4 de Final Partido 2-Italia-Austria
-http://127.0.0.1:6878/ace/getstream?id=bfa01c11c5c6b7a616a516de4f2c769a89d26b25&pid=11
-#EXTINF:-1 tvg-id="18:00-Davis Cup Finals 1/4 de Final Partido 2-Italia-Austria" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",18:00-Davis Cup Finals 1/4 de Final Partido 2-Italia-Austria
-http://127.0.0.1:6878/ace/getstream?id=3afe1af18f8ff78e9946856911b00c67477052b5&pid=12
-#EXTINF:-1 tvg-id="20:00-Euroliga Liga Regular-ASVEL Lyon-Villeurbanne-AS Monaco Basket" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:00-Euroliga Liga Regular-ASVEL Lyon-Villeurbanne-AS Monaco Basket
-http://127.0.0.1:6878/ace/getstream?id=ef9dcc4eaac36a0f608b52a31f8ab237859e071a&pid=13
-#EXTINF:-1 tvg-id="20:00-Euroliga Liga Regular-ASVEL Lyon-Villeurbanne-AS Monaco Basket" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:00-Euroliga Liga Regular-ASVEL Lyon-Villeurbanne-AS Monaco Basket
-http://127.0.0.1:6878/ace/getstream?id=332d8fdeb9c51385230b8c9448e047ccc4a6355d&pid=14
-#EXTINF:-1 tvg-id="20:00-Euroliga Liga Regular-ASVEL Lyon-Villeurbanne-AS Monaco Basket" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:00-Euroliga Liga Regular-ASVEL Lyon-Villeurbanne-AS Monaco Basket
-http://127.0.0.1:6878/ace/getstream?id=f828a32d8ea03a3cabd3ce3ebecb249ec111c7e5&pid=15
-#EXTINF:-1 tvg-id="20:00-Euroliga Liga Regular-ASVEL Lyon-Villeurbanne-AS Monaco Basket" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:00-Euroliga Liga Regular-ASVEL Lyon-Villeurbanne-AS Monaco Basket
-http://127.0.0.1:6878/ace/getstream?id=5d3f582738467aaf213e408601aca5cc13fa9359&pid=16
-#EXTINF:-1 tvg-id="20:00-Euroliga Liga Regular-ASVEL Lyon-Villeurbanne-AS Monaco Basket" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:00-Euroliga Liga Regular-ASVEL Lyon-Villeurbanne-AS Monaco Basket
-http://127.0.0.1:6878/ace/getstream?id=3692ea4cdda97eb0062ed5d656ebd61f149ebd0b&pid=17
-#EXTINF:-1 tvg-id="20:00-Euroliga Liga Regular-ASVEL Lyon-Villeurbanne-AS Monaco Basket" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:00-Euroliga Liga Regular-ASVEL Lyon-Villeurbanne-AS Monaco Basket
-http://127.0.0.1:6878/ace/getstream?id=ebca4a63ce3bfda7b272964a1acc5227218184a4&pid=18
-#EXTINF:-1 tvg-id="20:00-Euroliga Liga Regular-ASVEL Lyon-Villeurbanne-AS Monaco Basket" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:00-Euroliga Liga Regular-ASVEL Lyon-Villeurbanne-AS Monaco Basket
-http://127.0.0.1:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3&pid=19
-#EXTINF:-1 tvg-id="20:00-Eurocup Liga Regular-Umana Reyer Venice-BAXI Manresa" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:00-Eurocup Liga Regular-Umana Reyer Venice-BAXI Manresa
-http://127.0.0.1:6878/ace/getstream?id=b6ffbbc72a5b6b579faf79ebac229af7a25b933b&pid=20
-#EXTINF:-1 tvg-id="20:00-Eurocup Liga Regular-Umana Reyer Venice-BAXI Manresa" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:00-Eurocup Liga Regular-Umana Reyer Venice-BAXI Manresa
-http://127.0.0.1:6878/ace/getstream?id=199190e3f28c1de0be34bccf0d3568dc65209b99&pid=21
-#EXTINF:-1 tvg-id="20:00-Eurocup Liga Regular-Umana Reyer Venice-BAXI Manresa" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:00-Eurocup Liga Regular-Umana Reyer Venice-BAXI Manresa
-http://127.0.0.1:6878/ace/getstream?id=5866e83279307bf919068ae7a0d250e4e424e464&pid=22
-#EXTINF:-1 tvg-id="20:00-Eurocup Liga Regular-Umana Reyer Venice-BAXI Manresa" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:00-Eurocup Liga Regular-Umana Reyer Venice-BAXI Manresa
-http://127.0.0.1:6878/ace/getstream?id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78&pid=23
-#EXTINF:-1 tvg-id="20:00-Davis Cup Finals 1/4 de Final Partido 3 (Dobles)-Italia-Austria" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:00-Davis Cup Finals 1/4 de Final Partido 3 (Dobles)-Italia-Austria
-http://127.0.0.1:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&pid=24
-#EXTINF:-1 tvg-id="20:00-Davis Cup Finals 1/4 de Final Partido 3 (Dobles)-Italia-Austria" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:00-Davis Cup Finals 1/4 de Final Partido 3 (Dobles)-Italia-Austria
-http://127.0.0.1:6878/ace/getstream?id=6e212a916c83638268047dd2757c95b14f7d25a3&pid=25
-#EXTINF:-1 tvg-id="20:00-Davis Cup Finals 1/4 de Final Partido 3 (Dobles)-Italia-Austria" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:00-Davis Cup Finals 1/4 de Final Partido 3 (Dobles)-Italia-Austria
-http://127.0.0.1:6878/ace/getstream?id=73d38feaa770d788848ec098470e32670fe55a61&pid=26
-#EXTINF:-1 tvg-id="20:00-Davis Cup Finals 1/4 de Final Partido 3 (Dobles)-Italia-Austria" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:00-Davis Cup Finals 1/4 de Final Partido 3 (Dobles)-Italia-Austria
-http://127.0.0.1:6878/ace/getstream?id=f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0&pid=27
-#EXTINF:-1 tvg-id="20:00-Davis Cup Finals 1/4 de Final Partido 3 (Dobles)-Italia-Austria" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:00-Davis Cup Finals 1/4 de Final Partido 3 (Dobles)-Italia-Austria
-http://127.0.0.1:6878/ace/getstream?id=bfa01c11c5c6b7a616a516de4f2c769a89d26b25&pid=28
-#EXTINF:-1 tvg-id="20:00-Davis Cup Finals 1/4 de Final Partido 3 (Dobles)-Italia-Austria" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:00-Davis Cup Finals 1/4 de Final Partido 3 (Dobles)-Italia-Austria
-http://127.0.0.1:6878/ace/getstream?id=3afe1af18f8ff78e9946856911b00c67477052b5&pid=29
+#EXTINF:-1 tvg-id="10:00-Davis Cup Finals 1/4 de Final-España-República Checa" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",10:00-Davis Cup Finals 1/4 de Final-España-República Checa
+http://127.0.0.1:6878/ace/getstream?id=b6ffbbc72a5b6b579faf79ebac229af7a25b933b&pid=7
+#EXTINF:-1 tvg-id="10:00-Davis Cup Finals 1/4 de Final-España-República Checa" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",10:00-Davis Cup Finals 1/4 de Final-España-República Checa
+http://127.0.0.1:6878/ace/getstream?id=199190e3f28c1de0be34bccf0d3568dc65209b99&pid=8
+#EXTINF:-1 tvg-id="10:00-Davis Cup Finals 1/4 de Final-España-República Checa" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",10:00-Davis Cup Finals 1/4 de Final-España-República Checa
+http://127.0.0.1:6878/ace/getstream?id=5866e83279307bf919068ae7a0d250e4e424e464&pid=9
+#EXTINF:-1 tvg-id="10:00-Davis Cup Finals 1/4 de Final-España-República Checa" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",10:00-Davis Cup Finals 1/4 de Final-España-República Checa
+http://127.0.0.1:6878/ace/getstream?id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78&pid=10
+#EXTINF:-1 tvg-id="12:00-Davis Cup Finals 1/4 de Final Partido 2-España-República Checa" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",12:00-Davis Cup Finals 1/4 de Final Partido 2-España-República Checa
+http://127.0.0.1:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&pid=11
+#EXTINF:-1 tvg-id="12:00-Davis Cup Finals 1/4 de Final Partido 2-España-República Checa" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",12:00-Davis Cup Finals 1/4 de Final Partido 2-España-República Checa
+http://127.0.0.1:6878/ace/getstream?id=6e212a916c83638268047dd2757c95b14f7d25a3&pid=12
+#EXTINF:-1 tvg-id="12:00-Davis Cup Finals 1/4 de Final Partido 2-España-República Checa" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",12:00-Davis Cup Finals 1/4 de Final Partido 2-España-República Checa
+http://127.0.0.1:6878/ace/getstream?id=73d38feaa770d788848ec098470e32670fe55a61&pid=13
+#EXTINF:-1 tvg-id="12:00-Davis Cup Finals 1/4 de Final Partido 2-España-República Checa" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",12:00-Davis Cup Finals 1/4 de Final Partido 2-España-República Checa
+http://127.0.0.1:6878/ace/getstream?id=f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0&pid=14
+#EXTINF:-1 tvg-id="12:00-Davis Cup Finals 1/4 de Final Partido 2-España-República Checa" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",12:00-Davis Cup Finals 1/4 de Final Partido 2-España-República Checa
+http://127.0.0.1:6878/ace/getstream?id=bfa01c11c5c6b7a616a516de4f2c769a89d26b25&pid=15
+#EXTINF:-1 tvg-id="12:00-Davis Cup Finals 1/4 de Final Partido 2-España-República Checa" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",12:00-Davis Cup Finals 1/4 de Final Partido 2-España-República Checa
+http://127.0.0.1:6878/ace/getstream?id=3afe1af18f8ff78e9946856911b00c67477052b5&pid=16
+#EXTINF:-1 tvg-id="12:00-Davis Cup Finals 1/4 de Final Partido 2-España-República Checa" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",12:00-Davis Cup Finals 1/4 de Final Partido 2-España-República Checa
+http://127.0.0.1:6878/ace/getstream?id=b6ffbbc72a5b6b579faf79ebac229af7a25b933b&pid=17
+#EXTINF:-1 tvg-id="12:00-Davis Cup Finals 1/4 de Final Partido 2-España-República Checa" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",12:00-Davis Cup Finals 1/4 de Final Partido 2-España-República Checa
+http://127.0.0.1:6878/ace/getstream?id=199190e3f28c1de0be34bccf0d3568dc65209b99&pid=18
+#EXTINF:-1 tvg-id="12:00-Davis Cup Finals 1/4 de Final Partido 2-España-República Checa" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",12:00-Davis Cup Finals 1/4 de Final Partido 2-España-República Checa
+http://127.0.0.1:6878/ace/getstream?id=5866e83279307bf919068ae7a0d250e4e424e464&pid=19
+#EXTINF:-1 tvg-id="12:00-Davis Cup Finals 1/4 de Final Partido 2-España-República Checa" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",12:00-Davis Cup Finals 1/4 de Final Partido 2-España-República Checa
+http://127.0.0.1:6878/ace/getstream?id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78&pid=20
+#EXTINF:-1 tvg-id="14:00-Davis Cup Finals 1/4 de Final Partido 3 (Dobles)-España-República Checa" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:00-Davis Cup Finals 1/4 de Final Partido 3 (Dobles)-España-República Checa
+http://127.0.0.1:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&pid=21
+#EXTINF:-1 tvg-id="14:00-Davis Cup Finals 1/4 de Final Partido 3 (Dobles)-España-República Checa" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:00-Davis Cup Finals 1/4 de Final Partido 3 (Dobles)-España-República Checa
+http://127.0.0.1:6878/ace/getstream?id=6e212a916c83638268047dd2757c95b14f7d25a3&pid=22
+#EXTINF:-1 tvg-id="14:00-Davis Cup Finals 1/4 de Final Partido 3 (Dobles)-España-República Checa" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:00-Davis Cup Finals 1/4 de Final Partido 3 (Dobles)-España-República Checa
+http://127.0.0.1:6878/ace/getstream?id=73d38feaa770d788848ec098470e32670fe55a61&pid=23
+#EXTINF:-1 tvg-id="14:00-Davis Cup Finals 1/4 de Final Partido 3 (Dobles)-España-República Checa" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:00-Davis Cup Finals 1/4 de Final Partido 3 (Dobles)-España-República Checa
+http://127.0.0.1:6878/ace/getstream?id=f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0&pid=24
+#EXTINF:-1 tvg-id="14:00-Davis Cup Finals 1/4 de Final Partido 3 (Dobles)-España-República Checa" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:00-Davis Cup Finals 1/4 de Final Partido 3 (Dobles)-España-República Checa
+http://127.0.0.1:6878/ace/getstream?id=bfa01c11c5c6b7a616a516de4f2c769a89d26b25&pid=25
+#EXTINF:-1 tvg-id="14:00-Davis Cup Finals 1/4 de Final Partido 3 (Dobles)-España-República Checa" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:00-Davis Cup Finals 1/4 de Final Partido 3 (Dobles)-España-República Checa
+http://127.0.0.1:6878/ace/getstream?id=3afe1af18f8ff78e9946856911b00c67477052b5&pid=26
+#EXTINF:-1 tvg-id="14:00-Davis Cup Finals 1/4 de Final Partido 3 (Dobles)-España-República Checa" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:00-Davis Cup Finals 1/4 de Final Partido 3 (Dobles)-España-República Checa
+http://127.0.0.1:6878/ace/getstream?id=b6ffbbc72a5b6b579faf79ebac229af7a25b933b&pid=27
+#EXTINF:-1 tvg-id="14:00-Davis Cup Finals 1/4 de Final Partido 3 (Dobles)-España-República Checa" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:00-Davis Cup Finals 1/4 de Final Partido 3 (Dobles)-España-República Checa
+http://127.0.0.1:6878/ace/getstream?id=199190e3f28c1de0be34bccf0d3568dc65209b99&pid=28
+#EXTINF:-1 tvg-id="14:00-Davis Cup Finals 1/4 de Final Partido 3 (Dobles)-España-República Checa" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:00-Davis Cup Finals 1/4 de Final Partido 3 (Dobles)-España-República Checa
+http://127.0.0.1:6878/ace/getstream?id=5866e83279307bf919068ae7a0d250e4e424e464&pid=29
+#EXTINF:-1 tvg-id="14:00-Davis Cup Finals 1/4 de Final Partido 3 (Dobles)-España-República Checa" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",14:00-Davis Cup Finals 1/4 de Final Partido 3 (Dobles)-España-República Checa
+http://127.0.0.1:6878/ace/getstream?id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78&pid=30
+#EXTINF:-1 tvg-id="17:00-Davis Cup Finals 1/4 de Final-Argentina-Alemania" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:00-Davis Cup Finals 1/4 de Final-Argentina-Alemania
+http://127.0.0.1:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&pid=31
+#EXTINF:-1 tvg-id="17:00-Davis Cup Finals 1/4 de Final-Argentina-Alemania" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:00-Davis Cup Finals 1/4 de Final-Argentina-Alemania
+http://127.0.0.1:6878/ace/getstream?id=6e212a916c83638268047dd2757c95b14f7d25a3&pid=32
+#EXTINF:-1 tvg-id="17:00-Davis Cup Finals 1/4 de Final-Argentina-Alemania" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:00-Davis Cup Finals 1/4 de Final-Argentina-Alemania
+http://127.0.0.1:6878/ace/getstream?id=73d38feaa770d788848ec098470e32670fe55a61&pid=33
+#EXTINF:-1 tvg-id="17:00-Davis Cup Finals 1/4 de Final-Argentina-Alemania" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:00-Davis Cup Finals 1/4 de Final-Argentina-Alemania
+http://127.0.0.1:6878/ace/getstream?id=f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0&pid=34
+#EXTINF:-1 tvg-id="17:00-Davis Cup Finals 1/4 de Final-Argentina-Alemania" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:00-Davis Cup Finals 1/4 de Final-Argentina-Alemania
+http://127.0.0.1:6878/ace/getstream?id=bfa01c11c5c6b7a616a516de4f2c769a89d26b25&pid=35
+#EXTINF:-1 tvg-id="17:00-Davis Cup Finals 1/4 de Final-Argentina-Alemania" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",17:00-Davis Cup Finals 1/4 de Final-Argentina-Alemania
+http://127.0.0.1:6878/ace/getstream?id=3afe1af18f8ff78e9946856911b00c67477052b5&pid=36
+#EXTINF:-1 tvg-id="18:30-Euroliga Liga Regular-Anadolu Efes Istanbul-Barça Basket" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",18:30-Euroliga Liga Regular-Anadolu Efes Istanbul-Barça Basket
+http://127.0.0.1:6878/ace/getstream?id=ef9dcc4eaac36a0f608b52a31f8ab237859e071a&pid=37
+#EXTINF:-1 tvg-id="18:30-Euroliga Liga Regular-Anadolu Efes Istanbul-Barça Basket" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",18:30-Euroliga Liga Regular-Anadolu Efes Istanbul-Barça Basket
+http://127.0.0.1:6878/ace/getstream?id=332d8fdeb9c51385230b8c9448e047ccc4a6355d&pid=38
+#EXTINF:-1 tvg-id="18:30-Euroliga Liga Regular-Anadolu Efes Istanbul-Barça Basket" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",18:30-Euroliga Liga Regular-Anadolu Efes Istanbul-Barça Basket
+http://127.0.0.1:6878/ace/getstream?id=f828a32d8ea03a3cabd3ce3ebecb249ec111c7e5&pid=39
+#EXTINF:-1 tvg-id="18:30-Euroliga Liga Regular-Anadolu Efes Istanbul-Barça Basket" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",18:30-Euroliga Liga Regular-Anadolu Efes Istanbul-Barça Basket
+http://127.0.0.1:6878/ace/getstream?id=5d3f582738467aaf213e408601aca5cc13fa9359&pid=40
+#EXTINF:-1 tvg-id="18:30-Euroliga Liga Regular-Anadolu Efes Istanbul-Barça Basket" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",18:30-Euroliga Liga Regular-Anadolu Efes Istanbul-Barça Basket
+http://127.0.0.1:6878/ace/getstream?id=3692ea4cdda97eb0062ed5d656ebd61f149ebd0b&pid=41
+#EXTINF:-1 tvg-id="18:30-Euroliga Liga Regular-Anadolu Efes Istanbul-Barça Basket" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",18:30-Euroliga Liga Regular-Anadolu Efes Istanbul-Barça Basket
+http://127.0.0.1:6878/ace/getstream?id=ebca4a63ce3bfda7b272964a1acc5227218184a4&pid=42
+#EXTINF:-1 tvg-id="18:30-Euroliga Liga Regular-Anadolu Efes Istanbul-Barça Basket" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",18:30-Euroliga Liga Regular-Anadolu Efes Istanbul-Barça Basket
+http://127.0.0.1:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3&pid=43
+#EXTINF:-1 tvg-id="19:00-Davis Cup Finals 1/4 de Final Partido 2-Argentina-Alemania" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",19:00-Davis Cup Finals 1/4 de Final Partido 2-Argentina-Alemania
+http://127.0.0.1:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&pid=44
+#EXTINF:-1 tvg-id="19:00-Davis Cup Finals 1/4 de Final Partido 2-Argentina-Alemania" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",19:00-Davis Cup Finals 1/4 de Final Partido 2-Argentina-Alemania
+http://127.0.0.1:6878/ace/getstream?id=6e212a916c83638268047dd2757c95b14f7d25a3&pid=45
+#EXTINF:-1 tvg-id="19:00-Davis Cup Finals 1/4 de Final Partido 2-Argentina-Alemania" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",19:00-Davis Cup Finals 1/4 de Final Partido 2-Argentina-Alemania
+http://127.0.0.1:6878/ace/getstream?id=73d38feaa770d788848ec098470e32670fe55a61&pid=46
+#EXTINF:-1 tvg-id="19:00-Davis Cup Finals 1/4 de Final Partido 2-Argentina-Alemania" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",19:00-Davis Cup Finals 1/4 de Final Partido 2-Argentina-Alemania
+http://127.0.0.1:6878/ace/getstream?id=f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0&pid=47
+#EXTINF:-1 tvg-id="19:00-Davis Cup Finals 1/4 de Final Partido 2-Argentina-Alemania" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",19:00-Davis Cup Finals 1/4 de Final Partido 2-Argentina-Alemania
+http://127.0.0.1:6878/ace/getstream?id=bfa01c11c5c6b7a616a516de4f2c769a89d26b25&pid=48
+#EXTINF:-1 tvg-id="19:00-Davis Cup Finals 1/4 de Final Partido 2-Argentina-Alemania" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",19:00-Davis Cup Finals 1/4 de Final Partido 2-Argentina-Alemania
+http://127.0.0.1:6878/ace/getstream?id=3afe1af18f8ff78e9946856911b00c67477052b5&pid=49
+#EXTINF:-1 tvg-id="20:15-Euroliga Liga Regular-Panathinaikos BC-Dubai Basketball" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:15-Euroliga Liga Regular-Panathinaikos BC-Dubai Basketball
+http://127.0.0.1:6878/ace/getstream?id=29d786d72d4b53dbc333af3a50f8fb021aa0296f&pid=50
+#EXTINF:-1 tvg-id="20:15-Euroliga Liga Regular-Panathinaikos BC-Dubai Basketball" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:15-Euroliga Liga Regular-Panathinaikos BC-Dubai Basketball
+http://127.0.0.1:6878/ace/getstream?id=799c6b5ee1cf41af077d14e3f9c45a32697eb903&pid=51
+#EXTINF:-1 tvg-id="20:15-Euroliga Liga Regular-Panathinaikos BC-Dubai Basketball" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:15-Euroliga Liga Regular-Panathinaikos BC-Dubai Basketball
+http://127.0.0.1:6878/ace/getstream?id=2fd410c5d89e7a627cd3785685b7915b8e4bd534&pid=52
+#EXTINF:-1 tvg-id="20:15-Euroliga Liga Regular-Panathinaikos BC-Dubai Basketball" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:15-Euroliga Liga Regular-Panathinaikos BC-Dubai Basketball
+http://127.0.0.1:6878/ace/getstream?id=39fefdecfc953dcf6e7c589739bf486c2e605ed0&pid=53
+#EXTINF:-1 tvg-id="20:30-Euroliga Liga Regular-AX Olimpia Milano-Hapoel Tel Aviv BC" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:30-Euroliga Liga Regular-AX Olimpia Milano-Hapoel Tel Aviv BC
+http://127.0.0.1:6878/ace/getstream?id=58a4c880ab18486d914751db32a12760e74b75a4&pid=54
+#EXTINF:-1 tvg-id="20:30-Euroliga Liga Regular-AX Olimpia Milano-Hapoel Tel Aviv BC" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:30-Euroliga Liga Regular-AX Olimpia Milano-Hapoel Tel Aviv BC
+http://127.0.0.1:6878/ace/getstream?id=37825883ed185365e3194a79207347f6c7bd5ba5&pid=55
+#EXTINF:-1 tvg-id="20:30-Euroliga Liga Regular-AX Olimpia Milano-Hapoel Tel Aviv BC" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:30-Euroliga Liga Regular-AX Olimpia Milano-Hapoel Tel Aviv BC
+http://127.0.0.1:6878/ace/getstream?id=b40e1de2dcbd7c665f54877b14c830ed67b32a96&pid=56
+#EXTINF:-1 tvg-id="20:30-Euroliga Liga Regular-AX Olimpia Milano-Hapoel Tel Aviv BC" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:30-Euroliga Liga Regular-AX Olimpia Milano-Hapoel Tel Aviv BC
+http://127.0.0.1:6878/ace/getstream?id=8b5f9d967384afab226dd759e6e9dfaee9993869&pid=57
+#EXTINF:-1 tvg-id="20:45-Euroliga Liga Regular-Real Madrid Baloncesto-Zalgiris Kaunas" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:45-Euroliga Liga Regular-Real Madrid Baloncesto-Zalgiris Kaunas
+http://127.0.0.1:6878/ace/getstream?id=b6ffbbc72a5b6b579faf79ebac229af7a25b933b&pid=58
+#EXTINF:-1 tvg-id="20:45-Euroliga Liga Regular-Real Madrid Baloncesto-Zalgiris Kaunas" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:45-Euroliga Liga Regular-Real Madrid Baloncesto-Zalgiris Kaunas
+http://127.0.0.1:6878/ace/getstream?id=199190e3f28c1de0be34bccf0d3568dc65209b99&pid=59
+#EXTINF:-1 tvg-id="20:45-Euroliga Liga Regular-Real Madrid Baloncesto-Zalgiris Kaunas" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:45-Euroliga Liga Regular-Real Madrid Baloncesto-Zalgiris Kaunas
+http://127.0.0.1:6878/ace/getstream?id=5866e83279307bf919068ae7a0d250e4e424e464&pid=60
+#EXTINF:-1 tvg-id="20:45-Euroliga Liga Regular-Real Madrid Baloncesto-Zalgiris Kaunas" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:45-Euroliga Liga Regular-Real Madrid Baloncesto-Zalgiris Kaunas
+http://127.0.0.1:6878/ace/getstream?id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78&pid=61
+#EXTINF:-1 tvg-id="21:00-Davis Cup Finals 1/4 de Final Partido 3 (Dobles)-Argentina-Alemania" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Davis Cup Finals 1/4 de Final Partido 3 (Dobles)-Argentina-Alemania
+http://127.0.0.1:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c&pid=62
+#EXTINF:-1 tvg-id="21:00-Davis Cup Finals 1/4 de Final Partido 3 (Dobles)-Argentina-Alemania" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Davis Cup Finals 1/4 de Final Partido 3 (Dobles)-Argentina-Alemania
+http://127.0.0.1:6878/ace/getstream?id=6e212a916c83638268047dd2757c95b14f7d25a3&pid=63
+#EXTINF:-1 tvg-id="21:00-Davis Cup Finals 1/4 de Final Partido 3 (Dobles)-Argentina-Alemania" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Davis Cup Finals 1/4 de Final Partido 3 (Dobles)-Argentina-Alemania
+http://127.0.0.1:6878/ace/getstream?id=73d38feaa770d788848ec098470e32670fe55a61&pid=64
+#EXTINF:-1 tvg-id="21:00-Davis Cup Finals 1/4 de Final Partido 3 (Dobles)-Argentina-Alemania" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Davis Cup Finals 1/4 de Final Partido 3 (Dobles)-Argentina-Alemania
+http://127.0.0.1:6878/ace/getstream?id=f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0&pid=65
+#EXTINF:-1 tvg-id="21:00-Davis Cup Finals 1/4 de Final Partido 3 (Dobles)-Argentina-Alemania" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Davis Cup Finals 1/4 de Final Partido 3 (Dobles)-Argentina-Alemania
+http://127.0.0.1:6878/ace/getstream?id=bfa01c11c5c6b7a616a516de4f2c769a89d26b25&pid=66
+#EXTINF:-1 tvg-id="21:00-Davis Cup Finals 1/4 de Final Partido 3 (Dobles)-Argentina-Alemania" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Davis Cup Finals 1/4 de Final Partido 3 (Dobles)-Argentina-Alemania
+http://127.0.0.1:6878/ace/getstream?id=3afe1af18f8ff78e9946856911b00c67477052b5&pid=67
