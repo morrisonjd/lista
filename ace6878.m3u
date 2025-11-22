@@ -39,11 +39,11 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=5d35f906b735f25164fa2b9b7a4e6ef91dfed
 http://127.0.0.1:6878/ace/manifest.m3u8?id=50553edb5e8c54d15e0d43161369b3b4cef95065
 #EXTINF:-1 tvg-id="M+ Originales" group-title="New Era",M+ Originales
 http://127.0.0.1:6878/ace/manifest.m3u8?id=096b817fcc836535f608facb15fca6408fae3162
-#EXTINF:-1 tvg-id="M+ Terror" group-title="New Era",M+ Terror
+#EXTINF:-1 tvg-id="M+ Nicolas Cage" group-title="New Era",M+ Nicolas Cage
 http://127.0.0.1:6878/ace/manifest.m3u8?id=cf99e99c105162410ec6d1f68cc6f4811560fee7
 #EXTINF:-1 tvg-id="M+ Documentales" group-title="New Era",M+ Documentales
 http://127.0.0.1:6878/ace/manifest.m3u8?id=b3fc9b5647c5933b101c0b6b64322590c68587b9
-#EXTINF:-1 tvg-id="M+ Romance" group-title="New Era",M+ Romance
+#EXTINF:-1 tvg-id="M+ En juego" group-title="New Era",M+ En juego
 http://127.0.0.1:6878/ace/manifest.m3u8?id=4bfeb0516c44c4f0e3502e3f1ca1035d39ddf9c2
 #EXTINF:-1 tvg-id="M+ Clásicos" group-title="New Era",M+ Clásicos
 http://127.0.0.1:6878/ace/manifest.m3u8?id=cf6ffdfa3c51268c0bd216da6b275fb866160c0c
@@ -71,6 +71,8 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=6e1b5fd8753352486aa932f802534a17556e1
 http://127.0.0.1:6878/ace/manifest.m3u8?id=8e1bbcb6a6b8b9bb0e1144454fda35531107cdb3
 #EXTINF:-1 tvg-id="AMC" group-title="New Era",AMC
 http://127.0.0.1:6878/ace/manifest.m3u8?id=55ff9ee631af351f365f51cf3601695bf1fd20f3
+#EXTINF:-1 tvg-id="Orange TV" group-title="New Loop",Orange TV
+http://127.0.0.1:6878/ace/manifest.m3u8?id=abdbfccdfd73bb5b1dcad598d539058040fb24fa
 #EXTINF:-1 tvg-id="M+ Copa del Rey" group-title="Antigua",M+ Copa del Rey
 http://127.0.0.1:6878/ace/manifest.m3u8?id=e31e5dd1a24cf347deecd6aaba8d30a8d9d84460
 #EXTINF:-1 tvg-id="M+ Vamos" group-title="New Era",M+ Vamos
@@ -325,6 +327,8 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=bae98f69fbf867550b4f73b4eb176dae84d7f
 http://127.0.0.1:6878/ace/manifest.m3u8?id=ef2abf419586d9876370be127ad592dbb41b126a
 #EXTINF:-1 tvg-id="Eurosport 1" group-title="Elcano",Eurosport 1
 http://127.0.0.1:6878/ace/manifest.m3u8?id=c3da6c4f91d9d10ade00318a869435e19f204d0e
+#EXTINF:-1 tvg-id="Eurosport 1" group-title="New Loop",Eurosport 1
+http://127.0.0.1:6878/ace/manifest.m3u8?id=547ab7146a86d6119c9332c011669544720124e3
 #EXTINF:-1 tvg-id="Eurosport 1" group-title="Desconocido",Eurosport 1
 http://127.0.0.1:6878/ace/manifest.m3u8?id=b8cad4710b1c3b2b84a82c1ece40c08517b8f766
 #EXTINF:-1 tvg-id="Eurosport 1" group-title="Desconocido",Eurosport 1
@@ -621,8 +625,6 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=f5d3ea421c4c067b5c90161a8ae4d93482fb9
 http://127.0.0.1:6878/ace/manifest.m3u8?id=41ac7892b8fde95d5110d83d7324044145c7f86a
 #EXTINF:-1 tvg-id="ServusTV GER" group-title="Antigua",ServusTV GER
 http://127.0.0.1:6878/ace/manifest.m3u8?id=988f4d88d74ec0d2b3584f6c7e067fcbdb501115
-#EXTINF:-1 tvg-id="MOTORVISION.TV" group-title="New Loop",MOTORVISION.TV
-http://127.0.0.1:6878/ace/manifest.m3u8?id=9c75e6ed0671eec6670cb2eabcc7d78267c7f404
 #EXTINF:-1 tvg-id="MOTORVISION.TV" group-title="Antigua",MOTORVISION.TV
 http://127.0.0.1:6878/ace/manifest.m3u8?id=acd7e3ae185a376e6596e60a414bebbf3321b37f
 #EXTINF:-1 tvg-id="Magenta Sport 1" group-title="Desconocido",Magenta Sport 1
