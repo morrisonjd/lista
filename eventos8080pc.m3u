@@ -22,8 +22,6 @@ http://192.168.18.75:8080/ace/getstream?id=4b528d10eaad747ddf52251206177573ee3e9
 #EXTINF:-1 tvg-id="21:00-Primera-Espanyol-Sevilla FC" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera-Espanyol-Sevilla FC
 http://192.168.18.75:8080/ace/getstream?id=14b6cd8769cd485f2cffdca64be9698d9bfeac58
 #EXTINF:-1 tvg-id="21:00-Primera-Espanyol-Sevilla FC" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera-Espanyol-Sevilla FC
-http://192.168.18.75:8080/ace/getstream?id=cc9b7f5fe416069a2110da0909b0f915043c468b
-#EXTINF:-1 tvg-id="21:00-Primera-Espanyol-Sevilla FC" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera-Espanyol-Sevilla FC
 http://192.168.18.75:8080/ace/getstream?id=31c19ffb3472c289c5bbbbc174449c8ed0d19e38
 #EXTINF:-1 tvg-id="21:00-Premier League-Manchester Utd.-Everton" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Premier League-Manchester Utd.-Everton
 http://192.168.18.75:8080/ace/getstream?id=6538b79ce0da657d8455d1da6a5f342398899a0e
