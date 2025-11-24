@@ -1,49 +1,215 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="20:30-Segunda-Real Sociedad B-Real Valladolid" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",20:30-Segunda-Real Sociedad B-Real Valladolid
-http://127.0.0.1:6878/ace/getstream?id=8ee52f6208e33706171856f99d2ed2dabd317f3a&pid=1
-#EXTINF:-1 tvg-id="20:30-Segunda-Real Sociedad B-Real Valladolid" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",20:30-Segunda-Real Sociedad B-Real Valladolid
-http://127.0.0.1:6878/ace/getstream?id=70f22be1286ef224b5e4e9451d9a42468152cda4&pid=2
-#EXTINF:-1 tvg-id="20:30-Segunda-Real Sociedad B-Real Valladolid" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",20:30-Segunda-Real Sociedad B-Real Valladolid
-http://127.0.0.1:6878/ace/getstream?id=87bb542f974b6b9e89d0f2e20ed6dc93426f4be0&pid=3
-#EXTINF:-1 tvg-id="20:30-Segunda-Real Sociedad B-Real Valladolid" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",20:30-Segunda-Real Sociedad B-Real Valladolid
-http://127.0.0.1:6878/ace/getstream?id=a4f072c9b614323ac1258a175f868a909ea3c8cd&pid=4
-#EXTINF:-1 tvg-id="21:00-Primera-Espanyol-Sevilla FC" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera-Espanyol-Sevilla FC
-http://127.0.0.1:6878/ace/getstream?id=d4ff041287a43e3114d411d671c4b4e92e21f33y&pid=5
-#EXTINF:-1 tvg-id="21:00-Primera-Espanyol-Sevilla FC" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera-Espanyol-Sevilla FC
-http://127.0.0.1:6878/ace/getstream?id=107c3ce5a5d2527c9f06e4eab87477201791f231&pid=6
-#EXTINF:-1 tvg-id="21:00-Primera-Espanyol-Sevilla FC" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera-Espanyol-Sevilla FC
-http://127.0.0.1:6878/ace/getstream?id=8c30b600cc48899991b452805df48b68d998e61c&pid=7
-#EXTINF:-1 tvg-id="21:00-Primera-Espanyol-Sevilla FC" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera-Espanyol-Sevilla FC
-http://127.0.0.1:6878/ace/getstream?id=00c9bc9c5d7d87680a5a6bed349edfa775a89947&pid=8
-#EXTINF:-1 tvg-id="21:00-Primera-Espanyol-Sevilla FC" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera-Espanyol-Sevilla FC
-http://127.0.0.1:6878/ace/getstream?id=c9321006921967d6258df6945f1d598a5c0cbf1e&pid=9
-#EXTINF:-1 tvg-id="21:00-Primera-Espanyol-Sevilla FC" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera-Espanyol-Sevilla FC
-http://127.0.0.1:6878/ace/getstream?id=4b528d10eaad747ddf52251206177573ee3e9f74&pid=10
-#EXTINF:-1 tvg-id="21:00-Primera-Espanyol-Sevilla FC" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera-Espanyol-Sevilla FC
-http://127.0.0.1:6878/ace/getstream?id=14b6cd8769cd485f2cffdca64be9698d9bfeac58&pid=11
-#EXTINF:-1 tvg-id="21:00-Primera-Espanyol-Sevilla FC" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera-Espanyol-Sevilla FC
-http://127.0.0.1:6878/ace/getstream?id=31c19ffb3472c289c5bbbbc174449c8ed0d19e38&pid=12
-#EXTINF:-1 tvg-id="21:00-Premier League-Manchester Utd.-Everton" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Premier League-Manchester Utd.-Everton
-http://127.0.0.1:6878/ace/getstream?id=6538b79ce0da657d8455d1da6a5f342398899a0e&pid=13
-#EXTINF:-1 tvg-id="21:00-Premier League-Manchester Utd.-Everton" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Premier League-Manchester Utd.-Everton
-http://127.0.0.1:6878/ace/getstream?id=50a8a13c474848d1efbd5586efdb5b6cdd173fa9&pid=14
-#EXTINF:-1 tvg-id="21:00-Premier League-Manchester Utd.-Everton" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Premier League-Manchester Utd.-Everton
-http://127.0.0.1:6878/ace/getstream?id=5b776533534b767a84dfda263825ad10f30a8ec7&pid=15
-#EXTINF:-1 tvg-id="21:00-Premier League-Manchester Utd.-Everton" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Premier League-Manchester Utd.-Everton
-http://127.0.0.1:6878/ace/getstream?id=b03f9310155cf3b4eafc1dfba763781abc3ff025&pid=16
-#EXTINF:-1 tvg-id="21:00-Premier League-Manchester Utd.-Everton" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Premier League-Manchester Utd.-Everton
-http://127.0.0.1:6878/ace/getstream?id=36394be1db2e20b5997d987c32fd38c7f0f194b7&pid=17
-#EXTINF:-1 tvg-id="21:00-Premier League-Manchester Utd.-Everton" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Premier League-Manchester Utd.-Everton
-http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276&pid=18
-#EXTINF:-1 tvg-id="21:00-Premier League-Manchester Utd.-Everton" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Premier League-Manchester Utd.-Everton
-http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784&pid=19
-#EXTINF:-1 tvg-id="21:00-Premier League-Manchester Utd.-Everton" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Premier League-Manchester Utd.-Everton
-http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151&pid=20
-#EXTINF:-1 tvg-id="21:00-Premier League-Manchester Utd.-Everton" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Premier League-Manchester Utd.-Everton
-http://127.0.0.1:6878/ace/getstream?id=1e7f5efc1913efaf7042a9b1a49d1f9adc5bc187&pid=21
-#EXTINF:-1 tvg-id="21:00-Premier League-Manchester Utd.-Everton" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Premier League-Manchester Utd.-Everton
-http://127.0.0.1:6878/ace/getstream?id=7ac2d74ef6df9d15012992d7e0e635a95f58c652&pid=22
-#EXTINF:-1 tvg-id="21:00-Premier League-Manchester Utd.-Everton" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Premier League-Manchester Utd.-Everton
-http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b&pid=23
-#EXTINF:-1 tvg-id="21:00-Premier League-Manchester Utd.-Everton" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Premier League-Manchester Utd.-Everton
-http://127.0.0.1:6878/ace/getstream?id=14407b00d454cb7dc0d70aa26e8bbc554f457f00&pid=24
+#EXTINF:-1 tvg-id="13:30-FIFA Mundial Femenino Futsal Fase de grupos-España-Colombia" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",13:30-FIFA Mundial Femenino Futsal Fase de grupos-España-Colombia
+http://127.0.0.1:6878/ace/getstream?id=2d997da301573c5aba78f969d0d37eb6107941b2&pid=1
+#EXTINF:-1 tvg-id="13:30-FIFA Mundial Femenino Futsal Fase de grupos-España-Colombia" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",13:30-FIFA Mundial Femenino Futsal Fase de grupos-España-Colombia
+http://127.0.0.1:6878/ace/getstream?id=7d910d9480e023608d1fe77eaf47c2ed34592155&pid=2
+#EXTINF:-1 tvg-id="17:00-Euroliga Liga Regular-Dubai Basketball-Paris Basketball" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",17:00-Euroliga Liga Regular-Dubai Basketball-Paris Basketball
+http://127.0.0.1:6878/ace/getstream?id=ef9dcc4eaac36a0f608b52a31f8ab237859e071a&pid=3
+#EXTINF:-1 tvg-id="17:00-Euroliga Liga Regular-Dubai Basketball-Paris Basketball" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",17:00-Euroliga Liga Regular-Dubai Basketball-Paris Basketball
+http://127.0.0.1:6878/ace/getstream?id=332d8fdeb9c51385230b8c9448e047ccc4a6355d&pid=4
+#EXTINF:-1 tvg-id="17:00-Euroliga Liga Regular-Dubai Basketball-Paris Basketball" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",17:00-Euroliga Liga Regular-Dubai Basketball-Paris Basketball
+http://127.0.0.1:6878/ace/getstream?id=f828a32d8ea03a3cabd3ce3ebecb249ec111c7e5&pid=5
+#EXTINF:-1 tvg-id="17:00-Euroliga Liga Regular-Dubai Basketball-Paris Basketball" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",17:00-Euroliga Liga Regular-Dubai Basketball-Paris Basketball
+http://127.0.0.1:6878/ace/getstream?id=5d3f582738467aaf213e408601aca5cc13fa9359&pid=6
+#EXTINF:-1 tvg-id="17:00-Euroliga Liga Regular-Dubai Basketball-Paris Basketball" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",17:00-Euroliga Liga Regular-Dubai Basketball-Paris Basketball
+http://127.0.0.1:6878/ace/getstream?id=3692ea4cdda97eb0062ed5d656ebd61f149ebd0b&pid=7
+#EXTINF:-1 tvg-id="17:00-Euroliga Liga Regular-Dubai Basketball-Paris Basketball" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",17:00-Euroliga Liga Regular-Dubai Basketball-Paris Basketball
+http://127.0.0.1:6878/ace/getstream?id=ebca4a63ce3bfda7b272964a1acc5227218184a4&pid=8
+#EXTINF:-1 tvg-id="17:00-Euroliga Liga Regular-Dubai Basketball-Paris Basketball" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",17:00-Euroliga Liga Regular-Dubai Basketball-Paris Basketball
+http://127.0.0.1:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3&pid=9
+#EXTINF:-1 tvg-id="18:45-Champions League Fase Liga-Ajax-Benfica" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Champions League Fase Liga-Ajax-Benfica
+http://127.0.0.1:6878/ace/getstream?id=c6a3673f6a37b1bd3cf31fdd6404dd33d48cfccb&pid=10
+#EXTINF:-1 tvg-id="18:45-Champions League Fase Liga-Ajax-Benfica" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Champions League Fase Liga-Ajax-Benfica
+http://127.0.0.1:6878/ace/getstream?id=498c56bd00f535e440c392de5af992421a31355c&pid=11
+#EXTINF:-1 tvg-id="18:45-Champions League Fase Liga-Ajax-Benfica" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Champions League Fase Liga-Ajax-Benfica
+http://127.0.0.1:6878/ace/getstream?id=4b18a3b32df5960ed950fa907f8d509b1ad2a188&pid=12
+#EXTINF:-1 tvg-id="18:45-Champions League Fase Liga-Ajax-Benfica" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Champions League Fase Liga-Ajax-Benfica
+http://127.0.0.1:6878/ace/getstream?id=ea03cc51980996ba6f2da49e30eee1de8a66ae54&pid=13
+#EXTINF:-1 tvg-id="18:45-Champions League Fase Liga-Ajax-Benfica" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Champions League Fase Liga-Ajax-Benfica
+http://127.0.0.1:6878/ace/getstream?id=e7d8cae7f693fe46e89bbf74820caac9ffb32a30&pid=14
+#EXTINF:-1 tvg-id="18:45-Champions League Fase Liga-Ajax-Benfica" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Champions League Fase Liga-Ajax-Benfica
+http://127.0.0.1:6878/ace/getstream?id=74ab4e4ec7e2da001f473ca40893b7307b8029c5&pid=15
+#EXTINF:-1 tvg-id="18:45-Champions League Fase Liga-Ajax-Benfica" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Champions League Fase Liga-Ajax-Benfica
+http://127.0.0.1:6878/ace/getstream?id=38f7b2044e549df2039ff26cefa6f9a60c854d5e&pid=16
+#EXTINF:-1 tvg-id="18:45-Champions League Fase Liga-Ajax-Benfica" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Champions League Fase Liga-Ajax-Benfica
+http://127.0.0.1:6878/ace/getstream?id=338b5de78b0b40a6f9ca3cc0cf9be93341b9ceea&pid=17
+#EXTINF:-1 tvg-id="18:45-Champions League Fase Liga-Galatasaray-Saint-Gilloise" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Champions League Fase Liga-Galatasaray-Saint-Gilloise
+http://127.0.0.1:6878/ace/getstream?id=17b8bc4bf8e29547b0071c742e3d7da3bcbc484d&pid=18
+#EXTINF:-1 tvg-id="18:45-Champions League Fase Liga-Galatasaray-Saint-Gilloise" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Champions League Fase Liga-Galatasaray-Saint-Gilloise
+http://127.0.0.1:6878/ace/getstream?id=2b5129adc57d43790634d796fe3468b9fd061259&pid=19
+#EXTINF:-1 tvg-id="18:45-Champions League Fase Liga-Galatasaray-Saint-Gilloise" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Champions League Fase Liga-Galatasaray-Saint-Gilloise
+http://127.0.0.1:6878/ace/getstream?id=4416843c96b7f7a1bc55c476091a60fff0922bc7&pid=20
+#EXTINF:-1 tvg-id="18:45-Champions League Fase Liga-Galatasaray-Saint-Gilloise" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Champions League Fase Liga-Galatasaray-Saint-Gilloise
+http://127.0.0.1:6878/ace/getstream?id=cfc371890bfb502737a26de5215e50929c52d0f9&pid=21
+#EXTINF:-1 tvg-id="18:45-Champions League Fase Liga-Galatasaray-Saint-Gilloise" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:45-Champions League Fase Liga-Galatasaray-Saint-Gilloise
+http://127.0.0.1:6878/ace/getstream?id=90f7941c6bf7ca4b18084a1dca7bc15b9b179373&pid=22
+#EXTINF:-1 tvg-id="18:45-Euroliga Liga Regular-Fenerbahce Istanbul-Virtus Bologna" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",18:45-Euroliga Liga Regular-Fenerbahce Istanbul-Virtus Bologna
+http://127.0.0.1:6878/ace/getstream?id=58a4c880ab18486d914751db32a12760e74b75a4&pid=23
+#EXTINF:-1 tvg-id="18:45-Euroliga Liga Regular-Fenerbahce Istanbul-Virtus Bologna" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",18:45-Euroliga Liga Regular-Fenerbahce Istanbul-Virtus Bologna
+http://127.0.0.1:6878/ace/getstream?id=37825883ed185365e3194a79207347f6c7bd5ba5&pid=24
+#EXTINF:-1 tvg-id="18:45-Euroliga Liga Regular-Fenerbahce Istanbul-Virtus Bologna" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",18:45-Euroliga Liga Regular-Fenerbahce Istanbul-Virtus Bologna
+http://127.0.0.1:6878/ace/getstream?id=b40e1de2dcbd7c665f54877b14c830ed67b32a96&pid=25
+#EXTINF:-1 tvg-id="18:45-Euroliga Liga Regular-Fenerbahce Istanbul-Virtus Bologna" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",18:45-Euroliga Liga Regular-Fenerbahce Istanbul-Virtus Bologna
+http://127.0.0.1:6878/ace/getstream?id=8b5f9d967384afab226dd759e6e9dfaee9993869&pid=26
+#EXTINF:-1 tvg-id="19:00-Euroliga Liga Regular-Zalgiris Kaunas-Baskonia" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",19:00-Euroliga Liga Regular-Zalgiris Kaunas-Baskonia
+http://127.0.0.1:6878/ace/getstream?id=6e212a916c83638268047dd2757c95b14f7d25a3&pid=27
+#EXTINF:-1 tvg-id="19:00-Euroliga Liga Regular-Zalgiris Kaunas-Baskonia" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",19:00-Euroliga Liga Regular-Zalgiris Kaunas-Baskonia
+http://127.0.0.1:6878/ace/getstream?id=73d38feaa770d788848ec098470e32670fe55a61&pid=28
+#EXTINF:-1 tvg-id="19:00-Euroliga Liga Regular-Zalgiris Kaunas-Baskonia" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",19:00-Euroliga Liga Regular-Zalgiris Kaunas-Baskonia
+http://127.0.0.1:6878/ace/getstream?id=f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0&pid=29
+#EXTINF:-1 tvg-id="19:00-Euroliga Liga Regular-Zalgiris Kaunas-Baskonia" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",19:00-Euroliga Liga Regular-Zalgiris Kaunas-Baskonia
+http://127.0.0.1:6878/ace/getstream?id=bfa01c11c5c6b7a616a516de4f2c769a89d26b25&pid=30
+#EXTINF:-1 tvg-id="19:00-Euroliga Liga Regular-Zalgiris Kaunas-Baskonia" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",19:00-Euroliga Liga Regular-Zalgiris Kaunas-Baskonia
+http://127.0.0.1:6878/ace/getstream?id=3afe1af18f8ff78e9946856911b00c67477052b5&pid=31
+#EXTINF:-1 tvg-id="19:00-Euroliga Liga Regular-Hapoel Tel Aviv BC-Real Madrid Baloncesto" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",19:00-Euroliga Liga Regular-Hapoel Tel Aviv BC-Real Madrid Baloncesto
+http://127.0.0.1:6878/ace/getstream?id=b6ffbbc72a5b6b579faf79ebac229af7a25b933b&pid=32
+#EXTINF:-1 tvg-id="19:00-Euroliga Liga Regular-Hapoel Tel Aviv BC-Real Madrid Baloncesto" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",19:00-Euroliga Liga Regular-Hapoel Tel Aviv BC-Real Madrid Baloncesto
+http://127.0.0.1:6878/ace/getstream?id=199190e3f28c1de0be34bccf0d3568dc65209b99&pid=33
+#EXTINF:-1 tvg-id="19:00-Euroliga Liga Regular-Hapoel Tel Aviv BC-Real Madrid Baloncesto" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",19:00-Euroliga Liga Regular-Hapoel Tel Aviv BC-Real Madrid Baloncesto
+http://127.0.0.1:6878/ace/getstream?id=5866e83279307bf919068ae7a0d250e4e424e464&pid=34
+#EXTINF:-1 tvg-id="19:00-Euroliga Liga Regular-Hapoel Tel Aviv BC-Real Madrid Baloncesto" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",19:00-Euroliga Liga Regular-Hapoel Tel Aviv BC-Real Madrid Baloncesto
+http://127.0.0.1:6878/ace/getstream?id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78&pid=35
+#EXTINF:-1 tvg-id="20:15-Euroliga Liga Regular-Panathinaikos BC-BC Partizan Beograd" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:15-Euroliga Liga Regular-Panathinaikos BC-BC Partizan Beograd
+http://127.0.0.1:6878/ace/getstream?id=29d786d72d4b53dbc333af3a50f8fb021aa0296f&pid=36
+#EXTINF:-1 tvg-id="20:15-Euroliga Liga Regular-Panathinaikos BC-BC Partizan Beograd" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:15-Euroliga Liga Regular-Panathinaikos BC-BC Partizan Beograd
+http://127.0.0.1:6878/ace/getstream?id=799c6b5ee1cf41af077d14e3f9c45a32697eb903&pid=37
+#EXTINF:-1 tvg-id="20:15-Euroliga Liga Regular-Panathinaikos BC-BC Partizan Beograd" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:15-Euroliga Liga Regular-Panathinaikos BC-BC Partizan Beograd
+http://127.0.0.1:6878/ace/getstream?id=2fd410c5d89e7a627cd3785685b7915b8e4bd534&pid=38
+#EXTINF:-1 tvg-id="20:15-Euroliga Liga Regular-Panathinaikos BC-BC Partizan Beograd" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:15-Euroliga Liga Regular-Panathinaikos BC-BC Partizan Beograd
+http://127.0.0.1:6878/ace/getstream?id=39fefdecfc953dcf6e7c589739bf486c2e605ed0&pid=39
+#EXTINF:-1 tvg-id="20:30-Euroliga Liga Regular-Valencia Basket-FC Bayern Basketball" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:30-Euroliga Liga Regular-Valencia Basket-FC Bayern Basketball
+http://127.0.0.1:6878/ace/getstream?id=ef9dcc4eaac36a0f608b52a31f8ab237859e071a&pid=40
+#EXTINF:-1 tvg-id="20:30-Euroliga Liga Regular-Valencia Basket-FC Bayern Basketball" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:30-Euroliga Liga Regular-Valencia Basket-FC Bayern Basketball
+http://127.0.0.1:6878/ace/getstream?id=332d8fdeb9c51385230b8c9448e047ccc4a6355d&pid=41
+#EXTINF:-1 tvg-id="20:30-Euroliga Liga Regular-Valencia Basket-FC Bayern Basketball" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:30-Euroliga Liga Regular-Valencia Basket-FC Bayern Basketball
+http://127.0.0.1:6878/ace/getstream?id=f828a32d8ea03a3cabd3ce3ebecb249ec111c7e5&pid=42
+#EXTINF:-1 tvg-id="20:30-Euroliga Liga Regular-Valencia Basket-FC Bayern Basketball" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:30-Euroliga Liga Regular-Valencia Basket-FC Bayern Basketball
+http://127.0.0.1:6878/ace/getstream?id=5d3f582738467aaf213e408601aca5cc13fa9359&pid=43
+#EXTINF:-1 tvg-id="20:30-Euroliga Liga Regular-Valencia Basket-FC Bayern Basketball" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:30-Euroliga Liga Regular-Valencia Basket-FC Bayern Basketball
+http://127.0.0.1:6878/ace/getstream?id=3692ea4cdda97eb0062ed5d656ebd61f149ebd0b&pid=44
+#EXTINF:-1 tvg-id="20:30-Euroliga Liga Regular-Valencia Basket-FC Bayern Basketball" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:30-Euroliga Liga Regular-Valencia Basket-FC Bayern Basketball
+http://127.0.0.1:6878/ace/getstream?id=ebca4a63ce3bfda7b272964a1acc5227218184a4&pid=45
+#EXTINF:-1 tvg-id="20:30-Euroliga Liga Regular-Valencia Basket-FC Bayern Basketball" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:30-Euroliga Liga Regular-Valencia Basket-FC Bayern Basketball
+http://127.0.0.1:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3&pid=46
+#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Napoli-Qarabag FK" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Napoli-Qarabag FK
+http://127.0.0.1:6878/ace/getstream?id=77998f8161373611ff6b348e7eda5b4e97d3ec29&pid=47
+#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Napoli-Qarabag FK" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Napoli-Qarabag FK
+http://127.0.0.1:6878/ace/getstream?id=53cd86466d1faed03a607be92af601f7e8da128f&pid=48
+#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Napoli-Qarabag FK" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Napoli-Qarabag FK
+http://127.0.0.1:6878/ace/getstream?id=e9f4493d2d851f4636720f639113e05b4a21a74c&pid=49
+#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Napoli-Qarabag FK" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Napoli-Qarabag FK
+http://127.0.0.1:6878/ace/getstream?id=6fbab1d8d6bf93c4bc7552714aa3bb54ebf7b661&pid=50
+#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Napoli-Qarabag FK" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Napoli-Qarabag FK
+http://127.0.0.1:6878/ace/getstream?id=97f8a84212fe6b3d2ab15aadc83c7b5e6af656c9&pid=51
+#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Manchester City-Bayer Leverkusen" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Manchester City-Bayer Leverkusen
+http://127.0.0.1:6878/ace/getstream?id=77998f8161373611ff6b348e7eda5b4e97d3ec29&pid=52
+#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Manchester City-Bayer Leverkusen" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Manchester City-Bayer Leverkusen
+http://127.0.0.1:6878/ace/getstream?id=53cd86466d1faed03a607be92af601f7e8da128f&pid=53
+#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Manchester City-Bayer Leverkusen" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Manchester City-Bayer Leverkusen
+http://127.0.0.1:6878/ace/getstream?id=e9f4493d2d851f4636720f639113e05b4a21a74c&pid=54
+#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Manchester City-Bayer Leverkusen" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Manchester City-Bayer Leverkusen
+http://127.0.0.1:6878/ace/getstream?id=6fbab1d8d6bf93c4bc7552714aa3bb54ebf7b661&pid=55
+#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Manchester City-Bayer Leverkusen" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Manchester City-Bayer Leverkusen
+http://127.0.0.1:6878/ace/getstream?id=cb6410a6355a645cfc6f6f5a7c7d71298fcbc2c5&pid=56
+#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Manchester City-Bayer Leverkusen" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Manchester City-Bayer Leverkusen
+http://127.0.0.1:6878/ace/getstream?id=5620c0ce3dcbf14a6375cb2c2d681207f45eb97d&pid=57
+#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Chelsea-FC Barcelona" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Chelsea-FC Barcelona
+http://127.0.0.1:6878/ace/getstream?id=152169ce99e1fd27f2249c18384a121079cdef29&pid=58
+#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Chelsea-FC Barcelona" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Chelsea-FC Barcelona
+http://127.0.0.1:6878/ace/getstream?id=c16b4fab1f724c94cad92081cbb7fc7c6fe8a2cc&pid=59
+#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Chelsea-FC Barcelona" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Chelsea-FC Barcelona
+http://127.0.0.1:6878/ace/getstream?id=778f08cbae9596ed9e8b2ae0af33ee7a6fe24c6a&pid=60
+#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Chelsea-FC Barcelona" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Chelsea-FC Barcelona
+http://127.0.0.1:6878/ace/getstream?id=afbf2a479c5a5072698139f0f556ef3e77a99bd0&pid=61
+#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Chelsea-FC Barcelona" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Chelsea-FC Barcelona
+http://127.0.0.1:6878/ace/getstream?id=afbf1ef8812e7b0a0977fa3a0a2d3a6d3cbd6c6f&pid=62
+#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Chelsea-FC Barcelona" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Chelsea-FC Barcelona
+http://127.0.0.1:6878/ace/getstream?id=0f7842f8b6c26571e5a974407b61623e56e6a052&pid=63
+#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Chelsea-FC Barcelona" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Chelsea-FC Barcelona
+http://127.0.0.1:6878/ace/getstream?id=f3eea003e23f94dc2d527306de9dd386e3ebf4ba&pid=64
+#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Chelsea-FC Barcelona" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Chelsea-FC Barcelona
+http://127.0.0.1:6878/ace/getstream?id=97df5b7824948972d041d8ca2a4d29c90b641bc9&pid=65
+#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Chelsea-FC Barcelona" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Chelsea-FC Barcelona
+http://127.0.0.1:6878/ace/getstream?id=2b51710cee513e8939785fa3e7980f32d4e0415f&pid=66
+#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Chelsea-FC Barcelona" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Chelsea-FC Barcelona
+http://127.0.0.1:6878/ace/getstream?id=9db029dff6a9c637d1f670e78dbc1a479b9b406e&pid=67
+#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Chelsea-FC Barcelona" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Chelsea-FC Barcelona
+http://127.0.0.1:6878/ace/getstream?id=e572a5178ff72eed7d1d751a18b4b3419699f370&pid=68
+#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Chelsea-FC Barcelona" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Chelsea-FC Barcelona
+http://127.0.0.1:6878/ace/getstream?id=77998f8161373611ff6b348e7eda5b4e97d3ec29&pid=69
+#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Chelsea-FC Barcelona" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Chelsea-FC Barcelona
+http://127.0.0.1:6878/ace/getstream?id=53cd86466d1faed03a607be92af601f7e8da128f&pid=70
+#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Chelsea-FC Barcelona" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Chelsea-FC Barcelona
+http://127.0.0.1:6878/ace/getstream?id=e9f4493d2d851f4636720f639113e05b4a21a74c&pid=71
+#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Chelsea-FC Barcelona" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Chelsea-FC Barcelona
+http://127.0.0.1:6878/ace/getstream?id=6fbab1d8d6bf93c4bc7552714aa3bb54ebf7b661&pid=72
+#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Chelsea-FC Barcelona" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Chelsea-FC Barcelona
+http://127.0.0.1:6878/ace/getstream?id=b6ffbbc72a5b6b579faf79ebac229af7a25b933b&pid=73
+#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Chelsea-FC Barcelona" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Chelsea-FC Barcelona
+http://127.0.0.1:6878/ace/getstream?id=199190e3f28c1de0be34bccf0d3568dc65209b99&pid=74
+#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Chelsea-FC Barcelona" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Chelsea-FC Barcelona
+http://127.0.0.1:6878/ace/getstream?id=5866e83279307bf919068ae7a0d250e4e424e464&pid=75
+#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Chelsea-FC Barcelona" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Chelsea-FC Barcelona
+http://127.0.0.1:6878/ace/getstream?id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78&pid=76
+#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Borussia Dortmund-Villarreal" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Borussia Dortmund-Villarreal
+http://127.0.0.1:6878/ace/getstream?id=c6a3673f6a37b1bd3cf31fdd6404dd33d48cfccb&pid=77
+#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Borussia Dortmund-Villarreal" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Borussia Dortmund-Villarreal
+http://127.0.0.1:6878/ace/getstream?id=498c56bd00f535e440c392de5af992421a31355c&pid=78
+#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Borussia Dortmund-Villarreal" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Borussia Dortmund-Villarreal
+http://127.0.0.1:6878/ace/getstream?id=4b18a3b32df5960ed950fa907f8d509b1ad2a188&pid=79
+#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Borussia Dortmund-Villarreal" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Borussia Dortmund-Villarreal
+http://127.0.0.1:6878/ace/getstream?id=ea03cc51980996ba6f2da49e30eee1de8a66ae54&pid=80
+#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Borussia Dortmund-Villarreal" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Borussia Dortmund-Villarreal
+http://127.0.0.1:6878/ace/getstream?id=e7d8cae7f693fe46e89bbf74820caac9ffb32a30&pid=81
+#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Borussia Dortmund-Villarreal" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Borussia Dortmund-Villarreal
+http://127.0.0.1:6878/ace/getstream?id=74ab4e4ec7e2da001f473ca40893b7307b8029c5&pid=82
+#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Borussia Dortmund-Villarreal" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Borussia Dortmund-Villarreal
+http://127.0.0.1:6878/ace/getstream?id=38f7b2044e549df2039ff26cefa6f9a60c854d5e&pid=83
+#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Borussia Dortmund-Villarreal" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Borussia Dortmund-Villarreal
+http://127.0.0.1:6878/ace/getstream?id=338b5de78b0b40a6f9ca3cc0cf9be93341b9ceea&pid=84
+#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Borussia Dortmund-Villarreal" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Borussia Dortmund-Villarreal
+http://127.0.0.1:6878/ace/getstream?id=77998f8161373611ff6b348e7eda5b4e97d3ec29&pid=85
+#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Borussia Dortmund-Villarreal" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Borussia Dortmund-Villarreal
+http://127.0.0.1:6878/ace/getstream?id=53cd86466d1faed03a607be92af601f7e8da128f&pid=86
+#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Borussia Dortmund-Villarreal" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Borussia Dortmund-Villarreal
+http://127.0.0.1:6878/ace/getstream?id=e9f4493d2d851f4636720f639113e05b4a21a74c&pid=87
+#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Borussia Dortmund-Villarreal" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Borussia Dortmund-Villarreal
+http://127.0.0.1:6878/ace/getstream?id=6fbab1d8d6bf93c4bc7552714aa3bb54ebf7b661&pid=88
+#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-O. Marseille-Newcastle" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-O. Marseille-Newcastle
+http://127.0.0.1:6878/ace/getstream?id=77998f8161373611ff6b348e7eda5b4e97d3ec29&pid=89
+#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-O. Marseille-Newcastle" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-O. Marseille-Newcastle
+http://127.0.0.1:6878/ace/getstream?id=53cd86466d1faed03a607be92af601f7e8da128f&pid=90
+#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-O. Marseille-Newcastle" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-O. Marseille-Newcastle
+http://127.0.0.1:6878/ace/getstream?id=e9f4493d2d851f4636720f639113e05b4a21a74c&pid=91
+#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-O. Marseille-Newcastle" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-O. Marseille-Newcastle
+http://127.0.0.1:6878/ace/getstream?id=6fbab1d8d6bf93c4bc7552714aa3bb54ebf7b661&pid=92
+#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-O. Marseille-Newcastle" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-O. Marseille-Newcastle
+http://127.0.0.1:6878/ace/getstream?id=976983697790ab8a07b764b08843529d38bc6444&pid=93
+#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Slavia Praha-Athletic Club" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Slavia Praha-Athletic Club
+http://127.0.0.1:6878/ace/getstream?id=17b8bc4bf8e29547b0071c742e3d7da3bcbc484d&pid=94
+#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Slavia Praha-Athletic Club" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Slavia Praha-Athletic Club
+http://127.0.0.1:6878/ace/getstream?id=2b5129adc57d43790634d796fe3468b9fd061259&pid=95
+#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Slavia Praha-Athletic Club" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Slavia Praha-Athletic Club
+http://127.0.0.1:6878/ace/getstream?id=4416843c96b7f7a1bc55c476091a60fff0922bc7&pid=96
+#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Slavia Praha-Athletic Club" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Slavia Praha-Athletic Club
+http://127.0.0.1:6878/ace/getstream?id=cfc371890bfb502737a26de5215e50929c52d0f9&pid=97
+#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Slavia Praha-Athletic Club" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Slavia Praha-Athletic Club
+http://127.0.0.1:6878/ace/getstream?id=90f7941c6bf7ca4b18084a1dca7bc15b9b179373&pid=98
+#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Slavia Praha-Athletic Club" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Slavia Praha-Athletic Club
+http://127.0.0.1:6878/ace/getstream?id=77998f8161373611ff6b348e7eda5b4e97d3ec29&pid=99
+#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Slavia Praha-Athletic Club" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Slavia Praha-Athletic Club
+http://127.0.0.1:6878/ace/getstream?id=53cd86466d1faed03a607be92af601f7e8da128f&pid=100
+#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Slavia Praha-Athletic Club" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Slavia Praha-Athletic Club
+http://127.0.0.1:6878/ace/getstream?id=e9f4493d2d851f4636720f639113e05b4a21a74c&pid=101
+#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Slavia Praha-Athletic Club" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Slavia Praha-Athletic Club
+http://127.0.0.1:6878/ace/getstream?id=6fbab1d8d6bf93c4bc7552714aa3bb54ebf7b661&pid=102
+#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Bodø Glimt-Juventus" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Bodø Glimt-Juventus
+http://127.0.0.1:6878/ace/getstream?id=77998f8161373611ff6b348e7eda5b4e97d3ec29&pid=103
+#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Bodø Glimt-Juventus" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Bodø Glimt-Juventus
+http://127.0.0.1:6878/ace/getstream?id=53cd86466d1faed03a607be92af601f7e8da128f&pid=104
+#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Bodø Glimt-Juventus" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Bodø Glimt-Juventus
+http://127.0.0.1:6878/ace/getstream?id=e9f4493d2d851f4636720f639113e05b4a21a74c&pid=105
+#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Bodø Glimt-Juventus" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Bodø Glimt-Juventus
+http://127.0.0.1:6878/ace/getstream?id=6fbab1d8d6bf93c4bc7552714aa3bb54ebf7b661&pid=106
+#EXTINF:-1 tvg-id="21:00-Champions League Fase Liga-Bodø Glimt-Juventus" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Champions League Fase Liga-Bodø Glimt-Juventus
+http://127.0.0.1:6878/ace/getstream?id=83c02982581a536d1321e38a77dc0c520b1cb842&pid=107
