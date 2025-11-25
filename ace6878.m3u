@@ -146,6 +146,14 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=709075831bf5c41ed0a20dfbd640aab6c2897
 #EXTINF:-1 tvg-id="M+ Liga de Campeones" group-title="Desconocido",M+ Liga de Campeones
 http://127.0.0.1:6878/ace/manifest.m3u8?id=e572a5178ff72eed7d1d751a18b4b3419699f370
 #EXTINF:-1 tvg-id="M+ Liga de Campeones" group-title="New Era",M+ Liga de Campeones
+http://127.0.0.1:6878/ace/manifest.m3u8?id=152169ce99e1fd27f2249c18384a121079cdef29
+#EXTINF:-1 tvg-id="M+ Liga de Campeones" group-title="New Era",M+ Liga de Campeones
+http://127.0.0.1:6878/ace/manifest.m3u8?id=778f08cbae9596ed9e8b2ae0af33ee7a6fe24c6a
+#EXTINF:-1 tvg-id="M+ Liga de Campeones" group-title="New Era",M+ Liga de Campeones
+http://127.0.0.1:6878/ace/manifest.m3u8?id=afbf2a479c5a5072698139f0f556ef3e77a99bd0
+#EXTINF:-1 tvg-id="M+ Liga de Campeones" group-title="New Era",M+ Liga de Campeones
+http://127.0.0.1:6878/ace/manifest.m3u8?id=c16b4fab1f724c94cad92081cbb7fc7c6fe8a2cc
+#EXTINF:-1 tvg-id="M+ Liga de Campeones" group-title="New Era",M+ Liga de Campeones
 http://127.0.0.1:6878/ace/manifest.m3u8?id=afbf1ef8812e7b0a0977fa3a0a2d3a6d3cbd6c6f
 #EXTINF:-1 tvg-id="M+ Liga de Campeones" group-title="New Era",M+ Liga de Campeones
 http://127.0.0.1:6878/ace/manifest.m3u8?id=0f7842f8b6c26571e5a974407b61623e56e6a052
@@ -162,6 +170,10 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=b028202ff335911db3118bceac027df3e8ef6
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 2" group-title="Desconocido",M+ Liga de Campeones 2
 http://127.0.0.1:6878/ace/manifest.m3u8?id=338b5de78b0b40a6f9ca3cc0cf9be93341b9ceea
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 2" group-title="New Era",M+ Liga de Campeones 2
+http://127.0.0.1:6878/ace/manifest.m3u8?id=4fc6d0331830ad8743abab2fe2473b63bdfbc49f
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 2" group-title="New Era",M+ Liga de Campeones 2
+http://127.0.0.1:6878/ace/manifest.m3u8?id=c6a3673f6a37b1bd3cf31fdd6404dd33d48cfccb
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 2" group-title="New Era",M+ Liga de Campeones 2
 http://127.0.0.1:6878/ace/manifest.m3u8?id=4b18a3b32df5960ed950fa907f8d509b1ad2a188
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 2" group-title="New Era",M+ Liga de Campeones 2
 http://127.0.0.1:6878/ace/manifest.m3u8?id=ea03cc51980996ba6f2da49e30eee1de8a66ae54
@@ -173,6 +185,10 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=74ab4e4ec7e2da001f473ca40893b7307b802
 http://127.0.0.1:6878/ace/manifest.m3u8?id=38f7b2044e549df2039ff26cefa6f9a60c854d5e
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 3" group-title="Desconocido",M+ Liga de Campeones 3
 http://127.0.0.1:6878/ace/manifest.m3u8?id=90f7941c6bf7ca4b18084a1dca7bc15b9b179373
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 3" group-title="New Era",M+ Liga de Campeones 3
+http://127.0.0.1:6878/ace/manifest.m3u8?id=17b8bc4bf8e29547b0071c742e3d7da3bcbc484d
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 3" group-title="New Era",M+ Liga de Campeones 3
+http://127.0.0.1:6878/ace/manifest.m3u8?id=1dece791d28be6a5af78537ac4864ec01fa0a6d8
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 3" group-title="New Era",M+ Liga de Campeones 3
 http://127.0.0.1:6878/ace/manifest.m3u8?id=2b5129adc57d43790634d796fe3468b9fd061259
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 3" group-title="Elcano",M+ Liga de Campeones 3
@@ -259,8 +275,6 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284
 http://127.0.0.1:6878/ace/manifest.m3u8?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="Rally TV" group-title="New Era",Rally TV
 http://127.0.0.1:6878/ace/manifest.m3u8?id=8e96e35afd910d1a056dc7bf25139b8e2849b2ea
-#EXTINF:-1 tvg-id="Pluto TV Auto Motor Sport" group-title="New Loop",Pluto TV Auto Motor Sport
-http://127.0.0.1:6878/ace/manifest.m3u8?id=ffa09e597804001f634dd1829f031823411a2595
 #EXTINF:-1 tvg-id="DAZN 1" group-title="Elcano",DAZN 1
 http://127.0.0.1:6878/ace/manifest.m3u8?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="DAZN 1" group-title="Elcano",DAZN 1
@@ -391,10 +405,22 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=778d2f60bb7207addedcca0b9aed98f415297
 http://127.0.0.1:6878/ace/manifest.m3u8?id=1ba18731a8e18bb4b3a5dfa5bb7b0f05762849a6
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 4" group-title="Desconocido",M+ Liga de Campeones 4
 http://127.0.0.1:6878/ace/manifest.m3u8?id=6fbab1d8d6bf93c4bc7552714aa3bb54ebf7b661
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 4" group-title="New Era",M+ Liga de Campeones 4
+http://127.0.0.1:6878/ace/manifest.m3u8?id=53cd86466d1faed03a607be92af601f7e8da128f
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 4" group-title="New Era",M+ Liga de Campeones 4
+http://127.0.0.1:6878/ace/manifest.m3u8?id=77998f8161373611ff6b348e7eda5b4e97d3ec29
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 4" group-title="Elcano",M+ Liga de Campeones 4
 http://127.0.0.1:6878/ace/manifest.m3u8?id=e9f4493d2d851f4636720f639113e05b4a21a74c
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 5" group-title="New Era",M+ Liga de Campeones 5
+http://127.0.0.1:6878/ace/manifest.m3u8?id=cb6410a6355a645cfc6f6f5a7c7d71298fcbc2c5
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 5" group-title="Elcano",M+ Liga de Campeones 5
 http://127.0.0.1:6878/ace/manifest.m3u8?id=5620c0ce3dcbf14a6375cb2c2d681207f45eb97d
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 6" group-title="New Era",M+ Liga de Campeones 6
+http://127.0.0.1:6878/ace/manifest.m3u8?id=976983697790ab8a07b764b08843529d38bc6444
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 7" group-title="New Era",M+ Liga de Campeones 7
+http://127.0.0.1:6878/ace/manifest.m3u8?id=83c02982581a536d1321e38a77dc0c520b1cb842
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 8" group-title="New Era",M+ Liga de Campeones 8
+http://127.0.0.1:6878/ace/manifest.m3u8?id=97f8a84212fe6b3d2ab15aadc83c7b5e6af656c9
 #EXTINF:-1 tvg-id="M+ Deportes 4" group-title="New Era",M+ Deportes 4
 http://127.0.0.1:6878/ace/manifest.m3u8?id=58a4c880ab18486d914751db32a12760e74b75a4
 #EXTINF:-1 tvg-id="M+ Deportes 4" group-title="New Era",M+ Deportes 4
