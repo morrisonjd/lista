@@ -18,8 +18,6 @@ http://127.0.0.1:9100/ace/getstream?id=4b528d10eaad747ddf52251206177573ee3e9f74
 #EXTINF:-1 tvg-id="14:00-Primera-Mallorca-Osasuna" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",14:00-Primera-Mallorca-Osasuna
 http://127.0.0.1:9100/ace/getstream?id=14b6cd8769cd485f2cffdca64be9698d9bfeac58
 #EXTINF:-1 tvg-id="14:00-Primera-Mallorca-Osasuna" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",14:00-Primera-Mallorca-Osasuna
-http://127.0.0.1:9100/ace/getstream?id=cc9b7f5fe416069a2110da0909b0f915043c468b
-#EXTINF:-1 tvg-id="14:00-Primera-Mallorca-Osasuna" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",14:00-Primera-Mallorca-Osasuna
 http://127.0.0.1:9100/ace/getstream?id=31c19ffb3472c289c5bbbbc174449c8ed0d19e38
 #EXTINF:-1 tvg-id="14:00-Segunda-AD Ceuta-Burgos CF" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",14:00-Segunda-AD Ceuta-Burgos CF
 http://127.0.0.1:9100/ace/getstream?id=8ee52f6208e33706171856f99d2ed2dabd317f3a
@@ -117,8 +115,6 @@ http://127.0.0.1:9100/ace/getstream?id=c9321006921967d6258df6945f1d598a5c0cbf1e
 http://127.0.0.1:9100/ace/getstream?id=4b528d10eaad747ddf52251206177573ee3e9f74
 #EXTINF:-1 tvg-id="18:30-Primera-Levante-Athletic Club" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:30-Primera-Levante-Athletic Club
 http://127.0.0.1:9100/ace/getstream?id=14b6cd8769cd485f2cffdca64be9698d9bfeac58
-#EXTINF:-1 tvg-id="18:30-Primera-Levante-Athletic Club" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:30-Primera-Levante-Athletic Club
-http://127.0.0.1:9100/ace/getstream?id=cc9b7f5fe416069a2110da0909b0f915043c468b
 #EXTINF:-1 tvg-id="18:30-Primera-Levante-Athletic Club" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:30-Primera-Levante-Athletic Club
 http://127.0.0.1:9100/ace/getstream?id=31c19ffb3472c289c5bbbbc174449c8ed0d19e38
 #EXTINF:-1 tvg-id="18:30-Segunda-UD Almería-Huesca" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",18:30-Segunda-UD Almería-Huesca
