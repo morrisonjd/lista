@@ -3,10 +3,6 @@
 http://127.0.0.1:9100/ace/getstream?id=2d997da301573c5aba78f969d0d37eb6107941b2
 #EXTINF:-1 tvg-id="13:30-FIFA Mundial Femenino Futsal 1/4 de Final-España-Marruecos" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",13:30-FIFA Mundial Femenino Futsal 1/4 de Final-España-Marruecos
 http://127.0.0.1:9100/ace/getstream?id=7d910d9480e023608d1fe77eaf47c2ed34592155
-#EXTINF:-1 tvg-id="20:30-Segunda-Mirandés-Real Sociedad B" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",20:30-Segunda-Mirandés-Real Sociedad B
-http://127.0.0.1:9100/ace/getstream?id=8a05571c0c8fe53f160fb7d116cdf97243679e86
-#EXTINF:-1 tvg-id="20:30-Segunda-Mirandés-Real Sociedad B" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",20:30-Segunda-Mirandés-Real Sociedad B
-http://127.0.0.1:9100/ace/getstream?id=709075831bf5c41ed0a20dfbd640aab6c28971f8
 #EXTINF:-1 tvg-id="21:00-Primera-Rayo Vallecano-Valencia CF" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera-Rayo Vallecano-Valencia CF
 http://127.0.0.1:9100/ace/getstream?id=d4ff041287a43e3114d411d671c4b4e92e21f33y
 #EXTINF:-1 tvg-id="21:00-Primera-Rayo Vallecano-Valencia CF" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera-Rayo Vallecano-Valencia CF
