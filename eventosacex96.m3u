@@ -3,23 +3,19 @@
 http://192.168.18.170:6878/ace/getstream?id=2d997da301573c5aba78f969d0d37eb6107941b2&pid=1
 #EXTINF:-1 tvg-id="13:30-FIFA Mundial Femenino Futsal 1/4 de Final-España-Marruecos" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",13:30-FIFA Mundial Femenino Futsal 1/4 de Final-España-Marruecos
 http://192.168.18.170:6878/ace/getstream?id=7d910d9480e023608d1fe77eaf47c2ed34592155&pid=2
-#EXTINF:-1 tvg-id="20:30-Segunda-Mirandés-Real Sociedad B" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",20:30-Segunda-Mirandés-Real Sociedad B
-http://192.168.18.170:6878/ace/getstream?id=8a05571c0c8fe53f160fb7d116cdf97243679e86&pid=3
-#EXTINF:-1 tvg-id="20:30-Segunda-Mirandés-Real Sociedad B" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",20:30-Segunda-Mirandés-Real Sociedad B
-http://192.168.18.170:6878/ace/getstream?id=709075831bf5c41ed0a20dfbd640aab6c28971f8&pid=4
 #EXTINF:-1 tvg-id="21:00-Primera-Rayo Vallecano-Valencia CF" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera-Rayo Vallecano-Valencia CF
-http://192.168.18.170:6878/ace/getstream?id=d4ff041287a43e3114d411d671c4b4e92e21f33y&pid=5
+http://192.168.18.170:6878/ace/getstream?id=d4ff041287a43e3114d411d671c4b4e92e21f33y&pid=3
 #EXTINF:-1 tvg-id="21:00-Primera-Rayo Vallecano-Valencia CF" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera-Rayo Vallecano-Valencia CF
-http://192.168.18.170:6878/ace/getstream?id=107c3ce5a5d2527c9f06e4eab87477201791f231&pid=6
+http://192.168.18.170:6878/ace/getstream?id=107c3ce5a5d2527c9f06e4eab87477201791f231&pid=4
 #EXTINF:-1 tvg-id="21:00-Primera-Rayo Vallecano-Valencia CF" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera-Rayo Vallecano-Valencia CF
-http://192.168.18.170:6878/ace/getstream?id=8c30b600cc48899991b452805df48b68d998e61c&pid=7
+http://192.168.18.170:6878/ace/getstream?id=8c30b600cc48899991b452805df48b68d998e61c&pid=5
 #EXTINF:-1 tvg-id="21:00-Primera-Rayo Vallecano-Valencia CF" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera-Rayo Vallecano-Valencia CF
-http://192.168.18.170:6878/ace/getstream?id=00c9bc9c5d7d87680a5a6bed349edfa775a89947&pid=8
+http://192.168.18.170:6878/ace/getstream?id=00c9bc9c5d7d87680a5a6bed349edfa775a89947&pid=6
 #EXTINF:-1 tvg-id="21:00-Primera-Rayo Vallecano-Valencia CF" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera-Rayo Vallecano-Valencia CF
-http://192.168.18.170:6878/ace/getstream?id=c9321006921967d6258df6945f1d598a5c0cbf1e&pid=9
+http://192.168.18.170:6878/ace/getstream?id=c9321006921967d6258df6945f1d598a5c0cbf1e&pid=7
 #EXTINF:-1 tvg-id="21:00-Primera-Rayo Vallecano-Valencia CF" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera-Rayo Vallecano-Valencia CF
-http://192.168.18.170:6878/ace/getstream?id=4b528d10eaad747ddf52251206177573ee3e9f74&pid=10
+http://192.168.18.170:6878/ace/getstream?id=4b528d10eaad747ddf52251206177573ee3e9f74&pid=8
 #EXTINF:-1 tvg-id="21:00-Primera-Rayo Vallecano-Valencia CF" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera-Rayo Vallecano-Valencia CF
-http://192.168.18.170:6878/ace/getstream?id=14b6cd8769cd485f2cffdca64be9698d9bfeac58&pid=11
+http://192.168.18.170:6878/ace/getstream?id=14b6cd8769cd485f2cffdca64be9698d9bfeac58&pid=9
 #EXTINF:-1 tvg-id="21:00-Primera-Rayo Vallecano-Valencia CF" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera-Rayo Vallecano-Valencia CF
-http://192.168.18.170:6878/ace/getstream?id=31c19ffb3472c289c5bbbbc174449c8ed0d19e38&pid=12
+http://192.168.18.170:6878/ace/getstream?id=31c19ffb3472c289c5bbbbc174449c8ed0d19e38&pid=10
