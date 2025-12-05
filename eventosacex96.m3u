@@ -5,75 +5,83 @@ http://192.168.18.170:6878/ace/getstream?id=2d997da301573c5aba78f969d0d37eb61079
 http://192.168.18.170:6878/ace/getstream?id=7d910d9480e023608d1fe77eaf47c2ed34592155&pid=2
 #EXTINF:-1 tvg-id="19:00-Ultimate Tennis Showdown Fase de grupos-A. Rublev-T. Machac" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",19:00-Ultimate Tennis Showdown Fase de grupos-A. Rublev-T. Machac
 http://192.168.18.170:6878/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee&pid=3
+#EXTINF:-1 tvg-id="19:00-Ultimate Tennis Showdown Fase de grupos-A. Rublev-T. Machac" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",19:00-Ultimate Tennis Showdown Fase de grupos-A. Rublev-T. Machac
+http://192.168.18.170:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf&pid=4
 #EXTINF:-1 tvg-id="20:00-Euroliga Liga Regular-Crvena Zvezda MTS Belgrade-Barça Basket" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:00-Euroliga Liga Regular-Crvena Zvezda MTS Belgrade-Barça Basket
-http://192.168.18.170:6878/ace/getstream?id=73d38feaa770d788848ec098470e32670fe55a61&pid=4
+http://192.168.18.170:6878/ace/getstream?id=73d38feaa770d788848ec098470e32670fe55a61&pid=5
 #EXTINF:-1 tvg-id="20:00-Euroliga Liga Regular-Crvena Zvezda MTS Belgrade-Barça Basket" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:00-Euroliga Liga Regular-Crvena Zvezda MTS Belgrade-Barça Basket
-http://192.168.18.170:6878/ace/getstream?id=f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0&pid=5
+http://192.168.18.170:6878/ace/getstream?id=f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0&pid=6
 #EXTINF:-1 tvg-id="20:00-Euroliga Liga Regular-Crvena Zvezda MTS Belgrade-Barça Basket" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:00-Euroliga Liga Regular-Crvena Zvezda MTS Belgrade-Barça Basket
-http://192.168.18.170:6878/ace/getstream?id=bfa01c11c5c6b7a616a516de4f2c769a89d26b25&pid=6
+http://192.168.18.170:6878/ace/getstream?id=bfa01c11c5c6b7a616a516de4f2c769a89d26b25&pid=7
 #EXTINF:-1 tvg-id="20:00-Euroliga Liga Regular-Crvena Zvezda MTS Belgrade-Barça Basket" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:00-Euroliga Liga Regular-Crvena Zvezda MTS Belgrade-Barça Basket
-http://192.168.18.170:6878/ace/getstream?id=3afe1af18f8ff78e9946856911b00c67477052b5&pid=7
+http://192.168.18.170:6878/ace/getstream?id=3afe1af18f8ff78e9946856911b00c67477052b5&pid=8
 #EXTINF:-1 tvg-id="20:00-Ultimate Tennis Showdown Fase de grupos-A. De Miñaur-A. Mannarino" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:00-Ultimate Tennis Showdown Fase de grupos-A. De Miñaur-A. Mannarino
-http://192.168.18.170:6878/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee&pid=8
+http://192.168.18.170:6878/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee&pid=9
+#EXTINF:-1 tvg-id="20:00-Ultimate Tennis Showdown Fase de grupos-A. De Miñaur-A. Mannarino" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:00-Ultimate Tennis Showdown Fase de grupos-A. De Miñaur-A. Mannarino
+http://192.168.18.170:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf&pid=10
 #EXTINF:-1 tvg-id="20:15-Euroliga Liga Regular-Panathinaikos BC-Valencia Basket" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:15-Euroliga Liga Regular-Panathinaikos BC-Valencia Basket
-http://192.168.18.170:6878/ace/getstream?id=ef9dcc4eaac36a0f608b52a31f8ab237859e071a&pid=9
+http://192.168.18.170:6878/ace/getstream?id=ef9dcc4eaac36a0f608b52a31f8ab237859e071a&pid=11
 #EXTINF:-1 tvg-id="20:15-Euroliga Liga Regular-Panathinaikos BC-Valencia Basket" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:15-Euroliga Liga Regular-Panathinaikos BC-Valencia Basket
-http://192.168.18.170:6878/ace/getstream?id=f828a32d8ea03a3cabd3ce3ebecb249ec111c7e5&pid=10
+http://192.168.18.170:6878/ace/getstream?id=f828a32d8ea03a3cabd3ce3ebecb249ec111c7e5&pid=12
 #EXTINF:-1 tvg-id="20:15-Euroliga Liga Regular-Panathinaikos BC-Valencia Basket" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:15-Euroliga Liga Regular-Panathinaikos BC-Valencia Basket
-http://192.168.18.170:6878/ace/getstream?id=5d3f582738467aaf213e408601aca5cc13fa9359&pid=11
+http://192.168.18.170:6878/ace/getstream?id=5d3f582738467aaf213e408601aca5cc13fa9359&pid=13
 #EXTINF:-1 tvg-id="20:15-Euroliga Liga Regular-Panathinaikos BC-Valencia Basket" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:15-Euroliga Liga Regular-Panathinaikos BC-Valencia Basket
-http://192.168.18.170:6878/ace/getstream?id=3692ea4cdda97eb0062ed5d656ebd61f149ebd0b&pid=12
+http://192.168.18.170:6878/ace/getstream?id=3692ea4cdda97eb0062ed5d656ebd61f149ebd0b&pid=14
 #EXTINF:-1 tvg-id="20:15-Euroliga Liga Regular-Panathinaikos BC-Valencia Basket" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:15-Euroliga Liga Regular-Panathinaikos BC-Valencia Basket
-http://192.168.18.170:6878/ace/getstream?id=ebca4a63ce3bfda7b272964a1acc5227218184a4&pid=13
+http://192.168.18.170:6878/ace/getstream?id=ebca4a63ce3bfda7b272964a1acc5227218184a4&pid=15
 #EXTINF:-1 tvg-id="20:15-Euroliga Liga Regular-Panathinaikos BC-Valencia Basket" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:15-Euroliga Liga Regular-Panathinaikos BC-Valencia Basket
-http://192.168.18.170:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3&pid=14
+http://192.168.18.170:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3&pid=16
 #EXTINF:-1 tvg-id="20:15-Euroliga Liga Regular-Panathinaikos BC-Valencia Basket" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:15-Euroliga Liga Regular-Panathinaikos BC-Valencia Basket
-http://192.168.18.170:6878/ace/getstream?id=8c67cdb5ba81976662c3a67984a9545d9cfb0f70&pid=15
+http://192.168.18.170:6878/ace/getstream?id=8c67cdb5ba81976662c3a67984a9545d9cfb0f70&pid=17
 #EXTINF:-1 tvg-id="20:15-Euroliga Liga Regular-Panathinaikos BC-Valencia Basket" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:15-Euroliga Liga Regular-Panathinaikos BC-Valencia Basket
-http://192.168.18.170:6878/ace/getstream?id=199190e3f28c1de0be34bccf0d3568dc65209b99&pid=16
+http://192.168.18.170:6878/ace/getstream?id=199190e3f28c1de0be34bccf0d3568dc65209b99&pid=18
 #EXTINF:-1 tvg-id="20:15-Euroliga Liga Regular-Panathinaikos BC-Valencia Basket" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:15-Euroliga Liga Regular-Panathinaikos BC-Valencia Basket
-http://192.168.18.170:6878/ace/getstream?id=5866e83279307bf919068ae7a0d250e4e424e464&pid=17
+http://192.168.18.170:6878/ace/getstream?id=5866e83279307bf919068ae7a0d250e4e424e464&pid=19
 #EXTINF:-1 tvg-id="20:15-Euroliga Liga Regular-Panathinaikos BC-Valencia Basket" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:15-Euroliga Liga Regular-Panathinaikos BC-Valencia Basket
-http://192.168.18.170:6878/ace/getstream?id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78&pid=18
+http://192.168.18.170:6878/ace/getstream?id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78&pid=20
 #EXTINF:-1 tvg-id="20:30-Liga U-Joventut Badalona B-Casademont Zaragoza B" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:30-Liga U-Joventut Badalona B-Casademont Zaragoza B
-http://192.168.18.170:6878/ace/getstream?id=2d997da301573c5aba78f969d0d37eb6107941b2&pid=19
+http://192.168.18.170:6878/ace/getstream?id=2d997da301573c5aba78f969d0d37eb6107941b2&pid=21
 #EXTINF:-1 tvg-id="20:30-Liga U-Joventut Badalona B-Casademont Zaragoza B" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:30-Liga U-Joventut Badalona B-Casademont Zaragoza B
-http://192.168.18.170:6878/ace/getstream?id=7d910d9480e023608d1fe77eaf47c2ed34592155&pid=20
+http://192.168.18.170:6878/ace/getstream?id=7d910d9480e023608d1fe77eaf47c2ed34592155&pid=22
 #EXTINF:-1 tvg-id="20:30-Euroliga Liga Regular-Baskonia-AX Olimpia Milano" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:30-Euroliga Liga Regular-Baskonia-AX Olimpia Milano
-http://192.168.18.170:6878/ace/getstream?id=29d786d72d4b53dbc333af3a50f8fb021aa0296f&pid=21
+http://192.168.18.170:6878/ace/getstream?id=29d786d72d4b53dbc333af3a50f8fb021aa0296f&pid=23
 #EXTINF:-1 tvg-id="20:30-Euroliga Liga Regular-Baskonia-AX Olimpia Milano" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:30-Euroliga Liga Regular-Baskonia-AX Olimpia Milano
-http://192.168.18.170:6878/ace/getstream?id=799c6b5ee1cf41af077d14e3f9c45a32697eb903&pid=22
+http://192.168.18.170:6878/ace/getstream?id=799c6b5ee1cf41af077d14e3f9c45a32697eb903&pid=24
 #EXTINF:-1 tvg-id="20:30-Euroliga Liga Regular-Baskonia-AX Olimpia Milano" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:30-Euroliga Liga Regular-Baskonia-AX Olimpia Milano
-http://192.168.18.170:6878/ace/getstream?id=2fd410c5d89e7a627cd3785685b7915b8e4bd534&pid=23
+http://192.168.18.170:6878/ace/getstream?id=2fd410c5d89e7a627cd3785685b7915b8e4bd534&pid=25
 #EXTINF:-1 tvg-id="20:30-Euroliga Liga Regular-Baskonia-AX Olimpia Milano" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:30-Euroliga Liga Regular-Baskonia-AX Olimpia Milano
-http://192.168.18.170:6878/ace/getstream?id=39fefdecfc953dcf6e7c589739bf486c2e605ed0&pid=24
+http://192.168.18.170:6878/ace/getstream?id=39fefdecfc953dcf6e7c589739bf486c2e605ed0&pid=26
 #EXTINF:-1 tvg-id="20:30-Euroliga Liga Regular-Virtus Bologna-Dubai Basketball" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:30-Euroliga Liga Regular-Virtus Bologna-Dubai Basketball
-http://192.168.18.170:6878/ace/getstream?id=58a4c880ab18486d914751db32a12760e74b75a4&pid=25
+http://192.168.18.170:6878/ace/getstream?id=58a4c880ab18486d914751db32a12760e74b75a4&pid=27
 #EXTINF:-1 tvg-id="20:30-Euroliga Liga Regular-Virtus Bologna-Dubai Basketball" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:30-Euroliga Liga Regular-Virtus Bologna-Dubai Basketball
-http://192.168.18.170:6878/ace/getstream?id=3f97bafa133b10cfe5c62311e11501326d886a53&pid=26
+http://192.168.18.170:6878/ace/getstream?id=3f97bafa133b10cfe5c62311e11501326d886a53&pid=28
 #EXTINF:-1 tvg-id="20:30-Euroliga Liga Regular-Virtus Bologna-Dubai Basketball" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:30-Euroliga Liga Regular-Virtus Bologna-Dubai Basketball
-http://192.168.18.170:6878/ace/getstream?id=37825883ed185365e3194a79207347f6c7bd5ba5&pid=27
+http://192.168.18.170:6878/ace/getstream?id=37825883ed185365e3194a79207347f6c7bd5ba5&pid=29
 #EXTINF:-1 tvg-id="20:30-Euroliga Liga Regular-Virtus Bologna-Dubai Basketball" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:30-Euroliga Liga Regular-Virtus Bologna-Dubai Basketball
-http://192.168.18.170:6878/ace/getstream?id=b40e1de2dcbd7c665f54877b14c830ed67b32a96&pid=28
+http://192.168.18.170:6878/ace/getstream?id=b40e1de2dcbd7c665f54877b14c830ed67b32a96&pid=30
 #EXTINF:-1 tvg-id="20:30-Euroliga Liga Regular-Virtus Bologna-Dubai Basketball" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:30-Euroliga Liga Regular-Virtus Bologna-Dubai Basketball
-http://192.168.18.170:6878/ace/getstream?id=8b5f9d967384afab226dd759e6e9dfaee9993869&pid=29
+http://192.168.18.170:6878/ace/getstream?id=8b5f9d967384afab226dd759e6e9dfaee9993869&pid=31
 #EXTINF:-1 tvg-id="21:00-Primera-Real Oviedo-Mallorca" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera-Real Oviedo-Mallorca
-http://192.168.18.170:6878/ace/getstream?id=d4ff041287a43e3114d411d671c4b4e92e21f33y&pid=30
+http://192.168.18.170:6878/ace/getstream?id=d4ff041287a43e3114d411d671c4b4e92e21f33y&pid=32
 #EXTINF:-1 tvg-id="21:00-Primera-Real Oviedo-Mallorca" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera-Real Oviedo-Mallorca
-http://192.168.18.170:6878/ace/getstream?id=107c3ce5a5d2527c9f06e4eab87477201791f231&pid=31
+http://192.168.18.170:6878/ace/getstream?id=107c3ce5a5d2527c9f06e4eab87477201791f231&pid=33
 #EXTINF:-1 tvg-id="21:00-Primera-Real Oviedo-Mallorca" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera-Real Oviedo-Mallorca
-http://192.168.18.170:6878/ace/getstream?id=8c30b600cc48899991b452805df48b68d998e61c&pid=32
+http://192.168.18.170:6878/ace/getstream?id=8c30b600cc48899991b452805df48b68d998e61c&pid=34
 #EXTINF:-1 tvg-id="21:00-Primera-Real Oviedo-Mallorca" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera-Real Oviedo-Mallorca
-http://192.168.18.170:6878/ace/getstream?id=00c9bc9c5d7d87680a5a6bed349edfa775a89947&pid=33
+http://192.168.18.170:6878/ace/getstream?id=00c9bc9c5d7d87680a5a6bed349edfa775a89947&pid=35
 #EXTINF:-1 tvg-id="21:00-Primera-Real Oviedo-Mallorca" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera-Real Oviedo-Mallorca
-http://192.168.18.170:6878/ace/getstream?id=c9321006921967d6258df6945f1d598a5c0cbf1e&pid=34
+http://192.168.18.170:6878/ace/getstream?id=c9321006921967d6258df6945f1d598a5c0cbf1e&pid=36
 #EXTINF:-1 tvg-id="21:00-Primera-Real Oviedo-Mallorca" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera-Real Oviedo-Mallorca
-http://192.168.18.170:6878/ace/getstream?id=4b528d10eaad747ddf52251206177573ee3e9f74&pid=35
+http://192.168.18.170:6878/ace/getstream?id=4b528d10eaad747ddf52251206177573ee3e9f74&pid=37
 #EXTINF:-1 tvg-id="21:00-Primera-Real Oviedo-Mallorca" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera-Real Oviedo-Mallorca
-http://192.168.18.170:6878/ace/getstream?id=14b6cd8769cd485f2cffdca64be9698d9bfeac58&pid=36
+http://192.168.18.170:6878/ace/getstream?id=14b6cd8769cd485f2cffdca64be9698d9bfeac58&pid=38
 #EXTINF:-1 tvg-id="21:00-Primera-Real Oviedo-Mallorca" tvg-logo="http://imgfz.com/i/3l6RYXe.png" group-title="EVENTOS",21:00-Primera-Real Oviedo-Mallorca
-http://192.168.18.170:6878/ace/getstream?id=31c19ffb3472c289c5bbbbc174449c8ed0d19e38&pid=37
+http://192.168.18.170:6878/ace/getstream?id=31c19ffb3472c289c5bbbbc174449c8ed0d19e38&pid=39
 #EXTINF:-1 tvg-id="21:00-Ultimate Tennis Showdown Fase de grupos-J. Draper-D. Goffin" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Ultimate Tennis Showdown Fase de grupos-J. Draper-D. Goffin
-http://192.168.18.170:6878/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee&pid=38
+http://192.168.18.170:6878/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee&pid=40
+#EXTINF:-1 tvg-id="21:00-Ultimate Tennis Showdown Fase de grupos-J. Draper-D. Goffin" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Ultimate Tennis Showdown Fase de grupos-J. Draper-D. Goffin
+http://192.168.18.170:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf&pid=41
 #EXTINF:-1 tvg-id="22:00-Ultimate Tennis Showdown Fase de grupos-C. Ruud-F. Cerúndolo" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",22:00-Ultimate Tennis Showdown Fase de grupos-C. Ruud-F. Cerúndolo
-http://192.168.18.170:6878/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee&pid=39
+http://192.168.18.170:6878/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee&pid=42
+#EXTINF:-1 tvg-id="22:00-Ultimate Tennis Showdown Fase de grupos-C. Ruud-F. Cerúndolo" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",22:00-Ultimate Tennis Showdown Fase de grupos-C. Ruud-F. Cerúndolo
+http://192.168.18.170:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf&pid=43
