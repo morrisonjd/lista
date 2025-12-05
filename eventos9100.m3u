@@ -5,6 +5,8 @@ http://127.0.0.1:9100/ace/getstream?id=2d997da301573c5aba78f969d0d37eb6107941b2
 http://127.0.0.1:9100/ace/getstream?id=7d910d9480e023608d1fe77eaf47c2ed34592155
 #EXTINF:-1 tvg-id="19:00-Ultimate Tennis Showdown Fase de grupos-A. Rublev-T. Machac" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",19:00-Ultimate Tennis Showdown Fase de grupos-A. Rublev-T. Machac
 http://127.0.0.1:9100/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee
+#EXTINF:-1 tvg-id="19:00-Ultimate Tennis Showdown Fase de grupos-A. Rublev-T. Machac" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",19:00-Ultimate Tennis Showdown Fase de grupos-A. Rublev-T. Machac
+http://127.0.0.1:9100/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="20:00-Euroliga Liga Regular-Crvena Zvezda MTS Belgrade-Barça Basket" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:00-Euroliga Liga Regular-Crvena Zvezda MTS Belgrade-Barça Basket
 http://127.0.0.1:9100/ace/getstream?id=73d38feaa770d788848ec098470e32670fe55a61
 #EXTINF:-1 tvg-id="20:00-Euroliga Liga Regular-Crvena Zvezda MTS Belgrade-Barça Basket" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:00-Euroliga Liga Regular-Crvena Zvezda MTS Belgrade-Barça Basket
@@ -15,6 +17,8 @@ http://127.0.0.1:9100/ace/getstream?id=bfa01c11c5c6b7a616a516de4f2c769a89d26b25
 http://127.0.0.1:9100/ace/getstream?id=3afe1af18f8ff78e9946856911b00c67477052b5
 #EXTINF:-1 tvg-id="20:00-Ultimate Tennis Showdown Fase de grupos-A. De Miñaur-A. Mannarino" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:00-Ultimate Tennis Showdown Fase de grupos-A. De Miñaur-A. Mannarino
 http://127.0.0.1:9100/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee
+#EXTINF:-1 tvg-id="20:00-Ultimate Tennis Showdown Fase de grupos-A. De Miñaur-A. Mannarino" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",20:00-Ultimate Tennis Showdown Fase de grupos-A. De Miñaur-A. Mannarino
+http://127.0.0.1:9100/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="20:15-Euroliga Liga Regular-Panathinaikos BC-Valencia Basket" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:15-Euroliga Liga Regular-Panathinaikos BC-Valencia Basket
 http://127.0.0.1:9100/ace/getstream?id=ef9dcc4eaac36a0f608b52a31f8ab237859e071a
 #EXTINF:-1 tvg-id="20:15-Euroliga Liga Regular-Panathinaikos BC-Valencia Basket" tvg-logo="http://imgfz.com/i/UQE7IAp.png" group-title="EVENTOS",20:15-Euroliga Liga Regular-Panathinaikos BC-Valencia Basket
@@ -75,5 +79,9 @@ http://127.0.0.1:9100/ace/getstream?id=14b6cd8769cd485f2cffdca64be9698d9bfeac58
 http://127.0.0.1:9100/ace/getstream?id=31c19ffb3472c289c5bbbbc174449c8ed0d19e38
 #EXTINF:-1 tvg-id="21:00-Ultimate Tennis Showdown Fase de grupos-J. Draper-D. Goffin" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Ultimate Tennis Showdown Fase de grupos-J. Draper-D. Goffin
 http://127.0.0.1:9100/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee
+#EXTINF:-1 tvg-id="21:00-Ultimate Tennis Showdown Fase de grupos-J. Draper-D. Goffin" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",21:00-Ultimate Tennis Showdown Fase de grupos-J. Draper-D. Goffin
+http://127.0.0.1:9100/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="22:00-Ultimate Tennis Showdown Fase de grupos-C. Ruud-F. Cerúndolo" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",22:00-Ultimate Tennis Showdown Fase de grupos-C. Ruud-F. Cerúndolo
 http://127.0.0.1:9100/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee
+#EXTINF:-1 tvg-id="22:00-Ultimate Tennis Showdown Fase de grupos-C. Ruud-F. Cerúndolo" tvg-logo="http://imgfz.com/i/MbYnJwo.png" group-title="EVENTOS",22:00-Ultimate Tennis Showdown Fase de grupos-C. Ruud-F. Cerúndolo
+http://127.0.0.1:9100/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
